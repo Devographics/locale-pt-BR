@@ -1,0 +1,52 @@
+locale: pt-BR
+translations:
+  ###########################################################################
+  # Homepage
+  ###########################################################################
+
+  - key: homepage.hand_coded
+    t: Codificado por pessoas no Japão.
+  - key: homepage.leave_issue
+    t: Deixe uma issue
+  - key: homepage.get_in_touch
+    t: Entre em contato
+
+  - key: homepage.made_by
+    t: 'O State of CSS é feito por:'
+
+  - key: homepage.previous_years
+    t: 'Anos Anteriores:'
+
+  - key: homepage.intro
+    t: >
+      ## CSS está evoluindo mais rápido do que nunca.
+
+      Flexbox, grid, multi-coluna...além dos novos paradigmas como CSS-in-JS.
+
+      Então, depois do sucesso da nossa pesquisa anual [State Of JavaScript](https://stateofjs.com), nós decidimos dominar
+      o mundo dos estilos e seletores para ajudar a identificar as últimas tendências... e tentar superar
+      a crescente "Grande Divisão Front-End"!
+
+  - key: homepage.take_survey
+    t: Responder à pesquisa
+
+  - key: homepage.view_results
+    t: Ver resultados de 2019
+
+  - key: share.help_spread
+    t: Ajude a espalhar a palavra!
+
+  - key: newsletter.stay_tuned
+    t: Fique ligado
+  - key: newsletter.leave_your_email
+    t: Deixe-nos seu e-mail e informaremos quando a próxima pesquisa ocorrer.
+
+  - key: author.sacha.bio
+    t: >
+      Criador da [Nivo](http://nivo.rocks/), biblioteca JavaScript de visualização de dados e também da
+      [Mozaik](http://mozaik.rocks/), uma ferramenta para construir painéis bonitos.
+
+  - key: author.raphael.bio
+    t: >
+      Criador da newsletter diária [Sidebar](http://sidebar.io) e o
+      [VulcanJS] (http://vulcanjs.org), um framework React+GraphQL de código aberto.
