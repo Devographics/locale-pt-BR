@@ -1,0 +1,79 @@
+locale: pt-BR
+translations:
+  - key: accounts.error_incorrect_password
+    t: Senha incorreta
+  - key: accounts.error_email_required
+    t: E-mail necessário
+  - key: accounts.error_email_already_exists
+    t: E-mail já existente
+  - key: accounts.error_invalid_email
+    t: E-mail inválido
+  - key: accounts.error_minchar
+    t: Sua senha é muito curta
+  - key: accounts.error_unknown
+    t: Erro desconhecido
+  - key: accounts.error_user_not_found
+    t: Usuário não encontrado
+  - key: accounts.error_username_already_exists
+    t: Nome de usuário existente
+  - key: accounts.enter_username_or_email
+    t: Insira o nome de usuário ou o e-mail
+  - key: accounts.error_internal_server_error
+    t: Erro do servidor interno
+  - key: accounts.error_token_expired
+    t: Token de redefinição de senha inválido
+  - key: accounts.username_or_email
+    t: Nome de usuário ou e-mail
+  - key: accounts.enter_username
+    t: Insira o nome de usuário
+  - key: accounts.username
+    t: Nome de usuário
+  - key: accounts.enter_email
+    t: Insira o e-mail
+  - key: accounts.email
+    t: E-mail
+  - key: accounts.enter_password
+    t: Insira a senha
+  - key: accounts.password
+    t: Senha
+  - key: accounts.choose_password
+    t: Escolha uma senha
+  - key: accounts.change_password
+    t: Alterar a senha
+  - key: accounts.reset_your_password
+    t: Redefinir senha
+  - key: accounts.set_password
+    t: Configurar senha
+  - key: accounts.enter_new_password
+    t: Insira a nova senha
+  - key: accounts.new_password
+    t: Nova Senha
+  - key: accounts.forgot_password
+    t: Esqueci a senha
+  - key: accounts.sign_up
+    t: Inscreva-se
+  - key: accounts.sign_in
+    t: Conectar-se
+  - key: accounts.switch_to_sign_up
+    t: Não tem uma conta? Inscreva-se
+  - key: accounts.switch_to_sign_in
+    t: Já tem uma conta? Conecte-se
+  - key: accounts.sign_out
+    t: Sair
+  - key: accounts.cancel
+    t: Cancelar
+  - key: accounts.info_email_sent
+    t: E-mail enviado.
+  - key: accounts.info_password_changed
+    t: Senha alterada.
+  - key: accounts.please_pick_password
+    t: Por favor, escolha uma nova senha para continuar.
+  - key: accounts.please_log_in
+    t: Por favor, faça o login ou inscreva-se para começar.
+  - key: accounts.logged_in_as
+    t: Logado como {email}
+  - key: accounts.questions
+    t: >
+      Se você tiver alguma dúvida sobre como usamos seus dados,
+      ou gostaria de remover seus dados de nossos registros,
+      por favor <a href="mailto:hello@stateofjs.com"> entre em contato</a>.
