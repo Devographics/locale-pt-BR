@@ -1,0 +1,16 @@
+locale: pt-BR
+namespace: js
+translations:
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  - key: general.survey_intro_js2020
+    t: >
+      2020 tem sido um ano difícil para todos, que faz parecer ser muito fútil se preocupar com os
+      mais recentes frameworks de JavaScript.
+
+
+      Ainda assim, o mundo tem que seguir em frente e o JavaSript também. E mais uma vez, com sua ajuda,
+      vamos tentar construir uma imagem abrangente do ecossistema para descobrir um pouco mais
+      sobre onde ele está indo.
