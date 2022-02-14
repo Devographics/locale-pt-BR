@@ -1,0 +1,73 @@
+locale: pt-BR
+translations:
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  - key: general.no_preview_surveys
+    t: Não há pesquisas para visualizar
+  - key: general.global_nav
+    t: Global
+
+  ###########################################################################
+  # FAQ
+  ###########################################################################
+
+  - key: general.faq
+    t: FAQ
+  - key: faq.create_account
+    t: Por que preciso criar uma conta?
+  - key: faq.create_account.description
+    t: Pedimos que você crie uma conta para evitar respostas duplicadas, salve seus dados e notifique quando os resultados forem publicados.
+  - key: faq.anonymous_survey
+    t: Posso responder a pesquisa anonimamente?
+  - key: faq.anonymous_survey.description
+    t: Sim, você pode usar um e-mail falso (algo@example.com) ou um e-mail sem identificador para responder a pesquisa contanto que você salve-o para acesso futuro.
+  - key: faq.questions_required
+    t: É necessário responder todas as perguntas?
+  - key: faq.questions_required.description
+    t: Não, toda pergunta da pesquisa é opcional e pode ser ignorada livremente.
+  - key: faq.data_published
+    t: Meus dados serão públicos?
+  - key: faq.data_published.description
+    t: Sim, todos os dados serão divulgados publicamente, mas somente após serem expurgados de qualquer informação de identificação (e-mails, nomes de usuários, identificadores, etc).
+  - key: faq.survey_design
+    t: Como as pesquisas são projetadas?
+  - key: faq.survey_design.description
+    t: Pesquisas são projetadas com base no feedback da comunidade, bem como revisadas por especialistas. Você pode [aprender mais aqui](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).
+  - key: faq.results_released
+    t: Quando os resultados serão divulgados?
+  - key: faq.results_released.description
+    t: Os resultados são geralmente divulgados algumas semanas após a pesquisa.
+  - key: faq.survey_deadline
+    t: Quando a pesquisa vai terminar?
+  - key: faq.survey_deadline.description
+    t: Esta pesquisa está programada para ser realizada até {date}
+  - key: faq.team
+    t: Quem realiza essas pesquisas?
+  - key: faq.team.description
+    t: Pesquisas são realizadas principalmente por [mim](http://sachagreif.com) em colaboração com contribuintes, tradutores e voluntários.
+
+  ###########################################################################
+  # Form Controls
+  ###########################################################################
+
+  - key: bracket.vs
+    t: VS
+  - key: bracket.start_over
+    t: Recomeçar
+  - key: bracket.winner
+    t: >
+    Ganhador:
+  - key: bracket.round
+    t: Rodada
+  - key: bracket.empty_bracket
+    t: Resultado pendente (complete a rodada anterior primeiro)
+  - key: bracket.result
+    t: Resultado
+  - key: bracket.cancel
+    t: Cancelar
+
+  ###########################################################################
+  # Demographics (About You/User Info)
+  ###########################################################################
