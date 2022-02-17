@@ -1,4 +1,4 @@
-locale: en-US
+locale: pt-BR
 translations:
     ###########################################################################
     # General
@@ -26,8 +26,8 @@ translations:
           You are currently viewing this survey in read-only mode.
     - key: general.survey_preview
       t: >
-          This survey is in preview mode. Its questions are subject to change, and all 
-          inputted data will be deleted when the actual survey starts. 
+          This survey is in preview mode. Its questions are subject to change, and all
+          inputted data will be deleted when the actual survey starts.
 
     - key: general.survey_read_only_back
       t: >
@@ -178,16 +178,16 @@ translations:
     - key: notfound.title
       t: 404 Not Found
     - key: notfound.description
-      t: Sorry, we couldn't find what you were looking for. 
+      t: Sorry, we couldn't find what you were looking for.
 
     # other
     - key: general.join_discord
-      t: Join us on <a href="{link}">Discord</a>. 
+      t: Join us on <a href="{link}">Discord</a>.
     - key: general.translator_mode
-      t: Press option/alt to enable translator mode. 
+      t: Press option/alt to enable translator mode.
     - key: general.charts_nivo
       t: Charts built with <a href="{link}">Nivo</a>.
-      
+
     ###########################################################################
     # Nav
     ###########################################################################
@@ -878,7 +878,7 @@ translations:
     - key: user_info.yearly_salary
       t: Yearly Salary
     - key: user_info.yearly_salary.description
-      t: Your yearly salary in U.S. dollar. 
+      t: Your yearly salary in U.S. dollar.
 
     # job title
     - key: user_info.job_title
@@ -912,10 +912,10 @@ translations:
         Which of the following options describes you, if any? Please pick one.
     - key: user_info.gender.note
       t: >
-        While we know collecting and publishing diversity data can be a sensitive issue, 
-        we do think it's important to obtain this data to help measure and improve 
-        the survey's efforts in terms of inclusivity and representativeness. 
-        
+        While we know collecting and publishing diversity data can be a sensitive issue,
+        we do think it's important to obtain this data to help measure and improve
+        the survey's efforts in terms of inclusivity and representativeness.
+
     # race & ethnicity
     - key: user_info.race_ethnicity
       t: Race & Ethnicity
@@ -924,17 +924,17 @@ translations:
         Which of the following options describe you, if any? Please check all that apply.
     - key: user_info.race_ethnicity.note
       t: >
-        While we know collecting and publishing diversity data can be a sensitive issue, 
-        we do think it's important to obtain this data to help measure and improve 
-        the survey's efforts in terms of inclusivity and representativeness. 
-        
+        While we know collecting and publishing diversity data can be a sensitive issue,
+        we do think it's important to obtain this data to help measure and improve
+        the survey's efforts in terms of inclusivity and representativeness.
+
     # disability status
     - key: user_info.disability_status
       t: Disability Status
     - key: user_info.disability_status.description
       t: >
         Which of the following disabilities do you experience, if any? Please check all that apply.
-        Note that this can include temporary disabilities or injuries. 
+        Note that this can include temporary disabilities or injuries.
 
     # disability status (other)
     - key: user_info.disability_status.others
@@ -955,15 +955,15 @@ translations:
     - key: user_info.github_username.description
       t: >
         We might use GitHub usernames in the future to look at
-        repos and cross-reference publicly available information. 
-      
+        repos and cross-reference publicly available information.
+
     - key: user_info.twitter_username
       t: Your Twitter Username
     - key: user_info.twitter_username.description
       t: >
         We might use Twitter usernames in the future to look at
         Twitter activity and cross-reference publicly available information
-         (such as the list of people you're following). 
+         (such as the list of people you're following).
 
     - key: user_info.industry_sector
       t: Industry Sector
@@ -1060,7 +1060,7 @@ translations:
       t: Other First Learning Methods
     - key: resources.first_steps.others.description
       t: Other answers (freeform field).
-    
+
     # blogs & magazines
     - key: resources.blogs_news_magazines
       t: Blogs & Magazines
@@ -1104,5 +1104,5 @@ translations:
       t: People
     - key: resources.people.others.description
       t: >
-        People you read, follow, or just want to highlight for their work 
+        People you read, follow, or just want to highlight for their work
         (freeform field, comma-separated names).
