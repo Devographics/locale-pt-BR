@@ -9,7 +9,7 @@ translations:
       t: Por que eu preciso criar uma conta?
     - key: general.create_account_reasons
       t: >
-          Nos pedimos para você criar uma conta para:
+          Nós pedimos para você criar uma conta para:
 
           - Evitar respostas duplicadas
 
