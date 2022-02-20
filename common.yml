@@ -1053,7 +1053,7 @@ translations:
 
     # learning method
     - key: resources.first_steps
-      t: Métodos para iniciar a aprender
+      t: Primeiros métodos de aprendizagem
     - key: resources.first_steps.description
       t: Como você começou a aprender programação?
     - key: resources.first_steps.others
