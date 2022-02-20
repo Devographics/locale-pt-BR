@@ -1065,7 +1065,7 @@ translations:
     - key: resources.blogs_news_magazines
       t: Blogs e revistas
     - key: resources.blogs_news_magazines.description
-      t: Qual blogs/revistas/etc. você lê?
+      t: Quais blogs/revistas/etc. você lê?
     - key: resources.blogs_news_magazines.others
       t: Other blogs e revistas
     - key: resources.blogs_news_magazines.others.description
