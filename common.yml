@@ -201,32 +201,32 @@ translations:
     ###########################################################################
 
     - key: sections.user_info.title
-      t: About You
+      t: Sobre você
     - key: sections.user_info.description
-      t: Let's get to know the real you.
+      t: Vamos conhecer o ser verdadeiro "eu".
 
     - key: sections.features.title
-      t: Features
+      t: Funcionalidades
     - key: sections.features.description
-      t: Syntax, keywords, and other language features.
+      t: Sintaxe, palavras-chave e outras funcionalidades da linguagem.
 
     - key: sections.resources.title
-      t: Resources
+      t: Recursos
     - key: sections.resources.description
-      t: What {topic} resources do you consult?
+      t: Quais recursos {topic} você consulta?
 
     - key: sections.opinions.title
-      t: Opinions
+      t: Opiniões
     - key: sections.opinions.description
-      t: How do you feel about the state of {topic}?
+      t: Como você se sente sobre o estato do {topic}?
 
     - key: sections.other_tools.title
-      t: Other Tools
+      t: Outras ferramentas
     - key: sections.other_tools.description
-      t: For these tools & technologies, just check the ones that you use regularly.
+      t: Para essas ferramentas e tecnologias, apenas verifique as que você usa regularmente.
 
     - key: sections.report.title
-      t: Trend Report
+      t: Relatório de tendências
 
     ###########################################################################
     # Options
