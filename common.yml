@@ -1097,7 +1097,7 @@ translations:
     - key: resources.people.description
       t: Pessoas que você lê, segue ou apenas quer destacar.
     # - key: resources.people.others
-    #   t: Outras Pessoas
+    #   t: Outras pessoas
     # - key: resources.people.others.description
     #   t: Outras respostas (campo de texto livre).
     - key: resources.people.others
