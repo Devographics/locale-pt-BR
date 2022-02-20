@@ -6,187 +6,186 @@ translations:
 
     # homepage
     - key: general.why_create_account
-      t: Why do I need to create an account?
+      t: Por que eu preciso criar uma conta?
     - key: general.create_account_reasons
       t: >
-          We ask you to create an account in order to:
+          Nós pedimos para você criar uma conta para:
 
-          - Avoid duplicate responses
+          - Evite respostas duplicadas
 
-          - Give you access to your data
+          - Te dá acesso aos seus dados
 
-          - Save your session as you go
+          - Salvar sua sessão a medida que avança
 
-          - Notify you when results are live
+          - Notificar quando os resultados sairem
     - key: general.survey_closed
       t: >
-          Sorry, the survey is now closed! You can still review your data but you won't be able to modify it.
+          Desculpe, a pesquisa está encerrada! Você ainda pode revisar seus dados, mas não poderá modificá-los.
     - key: general.survey_read_only
       t: >
-          You are currently viewing this survey in read-only mode.
+          Você está visualizando esta pesquisa no modo somente leitura.
     - key: general.survey_preview
       t: >
-          This survey is in preview mode. Its questions are subject to change, and all
-          inputted data will be deleted when the actual survey starts.
+          Esta pesquisa está no modo de visualização. As perguntas estão sujeitas a alterações e todos os dados inseridos serão excluídos quando a pesquisa real começar.
 
     - key: general.survey_read_only_back
       t: >
-          <a href="{link}">Go back</a> to the main survey page to start or resume a session.
+          <a href="{link}">Voltar</a> para a página principal da pesquisa para iniciar ou retomar uma sessão.
     - key: general.take_survey
-      t: Take the {name} survey
+      t: Faça a pesquisa {name}
 
     # surveys
     - key: general.open_surveys
-      t: Open Surveys
+      t: Abrir Pesquisas
     - key: general.no_open_surveys
-      t: No surveys are currently open.
+      t: Nenhuma pesquisa está aberta no momento.
     - key: general.closed_surveys
-      t: Closed Surveys
+      t: Pesquisas encerradas
     - key: general.no_closed_surveys
-      t: No surveys are currently closed.
+      t: Nenhuma pesquisa está fechada no momento.
     - key: general.preview_surveys
-      t: Preview Surveys
+      t: Visualizar pesquisas
     - key: general.no_preview_surveys
-      t: No surveys available to preview.
+      t: Nenhuma pesquisa disponível para visualização.
     - key: general.start_survey
-      t: Start Survey »
+      t: Iniciar pesquisa »
     - key: general.continue_survey
-      t: Continue Survey »
+      t: Continuar pesquisa »
     - key: general.review_survey
-      t: Review Survey »
+      t: Revisar pesquisa »
     - key: general.preview_survey
-      t: Preview Survey »
+      t: Visualizar pesquisa »
     - key: general.finish_survey
-      t: Finish Survey »
+      t: Finalizar pesquisa »
     - key: general.next_section
-      t: Next section
+      t: Próxima seção
     - key: general.prev_section
-      t: Previous section
+      t: Seção anterior
     - key: general.survey_closed
-      t: This survey is now closed.
+      t: Esta pesquisa está encerrada.
     - key: general.survey_results
-      t: View Survey Results »
+      t: Ver resultados da pesquisa »
     - key: general.surveys_available_languages
-      t: 'Surveys available in:'
+      t: 'Pesquisas disponíveis em:'
     - key: general.help_us_translate
-      t: Help us translate the surveys »
+      t: Ajude-nos a traduzir as pesquisas »
     - key: general.translators
-      t: Translators
+      t: Tradutores
     - key: general.translation_help
-      t: Translation Help
+      t: Ajudar na tradução
     - key: general.newly_added
-      t: Newly added this year
+      t: Adicionado recentemente este ano
     - key: general.new
-      t: New
+      t: Novo
 
     # credits
     - key: credits.thanks
-      t: Special Thanks
+      t: Agradecimeto especial
     - key: credits.accessibility
-      t: Accessibility Consulting
+      t: Consultor de acessibilidade
     - key: credits.survey_design
-      t: Survey Design
+      t: Design de pesquisa
     - key: credits.logo_design
-      t: Logo Design
+      t: Design de logo
     - key: credits.mobile_testing
-      t: Mobile Testing
+      t: Testes para dispositivos móveis
     - key: credits.data_visualizations
-      t: Data Visualizations
+      t: Visualização de dados
     - key: credits.repo_architecture
-      t: Repo Architecture
+      t: Arquiteture de repositório
     - key: credits.code_refactoring
-      t: Code Refactoring
+      t: Refatoração de código
     - key: credits.data_processing
-      t: Data Processing
+      t: Processamento de dados
 
     # support
     - key: general.support_from
-      t: With Support From
+      t: Com apoio de
 
     # footer
     - key: general.privacy_policy
-      t: Privacy Policy
+      t: Politica de privacidade
     - key: general.leave_issue
-      t: Questions? Found a bug? <a href="{link}" target="_blank">Leave an issue</a>.
+      t: Perguntas? Encontrou um bug? <a href="{link}" target="_blank">Nos deixe um issue</a>.
     - key: general.emoji_icons
-      t: Emoji icons by <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
+      t: Emoji icons por <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
 
     # navigation
     - key: general.table_of_contents
-      t: Table of Contents
+      t: Tabela de conteúdos
     - key: general.all_questions_optional
       t: >
-          Note: all questions are optional, reaching 100% completion is not required.
+          Nota: todas as questões são opcionais, não é necessário atingir 100% de preenchimento.
     - key: general.data_is_saved
-      t: Your data is saved whenever you navigate to the previous or next section.
+      t: Seus dados são salvos sempre que você navega para a seção anterior ou seguinte
     - key: general.close_nav
-      t: Close menu
+      t: Fechar menu
     - key: general.open_nav
-      t: Open menu
+      t: Abrir menu
     - key: general.more_actions
-      t: More actions
+      t: Mais ações
     - key: general.skip_to_content
-      t: Skip to content
+      t: Ir para o conteúdo
 
     # thanks
     - key: general.back
-      t: Back
+      t: Voltar
     - key: general.thanks
       t: >
-          Thanks for filling out the survey!
+          Obrigado por preencher a pesquisa!
 
-          Your data is saved. You can review or modify it until the survey closes.
+          Seus dados estão salvos. Você pode revisá-lo ou modificá-lo até que a pesquisa seja encerrada.
 
-          Also, you can help us get the word out by sharing this survey. Every bit counts, and it'll help make our data even
-          more representative:
+          Além disso, você pode nos ajudar a divulgar compartilhando esta pesquisa. Cada bit conta, e isso ajudará a tornar nossos dados ainda mais
+          representativo:
     - key: thanks.learn_more_about
-      t: 'Some of the features you might want to learn more about:'
+      t: 'Alguns dos recursos sobre os quais você pode querer saber mais:'
     - key: thanks.knowledge_score
-      t: Knowledge Score
+      t: Placar do conhecimento
     - key: thanks.score_explanation
       t: >
-          You’ve heard or used <span class="score-number score-number-known">{known}</span> out of
-          <span class="score-number score-number-total">{total}</span> features mentioned in the survey, which
-          puts you in the top <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
-          of all respondents.
+          Você já ouviu ou usou <span class="score-number score-number-known">{known}</span> dos
+          <span class="score-number score-number-total">{total}</span> recursos mencionados na pesquisa, o que
+          te coloca entre os <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
+          entrevistados mais completos.
     - key: thanks.share_on_twitter
-      t: Share on Twitter
+      t: Compartilhe no Twitter
     - key: thanks.share_score_message
       t: >
-          I got a {score}% knowledge score on this year's #{hashtag} survey! Take the survey here: {shareUrl}
+          Consegui uma pontuação de conhecimento de {score}% na pesquisa #{hashtag} deste ano! Faça a pesquisa aqui: {shareUrl}
     # share
     - key: general.share_subject
       t: >
-          {surveyName} survey
+          {surveyName} pesquisa
     - key: general.share_text
       t: >
-          This year's {surveyName} survey is now open! {link}
+          A pesquisa {surveyName} desse ano está aberta! {link}
 
     # forms
     - key: forms.select_option
-      t: Select option
+      t: Selecione a opção
     - key: forms.clear_field
-      t: Clear question
+      t: Limpar questão
 
     # partners
     - key: partners.our_partners
-      t: Our Partners
+      t: Nossos parceiros
     - key: partners.become_partner
-      t: Become a partner
+      t: Se torne um parceiro
 
     # 404
     - key: notfound.title
-      t: 404 Not Found
+      t: 404 Não encontrado
     - key: notfound.description
-      t: Sorry, we couldn't find what you were looking for.
+      t: Desculpe, não encontramos o que você estava procurando.
 
     # other
     - key: general.join_discord
-      t: Join us on <a href="{link}">Discord</a>.
+      t: Junte se a nós no <a href="{link}">Discord</a>.
     - key: general.translator_mode
-      t: Press option/alt to enable translator mode.
+      t: Pressione option/alt para habilitar o modo tradutor.
     - key: general.charts_nivo
-      t: Charts built with <a href="{link}">Nivo</a>.
+      t: Gráficos construídos com <a href="{link}">Nivo</a>.
 
     ###########################################################################
     # Nav
