@@ -1053,56 +1053,56 @@ translations:
 
     # learning method
     - key: resources.first_steps
-      t: First Learning Methods
+      t: Primeiros métodos de aprendizagem
     - key: resources.first_steps.description
-      t: When first starting out, how did you initially learn coding?
+      t: Como você começou a aprender programação?
     - key: resources.first_steps.others
-      t: Other First Learning Methods
+      t: Outros métodos para começar a aprender
     - key: resources.first_steps.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     # blogs & magazines
     - key: resources.blogs_news_magazines
-      t: Blogs & Magazines
+      t: Blogs e revistas
     - key: resources.blogs_news_magazines.description
-      t: Which blogs/magazines/etc. do you read?
+      t: Quais blogs/revistas/etc. você lê?
     - key: resources.blogs_news_magazines.others
-      t: Other Blogs & Magazines
+      t: Other blogs e revistas
     - key: resources.blogs_news_magazines.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     # sites & courses
     - key: resources.sites_courses
-      t: Sites & Courses
+      t: Sites e cursos
     - key: resources.sites_courses.description
-      t: Which sites/courses/etc. do you consult?
+      t: Quais sites/cursos/etc. você consulta?
     - key: resources.sites_courses.others
-      t: Other Sites & Courses
+      t: Outros sites e cursos
     - key: resources.sites_courses.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     # podcasts
     - key: resources.podcasts
       t: Podcasts
     - key: resources.podcasts.description
-      t: Which programming-related podcasts do you listen to?
+      t: Qual podcast relacionado a programação você escuta?
     - key: resources.podcasts.others
-      t: Other Podcasts
+      t: Outros podcasts
     - key: resources.podcasts.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     # people
     - key: resources.people
-      t: People
+      t: Pessoas
     - key: resources.people.description
-      t: People you read, follow, or just want to highlight.
+      t: Pessoas que você lê, segue ou apenas quer destacar.
     # - key: resources.people.others
-    #   t: Other People
+    #   t: Outras pessoas
     # - key: resources.people.others.description
-    #   t: Other answers (freeform field).
+    #   t: Outras respostas (campo de texto livre).
     - key: resources.people.others
-      t: People
+      t: Pessoas
     - key: resources.people.others.description
       t: >
-        People you read, follow, or just want to highlight for their work
-        (freeform field, comma-separated names).
+        Pessoas que você lê, segue ou apenas quer destacar por seu trabalho
+        (campo de texto livre, nomes separados por virgula).
