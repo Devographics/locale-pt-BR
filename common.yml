@@ -1013,7 +1013,7 @@ translations:
     - key: tools_others.browsers
       t: Navegadores
     - key: tools_others.browsers.description
-      t: Qual (is) navegador (es) você usa principalmente durante o desenvolvimento inicial?
+      t: Qual(is) navegador(es) você usa principalmente durante o desenvolvimento inicial?
     - key: tools_others.browsers.others
       t: Outros navegadores
     - key: tools_others.browsers.others.description
