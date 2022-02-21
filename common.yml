@@ -1040,7 +1040,7 @@ translations:
     - key: tools_others.javascript_flavors
       t: Sabores de JavaScript
     - key: tools_others.javascript_flavors.description
-      t: Languages that compile to JavaScript
+      t: Linguagens que compilam para JavaScript
     - key: tools_others.javascript_flavors.others
       t: Outros sabores de JavaScript
     - key: tools_others.javascript_flavors.others.description
