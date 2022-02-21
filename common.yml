@@ -1008,7 +1008,7 @@ translations:
     - key: tools_others.utilities.others
       t: Outros utilitários
     - key: tools_others.utilities.others.description
-      t: Outros serviços de utilidade pública (campo de texto livre).
+      t: Outros utilitários (campo de texto livre).
 
     - key: tools_others.browsers
       t: Navegadores
