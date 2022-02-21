@@ -995,7 +995,7 @@ translations:
     - key: tools_others.text_editors
       t: Editores de texto.
     - key: tools_others.text_editors.description
-      t: Quais editor (es) de texto você usa regularmente?
+      t: Quais editor(es) de texto você usa regularmente?
     - key: tools_others.text_editors.others
       t: Outros editores de texto.
     - key: tools_others.text_editors.others.description
