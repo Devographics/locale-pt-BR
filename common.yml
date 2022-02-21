@@ -1006,7 +1006,7 @@ translations:
     - key: tools_others.utilities.description
       t: Quais utilitários ou ferramentas você usa regularmente?
     - key: tools_others.utilities.others
-      t: Outros serviços de utilidade pública
+      t: Outros utilitários
     - key: tools_others.utilities.others.description
       t: Outros serviços de utilidade pública (campo de texto livre).
 
