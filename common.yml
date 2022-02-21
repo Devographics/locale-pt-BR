@@ -984,67 +984,67 @@ translations:
     ###########################################################################
 
     - key: tools_others.libraries
-      t: Libraries
+      t: Bibliotecas
     - key: tools_others.libraries.description
-      t: Which libraries do you regularly use?
+      t: Quais bibliotecas você usa regularmente?
     - key: tools_others.libraries.others
-      t: Other Libraries
+      t: Outras bibliotecas
     - key: tools_others.libraries.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     - key: tools_others.text_editors
-      t: Text Editors
+      t: Editores de texto.
     - key: tools_others.text_editors.description
-      t: Which text editor(s) do you regularly use?
+      t: Quais editor(es) de texto você usa regularmente?
     - key: tools_others.text_editors.others
-      t: Other Text Editors
+      t: Outros editores de texto.
     - key: tools_others.text_editors.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     - key: tools_others.utilities
-      t: Utilities
+      t: Utilitários
     - key: tools_others.utilities.description
-      t: Which utilities or tools do you regularly use?
+      t: Quais utilitários ou ferramentas você usa regularmente?
     - key: tools_others.utilities.others
-      t: Other Utilities
+      t: Outros utilitários
     - key: tools_others.utilities.others.description
-      t: Other utilities (freeform field).
+      t: Outros utilitários (campo de texto livre).
 
     - key: tools_others.browsers
-      t: Browsers
+      t: Navegadores
     - key: tools_others.browsers.description
-      t: Which browser(s) do you primarily work in during initial development?
+      t: Qual(is) navegador(es) você usa principalmente durante o desenvolvimento inicial?
     - key: tools_others.browsers.others
-      t: Other Browsers
+      t: Outros navegadores
     - key: tools_others.browsers.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     - key: tools_others.build_tools
-      t: Build Tools
+      t: Ferramentas de build
     - key: tools_others.build_tools.description
-      t: Which build tools do you use?
+      t: Quais ferramentas de build você usa?
     - key: tools_others.build_tools.others
-      t: Other Build Tools
+      t: Outras ferramentas de build
     - key: tools_others.build_tools.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     - key: tools_others.non_js_languages
-      t: Non-JavaScript Languages
+      t: Linguagens de programação diferentes de JavaScript
     - key: tools_others.non_js_languages.description
-      t: Which other programming languages do you use?
+      t: Quais outras linguagens de programação você usa?
     - key: tools_others.non_js_languages.others
-      t: Other Languages
+      t: Outras linguagens de programação
     - key: tools_others.non_js_languages.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     - key: tools_others.javascript_flavors
-      t: JavaScript Flavors
+      t: Sabores de JavaScript
     - key: tools_others.javascript_flavors.description
-      t: Languages that compile to JavaScript
+      t: Linguagens que compilam para JavaScript
     - key: tools_others.javascript_flavors.others
-      t: Other JavaScript Flavors
+      t: Outros sabores de JavaScript
     - key: tools_others.javascript_flavors.others.description
-      t: Other answers (freeform field).
+      t: Outras respostas (campo de texto livre).
 
     ###########################################################################
     # Resources
