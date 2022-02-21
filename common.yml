@@ -1002,7 +1002,7 @@ translations:
       t: Outras respostas (campo de texto livre).
 
     - key: tools_others.utilities
-      t: Serviços de utilidade pública
+      t: Utilitários
     - key: tools_others.utilities.description
       t: Quais serviços de utilidade pública ou ferramentas você usa regularmente?
     - key: tools_others.utilities.others
