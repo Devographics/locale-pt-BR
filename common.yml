@@ -223,7 +223,7 @@ translations:
     - key: sections.other_tools.title
       t: Outras ferramentas
     - key: sections.other_tools.description
-      t: Para essas ferramentas e tecnologias, apenas verifique as que você usa regularmente.
+      t: Para essas ferramentas e tecnologias, selecione apenas as que você usa regularmente.
 
     - key: sections.report.title
       t: Relatório de tendências
