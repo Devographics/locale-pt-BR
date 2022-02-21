@@ -1029,7 +1029,7 @@ translations:
       t: Outras respostas (campo de texto livre).
 
     - key: tools_others.non_js_languages
-      t: Linguagens de programação não baseadas em JavaScript
+      t: Linguagens de programação diferentes de JavaScript
     - key: tools_others.non_js_languages.description
       t: Quais outras linguagens de programação você usa?
     - key: tools_others.non_js_languages.others
