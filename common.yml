@@ -508,7 +508,7 @@ translations:
     - key: options.css_proficiency.0
       t: Não tenho nenhum conhecimento de CSS
     - key: options.css_proficiency.1
-      t: Uso estruturas CSS e ajustando estilos existentes
+      t: Uso frameworks CSS e aprimoro estilos existentes
     - key: options.css_proficiency.2
       t: Conheço regras de especificidade, ser capaz de criar layouts
     - key: options.css_proficiency.3
