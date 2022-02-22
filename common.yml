@@ -266,7 +266,7 @@ translations:
     - key: options.patterns.use_frequently
       t: Usar frequentemente
     - key: options.patterns.use_always
-      t: Usar o máximo que puder
+      t: Usei o máximo que pude
 
     # tools experience
     - key: options.tools.never_heard
