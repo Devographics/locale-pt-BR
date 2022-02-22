@@ -828,7 +828,7 @@ translations:
 
     # bracket
     - key: options.bracket.round1
-      t: Ganhar a 1ª rodada
+      t: Vitórias na 1ª rodada
     - key: options.bracket.round2
       t: Ganhar a 2ª rodada
     - key: options.bracket.round3
