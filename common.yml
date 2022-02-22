@@ -598,7 +598,7 @@ translations:
     # Race & Ethnicity (short)
 
     - key: options.race_ethnicity.white_european.short
-      t: Branco
+      t: Branco ou de ascendência europeia
     - key: options.race_ethnicity.south_asian.short
       t: Sul da Ásia
     - key: options.race_ethnicity.south_east_asian.short
