@@ -532,7 +532,7 @@ translations:
     - key: options.proficiency.0
       t: Nenhum
     - key: options.proficiency.1
-      t: Principiante
+      t: Iniciante
     - key: options.proficiency.2
       t: Intermediário
     - key: options.proficiency.3
