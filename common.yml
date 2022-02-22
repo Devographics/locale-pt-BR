@@ -502,7 +502,7 @@ translations:
     - key: options.javascript_proficiency.3
       t: Crio projetos front-end inteiros do zero
     - key: options.javascript_proficiency.4
-      t: Lido com de padrões avançados de front-end (gerenciamento de estado, carregamento de dados, etc.)
+      t: Lido com padrões avançados de front-end (gerenciamento de estado, carregamento de dados, etc.)
 
     # CSS proficiency
     - key: options.css_proficiency.0
