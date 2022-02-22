@@ -608,7 +608,7 @@ translations:
     - key: options.race_ethnicity.east_asian.short
       t: Ásia Oriental
     - key: options.race_ethnicity.middle_eastern.short
-      t: Médio Oriente
+      t: Oriente Médio
     - key: options.race_ethnicity.black_african.short
       t: Negro ou de ascendência africana
     - key: options.race_ethnicity.multiracial.short
