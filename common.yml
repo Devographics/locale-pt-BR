@@ -380,7 +380,7 @@ translations:
     - key: options.years_of_experience.range_less_than_1
       t: Menos de um ano
     - key: options.years_of_experience.range_1_2
-      t: 1a  2 anos
+      t: 1 a  2 anos
     - key: options.years_of_experience.range_2_5
       t: 2 a  5 anos
     - key: options.years_of_experience.range_5_10
