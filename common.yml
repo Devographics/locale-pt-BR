@@ -420,7 +420,7 @@ translations:
     - key: options.company_size.range_100_1000
       t: 100 a 1000 empregados
     - key: options.company_size.range_more_than_1000
-      t: mais de 1000 empregados
+      t: Mais de 1000 empregados
 
     # company size (short versions)
     - key: options.company_size.range_1.short
