@@ -714,7 +714,7 @@ translations:
     - key: options.industry_sector.energy
       t: Energia
     - key: options.industry_sector.telecommunications
-      t: Telecomunicação
+      t: Telecomunicações
     - key: options.industry_sector.student
       t: Estudante
     - key: options.industry_sector.hospitality
