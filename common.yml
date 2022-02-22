@@ -494,7 +494,7 @@ translations:
 
     # JavaScript proficiency
     - key: options.javascript_proficiency.0
-      t: Não sou capaz de escrever javascript
+      t: Não sou capaz de escrever JavaScript
     - key: options.javascript_proficiency.1
       t: Eu escrevo código simples em JavaScript ou jQuery
     - key: options.javascript_proficiency.2
