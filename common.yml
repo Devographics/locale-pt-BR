@@ -583,7 +583,7 @@ translations:
     - key: options.race_ethnicity.east_asian
       t: Ásia Oriental
     - key: options.race_ethnicity.middle_eastern
-      t: Médio Oriente
+      t: Oriente Médio 
     - key: options.race_ethnicity.black_african
       t: Negro ou de ascendência africana
     - key: options.race_ethnicity.multiracial
