@@ -616,7 +616,7 @@ translations:
     - key: options.race_ethnicity.biracial.short
       t: Biracial
     - key: options.race_ethnicity.native_american_islander_australian.short
-      t: Nativo Americano/Ilhas do Pacífico/Australiano Indígena
+      t: Nativo americano, ilhéu do Pacífico ou australiano indígena
     - key: options.race_ethnicity.not_listed.short
       t: Não listado
 
