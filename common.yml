@@ -830,7 +830,7 @@ translations:
     - key: options.bracket.round1
       t: Vitórias na 1ª rodada
     - key: options.bracket.round2
-      t: Ganhar a 2ª rodada
+      t: Vitórias na 2ª rodada
     - key: options.bracket.round3
       t: Ganhar a 3ª rodada
     - key: options.bracket.combined
