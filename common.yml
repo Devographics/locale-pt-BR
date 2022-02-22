@@ -510,7 +510,7 @@ translations:
     - key: options.css_proficiency.1
       t: Uso frameworks CSS e aprimoro estilos existentes
     - key: options.css_proficiency.2
-      t: Conheço regras de especificidade, ser capaz de criar layouts
+      t: Conheço regras de especificidade, sou capaz de criar layouts
     - key: options.css_proficiency.3
       t: Domino animações, interações, transições, etc.
     - key: options.css_proficiency.4
