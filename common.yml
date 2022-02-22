@@ -526,7 +526,7 @@ translations:
     - key: options.backend_proficiency.3
       t: Consigo montar um sistema back-end do zero (Go, Node.js, etc.)
     - key: options.backend_proficiency.4
-      t: Consigo lidar com arquitecturas complexas de multi-servidores ou micro-serviços
+      t: Consigo lidar com arquiteturas complexas de multi-servidores ou microsserviços
 
     # Proficiency (generic versions)
     - key: options.proficiency.0
