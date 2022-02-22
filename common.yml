@@ -720,7 +720,7 @@ translations:
     - key: options.industry_sector.hospitality
       t: Hotelaria
     - key: options.industry_sector.cyber_security
-      t: Cyber segurança
+      t: Cibersegurança
     - key: options.industry_sector.construction
       t: Construção
     - key: options.industry_sector.automotive
