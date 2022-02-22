@@ -5,56 +5,56 @@ translations:
   ###########################################################################
 
   - key: results.start
-    t: Start
+    t: Começar
 
   - key: page.previous
-    t: "Previous:"
+    t: "Anterior:"
   - key: page.next
-    t: "Next:"
+    t: "Seguinte:"
 
   - key: general.state_of_css_link
     t: State of CSS
 
   - key: general.netlify_link
-    t: Hosted by <a href="{link}">Netlify</a>.
+    t: Hospedado por <a href="{link}">Netlify</a>.
 
   - key: general.completion_percentage
-    t: "Completion percentage:"
+    t: "Porcentagem de conclusão:"
 
   - key: partners.thanks
-    t: Thanks to our partners for supporting us!
+    t: Obrigado aos nossos parceiros por nos apoiarem!
 
   - key: partners.learn_more
-    t: Learn more.
+    t: Saiba mais.
 
   - key: tabs.all_respondents
-    t: All Respondents
+    t: Todos os entrevistados
   - key: tabs.main_answers
-    t: Main Answers
+    t: Respostas principais
   - key: tabs.other_answers
-    t: Other Answers
+    t: Outras respostas
   - key: tabs.bracket_wins
-    t: Wins
+    t: Vitórias
   - key: tabs.bracket_matchups
-    t: Matchups
+    t: Confrontos
   - key: tabs.chart
-    t: Chart
+    t: Gráficos
   - key: tabs.data
-    t: Data
+    t: Dados
   - key: tabs.share
-    t: Share
+    t: Compartilhamento
   - key: tabs.debug
     t: Debug
   - key: tabs.by_country
-    t: By Country
+    t: Por País
   - key: tabs.by_experience
-    t: By Experience
+    t: Por Experiência
   - key: tabs.by_degree
-    t: By Degree
+    t: Por Formação
   - key: tabs.by_salary
-    t: By Salary
+    t: Por Salário
   - key: tabs.by_gender
-    t: By Gender
+    t: Por Gênero
 
   ###########################################################################
   # Block
@@ -133,7 +133,7 @@ translations:
   - key: options.quadrant.4.long
     t: |
       4: High usage, low satisfaction. Reassess these technologies if you're currently using them.
-      
+
   - key: ranges.selector.years_of_experience
     t: Experience
   - key: ranges.selector.yearly_salary
@@ -148,7 +148,7 @@ translations:
     t: Forums
   - key: options.first_steps.view_source
     t: View Source
-  
+
   # other disablities
   - key: options.disability_status_others.adhd
     t: ADHD
@@ -172,7 +172,7 @@ translations:
     t: Dyslexia
   - key: options.disability_status_others.diabetes
     t: Diabetes
-    
+
   ###########################################################################
   # Sections
   ###########################################################################
@@ -222,7 +222,7 @@ translations:
     t: What language did respondents select to fill out the survey?
   - key: user_info.locale.note
     t: >
-      This data is collected automatically based on respondent's settings while taking the survey; 
+      This data is collected automatically based on respondent's settings while taking the survey;
       Languages with fewer than 20 respondents not shown.
 
   - key: user_info.source
@@ -390,9 +390,9 @@ translations:
     t: Technology Usage Cardinality
   - key: blocks.all_sections_tools_cardinality_by_user.description
     t: >
-        For each section, which percentage of respondents **use** 
+        For each section, which percentage of respondents **use**
         (defined as having answered “would use again”) one, two, three, etc. technologies.
-        The bottom-most bar represents the sum of all other bars.  
+        The bottom-most bar represents the sum of all other bars.
 
   - key: blocks.cardinality.max
     t: Most common answer
@@ -407,7 +407,7 @@ translations:
   - key: blocks.tools_arrows.note
     t: |
       - Some lines skip years.
-      - Technologies with only one year of data are not shown. 
+      - Technologies with only one year of data are not shown.
       - Velocity formula = (most recent opinion - oldest opinion) + (most recent usage) - (oldest usage)
       - A positive velocity means the usage and/or positive opinions have increased over time.
 
@@ -456,7 +456,7 @@ translations:
   - key: blocks.tools_tier_list.description
     t: |
       This chart ranks libraries based on their satisfaction ratio (percentage of users
-      who would use a library again). Note that libraries used by less than 10% of survey 
+      who would use a library again). Note that libraries used by less than 10% of survey
       respondents are not included.
   - key: blocks.tools_tier_list.bounds
     t: >
@@ -883,23 +883,23 @@ translations:
 
   - key: hints.units_switcher_hint
     t: >
-      You can use the segmented control at the bottom of each block to switch 
+      You can use the segmented control at the bottom of each block to switch
       between different units to get an alternate view of the same data.
 
   - key: hints.export_hint
     t: >
-      The <span class="hint-icon hint-export-button">Data</span> tab lets you view the raw 
-      data for any chart, view it as JSON, or get a GraphQL query you can 
+      The <span class="hint-icon hint-export-button">Data</span> tab lets you view the raw
+      data for any chart, view it as JSON, or get a GraphQL query you can
       run against our public API.
 
   - key: hints.completion_hint
     t: >
-      Since all questions are optional, some of them got fewer responses than others. 
+      Since all questions are optional, some of them got fewer responses than others.
       The completion indicator (<span class="hint-completion-indicator">◕</span>) tells you exactly how many people answered any given question.
 
   - key: hints.tool_modal_hint
     t: >
-      You can click on any technology name to get extra details and 
+      You can click on any technology name to get extra details and
       a more in-depth look at its related data.
 
   - key: hints.rankings_modes_hint
@@ -909,12 +909,12 @@ translations:
 
   - key: hints.sharing_hint
     t: >
-      Sharing this survey on Twitter, Facebook, or by email is scientifically proven to 
+      Sharing this survey on Twitter, Facebook, or by email is scientifically proven to
       improve your coding performance by up to 15%.
 
   - key: hints.tshirt_hint
     t: >
-      Another guaranteed scientific finding: buying our t-shirt will 
+      Another guaranteed scientific finding: buying our t-shirt will
       increase your programming skills by over 9000!
 
   - key: hints.variants_hint
@@ -924,8 +924,8 @@ translations:
 
   - key: hints.share_hint
     t: >
-      The <span class="hint-icon hint-share-button">Share</span> tab makes it easy to share any chart, 
-      or even download it as an image. 
+      The <span class="hint-icon hint-share-button">Share</span> tab makes it easy to share any chart,
+      or even download it as an image.
 
   - key: hints.bracket_hint
     t: >
@@ -943,7 +943,7 @@ translations:
     t: >
       Thanks for supporting the survey. Your avatar should appear next to the chart you picked
       within the next hour or so. If it doesn't, please [get in touch](mailto:chartsponsor@stateofjs.com).
-    
+
 
   - key: sponsor.sponsored_by
     t: >
@@ -964,26 +964,26 @@ translations:
     t: 'Chart ID: '
 
   - key: sponsor.sponsor_this_chart
-    t: Sponsor This Chart (${baseAmount}+) 
+    t: Sponsor This Chart (${baseAmount}+)
 
   - key: sponsor.how_it_works.title
     t: How It Works
 
   - key: sponsor.how_it_works.description
     t: >
-      1. When you **click the "Sponsor This Chart" button**, you will be redirected to our partner [SendOwl](https://www.sendowl.com/)'s checkout page. 
-      
-      
-      2. You can then **adjust the amount** you'd like to sponsor the survey for, starting at USD10.  
-      
-      
-      3. Once you checkout, you will be able to **provide your Twitter username**. 
-      
-      
-      4. You will see a **File Download** page, but you can safely ignore it. 
-      
-      
-      5. The site will rebuild in the background and your username and donation will **appear next to the chart within the next hour**. 
+      1. When you **click the "Sponsor This Chart" button**, you will be redirected to our partner [SendOwl](https://www.sendowl.com/)'s checkout page.
+
+
+      2. You can then **adjust the amount** you'd like to sponsor the survey for, starting at USD10.
+
+
+      3. Once you checkout, you will be able to **provide your Twitter username**.
+
+
+      4. You will see a **File Download** page, but you can safely ignore it.
+
+
+      5. The site will rebuild in the background and your username and donation will **appear next to the chart within the next hour**.
 
 
   - key: sponsor.faq.title
@@ -1005,19 +1005,19 @@ translations:
   #   t: Can I donate on somebody else's behalf?
 
   # - key: sponsor.faq.donation_public.description
-  #   t: You can enter a Twitter username other than your own, but that person will have the right to remove the donation if they request it. 
+  #   t: You can enter a Twitter username other than your own, but that person will have the right to remove the donation if they request it.
 
   - key: sponsor.faq.refund.title
     t: What's your refund policy?
 
   - key: sponsor.faq.refund.description
-    t: All donations are refundable within a 1-week period, minus transaction fees. 
+    t: All donations are refundable within a 1-week period, minus transaction fees.
 
   - key: sponsor.faq.influence.title
     t: Do donations influence the survey contents?
 
   - key: sponsor.faq.influence.description
-    t: Donations take place once the survey is already published, and donors to not have any influence on the contents of the survey. 
+    t: Donations take place once the survey is already published, and donors to not have any influence on the contents of the survey.
 
   - key: sponsor.faq.feedback.title
     t: Where can I leave feedback/ask questions?
