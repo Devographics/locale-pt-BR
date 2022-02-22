@@ -587,7 +587,7 @@ translations:
     - key: options.race_ethnicity.black_african
       t: Negro ou de ascendência africana
     - key: options.race_ethnicity.multiracial
-      t: Multiracial
+      t: Multirracial
     - key: options.race_ethnicity.biracial
       t: Biracial
     - key: options.race_ethnicity.native_american_islander_australian
