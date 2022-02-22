@@ -610,7 +610,7 @@ translations:
     - key: options.race_ethnicity.middle_eastern.short
       t: Médio Oriente
     - key: options.race_ethnicity.black_african.short
-      t: Negro/Ascendência africana
+      t: Negro ou de ascendência africana
     - key: options.race_ethnicity.multiracial.short
       t: Multiracial
     - key: options.race_ethnicity.biracial.short
