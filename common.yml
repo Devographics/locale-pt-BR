@@ -278,7 +278,7 @@ translations:
     - key: options.tools.would_use
       t: <span aria-hidden="true">👍</span> Já usei > Usaria novamente
     - key: options.tools.would_not_use
-      t: <span aria-hidden="true">👎</span> Used it > Would not use again
+      t: <span aria-hidden="true">👎</span> Já usei > Não usaria novamente
 
     # tools experience (no emoji)
     - key: options.tools.never_heard.legend
@@ -583,7 +583,7 @@ translations:
     - key: options.race_ethnicity.east_asian
       t: Ásia Oriental
     - key: options.race_ethnicity.middle_eastern
-      t: Oriente Médio 
+      t: Oriente Médio
     - key: options.race_ethnicity.black_african
       t: Negro ou de ascendência africana
     - key: options.race_ethnicity.multiracial
@@ -857,127 +857,127 @@ translations:
 
     # age
     - key: user_info.age
-      t: Age
+      t: Idade
     - key: user_info.age.description
-      t: How old are you, in years?
+      t: Quantos anos você tem?
 
     # years of experience
     - key: user_info.years_of_experience
-      t: Years of Experience
+      t: Anos de experiência
     - key: user_info.years_of_experience.description
-      t: How long have you been working or studying in this field, in years?
+      t: Há quantos anos tempo você trabalha ou estuda essa área?
 
     # company size
     - key: user_info.company_size
-      t: Company Size
+      t: Tamanho da empresa
     - key: user_info.company_size.description
-      t: How big is your company, in number of employees?
+      t: Qual o tamanho da sua empresa, em número de funcionários?
 
     # salary ranges
     - key: user_info.yearly_salary
-      t: Yearly Salary
+      t: Salário anual
     - key: user_info.yearly_salary.description
-      t: Your yearly salary in U.S. dollar.
+      t: Seu salário anual em dólares americanos.
 
     # job title
     - key: user_info.job_title
-      t: Job Title
+      t: Cargo
     - key: user_info.job_title.description
-      t: How do you introduce yourself to others?
+      t: Como você se apresenta aos outros?
 
     # javascript proficiency
     - key: user_info.javascript_proficiency
-      t: JavaScript Proficiency
+      t: Proficiência em JavaScript
     - key: user_info.javascript_proficiency.description
-      t: How proficient are you at JavaScript?
+      t: Quão proficiente você é em JavaScript?
 
     # css proficiency
     - key: user_info.css_proficiency
-      t: CSS Proficiency
+      t: Proficiência em CSS
     - key: user_info.css_proficiency.description
-      t: How proficient are you at CSS?
+      t: Quão proficiente você é em CSS?
 
     # backend proficiency
     - key: user_info.backend_proficiency
-      t: Back-end Proficiency
+      t: Proficiência em back-end
     - key: user_info.backend_proficiency.description
-      t: How proficient are you at back-end development?
+      t: Quão proficiente você é no desenvolvimento de back-end?
 
     # gender
     - key: user_info.gender
-      t: Gender
+      t: Gênero
     - key: user_info.gender.description
       t: >
-        Which of the following options describes you, if any? Please pick one.
+        Qual das opções a seguir descreve você? Por favor, escolha um.
     - key: user_info.gender.note
       t: >
-        While we know collecting and publishing diversity data can be a sensitive issue,
-        we do think it's important to obtain this data to help measure and improve
-        the survey's efforts in terms of inclusivity and representativeness.
+        Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
+        achamos importante obter esses dados para ajudar a medir e melhorar
+        os esforços da pesquisa em termos de inclusão e representatividade.
 
     # race & ethnicity
     - key: user_info.race_ethnicity
-      t: Race & Ethnicity
+      t: Raça e etnia
     - key: user_info.race_ethnicity.description
       t: >
-        Which of the following options describe you, if any? Please check all that apply.
+        Qual das opções a seguir descreve você? Por favor, selecione todas as que se aplicam.
     - key: user_info.race_ethnicity.note
       t: >
-        While we know collecting and publishing diversity data can be a sensitive issue,
-        we do think it's important to obtain this data to help measure and improve
-        the survey's efforts in terms of inclusivity and representativeness.
+        Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
+        achamos importante obter esses dados para ajudar a medir e melhorar
+        os esforços da pesquisa em termos de inclusão e representatividade.
 
     # disability status
     - key: user_info.disability_status
-      t: Disability Status
+      t: Deficiências
     - key: user_info.disability_status.description
       t: >
-        Which of the following disabilities do you experience, if any? Please check all that apply.
-        Note that this can include temporary disabilities or injuries.
+        Qual das seguintes deficiências você apresenta? Por favor, verifique todos os que se aplicam.
+        Observe que isso pode incluir incapacidades temporárias ou lesões.
 
     # disability status (other)
     - key: user_info.disability_status.others
-      t: Other Disabilities
+      t: Outras deficiências
 
     # other info
     - key: user_info.how_did_user_find_out_about_the_survey
-      t: How did you find out about this survey?
+      t: Como você ficou sabendo dessa pesquisa?
     - key: user_info.email
-      t: Your Email
+      t: Seu email
     - key: user_info.country
-      t: Your Country or Region
+      t: Seu país ou região
     - key: user_info.country.description
-      t: Where do you currently reside?
+      t: Onde você reside atualmente?
 
     - key: user_info.github_username
-      t: Your GitHub Username
+      t: Seu usuário do GitHub
     - key: user_info.github_username.description
       t: >
-        We might use GitHub usernames in the future to look at
-        repos and cross-reference publicly available information.
+        Podemos usar nomes de usuários do GitHub no futuro para analisar
+        repositórios e cruzar informações disponíveis publicamente.
 
     - key: user_info.twitter_username
-      t: Your Twitter Username
+      t: Seu usuário do Twitter
     - key: user_info.twitter_username.description
       t: >
-        We might use Twitter usernames in the future to look at
-        Twitter activity and cross-reference publicly available information
-         (such as the list of people you're following).
+        Podemos usar nomes de usuário do Twitter no futuro para
+        analisar a atividade do Twitter e fazer referência cruzada de informações disponíveis publicamente
+        (como a lista de pessoas que você está seguindo).
 
     - key: user_info.industry_sector
-      t: Industry Sector
+      t: Setor industrial
     - key: user_info.industry_sector.description
-      t: Which industry sector(s) do you work in?
+      t: Em qual(is) setor(es) da indústria você trabalha?
     - key: user_info.industry_sector.others
-      t: Other Industry Sectors
+      t: Outros setores da indústria
     - key: user_info.industry_sector.others.description
-      t: Other industry sector(s) you work in not mentioned above.
+      t: Outro(s) setor(es) da indústria em que você trabalha não mencionados acima.
 
     # degree
     - key: user_info.higher_education_degree
-      t: Higher Education Degree
+      t: Graduação em Ensino Superior
     - key: user_info.higher_education_degree.description
-      t: Do you have a higher education degree?
+      t: Você tem um diploma de ensino superior?
 
     ###########################################################################
     # Other Tools
