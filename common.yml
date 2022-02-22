@@ -566,7 +566,7 @@ translations:
     - key: options.gender.questioning.short
       t: Ainda não me decidi
     - key: options.gender.prefer_not_to_say.short
-      t: prefiro não dizer
+      t: Prefiro não dizer
     - key: options.gender.not_listed.short
       t: Não listado
 
