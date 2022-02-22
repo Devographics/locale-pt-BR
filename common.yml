@@ -710,7 +710,7 @@ translations:
     - key: options.industry_sector.insurance
       t: Seguro
     - key: options.industry_sector.logistics
-      t: Logistica
+      t: Logística
     - key: options.industry_sector.energy
       t: Energia
     - key: options.industry_sector.telecommunications
