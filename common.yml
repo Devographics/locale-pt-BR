@@ -382,7 +382,7 @@ translations:
     - key: options.years_of_experience.range_1_2
       t: 1a  2 anos
     - key: options.years_of_experience.range_2_5
-      t: 2a  5 anos
+      t: 2 a  5 anos
     - key: options.years_of_experience.range_5_10
       t: 5 a 10 anos
     - key: options.years_of_experience.range_10_20
