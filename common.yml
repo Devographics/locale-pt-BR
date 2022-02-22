@@ -670,7 +670,7 @@ translations:
     - key: options.form_factors.tv
       t: TV
     - key: options.form_factors.gaming_console
-      t: Console de videogame
+      t: Console de jogos
     - key: options.form_factors.screen_reader
       t: Leitor de tela
     - key: options.form_factors.print
