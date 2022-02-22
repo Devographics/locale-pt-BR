@@ -478,7 +478,7 @@ translations:
     - key: options.job_title.front_end_developer
       t: Desenvolvedor ou Engenheiro Front-End
     - key: options.job_title.back_end_developer
-      t: Desenvolvedor ou Engenheiro Back End
+      t: Desenvolvedor ou Engenheiro Back-End
     - key: options.job_title.full_stack_developer
       t: Desenvolvedor ou Engenheiro Full Stack
     - key: options.job_title.web_developer
