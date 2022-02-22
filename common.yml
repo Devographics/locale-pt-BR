@@ -704,7 +704,7 @@ translations:
     - key: options.industry_sector.entertainment
       t: Entreterimento
     - key: options.industry_sector.consulting
-      t: Consultoria e serviço
+      t: Consultoria e serviços
     - key: options.industry_sector.travel
       t: Viagem
     - key: options.industry_sector.insurance
