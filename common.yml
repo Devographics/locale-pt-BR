@@ -806,7 +806,7 @@ translations:
     - key: options.first_steps.on_the_job
       t: Treinamento no local de trabalho
     - key: options.first_steps.self_directed
-      t: Aprendizagem autodirigida (Google, Stack Overflow, etc.)
+      t: Aprendizagem autônoma(Google, Stack Overflow, etc.)
     - key: options.first_steps.mentoring
       t: Mentoria
 
