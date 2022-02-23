@@ -321,19 +321,19 @@ translations:
   ###########################################################################
 
   - key: features.learn_more
-    t: Learn More (MDN)
+    t: Saiba mais (MDN)
   - key: features.mdn_link
     t: MDN
   - key: features.caniuse_link
-    t: Can I use
+    t: Eu posso usar
   - key: features.specification_link
-    t: W3C Specification
+    t: Especificação W3C.
 
   # knowledge score
   - key: features.knowledge_score
-    t: Knowledge Score
+    t: Pontuação de conhecimento
   - key: features.knowledge_score.description
-    t: Out of all the features mentioned in the survey, how many did the respondent know about?
+    t: De todas as funcionalidades mencionadas na pesquisa, quantas o entrevistado conhecia?
 
   ###########################################################################
   # Tools & Methodologies
