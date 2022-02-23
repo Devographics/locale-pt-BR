@@ -217,55 +217,55 @@ translations:
   ###########################################################################
 
   - key: user_info.locale
-    t: Language
+    t: Língua
   - key: user_info.locale.description
-    t: What language did respondents select to fill out the survey?
+    t: Qual língua os entrevistados selecionaram para preencherem a pesquisa?
   - key: user_info.locale.note
     t: >
-      This data is collected automatically based on respondent's settings while taking the survey; 
-      Languages with fewer than 20 respondents not shown.
+      Esses dados são coletados automaticamente com base nas configurações dos entrevistados enquanto realizam a pesquisa;
+      Línguas com menos de 20 entrevistados não são mostradas.
 
   - key: user_info.source
-    t: Source
+    t: Fonte
   - key: user_info.source.description
-    t: How did respondents find out about the survey?
+    t: Como os entrevistados descobriram sobre a pesquisa?
   - key: user_info.source.note
-    t: This data is a mix of self-reported answers, referrer data, and URL tracking data.
+    t: Esses dados são uma mistura de respostas auto-relatadas, dados referenciados e dados de rastreamento de URL.
 
   - key: user_info.gender_by_country
-    t: Gender By Country
+    t: Gênero por país
   - key: user_info.gender_by_country.description
-    t: Gender distribution by country with at least 100 respondents, sorted by "mean gender" (each gender key being assigned an integer value in ascending order) descending.
+    t: Distribuição de gênero por país com pelo menos 100 entrevistados, classificada por "gênero médio" (cada chave de gênero recebeu um valor inteiro em ordem crescente) descendente.
 
   - key: user_info.years_of_experience_by_salary
-    t: Years of Experience by Salary Range
+    t: Anos de experiência por faixa salarial
   - key: user_info.years_of_experience_by_salary.description
-    t: Years of experience by salary range.
+    t: Anos de experiência por faixa salarial.
 
   - key: user_info.yearly_salary_by_country
-    t: Salary By Country
+    t: Salário por país
   - key: user_info.yearly_salary_by_country.description
-    t: Yearly salary distribution by country with at least 100 respondents, sorted by mean salary descending.
+    t: Distribuição salarial anual por país com pelo menos 100 entrevistados, classificada por salário médio descendente.
 
   - key: user_info.yearly_salary_by_degree
-    t: Salary By Higher Education Degree
+    t: Salário por grau de ensino superior
   - key: user_info.yearly_salary_by_degree.description
-    t: Yearly salary distribution by higher education degree, sorted by mean salary descending.
+    t: Distribuição salarial anual por grau de ensino superior, classificada por salário médio descendente.
 
   - key: user_info.yearly_salary_by_experience
-    t: Salary By Experience
+    t: Salário por experiência
   - key: user_info.yearly_salary_by_experience.description
-    t: Yearly salary distribution by experience, sorted by mean salary descending.
+    t: Distribuição salarial anual por experiência, classificada por salário médio descendente.
 
   - key: user_info.race_ethnicity_by_years_of_experience
-    t: Race & Ethnicity by Years of Experience
+    t: Raça e etnia por anos de experiência
   - key: user_info.race_ethnicity_by_years_of_experience.description
-    t: Race & ethnicity distribution by years of experience, sorted by mean experience ascending.
+    t: Raça e distribuição de etnia por anos de experiência, classificadas por experiência média ascendente.
 
   - key: user_info.higher_education_degree_by_gender
-    t: Higher Education Degree by Gender
+    t: Grau de ensino superior por gênero
   - key: user_info.higher_education_degree_by_gender.description
-    t: Higher education degree distribution by gender.
+    t: Distribuição de grau de ensino superior por gênero.
 
   ###########################################################################
   # Locales
