@@ -68,108 +68,108 @@ translations:
   ###########################################################################
 
   - key: options.experience_ranking.satisfaction
-    t: Satisfaction
+    t: Satisfação
   - key: options.experience_ranking.interest
-    t: Interest
+    t: Interesse
   - key: options.experience_ranking.usage
-    t: Usage
+    t: Uso
   - key: options.experience_ranking.awareness
-    t: Awareness
+    t: Conhecimento
 
   - key: options.features_mode.grouped
-    t: Grouped
+    t: Agrupada
   - key: options.features_mode.awareness_rank
-    t: By Awareness
+    t: Por Conhecimento
   - key: options.features_mode.usage_rank
-    t: By Usage
+    t: Por Uso
   - key: options.features_mode.usage_ratio_rank
-    t: By Usage Ratio
+    t: Por Proporção de Uso
 
   - key: options.features_simplified.know_it
-    t: Know about it
+    t: Conheço
   - key: options.features_simplified.used_it
-    t: Have used it
+    t: Tenho usado
   - key: options.features_simplified.usage_ratio
-    t: Usage ratio
+    t: Proporção de uso
 
   - key: options.quadrant.assess
-    t: ASSESS
+    t: AVALIAR
   - key: options.quadrant.assess.long
     t: |
-      ASSESS: Low usage, high satisfaction. Technologies worth keeping an eye on.
+      ASSESS: Baixo uso, alta satisfação. Tecnologias que valem a pena ficar de olho.
   - key: options.quadrant.adopt
-    t: ADOPT
+    t: ADOTAR
   - key: options.quadrant.adopt.long
     t: |
-      ADOPT: High usage, high satisfaction. Safe technologies to adopt.
+      ADOTAR: Alto uso, alta satisfação. Tecnologias seguras a adotar.
   - key: options.quadrant.avoid
-    t: AVOID
+    t: EVITAR
   - key: options.quadrant.avoid.long
     t: |
-      AVOID: Low usage, low satisfaction. Technologies probably best avoided currently.
+      EVITAR: Baixo uso, baixa satisfação. As tecnologias provavelmente devem ser evitadas atualmente.
   - key: options.quadrant.analyze
-    t: ANALYZE
+    t: ANALISAR
   - key: options.quadrant.analyze.long
     t: |
-      ANALYZE: High usage, low satisfaction. Reassess these technologies if you're currently using them.
+      ANALISAR: Alto uso, baixa satisfação. Reavalie essas tecnologias se você as estiver usando no momento.
 
   - key: options.quadrant.1
     t: 1
   - key: options.quadrant.1.long
     t: |
-      1: Low usage, high satisfaction. Technologies worth keeping an eye on.
+      1: Baixo uso, alta satisfação. Tecnologias que valem a pena ficar de olho.
   - key: options.quadrant.2
     t: 2
   - key: options.quadrant.2.long
     t: |
-      2: High usage, high satisfaction. Safe technologies to adopt.
+      2: Alto uso, alta satisfação. Tecnologias seguras a adotar.
   - key: options.quadrant.3
     t: 3
   - key: options.quadrant.3.long
     t: |
-      3: Low usage, low satisfaction. Technologies that are harder to recommend.
+      3: Baixo uso, baixa satisfação. Tecnologias que são difíceis de recomendar.
   - key: options.quadrant.4
     t: 4
   - key: options.quadrant.4.long
     t: |
-      4: High usage, low satisfaction. Reassess these technologies if you're currently using them.
+      4: Alto uso, baixa satisfação. Reavalie essas tecnologias se você as estiver usando no momento.
 
   - key: ranges.selector.years_of_experience
-    t: Experience
+    t: Experiência
   - key: ranges.selector.yearly_salary
-    t: Salary
+    t: Salário
   - key: ranges.selector.company_size
-    t: Company Size
+    t: Tamanho da empresa
 
   # other learning methods
   - key: options.first_steps.blogs
     t: Blogs
   - key: options.first_steps.forums
-    t: Forums
+    t: Fóruns
   - key: options.first_steps.view_source
-    t: View Source
+    t: Ver código-fonte
 
   # other disablities
   - key: options.disability_status_others.adhd
-    t: ADHD
+    t: TDAH
   - key: options.disability_status_others.autism
-    t: Autism
+    t: Autismo
   - key: options.disability_status_others.glasses
-    t: Glasses
+    t: Óculos
   - key: options.disability_status_others.old
-    t: Old Age
+    t: Velhice
   - key: options.disability_status_others.back_pain
-    t: Back Pain
+    t: Dor nas costas
   - key: options.disability_status_others.epilepsy
-    t: Epilepsy
+    t: Epilepsia
   - key: options.disability_status_others.aspergers
-    t: Aspergers
+    t: Síndrome de Asperger
   - key: options.disability_status_others.color_blindness
-    t: Color Blindness
+    t: Daltonismo
   - key: options.disability_status_others.anxiety
-    t: Anxiety
+    t: Ansiedade
   - key: options.disability_status_others.dyslexia
-    t: Dyslexia
+    t: Dislexia
   - key: options.disability_status_others.diabetes
     t: Diabetes
 
