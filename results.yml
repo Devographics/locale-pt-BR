@@ -219,7 +219,7 @@ translations:
   - key: user_info.locale
     t: Língua
   - key: user_info.locale.description
-    t: Qual língua os entrevistados selecionaram para preencherem a pesquisa?
+    t: Qual idioma os entrevistados selecionaram para preencherem a pesquisa?
   - key: user_info.locale.note
     t: >
       Esses dados são coletados automaticamente com base nas configurações dos entrevistados enquanto realizam a pesquisa;
