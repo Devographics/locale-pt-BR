@@ -42,7 +42,7 @@ translations:
   - key: tabs.data
     t: Dados
   - key: tabs.share
-    t: Compartilhamento
+    t: Compartilhar
   - key: tabs.debug
     t: Debug
   - key: tabs.by_country
