@@ -151,7 +151,7 @@ translations:
 
   # other disablities
   - key: options.disability_status_others.adhd
-    t: Transtorno do déficit de atenção com hiperatividade
+    t: TDAH
   - key: options.disability_status_others.autism
     t: Autismo
   - key: options.disability_status_others.glasses
