@@ -932,7 +932,7 @@ translations:
       t: Deficiências
     - key: user_info.disability_status.description
       t: >
-        Qual das seguintes deficiências você apresenta? Por favor, verifique todos os que se aplicam.
+        Qual das seguintes deficiências você apresenta? Por favor, selecione todas as que se aplicam.
         Observe que isso pode incluir incapacidades temporárias ou lesões.
 
     # disability status (other)
