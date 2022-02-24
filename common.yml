@@ -954,7 +954,7 @@ translations:
     - key: user_info.github_username.description
       t: >
         Podemos usar nomes de usuários do GitHub no futuro para analisar
-        repositórios e cruzar informações disponíveis publicamente.
+        repositórios e fazer referência cruzada de informações disponíveis publicamente.
 
     - key: user_info.twitter_username
       t: Seu usuário do Twitter
