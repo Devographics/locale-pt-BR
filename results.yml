@@ -127,7 +127,7 @@ translations:
     t: 3
   - key: options.quadrant.3.long
     t: |
-      3: Baixo uso, baixa satisfação. Tecnologias mais difíceis de recomendar.
+      3: Baixo uso, baixa satisfação. Tecnologias que são difíceis de recomendar.
   - key: options.quadrant.4
     t: 4
   - key: options.quadrant.4.long
