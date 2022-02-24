@@ -272,49 +272,51 @@ translations:
   ###########################################################################
 
   - key: options.locale.en-US
-    t: English
+    t: Inglês
   - key: options.locale.ca-ES
-    t: Catalan
+    t: Catalã
   - key: options.locale.es-ES
-    t: Spanish
+    t: Espanhol
   - key: options.locale.ru-RU
-    t: Russian
+    t: Russo
   - key: options.locale.fr-FR
-    t: French
+    t: Francês
   - key: options.locale.zh-Hant
-    t: Chinese (Traditional)
+    t: Chinês (Tradicional)
   - key: options.locale.de-DE
-    t: German
+    t: Alemão
   - key: options.locale.cs-CZ
-    t: Czech
+    t: Tcheco
   - key: options.locale.pt-PT
-    t: Portuguese
+    t: Português (Portugal)
+  - key: options.locale.pt-BR
+    t: Português (Brasil)
   - key: options.locale.it-IT
-    t: Italian
+    t: Italiano
   - key: options.locale.sv-SE
-    t: Swedish
+    t: Sueco
   - key: options.locale.tr-TR
-    t: Turkish
+    t: Turco
   - key: options.locale.id-ID
-    t: Indonesian
+    t: Indonésio
   - key: options.locale.hi-IN
     t: Hindi
   - key: options.locale.zh-Hans
-    t: Chinese (Simplified)
+    t: Chinês (Simplificado)
   - key: options.locale.ja-JP
-    t: Japanese
+    t: Japonês
   - key: options.locale.ua-UA
-    t: Ukrainian
+    t: Ucraniano
   - key: options.locale.pl-PL
-    t: Polish
+    t: Polonês
   - key: options.locale.fa-IR
-    t: Farsi
+    t: Persa
   - key: options.locale.nl-NL
-    t: Dutch
+    t: Holandês
   - key: options.locale.ko-KR
-    t: Korean
+    t: Coreano
   - key: options.locale.ro-RO
-    t: Romanian
+    t: Romeno
 
   ###########################################################################
   # Features
