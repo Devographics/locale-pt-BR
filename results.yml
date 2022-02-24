@@ -178,39 +178,39 @@ translations:
   ###########################################################################
 
   - key: sections.introduction.title
-    t: Introduction
+    t: Introdução
 
   - key: sections.demographics.title
-    t: Demographics
+    t: Demografia
 
   - key: sections.tshirt.title
-    t: T-shirt
+    t: Camiseta
 
   - key: sections.technologies.title
-    t: Technologies
+    t: Tecnologias
 
   - key: sections.libraries.title
-    t: Libraries
+    t: Bibliotecas
 
   - key: sections.conclusion.title
-    t: Conclusion
+    t: Conclusão
 
   - key: sections.about.title
-    t: About
+    t: Sobre
 
   - key: sections.support.title
-    t: Support Us
+    t: Apoie-nos
   - key: sections.support.description
     t: >
-      We run this survey as a side project, but in order to make the
-      project sustainable we’re always looking for partners who can help support us,
-      either financially or by helping us spread the word.
-      If you think you could help in any way, please don’t hesitate to [get in touch](mailto:hello@stateofjs.com)!
+      Nós gerenciamos esta pesquisa como um projeto pessoal, mas para tornar o
+      projeto sustentável estamos sempre à procura de parceiros que possam ajudar nos apoiando
+      financeiramente ou ajudando-nos a espalhar a palavra.
+      Se você acha que poderia ajudar de alguma forma, por favor, não hesite em [entrar em contato] (mailto:hello@stateofjs.com)!
 
   - key: sections.awards.title
-    t: Awards
+    t: Prêmios
   - key: sections.awards.description
-    t: Things that stood out this year.
+    t: Coisas que se destacaram este ano.
 
   ###########################################################################
   # User Info
