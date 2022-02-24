@@ -865,7 +865,7 @@ translations:
     - key: user_info.years_of_experience
       t: Anos de experiência
     - key: user_info.years_of_experience.description
-      t: Há quantos anos tempo você trabalha ou estuda essa área?
+      t: Há quantos anos você trabalha ou estuda essa área?
 
     # company size
     - key: user_info.company_size
