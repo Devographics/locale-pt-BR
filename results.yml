@@ -5,56 +5,56 @@ translations:
   ###########################################################################
 
   - key: results.start
-    t: Start
+    t: Começar
 
   - key: page.previous
-    t: "Previous:"
+    t: "Anterior:"
   - key: page.next
-    t: "Next:"
+    t: "Próxima:"
 
   - key: general.state_of_css_link
     t: State of CSS
 
   - key: general.netlify_link
-    t: Hosted by <a href="{link}">Netlify</a>.
+    t: Hospedado por <a href="{link}">Netlify</a>.
 
   - key: general.completion_percentage
-    t: "Completion percentage:"
+    t: "Porcentagem de conclusão:"
 
   - key: partners.thanks
-    t: Thanks to our partners for supporting us!
+    t: Obrigado aos nossos parceiros por nos apoiarem!
 
   - key: partners.learn_more
-    t: Learn more.
+    t: Saiba mais.
 
   - key: tabs.all_respondents
-    t: All Respondents
+    t: Todos os entrevistados
   - key: tabs.main_answers
-    t: Main Answers
+    t: Respostas principais
   - key: tabs.other_answers
-    t: Other Answers
+    t: Outras respostas
   - key: tabs.bracket_wins
-    t: Wins
+    t: Vitórias
   - key: tabs.bracket_matchups
-    t: Matchups
+    t: Combinações
   - key: tabs.chart
-    t: Chart
+    t: Gráficos
   - key: tabs.data
-    t: Data
+    t: Dados
   - key: tabs.share
-    t: Share
+    t: Compartilhar
   - key: tabs.debug
     t: Debug
   - key: tabs.by_country
-    t: By Country
+    t: Por País
   - key: tabs.by_experience
-    t: By Experience
+    t: Por Experiência
   - key: tabs.by_degree
-    t: By Degree
+    t: Por Formação
   - key: tabs.by_salary
-    t: By Salary
+    t: Por Salário
   - key: tabs.by_gender
-    t: By Gender
+    t: Por Gênero
 
   ###########################################################################
   # Block
