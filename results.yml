@@ -223,7 +223,7 @@ translations:
   - key: user_info.locale.note
     t: >
       Esses dados são coletados automaticamente com base nas configurações dos entrevistados enquanto realizam a pesquisa;
-      Línguas com menos de 20 entrevistados não são mostradas.
+      Idiomas com menos de 20 entrevistados não são mostradas.
 
   - key: user_info.source
     t: Fonte
