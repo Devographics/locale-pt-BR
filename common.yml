@@ -841,15 +841,15 @@ translations:
     ###########################################################################
 
     - key: tools.other_tools
-      t: Other Options
+      t: Outras opções
     - key: tools.other_tools.description
-      t: Other options you use for the current section not mentioned in the list above.
+      t: Outras opções que você usa para a seção atual não mencionada na lista acima.
     - key: tools.happiness
-      t: Overall Happiness
+      t: Felicidade geral
     - key: tools.happiness.description
       t: >
-          On a scale of one (very unhappy) to five (very happy), how happy are
-          you with the current overall state of things as it relates to the options listed above?
+          Em uma escala de um (muito infeliz) a cinco (muito feliz), quão feliz você
+          está com o atual estado geral das coisas que se relacionam com as opções listadas acima?
 
     ###########################################################################
     # Demographics (About You/User Info)
