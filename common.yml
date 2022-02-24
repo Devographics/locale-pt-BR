@@ -971,7 +971,7 @@ translations:
     - key: user_info.industry_sector.others
       t: Outros setores da indústria
     - key: user_info.industry_sector.others.description
-      t: Outro(s) setor(es) da indústria em que você trabalha não mencionados acima.
+      t: Outro(s) setor(es) da indústria em que você trabalha não mencionado(s) acima.
 
     # degree
     - key: user_info.higher_education_degree
