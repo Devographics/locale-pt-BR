@@ -10,7 +10,7 @@ translations:
   - key: page.previous
     t: "Anterior:"
   - key: page.next
-    t: "Seguinte:"
+    t: "Próxima:"
 
   - key: general.state_of_css_link
     t: State of CSS
