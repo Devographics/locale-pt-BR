@@ -217,7 +217,7 @@ translations:
   ###########################################################################
 
   - key: user_info.locale
-    t: Língua
+    t: Idioma
   - key: user_info.locale.description
     t: Qual idioma os entrevistados selecionaram para preencherem a pesquisa?
   - key: user_info.locale.note
