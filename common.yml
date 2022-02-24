@@ -908,7 +908,7 @@ translations:
       t: Gênero
     - key: user_info.gender.description
       t: >
-        Qual das opções a seguir descreve você? Por favor, escolha um.
+        Qual das opções a seguir descreve você? Por favor, escolha uma.
     - key: user_info.gender.note
       t: >
         Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
