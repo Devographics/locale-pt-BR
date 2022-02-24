@@ -943,7 +943,7 @@ translations:
     - key: user_info.how_did_user_find_out_about_the_survey
       t: Como você ficou sabendo dessa pesquisa?
     - key: user_info.email
-      t: Seu email
+      t: Seu e-mail
     - key: user_info.country
       t: Seu país ou região
     - key: user_info.country.description
