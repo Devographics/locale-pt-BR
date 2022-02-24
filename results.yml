@@ -147,7 +147,7 @@ translations:
   - key: options.first_steps.forums
     t: Fóruns
   - key: options.first_steps.view_source
-    t: Ver código fonte
+    t: Ver código-fonte
 
   # other disablities
   - key: options.disability_status_others.adhd
