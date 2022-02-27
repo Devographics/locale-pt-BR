@@ -527,7 +527,7 @@ translations:
       o <span class="text-teal text-bold">interno</span> representa aqueles que realmente o usaram.
 
       Passe o mouse sobre cada nó para ver dados detalhados junto com uma <span class="text-blackpink text-bold">sobreposição</span>
-      representando o número total de respondentes da pesquisa.
+      representando o número total de entrevistados da pesquisa.
 
   # export
   - key: export.export
