@@ -581,7 +581,7 @@ translations:
       “usaria novamente” ou “não usaria novamente”).
 
       A linha de base representa o uso base para cada ferramenta e os deslocamentos
-      correspondem ao delta desta linha de base em cada intervalo. Digamos
+      correspondem à variação desta linha de base em cada intervalo. Digamos que
       a ferramenta X tem um uso geral de 10% em todos os entrevistados (a linha de base),
       então, se a porcentagem de usuários com 1 a 2 anos de experiência
       usando esta ferramenta é de 13% (comparado a todos os usuários com 1 a 2 anos
