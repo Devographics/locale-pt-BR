@@ -542,7 +542,7 @@ translations:
   - key: export.export_json
     t: Obter dados JSON
   - key: export.export_graphql
-    t: Obter query do GraphQL
+    t: Obter consulta do GraphQL
 
   - key: custom_data.heading
     t: Gráfico customizado
