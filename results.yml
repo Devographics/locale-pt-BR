@@ -443,7 +443,7 @@ translations:
 
   # tool positive/negative split ("marimekko" chart)
   - key: blocks.tools_experience_marimekko
-    t: Positive/Negative Split
+    t: Divisão Positiva/Negativa
   - key: blocks.tools_experience_marimekko.description
     t: |
       Este gráfico divide positivo (“quer aprender”, “usaria novamente”) vs.
