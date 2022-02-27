@@ -458,7 +458,7 @@ translations:
   - key: blocks.tools_tier_list.description
     t: |
       Este gráfico classifica as bibliotecas com base em seu índice de satisfação (porcentagem de usuários
-      que usaria uma biblioteca novamente). Observe que as bibliotecas usadas por menos de 10% da pesquisa
+      que usaria uma biblioteca novamente). Observe que as bibliotecas usadas por menos de 10% dos entrevistados
       respondentes não estão incluídos.
   - key: blocks.tools_tier_list.bounds
     t: >
