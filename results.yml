@@ -693,7 +693,7 @@ translations:
   - key: charts.tools_arrows.velocity
     t: Velocidade
   - key: charts.tools_arrows.velocity_positive
-    t: No geral, mais opiniões positivas e/ou uso ao longo do tempo
+    t: No geral, mais opiniões ou uso positivos ao longo do tempo
   - key: charts.tools_arrows.velocity_negative
     t: No geral, mais opiniões ou uso negativos ao longo do tempo
   - key: charts.tools_arrows.opinions_positive
