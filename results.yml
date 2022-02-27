@@ -361,250 +361,249 @@ translations:
 
   # heatmaps
   - key: blocks.tools_company_size_heatmap
-    t: Usage by Company Size
+    t: Uso por tamanho da empresa
   - key: blocks.tools_company_size_heatmap.description
     t: |
-      For each technology, how usage is spread among respondents
-      who picked different company size ranges.
+      Para cada tecnologia, como o uso é distribuído entre os entrevistados
+      que escolheram diferentes faixas de tamanho de empresa.
 
   - key: blocks.tools_yearly_salary_heatmap
-    t: Usage by Salary Range
+    t: Uso por faixa salarial
   - key: blocks.tools_yearly_salary_heatmap.description
     t: |
-      For each technology, how usage is spread among respondents
-      who picked different salary ranges.
+      Para cada tecnologia, como o uso é distribuído entre os entrevistados
+      que escolheram diferentes faixas salariais.
 
   - key: blocks.tools_years_of_experience_heatmap
-    t: Usage by Years Of Experience
+    t: Uso por anos de experiência
   - key: blocks.tools_years_of_experience_heatmap.description
     t: |
-      For each technology, how usage is spread among respondents who picked different experience ranges.
-      Note that the experience in question here is general experience, not experience with a specific technology.
+      Para cada tecnologia, como o uso é distribuído entre os entrevistados que escolheram diferentes faixas de experiência.
+      Observe que a experiência em questão aqui é uma experiência geral, não uma experiência com uma tecnologia específica.
 
   # tool
   - key: blocks.entity.homepage_link
-    t: Homepage
+    t: Página inicial
   - key: blocks.entity.github_link
     t: GitHub
 
   # cardinality
   - key: blocks.all_sections_tools_cardinality_by_user
-    t: Technology Usage Cardinality
+    t: Cardinalidade de uso de tecnologia
   - key: blocks.all_sections_tools_cardinality_by_user.description
     t: >
-        For each section, which percentage of respondents **use**
-        (defined as having answered “would use again”) one, two, three, etc. technologies.
-        The bottom-most bar represents the sum of all other bars.
+        Para cada seção, qual porcentagem de entrevistados **usa**
+        (definido como tendo respondido “usaria novamente”) uma, duas, três, etc. tecnologias.
+        A barra inferior representa a soma de todas as outras barras.
 
   - key: blocks.cardinality.max
-    t: Most common answer
+    t: Resposta mais comum
 
   # tools arrows
   - key: blocks.tools_arrows
-    t: Changes Over Time
+    t: Mudanças ao longo do tempo
   - key: blocks.tools_arrows.description
     t: |
-      Each line goes from 2016 to 2020. A higher point means a technology has been used by more people,
-      and a point further to the right means more users want to learn it; or have used it and would use it again.
+      Cada linha vai de 2016 a 2020. Um ponto mais alto significa que uma tecnologia foi usada por mais pessoas,
+      e um ponto mais à direita significa que mais usuários querem aprender; ou já usou e usaria novamente.
   - key: blocks.tools_arrows.note
     t: |
-      - Some lines skip years.
-      - Technologies with only one year of data are not shown.
-      - Velocity formula = (most recent opinion - oldest opinion) + (most recent usage) - (oldest usage)
-      - A positive velocity means the usage and/or positive opinions have increased over time.
+      - Algumas linhas pulam anos.
+      - Tecnologias com apenas um ano de dados não são mostradas.
+      - Fórmula de velocidade = (opinião mais recente - opinião mais antiga) + (uso mais recente) - (uso mais antigo)
+      - Uma velocidade positiva significa que o uso e/ou opiniões positivas aumentaram ao longo do tempo.
 
   # tools quadrant
   - key: blocks.tools_quadrant
-    t: Satisfaction vs Usage
+    t: Satisfação vs Uso
   - key: blocks.tools_quadrant.description
     t: |
-      This chart shows each technology's **satisfaction ratio** (or **interest ratio**) over its total **user count**.
-      It can be divided into four quadrants:
+      Este gráfico mostra a **taxa de satisfação** (ou **taxa de juros**) de cada tecnologia em relação à sua **contagem total de usuários**.
+      Pode ser dividido em quatro quadrantes:
 
-        - **ASSESS**: Low usage, high satisfaction. Technologies worth keeping an eye on.
+        - **AVALIAR**: Baixo uso, alta satisfação. Tecnologias que valem a pena ficar de olho.
 
-        - **ADOPT**: High usage, high satisfaction. Safe technologies to adopt.
+        - **ADOTAR**: Alto uso, alta satisfação. Tecnologias seguras a adotar.
 
-        - **AVOID**: Low usage, low satisfaction. Technologies probably best avoided currently.
+        - **EVITAR**: Baixo uso, baixa satisfação. As tecnologias provavelmente devem ser evitadas atualmente.
 
-        - **ANALYZE**: High usage, low satisfaction. Reassess these technologies if you're currently using them.
+        - **ANALISAR**: Alto uso, baixa satisfação. Reavalie essas tecnologias se você as estiver usando no momento.
 
   # category other tools
   - key: blocks.category_other_tools
-    t: Other Tools
+    t: Outras ferramentas
   - key: blocks.category_other_tools.description
-    t: Other tools in this category (freeform answers).
+    t: Outras ferramentas nesta categoria (respostas livres).
 
   # tool experience
   - key: blocks.tool_experience
-    t: "{name} Experience"
+    t: "{name} experiência"
   - key: blocks.tool_experience.description
-    t: Respondent's experience with {name}.
+    t: A experiência do entrevistado com {name}.
 
   # tool positive/negative split ("marimekko" chart)
   - key: blocks.tools_experience_marimekko
-    t: Positive/Negative Split
+    t: Divisão Positiva/Negativa
   - key: blocks.tools_experience_marimekko.description
     t: |
-      This chart splits positive (“want to learn”, “would use again”) vs
-      negative (“not interested”, “would not use again”) experiences on
-      both sides of a central axis.
+      Este gráfico divide experiências positivas (“quer aprender”, “usaria novamente”) e
+      negativas (“não tenho interesse”, “não usaria novamente”) em
+      ambos os lados de um eixo central.
 
-      Bar thickness represents the number of respondents aware of a technology.
+      A espessura da barra representa o número de entrevistados cientes de uma tecnologia.
 
   # tool tier list
   - key: blocks.tools_tier_list
-    t: Library Tier List
+    t: Lista de níveis de biblioteca
   - key: blocks.tools_tier_list.description
     t: |
-      This chart ranks libraries based on their satisfaction ratio (percentage of users
-      who would use a library again). Note that libraries used by less than 10% of survey
-      respondents are not included.
+      Este gráfico classifica as bibliotecas com base em seu índice de satisfação (porcentagem de usuários
+      que usaria uma biblioteca novamente). Observe que as bibliotecas usadas por menos de 10% dos entrevistados
+      da pesquisa não estão incluídas.
   - key: blocks.tools_tier_list.bounds
     t: >
       {lowerBound}% - {upperBound}%
 
   # tools section streams
   - key: blocks.tools_section_streams
-    t: Experience Over Time
+    t: Experiência ao longo do tempo
   - key: blocks.tools_section_streams.description
     t: |
-      Overview of opinions on the technologies surveyed over time.
+      Visão geral das opiniões sobre as tecnologias pesquisadas ao longo do tempo.
   - key: blocks.tools_section_streams.note
     t: |
-      Technologies with only one year of data are not included.
+      Tecnologias com apenas um ano de dados não estão incluídas.
 
   # tools section overview
   - key: blocks.tools_section_overview
-    t: Category Overview
+    t: Visão geral da categoria
   - key: blocks.tools_section_overview.description
     t: |
-      Overview of opinions on the technologies surveyed. Darker segments represent positive opinions,
-      while lighter segments correspond to negative sentiment.
+      Visão geral das opiniões sobre as tecnologias pesquisadas. Segmentos mais escuros representam opiniões positivas,
+      enquanto segmentos mais claros correspondem a sentimentos negativos.
 
   # tools experience ranking
   - key: blocks.tools_experience_ranking
-    t: Rankings
+    t: Classificações
   - key: blocks.tools_experience_ranking.description
-    t: Satisfaction, interest, usage, and awareness ratio rankings.
+    t: Classificações de índice de satisfação, interesse, uso e reconhecimento.
   - key: blocks.tools_experience_ranking.note
     t: |
-      Technologies with less than 10% awareness not included. Each ratio is defined as follows:
+      Tecnologias com menos de 10% de conhecimento não incluídas. Cada proporção é definida da seguinte forma:
 
-      - Satisfaction: **would use again** / (**would use again** + **would not use again**)
-      - Interest: **want to learn** / (**want to learn** + **not interested**)
-      - Usage: (**would use again** + **would not use again**) / **total**
-      - Awareness: (**total** - **never heard**) / **total**
-
+      - Satisfação: **usaria novamente** / (**usaria novamente** + **não usaria novamente**)
+      - Interesse: **quer aprender** / (**quer aprender** + **não tenho interesse**)
+      - Uso: (**usaria novamente** + **não usaria novamente**) / **total**
+      - Conhecimento: (**total** - **não conheço**) / **total**
   # happiness
   - key: blocks.happiness
-    t: Overall Happiness
+    t: Felicidade geral
   - key: blocks.happiness.description
     t: |
-      On a scale of one (very unhappy) to five (very happy), how happy are developers
-      with the current overall state of this category?
+      Em uma escala de um (muito insatisfeito) a cinco (muito satisfeito), quão satisfeitos estão os desenvolvedores
+      com o estado geral atual desta categoria?
 
   # newsletter
   - key: blocks.newsletter.title
-    t: Stay Tuned
+    t: Fique ligado
   - key: blocks.newsletter.description
     t: |
-      If you'd like to know when we release additional results or announce next year's edition,
-      just leave us your email below:
+      Se você quiser saber quando divulgaremos resultados adicionais ou anunciaremos a edição do próximo ano,
+      basta nos deixar seu e-mail abaixo:
   - key: blocks.newsletter.email
-    t: Your Email
+    t: Seu e-mail
   - key: blocks.newsletter.submit
-    t: Notify Me
+    t: Me notifique
 
   # features_overview
   - key: blocks.features_overview
-    t: Usage Overview
+    t: Visão geral do uso
   - key: blocks.features_overview.description
     t: |
-      This chart presents the various adoption rates for all features, grouped by category.
+      Este gráfico apresenta as várias taxas de adoção para todos os recursos, agrupados por categoria.
 
-      The size of the <span class="text-teal-darker text-bold">outer circle</span>
-      corresponds to the total number of users who know about a feature, while
-      the <span class="text-teal text-bold">inner one</span> represents those who have actually used it.
+      O tamanho do <span class="text-teal-dark text-bold">círculo externo</span>
+      corresponde ao número total de usuários que conhecem um recurso, enquanto
+      o <span class="text-teal text-bold">interno</span> representa aqueles que realmente o usaram.
 
-      Hover on each node to view detailed data along with an <span class="text-blackpink text-bold">overlay</span>
-      representing the total number of survey respondents.
+      Passe o mouse sobre cada nó para ver dados detalhados junto com uma <span class="text-blackpink text-bold">sobreposição</span>
+      representando o número total de entrevistados da pesquisa.
 
   # export
   - key: export.export
-    t: Export
+    t: Exportar
   - key: export.title
-    t: Export data for {title}
+    t: Exportar dados para {title}
   - key: export.nocsv
-    t: Sorry, CSV export is not available for this dataset.
+    t: Desculpe, a exportação de CSV não está disponível para este conjunto de dados.
   - key: export.graphql
     t: >
-      You can copy paste this query into our <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">public GraphQL API</a>.
+      Você pode copiar e colar esta consulta em nossa <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">API GraphQL pública</a>.
   - key: export.export_json
-    t: Get JSON Data
+    t: Obter dados JSON
   - key: export.export_graphql
-    t: Get GraphQL Query
+    t: Obter consulta do GraphQL
 
   - key: custom_data.heading
-    t: Custom Chart
+    t: Gráfico customizado
   - key: custom_data.custom_data
-    t: Custom Data
+    t: Dados customizados
   - key: custom_data.graphql_query
-    t: GraphQL Query
+    t: Query de GraphQL
   - key: custom_data.chart_title
-    t: Custom Chart
+    t: Gráfico customizado
   - key: custom_data.submit
-    t: Submit
+    t: Enviar
   - key: custom_data.empty_contents
-    t: Please enter some data in the "Custom Data" field.
+    t: Insira alguns dados no campo "Dados personalizados".
   - key: custom_data.edit_title
-    t: Edit Chart Title
+    t: Editar título do gráfico
   - key: custom_data.customize
-    t: Customize Data
+    t: Personalizar dados
   - key: custom_data.details
     t: >
 
-        1. Copy the contents of the "GraphQL Query" textfield and paste them into the middle panel of the [GraphQL API explorer](https://graphiql.stateofjs.com/).
+        1. Copie o conteúdo do campo de texto "Consulta do GraphQL" e cole-o no painel do meio do [GraphQL API explorer](https://graphiql.stateofjs.com/).
 
-        2. Modify the query by adding one or more **filters** using the left-hand explorer sidebar. Make sure to keep the overall structure of the data the same.
+        2. Modifique a consulta adicionando um ou mais **filtros** usando a barra lateral esquerda do explorador. Certifique-se de manter a estrutura geral dos dados a mesma.
 
-        3. In the explorer window, click the Play ("Execute Query") button.
+        3. Na janela do explorer, clique no botão Play ("Executar consulta").
 
-        4. Copy the results of the modified query (`{ data: … }` ) into the "Custom Data" textfield above and submit.
+        4. Copie os resultados da consulta modificada (`{ data: … }` ) no campo de texto "Dados personalizados" acima e envie.
 
   # Tools usage variations
   - key: blocks.tools_usage_variations
-    t: Usage Variations
+    t: Variações de uso
   - key: blocks.tools_usage_variations.description
     t: |
-      How different factors such as salary range, years of experience
-      or company size influence usage (participants who answered either
-      “would use again” or “would not use again”).
+      Como diferentes fatores, como faixa salarial, anos de experiência
+      ou o tamanho da empresa influenciam o uso (participantes que responderam
+      “usaria novamente” ou “não usaria novamente”).
 
-      The baseline represents the base usage for each tool and the offsets
-      correspond to the delta from this baseline in each range. Let's say
-      tool X has an overall usage of 10% across all respondents (the baseline),
-      then if the percentage of users having from 1 to 2 years of experience
-      using this tool is 13% (compared to all users having from 1 to 2 years
-      of experience), then we have a positive delta of +3%.
+      A linha de base representa o uso base para cada ferramenta e os deslocamentos
+      correspondem à variação desta linha de base em cada intervalo. Digamos que
+      a ferramenta X tem um uso geral de 10% em todos os entrevistados (a linha de base),
+      então, se a porcentagem de usuários com 1 a 2 anos de experiência
+      usando esta ferramenta é de 13% (comparado a todos os usuários com 1 a 2 anos
+      de experiência), então temos uma variação positiva de +3%.
   - key: blocks.tools_usage_variations.note
     t: |
-      Please keep in mind that tools having a lower overall usage tends to vary more.
+      Lembre-se de que as ferramentas com um uso geral mais baixo tendem a variar mais.
 
   # Recommended Resources
   - key: blocks.recommended_resources
-    t: Recommended Resources
+    t: Recursos recomendados
 
   # Brackets
   - key: tool_evaluation.tool_evaluation_wins
-    t: Library Evaluation Rankings
+    t: Classificações de avaliação da biblioteca
   - key: tool_evaluation.tool_evaluation_wins.description
-    t: Which factors do you prioritize when evaluating a new library? Results are ranked by number of tournament rounds won.
+    t: Quais fatores você prioriza ao avaliar uma nova biblioteca? Os resultados são classificados pelo número de rodadas do torneio vencidas.
 
   - key: tool_evaluation.tool_evaluation_matchups
-    t: Library Evaluation Rankings (Matchups)
+    t: Classificações de avaliação da biblioteca (combinações)
   - key: tool_evaluation.tool_evaluation_matchups.description
-    t: Which factors do you prioritize when evaluating a new library? Percentage of rounds won by left-hand item against top-side item.
+    t: Quais fatores você prioriza ao avaliar uma nova biblioteca? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item do topo.
 
   ###########################################################################
   # Charts
