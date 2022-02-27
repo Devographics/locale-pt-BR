@@ -446,7 +446,7 @@ translations:
     t: Divisão Positiva/Negativa
   - key: blocks.tools_experience_marimekko.description
     t: |
-      Este gráfico divide positivo (“quer aprender”, “usaria novamente”) vs.
+      Este gráfico divide experiências positivas (“quer aprender”, “usaria novamente”) e
       experiências negativas (“não tenho interesse”, “não usaria novamente”) em
       ambos os lados de um eixo central.
 
