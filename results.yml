@@ -494,7 +494,7 @@ translations:
       - Satisfação: **usaria novamente** / (**usaria novamente** + **não usaria novamente**)
       - Interesse: **quer aprender** / (**quer aprender** + **não tenho interesse**)
       - Uso: (**usaria novamente** + **não usaria novamente**) / **total**
-      - Conhecimento: (**total** - **nunca ouvido**) / **total**
+      - Conhecimento: (**total** - **não conheço**) / **total**
   # happiness
   - key: blocks.happiness
     t: Felicidade geral
