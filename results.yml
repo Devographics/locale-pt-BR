@@ -480,7 +480,7 @@ translations:
   - key: blocks.tools_section_overview.description
     t: |
       Visão geral das opiniões sobre as tecnologias pesquisadas. Segmentos mais escuros representam opiniões positivas,
-      enquanto segmentos mais leves correspondem ao sentimento negativo.
+      enquanto segmentos mais claros correspondem a sentimentos negativos.
 
   # tools experience ranking
   - key: blocks.tools_experience_ranking
