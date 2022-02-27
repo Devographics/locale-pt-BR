@@ -707,7 +707,7 @@ translations:
   - key: charts.tools_arrows.popularity_positive
     t: Popularidade crescendo
   - key: charts.tools_arrows.popularity_negative
-    t: Popularidade em queda
+    t: Popularidade decrescendo
 
   - key: charts.no_answer
     t: Sem resposta
