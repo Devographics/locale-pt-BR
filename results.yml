@@ -392,7 +392,7 @@ translations:
     t: Cardinalidade de uso de tecnologia
   - key: blocks.all_sections_tools_cardinality_by_user.description
     t: >
-        Para cada seção, qual porcentagem de respondentes **usa**
+        Para cada seção, qual porcentagem de entrevistados **usa**
         (definido como tendo respondido “usaria novamente”) uma, duas, três, etc. tecnologias.
         A barra inferior representa a soma de todas as outras barras.
 
