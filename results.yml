@@ -500,7 +500,7 @@ translations:
     t: Felicidade geral
   - key: blocks.happiness.description
     t: |
-      Em uma escala de um (muito insatisfeito) a cinco (muito feliz), quão felizes estão os desenvolvedores
+      Em uma escala de um (muito insatisfeito) a cinco (muito satisfeito), quão satisfeitos estão os desenvolvedores
       com o estado geral atual desta categoria?
 
   # newsletter
