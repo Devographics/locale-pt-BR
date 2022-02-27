@@ -657,7 +657,7 @@ translations:
   - key: charts.axis_legends.awareness_percentage
     t: Conhecimento %
   - key: charts.axis_legends.happiness
-    t: Felicidade
+    t: Satisfação
   - key: charts.axis_legends.knowledge_score
     t: Recursos conhecidos
   - key: charts.axis_legends.frequency
