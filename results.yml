@@ -619,7 +619,7 @@ translations:
   - key: chart_units.percentage_question
     t: "% das perguntas respondidas"
   - key: chart_units.percentage_survey
-    t: "% as pesquisas"
+    t: "% das pesquisas"
 
   - key: charts.average
     t: Médio
