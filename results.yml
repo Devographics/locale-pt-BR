@@ -433,7 +433,7 @@ translations:
   - key: blocks.category_other_tools
     t: Outras ferramentas
   - key: blocks.category_other_tools.description
-    t: Outras ferramentas nesta categoria (respostas de livres).
+    t: Outras ferramentas nesta categoria (respostas livres).
 
   # tool experience
   - key: blocks.tool_experience
