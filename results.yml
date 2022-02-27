@@ -611,106 +611,106 @@ translations:
   ###########################################################################
 
   - key: chart_units.respondents
-    t: "{count} question respondents ({percentage}% completion percentage)"
+    t: "{count} perguntas respondidas ({percentage}% completo)"
   - key: chart_units.percentage
-    t: Percents
+    t: Porcentagens
   - key: chart_units.count
-    t: Count
+    t: Contagem
   - key: chart_units.percentage_question
-    t: "% of question respondents"
+    t: "% das perguntas respondidas"
   - key: chart_units.percentage_survey
-    t: "% of survey respondents"
+    t: "% as pesquisas"
 
   - key: charts.average
-    t: Average
+    t: Médio
   - key: charts.mean
-    t: Mean
+    t: Média
   - key: charts.overall
-    t: Overall
+    t: Geral
   - key: charts.all_respondents
-    t: All Respondents
+    t: Todos os entrevistados
   - key: charts.facet_responses
-    t: '{count} responses'
+    t: '{count} respostas'
 
   - key: charts.axis_legends.years_of_experience
-    t: Years of Experience
+    t: Anos de experiência
   - key: charts.axis_legends.yearly_salary
-    t: Salary Range (USD)
+    t: Faixa salarial (Dólares americano)
   - key: charts.axis_legends.company_size
-    t: Number of Employees
+    t: Número de funcionários
   - key: charts.axis_legends.backend_proficiency
-    t: Back-end Proficiency
+    t: Proficiência em back-end
   - key: charts.axis_legends.css_proficiency
-    t: CSS Proficiency
+    t: Proficiência em CSS
   - key: charts.axis_legends.javascript_proficiency
-    t: JavaScript Proficiency
+    t: Proficiência em JavaScript
   - key: charts.axis_legends.users_percentage
-    t: Percentage of Users
+    t: Porcentagem de usuários
   - key: charts.axis_legends.users_count
-    t: User Count
+    t: Contagem de usuários
   - key: charts.axis_legends.interest_percentage
-    t: Interest %
+    t: Interesse %
   - key: charts.axis_legends.satisfaction_percentage
-    t: Satisfaction %
+    t: Satifação %
   - key: charts.axis_legends.usage_percentage
-    t: Usage %
+    t: Uso %
   - key: charts.axis_legends.awareness_percentage
-    t: Awareness %
+    t: Conhecimento %
   - key: charts.axis_legends.happiness
-    t: Happiness
+    t: Felicidade
   - key: charts.axis_legends.knowledge_score
-    t: Known Features
+    t: Recursos conhecidos
   - key: charts.axis_legends.frequency
-    t: Frequency
+    t: Frequência
   - key: charts.axis_legends.age
-    t: Age
+    t: Idade
   - key: charts.axis_legends.users_percentage_survey
-    t: "% of survey respondents"
+    t: "% de respostas a pesquisa"
   - key: charts.axis_legends.users_percentage_question
-    t: "% of question respondents"
+    t: "% de entrevistados"
 
   - key: charts.ranges_multiple_diverging_lines.baseline
-    t: baseline
+    t: base
   - key: charts.ranges_multiple_diverging_lines.positive_offset
-    t: positive offset
+    t: deslocamento positivo
   - key: charts.ranges_multiple_diverging_lines.negative_offset
-    t: negative offset
+    t: deslocamento negativo
 
   - key: charts.tools_arrows.negative_opinion
-    t: Negative opinions
+    t: Opiniões negativas
   - key: charts.tools_arrows.positive_opinion
-    t: Positive opinions
+    t: Opiniões positivas
   - key: charts.tools_arrows.have_not_used
-    t: Have not used
+    t: Não usei
   - key: charts.tools_arrows.have_used
-    t: Have used
+    t: Já usei
   - key: charts.tools_arrows.x_axis
-    t: X-axis range
+    t: Intervalo do eixo X
   - key: charts.tools_arrows.y_axis
-    t: Y-axis range
+    t: Intervalo do eixo Y
   - key: charts.tools_arrows.legend
-    t: Legend
+    t: Legenda
   - key: charts.tools_arrows.velocity
-    t: Velocity
+    t: Velocidade
   - key: charts.tools_arrows.velocity_positive
-    t: Overall more positive opinions and/or usage over time
+    t: No geral, mais opiniões positivas e/ou uso ao longo do tempo
   - key: charts.tools_arrows.velocity_negative
-    t: Overall more negative opinions and/or less usage over time
+    t: No geral, mais opiniões negativas e/ou menos uso ao longo do tempo
   - key: charts.tools_arrows.opinions_positive
-    t: Mostly positive opinions
+    t: Mais opiniões positivas
   - key: charts.tools_arrows.opinions_negative
-    t: Mostly negative opinions
+    t: Mais opiniões negativas
   - key: charts.tools_arrows.low_usage
-    t: Low usage
+    t: Pouco uso
   - key: charts.tools_arrows.high_usage
-    t: High usage
+    t: Muito uso
   - key: charts.tools_arrows.popularity_positive
-    t: Rising popularity
+    t: Popularidade crescendo
   - key: charts.tools_arrows.popularity_negative
-    t: Falling popularity
+    t: Popularidade em queda
 
   - key: charts.no_answer
-    t: No Answer
+    t: Sem resposta
 
   ###########################################################################
   # Sharing
