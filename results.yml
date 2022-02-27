@@ -765,21 +765,21 @@ translations:
   # Tables
   ###########################################################################
   - key: table.label
-    t: Label
+    t: Rótulo
   - key: table.item
     t: Item
   - key: table.percentage_survey
-    t: "% of survey respondents"
+    t: "% das pesquisas"
   - key: table.percentage_question
-    t: "% of question respondents"
+    t: "% de perguntas respondidas"
   - key: table.percentage_facet
-    t: "% of facet respondents"
+    t: "% de entrevistados únicos."
   - key: table.count
-    t: Count
+    t: Contagem
   - key: table.year
-    t: Year
+    t: Ano
   - key: table.mean
-    t: Mean
+    t: Média
   - key: table.usage
     aliasFor: options.features_simplified.used_it
   - key: table.awareness
@@ -800,27 +800,27 @@ translations:
 
 
   - key: table.percentages_table
-    t: Percentages
+    t: Porcentagens
   - key: table.rankings_table
     t: Rankings
 
   - key: table.satisfaction_rank
-    t: Satisfaction Rank
+    t: Classificação de satisfação
   - key: table.interest_rank
-    t: Interest Rank
+    t: Classificação de interesse
   - key: table.usage_rank
-    t: Usage Rank
+    t: Classificação de uso
   - key: table.awareness_rank
-    t: Awareness Rank
+    t: Classificação de conhecimento
 
   - key: table.would_not_use_percentage
-    t: Would not use %
+    t: Não usaria %
   - key: table.not_interested_percentage
-    t: Not interested %
+    t: Não interessado %
   - key: table.would_use_percentage
-    t: Would use again %
+    t: Usaria novamente %
   - key: table.interested_percentage
-    t: Interested %
+    t: Interessado %
 
   ###########################################################################
   # Awards
