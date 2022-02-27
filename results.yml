@@ -383,7 +383,7 @@ translations:
 
   # tool
   - key: blocks.entity.homepage_link
-    t: Pagina inicial
+    t: Página inicial
   - key: blocks.entity.github_link
     t: GitHub
 
