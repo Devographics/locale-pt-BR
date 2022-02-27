@@ -577,7 +577,7 @@ translations:
   - key: blocks.tools_usage_variations.description
     t: |
       Como diferentes fatores, como faixa salarial, anos de experiência
-      ou o tamanho da empresa influencia o uso (participantes que responderam
+      ou o tamanho da empresa influenciam o uso (participantes que responderam
       “usaria novamente” ou “não usaria novamente”).
 
       A linha de base representa o uso base para cada ferramenta e os deslocamentos
