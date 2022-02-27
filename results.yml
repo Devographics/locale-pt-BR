@@ -585,7 +585,7 @@ translations:
       a ferramenta X tem um uso geral de 10% em todos os entrevistados (a linha de base),
       então, se a porcentagem de usuários com 1 a 2 anos de experiência
       usando esta ferramenta é de 13% (comparado a todos os usuários com 1 a 2 anos
-      de experiência), então temos um delta positivo de +3%.
+      de experiência), então temos uma variação positiva de +3%.
   - key: blocks.tools_usage_variations.note
     t: |
       Lembre-se de que as ferramentas com um uso geral mais baixo tendem a variar mais.
