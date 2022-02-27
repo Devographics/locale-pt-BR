@@ -635,7 +635,7 @@ translations:
   - key: charts.axis_legends.years_of_experience
     t: Anos de experiência
   - key: charts.axis_legends.yearly_salary
-    t: Faixa salarial (Dólares americano)
+    t: Faixa salarial (em dólar americano)
   - key: charts.axis_legends.company_size
     t: Número de funcionários
   - key: charts.axis_legends.backend_proficiency
