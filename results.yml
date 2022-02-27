@@ -447,7 +447,7 @@ translations:
   - key: blocks.tools_experience_marimekko.description
     t: |
       Este gráfico divide experiências positivas (“quer aprender”, “usaria novamente”) e
-      experiências negativas (“não tenho interesse”, “não usaria novamente”) em
+      negativas (“não tenho interesse”, “não usaria novamente”) em
       ambos os lados de um eixo central.
 
       A espessura da barra representa o número de entrevistados cientes de uma tecnologia.
