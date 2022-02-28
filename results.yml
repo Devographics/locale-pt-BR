@@ -826,52 +826,52 @@ translations:
   ###########################################################################
 
   - key: awards.runner_ups
-    t: Runner Ups
+    t: Finalistas
 
   - key: award.feature_adoption_award.title
-    t: Most Used Feature
+    t: Recurso mais usado
   - key: award.feature_adoption_award.description
-    t: Awarded to the most adopted feature.
+    t: Concedido ao recurso mais adotado.
 
   - key: award.feature_adoption_delta_award.title
-    t: Most Adopted Feature
+    t: Recurso mais adotado
   - key: award.feature_adoption_delta_award.description
-    t: Awarded to the feature with the largest year-over-year ”have used” progression.
+    t: Concedido ao recurso com a maior progressão ano a ano de "usados".
 
   - key: award.tool_usage_award.title
-    t: Most Used Technology
+    t: Tecnologia mais usada
   - key: award.tool_usage_award.description
-    t: Awarded to the technology with the largest user base.
+    t: Concedido à tecnologia com a maior base de usuários.
 
   - key: award.tool_usage_delta_award.title
-    t: Most Adopted Technology
+    t: Tecnologia mais adotada
   - key: award.tool_usage_delta_award.description
-    t: Awarded to the technology with the largest year-over-year “would use again” progression.
+    t: Concedido à tecnologia com a maior progressão de “usaria novamente” ano a ano.
 
   - key: award.tool_satisfaction_award.title
-    t: Highest Satisfaction
+    t: Maior satisfação
   - key: award.tool_satisfaction_award.description
-    t: Awarded to the technology with the highest percentage of satisfied users.
+    t: Concedido à tecnologia com a maior porcentagem de usuários satisfeitos.
 
   - key: award.tool_interest_award.title
-    t: Highest Interest
+    t: Maior interesse
   - key: award.tool_interest_award.description
-    t: Awarded to the technology developers are most interested in learning once they are aware of it.
+    t: Concedido a desenvolvedores mais interessados em aprender uma vez que estejam cientes da existencia
 
   - key: award.resource_usage_award.title
-    t: Most Used Resource
+    t: Recurso mais usado
   - key: award.resource_usage_award.description
-    t: Awarded to the resource with the largest user base.
+    t: Concedido ao recurso com a maior base de usuários.
 
   - key: award.prediction_award.title
-    t: Prediction Award
+    t: Prêmio de previsão
   - key: award.prediction_award.description
-    t: Awarded to an up-and-coming technology that might take over… or not?
+    t: Concedido a uma tecnologia promissora que pode superar... ou não?
 
   - key: award.most_write_ins_award.title
-    t: Most Write-Ins
+    t: Maioria das inscrições
   - key: award.most_write_ins_award.description
-    t: Awarded to the item with the most write-in answers
+    t: Concedido ao item com mais respostas escritas
 
   ###########################################################################
   # Hints
