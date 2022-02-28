@@ -938,90 +938,91 @@ translations:
   ###########################################################################
 
   - key: sections.sponsor_finish.title
-    t: Thanks
+    t: Obrigado
 
   - key: sponsor.sponsor_finish
     t: >
-      Thanks for supporting the survey. Your avatar should appear next to the chart you picked
-      within the next hour or so. If it doesn't, please [get in touch](mailto:chartsponsor@stateofjs.com).
+      Obrigado por apoiar a pesquisa. Seu avatar deve aparecer ao lado do gráfico que você escolheu
+      na próxima hora mais ou menos. Se isso não acontecer, por favor [entre em contato](mailto:chartsponsor@stateofjs.com).
 
 
   - key: sponsor.sponsored_by
     t: >
-        **{name}** donated **${amount}** to sponsor this chart
+        **{name}** doou **${amount}** para patrocinar esse gráfico
 
   - key: sponsor.sponsor_button
-    t: Sponsor This Chart
+    t: Patrocine este gráfico
 
   - key: sponsor.sponsor_chart.title
-    t: Sponsor Chart "{title}"
+    t: Gráfico de patrocinadores "{title}"
 
   - key: sponsor.sponsor_chart.description
     t: >
-        Support this survey financially by donating $10 or more, and get your
-        Twitter avatar featured next to a chart!
+        Apoie esta pesquisa financeiramente doando US$ 10 ou mais e tenha seu
+        avatar do Twitter em destaque ao lado de um gráfico!
 
   - key: sponsor.chart_id
-    t: 'Chart ID: '
+    t: 'ID do gráfico: '
 
   - key: sponsor.sponsor_this_chart
-    t: Sponsor This Chart (${baseAmount}+)
+    t: Patrocine este gráfico (${baseAmount}+)
 
   - key: sponsor.how_it_works.title
-    t: How It Works
+    t: Como funciona
 
   - key: sponsor.how_it_works.description
     t: >
-      1. When you **click the "Sponsor This Chart" button**, you will be redirected to our partner [SendOwl](https://www.sendowl.com/)'s checkout page.
+      1. Ao **clicar no botão "Patrocinar este gráfico"**, você será redirecionado para a página de checkout do nosso parceiro [SendOwl](https://www.sendowl.com/).
 
 
-      2. You can then **adjust the amount** you'd like to sponsor the survey for, starting at USD10.
+      2. Você pode **ajustar o valor** para o qual deseja patrocinar a pesquisa, a partir de US$ 10.
 
 
-      3. Once you checkout, you will be able to **provide your Twitter username**.
+      3. Depois de finalizar a compra, você poderá **fornecer seu nome de usuário do Twitter**.
 
 
-      4. You will see a **File Download** page, but you can safely ignore it.
+      4. Você verá uma página **Download de arquivo**, mas pode ignorá-la com segurança.
 
 
-      5. The site will rebuild in the background and your username and donation will **appear next to the chart within the next hour**.
+      5. O site será reconstruído em segundo plano e seu nome de usuário e doação **aparecerão ao lado do gráfico na próxima hora**.
 
 
   - key: sponsor.faq.title
-    t: F.A.Q.
+    t: Perguntas frequentes
 
   - key: sponsor.faq.usage.title
-    t: What will my donation be used for?
+    t: Para que servirá minha doação?
 
   - key: sponsor.faq.usage.description
-    t: Your donation will help support survey maintainers, as well as help hire more contributors (illustrators, accessibilty and diversity experts, etc.).
+    t: Sua doação ajudará a apoiar os mantenedores da pesquisa, bem como a contratar mais colaboradores (ilustradores, especialistas em acessibilidade e diversidade, etc.).
 
   - key: sponsor.faq.public.title
-    t: Will my donation be public?
+    t: Minha doação será pública?
 
   - key: sponsor.faq.public.description
-    t: Yes. Your **Twitter username** as well as the **amount you donated** will be displayed publicly next to the chart.
+    t: Sim. Seu **nome de usuário do Twitter**, bem como o **valor que você doou**, serão exibidos publicamente ao lado do gráfico.
 
   # - key: sponsor.faq.donation_public.title
-  #   t: Can I donate on somebody else's behalf?
+  #   t: Posso doar em nome de outra pessoa?
 
   # - key: sponsor.faq.donation_public.description
-  #   t: You can enter a Twitter username other than your own, but that person will have the right to remove the donation if they request it.
+  #   t: Você pode inserir um nome de usuário do Twitter diferente do seu, mas essa pessoa terá o direito de remover a doação se solicitar.
 
   - key: sponsor.faq.refund.title
-    t: What's your refund policy?
+    t: Qual é a sua política de reembolso?
 
   - key: sponsor.faq.refund.description
-    t: All donations are refundable within a 1-week period, minus transaction fees.
+    t: Todas as doações são reembolsáveis ​​dentro de um período de uma semana, menos as taxas de transação.
 
   - key: sponsor.faq.influence.title
-    t: Do donations influence the survey contents?
+    t: As doações influenciam o conteúdo da pesquisa?
 
   - key: sponsor.faq.influence.description
-    t: Donations take place once the survey is already published, and donors to not have any influence on the contents of the survey.
+    t: As doações ocorrem assim que a pesquisa já estiver publicada, e os doadores não devem ter qualquer influência sobre o conteúdo da pesquisa.
 
   - key: sponsor.faq.feedback.title
-    t: Where can I leave feedback/ask questions?
+    t: Onde posso deixar comentários/fazer perguntas?
 
   - key: sponsor.faq.feedback.description
-    t: You can do so [on GitHub](https://github.com/StateOfJS/Monorepo/issues/69) or [in our Discord](https://discord.gg/tuWRUWVyJs).
+    t: Você pode fazer isso [no GitHub](https://github.com/StateOfJS/Monorepo/issues/69) ou [no nosso Discord](https://discord.gg/tuWRUWVyJs).
+
