@@ -890,7 +890,7 @@ translations:
   - key: hints.export_hint
     t: >
       A guia <span class="hint-icon hint-export-button">Dados</span permite visualizar os dados brutos
-      dados para qualquer gráfico, visualize-o como JSON ou obtenha uma consulta GraphQL que você pode
+      para qualquer gráfico, visualize-o como JSON ou obtenha uma consulta GraphQL que você pode
       executar em nossa API pública.
 
   - key: hints.completion_hint
