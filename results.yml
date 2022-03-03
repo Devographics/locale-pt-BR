@@ -856,7 +856,7 @@ translations:
   - key: award.tool_interest_award.title
     t: Maior interesse
   - key: award.tool_interest_award.description
-    t: Concedido a desenvolvedores mais interessados em aprender uma vez que estejam cientes da existencia
+    t: Concedido a desenvolvedores mais interessados em aprender uma vez que estejam cientes da existência.
 
   - key: award.resource_usage_award.title
     t: Recurso mais usado
