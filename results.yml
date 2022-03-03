@@ -846,7 +846,7 @@ translations:
   - key: award.tool_usage_delta_award.title
     t: Tecnologia mais adotada
   - key: award.tool_usage_delta_award.description
-    t: Concedido à tecnologia com a maior progressão de “usaria novamente” ano a ano.
+    t: Concedido à tecnologia com a maior progressão de "usaria novamente" ano a ano.
 
   - key: award.tool_satisfaction_award.title
     t: Maior satisfação
