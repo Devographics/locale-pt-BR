@@ -716,41 +716,41 @@ translations:
   ###########################################################################
 
   - key: share.share
-    t: Share
+    t: Compartilhar
   - key: share.options
-    t: Share Options
+    t: Opções de compartilhamento
   - key: share.preview
-    t: Social media preview
+    t: Visualização de mídia social
   - key: share.site.title
-    t: Discover the {siteTitle} results
+    t: Descubra os resultados de {siteTitle}
   - key: share.site.twitter_text
-    t: "Discover the {siteTitle} results {link} {hashtag}"
+    t: "Descubra os resultados de {siteTitle} {link} {hashtag}"
   - key: share.site.subject
-    t: "{siteTitle} Survey Results"
+    t: "Resultados da pesquisa {siteTitle}"
   - key: share.site.body
-    t: "Here are some interesting survey results: {link}"
+    t: "Aqui estão alguns resultados interessantes da pesquisa: {link}"
   - key: share.block.twitter_text
     t: "{hashtag} {year}: {title} {link}"
   - key: share.block.subject
-    t: "{siteTitle} Survey Results"
+    t: "Resultados da pesquisa {siteTitle}"
   - key: share.block.body
-    t: "Here are some interesting survey results ({title}): {link}"
+    t: "Aqui estão alguns resultados interessantes da pesquisa ({title}): {link}"
   - key: share.twitter
-    t: Share on Twitter
+    t: Compartilhar no Twitter
   - key: share.facebook
-    t: Share on Facebook
+    t: Compartilhar no Facebook
   - key: share.linkedin
-    t: Share on LinkedIn
+    t: Compartilhar no LinkedIn
   - key: share.email
-    t: Share by email
+    t: Compartilhar via email
   - key: share.image
-    t: Get image
+    t: Obter imagem
   - key: share.link
-    t: Link to section
+    t: Link para seção
   - key: share.url
-    t: Get link
+    t: Obter link
   - key: share.close
-    t: Close
+    t: Fechar
 
   ###########################################################################
   # Views
