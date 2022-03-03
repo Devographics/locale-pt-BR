@@ -879,59 +879,58 @@ translations:
 
   - key: hints.hint_hint
     t: >
-      You'll find little hints like this one throughout the survey results
-      that will point out extra features and details.
+      Você encontrará pequenas dicas como esta ao longo dos resultados da pesquisa
+      que apontaram recursos e detalhes extras.
 
   - key: hints.units_switcher_hint
     t: >
-      You can use the segmented control at the bottom of each block to switch
-      between different units to get an alternate view of the same data.
+      Você pode usar o controle segmentado na parte inferior de cada bloco para alternar
+      entre diferentes unidades para obter uma visão alternativa dos mesmos dados.
 
   - key: hints.export_hint
     t: >
-      The <span class="hint-icon hint-export-button">Data</span> tab lets you view the raw
-      data for any chart, view it as JSON, or get a GraphQL query you can
-      run against our public API.
+      A guia <span class="hint-icon hint-export-button">Dados</span permite visualizar os dados brutos
+      para qualquer gráfico, visualize-o como JSON ou obtenha uma consulta GraphQL que você pode
+      executar em nossa API pública.
 
   - key: hints.completion_hint
     t: >
-      Since all questions are optional, some of them got fewer responses than others.
-      The completion indicator (<span class="hint-completion-indicator">◕</span>) tells you exactly how many people answered any given question.
+      Como todas as perguntas são opcionais, algumas delas obtiveram menos respostas do que outras.
+      O indicador de conclusão  (<span class="hint-completion-indicator">◕</span>) informa exatamente quantas pessoas responderam a uma determinada pergunta.
 
   - key: hints.tool_modal_hint
     t: >
-      You can click on any technology name to get extra details and
-      a more in-depth look at its related data.
+      Você pode clicar em qualquer nome de tecnologia para obter detalhes extras e
+      um olhar mais aprofundado em seus dados relacionados.
 
   - key: hints.rankings_modes_hint
     t: >
-      The Rankings chart can be toggled between satisfaction, interest, usage, and awareness
-      to give you a fuller picture of a category's rankings.
+      O gráfico de classificações pode ser alternado entre satisfação, interesse, uso e reconhecimento
+      para lhe dar uma visão mais completa das classificações de uma categoria.
 
   - key: hints.sharing_hint
     t: >
-      Sharing this survey on Twitter, Facebook, or by email is scientifically proven to
-      improve your coding performance by up to 15%.
+      Compartilhar esta pesquisa no Twitter, Facebook ou por e-mail é cientificamente comprovado que
+      seu desempenho em codificação melhora em até 15%.
 
   - key: hints.tshirt_hint
     t: >
-      Another guaranteed scientific finding: buying our t-shirt will
-      increase your programming skills by over 9000!
+      Outra descoberta científica garantida: comprar nossa camiseta
+      aumente suas habilidades de programação em mais de 9000!
 
   - key: hints.variants_hint
     t: >
-      Some charts feature additional tabs that offer complementary breakdowns of the same data,
-      or related data. Make sure to check them out!
+      Alguns gráficos apresentam guias adicionais que oferecem detalhamentos complementares dos mesmos dados,
+      ou dados relacionados. Certifique-se de vê-los!
 
   - key: hints.share_hint
     t: >
-      The <span class="hint-icon hint-share-button">Share</span> tab makes it easy to share any chart,
-      or even download it as an image.
-
+      A aba de <span class="hint-icon hint-share-button">Compartilhamento</span> facilita o compartilhamento de qualquer gráfico,
+      ou até mesmo baixá-lo como uma imagem.
   - key: hints.bracket_hint
     t: >
-      <span class="hint-bracket"><span class="hint-text">The following chart provides the results of a tournament-style 8-player bracket in which
-      respondents were tasked with picking the winner of each match-up until a single winner remained.</span><span class="hint-diagram"/></span>
+      <span class="hint-bracket"><span class="hint-text">A tabela a seguir fornece os resultados de uma chave de 8 jogadores no estilo de torneio em que
+      os entrevistados foram encarregados de escolher o vencedor de cada partida até que restasse um único vencedor.</span><span class="hint-diagram"/></span>
 
   ###########################################################################
   # Sponsor Chart
