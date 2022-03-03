@@ -880,7 +880,7 @@ translations:
   - key: hints.hint_hint
     t: >
       Você encontrará pequenas dicas como esta ao longo dos resultados da pesquisa
-      que apontará recursos e detalhes extras.
+      que apontaram recursos e detalhes extras.
 
   - key: hints.units_switcher_hint
     t: >
