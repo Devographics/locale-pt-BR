@@ -802,7 +802,7 @@ translations:
   - key: table.percentages_table
     t: Porcentagens
   - key: table.rankings_table
-    t: Rankings
+    t: Classificações
 
   - key: table.satisfaction_rank
     t: Classificação de satisfação
