@@ -169,7 +169,7 @@ translations:
     - key: options.what_do_you_use_css_for.mobile_apps
       t: Aplicativos móveis
     - key: options.what_do_you_use_css_for.css_art
-      t:Arte e ilustrações CSS
+      t: Arte e ilustrações CSS
     - key: options.what_do_you_use_css_for.emails
       t: E-mails
     - key: options.what_do_you_use_css_for.printed_documents
