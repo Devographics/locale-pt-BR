@@ -52,7 +52,7 @@ translations:
     - key: sections.accessibility.title
       t: Accessibility
     - key: sections.accessibility.description
-      t: Accessibility features and techniques. 
+      t: Accessibility features and techniques.
 
     - key: sections.media_queries.title
       t: Media Queries
@@ -183,7 +183,7 @@ translations:
     - key: options.css_pain_points.interactions
       t: Interactions
     - key: options.css_pain_points.interactions.description
-      t: Responding to user input or other events (scroll, hover, etc.). 
+      t: Responding to user input or other events (scroll, hover, etc.).
     - key: options.css_pain_points.architecture
       t: Architecture & Maintenance
     - key: options.css_pain_points.architecture.description
@@ -191,7 +191,7 @@ translations:
     - key: options.css_pain_points.layout_positioning
       t: Layout & Positioning
     - key: options.css_pain_points.layout_positioning.description
-      t: Setting up layouts and making sure elements go where you want them to. 
+      t: Setting up layouts and making sure elements go where you want them to.
     - key: options.css_pain_points.scoping_specificity
       t: Scoping & Specificity
     - key: options.css_pain_points.scoping_specificity.description
@@ -199,22 +199,22 @@ translations:
     - key: options.css_pain_points.responsive_design
       t: Responsive Design
     - key: options.css_pain_points.responsive_design.description
-      t: Adapting layouts and designs for different form factors. 
+      t: Adapting layouts and designs for different form factors.
     - key: options.css_pain_points.form_elements_styling
       t: Form Elements Styling
     - key: options.css_pain_points.form_elements_styling.description
-      t: Customizing how form elements look and behave. 
+      t: Customizing how form elements look and behave.
     - key: options.css_pain_points.performance_issues
-      t: Performance Issues 
+      t: Performance Issues
     - key: options.css_pain_points.performance_issues.description
-      t: Dealing with scrolling jank, making animations smoother, etc. 
+      t: Dealing with scrolling jank, making animations smoother, etc.
 
 
     # CSS missing features (same as features section)
     - key: options.currently_missing_from_css.nesting
       t: Nesting
     - key: options.currently_missing_from_css.nesting.description
-      t: Being able to nest styles in native CSS. 
+      t: Being able to nest styles in native CSS.
     - key: options.currently_missing_from_css.parent_selector
       t: Parent Selector
     - key: options.currently_missing_from_css.parent_selector.description
@@ -226,11 +226,11 @@ translations:
     - key: options.currently_missing_from_css.mixins
       t: Mixins
     - key: options.currently_missing_from_css.mixins.description
-      t: Group and reuse definitions dynamically.  
+      t: Group and reuse definitions dynamically.
     - key: options.currently_missing_from_css.color_functions
       t: Color Functions
     - key: options.currently_missing_from_css.color_functions.description
-      t: Functions for manipulating color values. 
+      t: Functions for manipulating color values.
     - key: options.currently_missing_from_css.container_queries
       t: Container Queries
     - key: options.currently_missing_from_css.container_queries.description
@@ -238,11 +238,11 @@ translations:
     - key: options.currently_missing_from_css.scoping
       t: Scoping
     - key: options.currently_missing_from_css.scoping.description
-      t: The ability to be more specific about where your styles are applied. 
+      t: The ability to be more specific about where your styles are applied.
     - key: options.currently_missing_from_css.subgrid
       t: Subgrid
     - key: options.currently_missing_from_css.subgrid.description
-      t: Nesting deeper-level subgrids into a parent grid. 
+      t: Nesting deeper-level subgrids into a parent grid.
 
     ###########################################################################
     # Features
@@ -426,7 +426,7 @@ translations:
     - key: features.nesting
       t: Nesting
     - key: features.nesting.description
-      t: Being able to nest styles in native CSS. 
+      t: Being able to nest styles in native CSS.
     - key: features.parent_selector
       t: Parent Selector
     - key: features.parent_selector.description
@@ -438,11 +438,11 @@ translations:
     - key: features.mixins
       t: Mixins
     - key: features.mixins.description
-      t: Group and reuse definitions dynamically.  
+      t: Group and reuse definitions dynamically.
     - key: features.color_functions
       t: Color Functions
     - key: features.color_functions.description
-      t: Functions for manipulating color values. 
+      t: Functions for manipulating color values.
     - key: features.container_queries
       t: Container Queries
     - key: features.container_queries.description
@@ -450,20 +450,20 @@ translations:
     - key: features.scoping
       t: Scoping
     - key: features.scoping.description
-      t: The ability to be more specific about where your styles are applied. 
+      t: The ability to be more specific about where your styles are applied.
     - key: features.subgrid
       t: Subgrid
     - key: features.subgrid.description
-      t: Nesting deeper-level subgrids into a parent grid. 
+      t: Nesting deeper-level subgrids into a parent grid.
 
     ###########################################################################
     # Units & Selectors
     ###########################################################################
 
     - key: features_others.units
-      t: Units
+      t: Unidades
     - key: features_others.units.description
-      t: Which of these CSS units have you used?
+      t: Quais dessas unidades CSS você já usou?
 
     - key: options.units.px
       t: px
@@ -491,9 +491,9 @@ translations:
       t: in
 
     - key: features_others.pseudo_elements
-      t: Pseudo Elements
+      t: Pseudo elementos
     - key: features_others.pseudo_elements.description
-      t: Which of these CSS pseudo-elements have you used?
+      t: Quais desses pseudo-elementos CSS você já usou?
 
     - key: options.pseudo_elements.before
       t: '::before'
@@ -513,23 +513,23 @@ translations:
       t: '::backdrop'
 
     - key: features_others.combinators
-      t: Combinators
+      t: Combinadores
     - key: features_others.combinators.description
-      t: Which of these combinations CSS selectors have you used?
+      t: Quais destas combinações de seletores CSS você já usou?
 
     - key: options.combinators.descendant
-      t: div span (descendant)
+      t: div span (descendente)
     - key: options.combinators.child
-      t: div > span (child)
+      t: div > span (filho)
     - key: options.combinators.next_sibling
-      t: div + div (next sibling)
+      t: div + div (próximo irmão)
     - key: options.combinators.subsequent_sibling
-      t: div ~ div (subsequent sibling)
+      t: div ~ div (irmão subsequente)
 
     - key: features_others.tree_document_structure
-      t: Tree / Document Structure
+      t: Árvore / Estrutura do Documento
     - key: features_others.tree_document_structure.description
-      t: Which of these structure related CSS selectors have you used?
+      t: Quais desses seletores CSS relacionados à estrutura você usou?
 
     - key: options.tree_document_structure.root
       t: :root
@@ -567,27 +567,27 @@ translations:
       t: :has()
 
     - key: features_others.attributes
-      t: Attributes
+      t: Atributos
     - key: features_others.attributes.description
-      t: Which of these CSS attributes selectors have you used?
+      t: Quais desses seletores de atributos CSS você já usou?
 
     - key: options.attributes.presence
-      t: div[foo] (Presence)
+      t: div[foo] (Presença)
     - key: options.attributes.equality
-      t: div[foo="bar"] (Equality)
+      t: div[foo="bar"] (Igualdade)
     - key: options.attributes.starts_with
-      t: div[foo^="bar"] (Starts with)
+      t: div[foo^="bar"] (Coneça com)
     - key: options.attributes.ends_with
-      t: div[foo$="bar"] (Ends with)
+      t: div[foo$="bar"] (Termina com)
     - key: options.attributes.contains_word
-      t: div[foo~="bar"] (Contains word)
+      t: div[foo~="bar"] (Contém palavra)
     - key: options.attributes.contains_substring
-      t: div[foo*="bar"] (Contains substring)
+      t: div[foo*="bar"] (Contém substring)
 
     - key: features_others.links_urls
       t: Links/URLs
     - key: features_others.links_urls.description
-      t: Which of these links & URLs related CSS selectors have you used?
+      t: Quais destes seletores de CSS relacionados a links e URLs você usou?
 
     - key: options.links_urls.any_link
       t: :any-link
@@ -599,9 +599,9 @@ translations:
       t: :target
 
     - key: features_others.interaction
-      t: Interaction
+      t: Interação
     - key: features_others.interaction.description
-      t: Which of these interaction CSS selectors have you used?
+      t: Quais desses seletores CSS de interação você já usou?
 
     - key: options.interaction.hover
       t: :hover
@@ -615,14 +615,14 @@ translations:
       t: :focus-visible
 
     - key: features_others.form_controls
-      t: Form Controls
+      t: Controles de formulário
     - key: features_others.form_controls.description
-      t: Which of these form related CSS selectors have you used?
+      t: Quais destes seletores CSS relacionados a formulários você usou?
 
     - key: options.form_controls.enabled_disabled
       t: :enabled and :disabled
     - key: options.form_controls.read_only_write
-      t: :read-only and :read-write
+      t: :read-only e :read-write
     - key: options.form_controls.placeholder_shown
       t: :placeholder-shown
     - key: options.form_controls.default
@@ -632,13 +632,13 @@ translations:
     - key: options.form_controls.indeterminate
       t: :indeterminate
     - key: options.form_controls.valid_invalid
-      t: :valid and :invalid
+      t: :valid e :invalid
     - key: options.form_controls.user_invalid
       t: :user-invalid
     - key: options.form_controls.in_out_range
-      t: :in-range and :out-of-range
+      t: :in-range e :out-of-range
     - key: options.form_controls.required_optional
-      t: :required and :optional
+      t: :required e :optional
 
     ###########################################################################
     # Environments
@@ -729,7 +729,7 @@ translations:
       t: Browser Incompatibilities
     - key: opinions_others.browser_interoperability_features.others.description
       t: >
-        Are there any CSS features you have difficulties using 
+        Are there any CSS features you have difficulties using
         because of differences between browsers?
 
     # Pain Points
@@ -752,7 +752,7 @@ translations:
       t: >
           These results were normalized based on the contents of a freeform field.
           To view the raw, unprocessed responses check out [whatsmissingfromcss.com](http://whatsmissingfromcss.com/).
-    
+
     - key: opinions.sum_up_one_word_css
       t: CSS in one word
     - key: opinions.sum_up_one_word_css.description
@@ -795,7 +795,7 @@ translations:
     ###########################################################################
     # Resources
     ###########################################################################
-    
+
     - key: resources.first_steps
       t: First Steps With CSS
     - key: resources.first_steps.description
