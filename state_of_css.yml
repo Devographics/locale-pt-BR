@@ -52,7 +52,7 @@ translations:
     - key: sections.accessibility.title
       t: Accessibility
     - key: sections.accessibility.description
-      t: Accessibility features and techniques. 
+      t: Accessibility features and techniques.
 
     - key: sections.media_queries.title
       t: Media Queries
@@ -183,7 +183,7 @@ translations:
     - key: options.css_pain_points.interactions
       t: Interactions
     - key: options.css_pain_points.interactions.description
-      t: Responding to user input or other events (scroll, hover, etc.). 
+      t: Responding to user input or other events (scroll, hover, etc.).
     - key: options.css_pain_points.architecture
       t: Architecture & Maintenance
     - key: options.css_pain_points.architecture.description
@@ -191,7 +191,7 @@ translations:
     - key: options.css_pain_points.layout_positioning
       t: Layout & Positioning
     - key: options.css_pain_points.layout_positioning.description
-      t: Setting up layouts and making sure elements go where you want them to. 
+      t: Setting up layouts and making sure elements go where you want them to.
     - key: options.css_pain_points.scoping_specificity
       t: Scoping & Specificity
     - key: options.css_pain_points.scoping_specificity.description
@@ -199,22 +199,22 @@ translations:
     - key: options.css_pain_points.responsive_design
       t: Responsive Design
     - key: options.css_pain_points.responsive_design.description
-      t: Adapting layouts and designs for different form factors. 
+      t: Adapting layouts and designs for different form factors.
     - key: options.css_pain_points.form_elements_styling
       t: Form Elements Styling
     - key: options.css_pain_points.form_elements_styling.description
-      t: Customizing how form elements look and behave. 
+      t: Customizing how form elements look and behave.
     - key: options.css_pain_points.performance_issues
-      t: Performance Issues 
+      t: Performance Issues
     - key: options.css_pain_points.performance_issues.description
-      t: Dealing with scrolling jank, making animations smoother, etc. 
+      t: Dealing with scrolling jank, making animations smoother, etc.
 
 
     # CSS missing features (same as features section)
     - key: options.currently_missing_from_css.nesting
       t: Nesting
     - key: options.currently_missing_from_css.nesting.description
-      t: Being able to nest styles in native CSS. 
+      t: Being able to nest styles in native CSS.
     - key: options.currently_missing_from_css.parent_selector
       t: Parent Selector
     - key: options.currently_missing_from_css.parent_selector.description
@@ -226,11 +226,11 @@ translations:
     - key: options.currently_missing_from_css.mixins
       t: Mixins
     - key: options.currently_missing_from_css.mixins.description
-      t: Group and reuse definitions dynamically.  
+      t: Group and reuse definitions dynamically.
     - key: options.currently_missing_from_css.color_functions
       t: Color Functions
     - key: options.currently_missing_from_css.color_functions.description
-      t: Functions for manipulating color values. 
+      t: Functions for manipulating color values.
     - key: options.currently_missing_from_css.container_queries
       t: Container Queries
     - key: options.currently_missing_from_css.container_queries.description
@@ -238,11 +238,11 @@ translations:
     - key: options.currently_missing_from_css.scoping
       t: Scoping
     - key: options.currently_missing_from_css.scoping.description
-      t: The ability to be more specific about where your styles are applied. 
+      t: The ability to be more specific about where your styles are applied.
     - key: options.currently_missing_from_css.subgrid
       t: Subgrid
     - key: options.currently_missing_from_css.subgrid.description
-      t: Nesting deeper-level subgrids into a parent grid. 
+      t: Nesting deeper-level subgrids into a parent grid.
 
     ###########################################################################
     # Features
@@ -259,15 +259,15 @@ translations:
     - key: features.flexbox
       t: Flexbox
     - key: features.multi_column
-      t: CSS Multi-Column
+      t: CSS Multi-coluna
     - key: features.writing_modes
-      t: CSS Writing Modes
+      t: CSS Writing mode
     - key: features.exclusions
       t: CSS Exclusions
     - key: features.position_sticky
       t: '<code>position: sticky</code>'
     - key: features.logical_properties
-      t: Logical Properties
+      t: Propriedades lógicas
     - key: features.logical_properties.description
       t: <code>margin-block-start</code>, <code>padding-inline-end</code>, etc.
     - key: features.aspect_ratio
@@ -275,9 +275,9 @@ translations:
     - key: features.content_visibility
       t: <code>content-visibility</code>
     - key: features.flexbox_gap
-      t: Gap property for flexbox
+      t: Proprieda de gap para flexbox
     - key: features.break_rules
-      t: Break rules
+      t: Regras de quebra de texto
     - key: features.break_rules.description
       t: <code>break-inside</code>, <code>break-before</code>, <code>break-after</code>
     - key: features.at_container
@@ -295,16 +295,16 @@ translations:
     - key: features.masks
       t: CSS Masks
     - key: features.blend_modes
-      t: Blend Modes
+      t: Modos de mesclagem
     - key: features.blend_modes.description
-      t: The <code>mix-blend-mode</code> property
+      t: A propriedade <code>mix-blend-mode</code>
     - key: features.filter_effects
-      t: CSS Filter Effects
+      t: Efeitos de filtro CSS
     - key: features.backdrop_filter
       t: <code>backdrop-filter</code>
 
     - key: features.intrinsic_sizing
-      t: Intrinsic Sizing
+      t: Dimensionamento Intrínseco
     - key: features.intrinsic_sizing.description
       t: <code>min-content</code>, <code>max-content</code>, <code>fit-content</code>
     - key: features.repeating_linear_gradient
@@ -319,7 +319,7 @@ translations:
 
     # interactions
     - key: features.scroll_snap
-      t: CSS Scroll Snap
+      t: Snap de rolagem CSS
     - key: features.overscroll_behavior
       t: <code>overscroll-behavior</code>
     - key: features.overflow_anchor
@@ -335,9 +335,9 @@ translations:
     - key: features.web_fonts
       t: Web fonts (@font-face)
     - key: features.variable_fonts
-      t: Variable fonts
+      t: Fontes variáveis
     - key: features.line_breaking
-      t: Line breaking properties
+      t: Propriedades de quebra de linha
     - key: features.line_breaking.description
       t: <code>overflow-wrap</code>, <code>word-break</code>, <code>line-break</code>, <code>hyphens</code>
     - key: features.font_variant
@@ -355,21 +355,21 @@ translations:
     - key: features.direction
       t: <code>direction</code>
     - key: features.direction.description
-      t: Also includes <code>dir</code> HTML attribute.
+      t: Também inclui o atributo HTML <code>dir</code>.
 
     # animations & transforms
     - key: features.transitions
-      t: CSS Transitions
+      t: Transições CSS
     - key: features.transforms
-      t: CSS Transforms
+      t: Transformações CSS
     - key: features.animations
-      t: CSS Animations
+      t: Animações CSS
     - key: features.perspective
       t: <code>perspective</code>
 
     # media queries/accessibility
     - key: features.feature_support_queries
-      t: Feature Support Queries (<code>@supports</code>)
+      t: Consultas de suporte a recursos (<code>@supports</code>)
     - key: features.prefers_reduced_motion
       t: <code>prefers-reduced-motion</code>
     - key: features.prefers_color_scheme
@@ -391,15 +391,15 @@ translations:
       t: <code>color-scheme</code>
 
     - key: features.aria_attributes
-      t: ARIA HTML Attributes
+      t: Atributos de ARIA HTML
     - key: features.aria_attributes.description
       t: <code>role</code>, <code>aria-label</code>, etc.
 
     # other features
     - key: features.variables
-      t: CSS Variables (Custom Properties)
+      t: Variáveis CSS (propriedades customizadas)
     - key: features.containment
-      t: CSS Containment
+      t: Contenção CSS
     - key: features.will_change
       t: <code>will-change</code>
     - key: features.calc
@@ -407,12 +407,12 @@ translations:
     - key: features.houdini
       t: Houdini
     - key: features.comparison_functions
-      t: CSS Comparison Functions
+      t: Funções de comparação de CSS
     - key: features.comparison_functions.description
       t: <code>min()</code>, <code>max()</code>, and <code>clamp()</code>
 
     - key: features.at_property
-      t: Houdini Custom Properties
+      t: Propriedades personalizadas de Houdini
     - key: features.at_property.description
       t: <code>@property</code>
     - key: features.at_layer
@@ -424,37 +424,37 @@ translations:
 
     # missing features (see also options)
     - key: features.nesting
-      t: Nesting
+      t: Aninhamento
     - key: features.nesting.description
-      t: Being able to nest styles in native CSS. 
+      t: Ser capaz de aninhar estilos em CSS nativo.
     - key: features.parent_selector
-      t: Parent Selector
+      t: Seletor pai
     - key: features.parent_selector.description
-      t: The ability to target a parent element based on its children.
+      t: A capacidade de selecionar um elemento pai com base em seus filhos.
     - key: features.browser_support
-      t: Browser Support
+      t: Suporte do navegador
     - key: features.browser_support.description
-      t: Better browser support for existing features.
+      t: Melhor suporte do navegador para recursos existentes.
     - key: features.mixins
       t: Mixins
     - key: features.mixins.description
-      t: Group and reuse definitions dynamically.  
+      t: Agrupar e reutilizar definições dinamicamente.
     - key: features.color_functions
-      t: Color Functions
+      t: Funções de cor
     - key: features.color_functions.description
-      t: Functions for manipulating color values. 
+      t: Funções para manipular valores de cores.
     - key: features.container_queries
       t: Container Queries
     - key: features.container_queries.description
-      t: Being able to write styles based on the parent container's dimensions.
+      t: Ser capaz de escrever estilos com base nas dimensões do contêiner pai.
     - key: features.scoping
-      t: Scoping
+      t: Escopo
     - key: features.scoping.description
-      t: The ability to be more specific about where your styles are applied. 
+      t: A capacidade de ser mais específico sobre onde seus estilos são aplicados.
     - key: features.subgrid
       t: Subgrid
     - key: features.subgrid.description
-      t: Nesting deeper-level subgrids into a parent grid. 
+      t: Aninhando subgrids de nível mais profundo em uma grade pai.
 
     ###########################################################################
     # Units & Selectors
@@ -729,7 +729,7 @@ translations:
       t: Browser Incompatibilities
     - key: opinions_others.browser_interoperability_features.others.description
       t: >
-        Are there any CSS features you have difficulties using 
+        Are there any CSS features you have difficulties using
         because of differences between browsers?
 
     # Pain Points
@@ -752,7 +752,7 @@ translations:
       t: >
           These results were normalized based on the contents of a freeform field.
           To view the raw, unprocessed responses check out [whatsmissingfromcss.com](http://whatsmissingfromcss.com/).
-    
+
     - key: opinions.sum_up_one_word_css
       t: CSS in one word
     - key: opinions.sum_up_one_word_css.description
@@ -795,7 +795,7 @@ translations:
     ###########################################################################
     # Resources
     ###########################################################################
-    
+
     - key: resources.first_steps
       t: First Steps With CSS
     - key: resources.first_steps.description
