@@ -2,6 +2,8 @@
 
 Este repositório contém os arquivos em Português (Brasil) para o _State de JS/CSS/_ etc. São pesquisas que servem como base para traduzir todos os outros idiomas. Você pode visualizar uma lista de [todas as localidades aqui](https://github.com/stateofjs/?q=locale-&type=&language=&sort=).
 
+![State of JS pt-BR translation](https://state-of-js-translation-status.vercel.app/api?locale=pt-BR)
+
 ## Como ajudar
 
 #### 1. Tornando-se um tradutor
