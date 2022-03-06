@@ -52,7 +52,7 @@ translations:
     - key: sections.accessibility.title
       t: Accessibility
     - key: sections.accessibility.description
-      t: Accessibility features and techniques. 
+      t: Accessibility features and techniques.
 
     - key: sections.media_queries.title
       t: Media Queries
@@ -183,7 +183,7 @@ translations:
     - key: options.css_pain_points.interactions
       t: Interactions
     - key: options.css_pain_points.interactions.description
-      t: Responding to user input or other events (scroll, hover, etc.). 
+      t: Responding to user input or other events (scroll, hover, etc.).
     - key: options.css_pain_points.architecture
       t: Architecture & Maintenance
     - key: options.css_pain_points.architecture.description
@@ -191,7 +191,7 @@ translations:
     - key: options.css_pain_points.layout_positioning
       t: Layout & Positioning
     - key: options.css_pain_points.layout_positioning.description
-      t: Setting up layouts and making sure elements go where you want them to. 
+      t: Setting up layouts and making sure elements go where you want them to.
     - key: options.css_pain_points.scoping_specificity
       t: Scoping & Specificity
     - key: options.css_pain_points.scoping_specificity.description
@@ -199,22 +199,22 @@ translations:
     - key: options.css_pain_points.responsive_design
       t: Responsive Design
     - key: options.css_pain_points.responsive_design.description
-      t: Adapting layouts and designs for different form factors. 
+      t: Adapting layouts and designs for different form factors.
     - key: options.css_pain_points.form_elements_styling
       t: Form Elements Styling
     - key: options.css_pain_points.form_elements_styling.description
-      t: Customizing how form elements look and behave. 
+      t: Customizing how form elements look and behave.
     - key: options.css_pain_points.performance_issues
-      t: Performance Issues 
+      t: Performance Issues
     - key: options.css_pain_points.performance_issues.description
-      t: Dealing with scrolling jank, making animations smoother, etc. 
+      t: Dealing with scrolling jank, making animations smoother, etc.
 
 
     # CSS missing features (same as features section)
     - key: options.currently_missing_from_css.nesting
       t: Nesting
     - key: options.currently_missing_from_css.nesting.description
-      t: Being able to nest styles in native CSS. 
+      t: Being able to nest styles in native CSS.
     - key: options.currently_missing_from_css.parent_selector
       t: Parent Selector
     - key: options.currently_missing_from_css.parent_selector.description
@@ -226,11 +226,11 @@ translations:
     - key: options.currently_missing_from_css.mixins
       t: Mixins
     - key: options.currently_missing_from_css.mixins.description
-      t: Group and reuse definitions dynamically.  
+      t: Group and reuse definitions dynamically.
     - key: options.currently_missing_from_css.color_functions
       t: Color Functions
     - key: options.currently_missing_from_css.color_functions.description
-      t: Functions for manipulating color values. 
+      t: Functions for manipulating color values.
     - key: options.currently_missing_from_css.container_queries
       t: Container Queries
     - key: options.currently_missing_from_css.container_queries.description
@@ -238,11 +238,11 @@ translations:
     - key: options.currently_missing_from_css.scoping
       t: Scoping
     - key: options.currently_missing_from_css.scoping.description
-      t: The ability to be more specific about where your styles are applied. 
+      t: The ability to be more specific about where your styles are applied.
     - key: options.currently_missing_from_css.subgrid
       t: Subgrid
     - key: options.currently_missing_from_css.subgrid.description
-      t: Nesting deeper-level subgrids into a parent grid. 
+      t: Nesting deeper-level subgrids into a parent grid.
 
     ###########################################################################
     # Features
@@ -426,7 +426,7 @@ translations:
     - key: features.nesting
       t: Nesting
     - key: features.nesting.description
-      t: Being able to nest styles in native CSS. 
+      t: Being able to nest styles in native CSS.
     - key: features.parent_selector
       t: Parent Selector
     - key: features.parent_selector.description
@@ -438,11 +438,11 @@ translations:
     - key: features.mixins
       t: Mixins
     - key: features.mixins.description
-      t: Group and reuse definitions dynamically.  
+      t: Group and reuse definitions dynamically.
     - key: features.color_functions
       t: Color Functions
     - key: features.color_functions.description
-      t: Functions for manipulating color values. 
+      t: Functions for manipulating color values.
     - key: features.container_queries
       t: Container Queries
     - key: features.container_queries.description
@@ -450,11 +450,11 @@ translations:
     - key: features.scoping
       t: Scoping
     - key: features.scoping.description
-      t: The ability to be more specific about where your styles are applied. 
+      t: The ability to be more specific about where your styles are applied.
     - key: features.subgrid
       t: Subgrid
     - key: features.subgrid.description
-      t: Nesting deeper-level subgrids into a parent grid. 
+      t: Nesting deeper-level subgrids into a parent grid.
 
     ###########################################################################
     # Units & Selectors
@@ -645,50 +645,50 @@ translations:
     ###########################################################################
 
     - key: environments.browsers
-      t: Browsers
+      t: Navegadores
     - key: environments.browsers.description
-      t: Which browsers do you test in?
+      t: Em quais navegadores você testa?
 
     - key: environments.form_factors
-      t: Testing Environments
+      t: Ambientes de teste
     - key: environments.form_factors.description
-      t: Which form factors or environments do you test on?
+      t: Em quais fatores de forma ou ambientes você testa?
 
     - key: environments.accessibility_features
-      t: Accessibility Features
+      t: Recursos de acessibilidade
     - key: environments.accessibility_features.description
-      t: Which accessibility features do you usually implement?
+      t: Quais recursos de acessibilidade você costuma implementar?
     - key: environments.accessibility_features.others
-      t: Other Accessibility Features
+      t: Outros recursos de acessibilidade
     - key: environments.accessibility_features.others
-      t: Other accessibility features you usually implement
+      t: Outros recursos de acessibilidade que você costuma implementar
 
     - key: environments.css_for_print
-      t: CSS for Print
+      t: CSS para impressão
     - key: environments.css_for_print.description
-      t: Do you write print styles?
+      t: Você escreve estilos de impressão?
 
     - key: environments.css_for_email
-      t: CSS for Email Clients
+      t: CSS para clientes de e-mail
     - key: environments.css_for_email.description
-      t: Do you write CSS for email clients?
+      t: Você escreve CSS para clientes de e-mail?
 
     - key: environments.what_do_you_use_css_for
-      t: What do you mainly use CSS for?
+      t: Para que você usa CSS principalmente?
     - key: environments.what_do_you_use_css_for.description
-      t: What kind of project do you usually use CSS for?
+      t: Para que tipo de projeto você costuma usar CSS?
     - key: environments.what_do_you_use_css_for.others
-      t: Other kinds of projects
+      t: Outros tipos de projetos
 
     - key: charts.axis_legends.css_for_print
-      t: Frequency
+      t: Frequência
     - key: charts.axis_legends.css_for_email
-      t: Frequency
+      t: Frequência
 
     - key: tools_others.tool_evaluation
-      t: Library Evaluation
+      t: Avaliação da Biblioteca
     - key: tools_others.tool_evaluation.description
-      t: For each matchup, pick the factor you prioritize when evaluating a new library.
+      t: Para cada confronto, escolha o fator que você prioriza ao avaliar uma nova biblioteca.
 
     ###########################################################################
     # Opinions
@@ -729,7 +729,7 @@ translations:
       t: Browser Incompatibilities
     - key: opinions_others.browser_interoperability_features.others.description
       t: >
-        Are there any CSS features you have difficulties using 
+        Are there any CSS features you have difficulties using
         because of differences between browsers?
 
     # Pain Points
@@ -752,7 +752,7 @@ translations:
       t: >
           These results were normalized based on the contents of a freeform field.
           To view the raw, unprocessed responses check out [whatsmissingfromcss.com](http://whatsmissingfromcss.com/).
-    
+
     - key: opinions.sum_up_one_word_css
       t: CSS in one word
     - key: opinions.sum_up_one_word_css.description
@@ -795,7 +795,7 @@ translations:
     ###########################################################################
     # Resources
     ###########################################################################
-    
+
     - key: resources.first_steps
       t: First Steps With CSS
     - key: resources.first_steps.description
