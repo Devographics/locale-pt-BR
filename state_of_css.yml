@@ -117,132 +117,131 @@ translations:
 
     # CSS for print
     - key: options.css_for_print.0
-      t: I (almost) never write print styles
+      t: Eu (quase) nunca escrevo estilos de impressão
     - key: options.css_for_print.0.short
-      t: Never
+      t: Nunca
 
     - key: options.css_for_print.1
-      t: I occasionally write print styles
+      t: Eu às vezes escrevo estilos de impressão
     - key: options.css_for_print.1.short
-      t: Occasionally
+      t: Às vezes
 
     - key: options.css_for_print.2
-      t: I write print styles as part of most projects
+      t: Eu escrevo estilos de impressão como parte da maioria dos projetos
     - key: options.css_for_print.2.short
-      t: Often
+      t: Frequentemente
 
     - key: options.css_for_print.3
-      t: I focus mainly on CSS for print
+      t: Eu me concentro principalmente em CSS para impressão
     - key: options.css_for_print.3.short
-      t: Mainly
+      t: Principalmente
 
     # CSS for email
     - key: options.css_for_email.0
-      t: I (almost) never write CSS for email clients
+      t: Eu (quase) nunca escrevo CSS para clientes de email
     - key: options.css_for_email.0.short
-      t: Never
+      t: Nunca
 
     - key: options.css_for_email.1
-      t: I occasionally write CSS for email clients
+      t: Eu as vezes escrevo CSS para clientes de e-mail
     - key: options.css_for_email.1.short
-      t: Occasionally
+      t: Às vezes
 
     - key: options.css_for_email.2
-      t: I write CSS for email clients as part of most projects
+      t: Eu escrevo CSS para clientes de e-mail como parte da maioria dos projetos
     - key: options.css_for_email.2.short
-      t: Often
+      t: Frequentemente
 
     - key: options.css_for_email.3
-      t: I focus mainly on CSS for email clients
+      t: Eu me concentro principalmente em CSS para clientes de e-mail
     - key: options.css_for_email.3.short
-      t: Mainly
+      t: Principalmente
 
     # what do you use CSS for?
     - key: options.what_do_you_use_css_for.marketing_sites
-      t: Marketing sites & landing pages
+      t: Sites de marketing e landing pages
     - key: options.what_do_you_use_css_for.design_systems
       t: Design systems
     - key: options.what_do_you_use_css_for.blogs
-      t: Blogs or other text-heavy sites
+      t: Blogs ou outros sites com muito texto
     - key: options.what_do_you_use_css_for.web_apps
-      t: Web apps
+      t: Aplicativos web
     - key: options.what_do_you_use_css_for.mobile_apps
-      t: Mobile apps
+      t: Aplicativos móveis
     - key: options.what_do_you_use_css_for.css_art
-      t: CSS art & illustrations
+      t: Arte e ilustrações CSS
     - key: options.what_do_you_use_css_for.emails
-      t: Emails
+      t: E-mails
     - key: options.what_do_you_use_css_for.printed_documents
-      t: Printed documents
+      t: Documentos impressos
 
     # CSS pain points
     - key: options.css_pain_points.browser_interoperability
-      t: Browser Compatibility
+      t: Compatibilidade do navegador
     - key: options.css_pain_points.browser_interoperability.description
-      t: Differences between Chrome, Safari, Firefox, etc.
+      t: Diferenças entre Chrome, Safari, Firefox, etc.
     - key: options.css_pain_points.interactions
-      t: Interactions
+      t: Interações
     - key: options.css_pain_points.interactions.description
-      t: Responding to user input or other events (scroll, hover, etc.).
+      t: Respondendo à entrada do usuário ou outros eventos (rolagem, foco, etc.).
     - key: options.css_pain_points.architecture
-      t: Architecture & Maintenance
+      t: Arquitetura e Manutenção
     - key: options.css_pain_points.architecture.description
-      t: File organization, dead code elimination, refactoring, etc.
+      t: Organização de arquivos, eliminação de código morto, refatoração, etc.
     - key: options.css_pain_points.layout_positioning
-      t: Layout & Positioning
+      t: Layout e Posicionamento
     - key: options.css_pain_points.layout_positioning.description
-      t: Setting up layouts and making sure elements go where you want them to.
+      t: Configurando layouts e certificando-se de que os elementos estão onde você deseja.
     - key: options.css_pain_points.scoping_specificity
-      t: Scoping & Specificity
+      t: Escopo e Especificidade
     - key: options.css_pain_points.scoping_specificity.description
-      t: Dealing with the cascade, overriding styles, etc.
+      t: Lidando com a cascata, substituindo estilos, etc.
     - key: options.css_pain_points.responsive_design
-      t: Responsive Design
+      t: Design Responsivo
     - key: options.css_pain_points.responsive_design.description
-      t: Adapting layouts and designs for different form factors.
+      t: Adaptação de layouts e designs para diferentes formatos.
     - key: options.css_pain_points.form_elements_styling
-      t: Form Elements Styling
+      t: Estilo de elementos de formulário
     - key: options.css_pain_points.form_elements_styling.description
-      t: Customizing how form elements look and behave.
+      t: Personalizando a aparência e comportamento dos elementos de formulário.
     - key: options.css_pain_points.performance_issues
-      t: Performance Issues
+      t: Problemas de Desempenho
     - key: options.css_pain_points.performance_issues.description
-      t: Dealing with scrolling jank, making animations smoother, etc.
-
+      t: Lidando com a instabilidade de rolagem, tornando as animações mais suaves, etc.
 
     # CSS missing features (same as features section)
     - key: options.currently_missing_from_css.nesting
-      t: Nesting
+      t: Aninhamento
     - key: options.currently_missing_from_css.nesting.description
-      t: Being able to nest styles in native CSS.
+      t: Ser capaz de aninhar estilos em CSS nativo.
     - key: options.currently_missing_from_css.parent_selector
-      t: Parent Selector
+      t: Seletor pai
     - key: options.currently_missing_from_css.parent_selector.description
-      t: The ability to target a parent element based on its children.
+      t: A capacidade de selecionar um elemento pai com base em seus filhos.
     - key: options.currently_missing_from_css.browser_support
-      t: Browser Support
+      t: Suporte do Navegador
     - key: options.currently_missing_from_css.browser_support.description
-      t: Better browser support for existing features.
+      t: Melhor suporte do navegador para recursos existentes.
     - key: options.currently_missing_from_css.mixins
       t: Mixins
     - key: options.currently_missing_from_css.mixins.description
-      t: Group and reuse definitions dynamically.
+      t: Agrupar e reutilizar definições dinamicamente.
     - key: options.currently_missing_from_css.color_functions
-      t: Color Functions
+      t: Funções de Cor
     - key: options.currently_missing_from_css.color_functions.description
-      t: Functions for manipulating color values.
+      t: Funções para manipular valores de cores.
     - key: options.currently_missing_from_css.container_queries
       t: Container Queries
     - key: options.currently_missing_from_css.container_queries.description
-      t: Being able to write styles based on the parent container's dimensions.
+      t: Ser capaz de escrever estilos com base nas dimensões do contêiner pai.
     - key: options.currently_missing_from_css.scoping
-      t: Scoping
+      t: Escopo
     - key: options.currently_missing_from_css.scoping.description
-      t: The ability to be more specific about where your styles are applied.
+      t: A capacidade de ser mais específico sobre onde seus estilos são aplicados.
     - key: options.currently_missing_from_css.subgrid
       t: Subgrid
     - key: options.currently_missing_from_css.subgrid.description
-      t: Nesting deeper-level subgrids into a parent grid.
+      t: Aninhando subgrids de nível mais profundo em uma grid pai.
 
     ###########################################################################
     # Features
