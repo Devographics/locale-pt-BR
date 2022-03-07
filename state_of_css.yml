@@ -145,7 +145,7 @@ translations:
     - key: options.css_for_email.1
       t: Eu as vezes escrevo CSS para clientes de e-mail
     - key: options.css_for_email.1.short
-      t: As vezes
+      t: Às vezes
 
     - key: options.css_for_email.2
       t: Eu escrevo CSS para clientes de e-mail como parte da maioria dos projetos
