@@ -7,15 +7,15 @@ translations:
 
     - key: general.survey_intro_js2019
       t: >
-          The JavaScript world could use a bit of classification.
+          O mundo JavaScript poderia usar um pouco de classificação.
 
 
-          Since 2016, this survey has collected 
-          data from over 20,000 developers each year to identify current and upcoming trends.
+          Desde 2016, esta pesquisa coletou
+          dados de mais de 20.000 desenvolvedores a cada ano para identificar tendências atuais e futuras.
 
 
-          Take the survey and help us find out which libraries developers 
-          want to learn next, which have the best satisfaction ratings, and much more.
+          Responda a pesquisa e nos ajude a descobrir quais bibliotecas desenvolvedores
+          quer aprender a seguir, quais têm os melhores índices de satisfação e muito mais.
 
     ###########################################################################
     # Sections
