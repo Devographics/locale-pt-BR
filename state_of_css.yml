@@ -576,7 +576,7 @@ translations:
     - key: options.attributes.equality
       t: div[foo="bar"] (Igualdade)
     - key: options.attributes.starts_with
-      t: div[foo^="bar"] (Coneça com)
+      t: div[foo^="bar"] (Começa com)
     - key: options.attributes.ends_with
       t: div[foo$="bar"] (Termina com)
     - key: options.attributes.contains_word
