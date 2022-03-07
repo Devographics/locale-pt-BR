@@ -796,6 +796,6 @@ translations:
     ###########################################################################
 
     - key: resources.first_steps
-      t: First Steps With CSS
+      t: Primeiros passos com CSS
     - key: resources.first_steps.description
-      t: When first starting out, how did you initially learn CSS?
+      t: Ao começar, como você aprendeu CSS inicialmente?
