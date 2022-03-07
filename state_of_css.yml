@@ -7,18 +7,18 @@ translations:
 
     - key: general.survey_intro_css2020
       t: >
-          CSS is evolving faster than ever.
+          CSS está evoluindo mais rápido do que nunca.
 
 
-          Flexbox, Grid, Multi-Column… To say nothing of whole new paradigms like CSS-in-JS.
+          Flexbox, grid, multi-colunas...além dos todos os novos paradigmas, como o CSS-IN-JS.
 
 
-          So after the success of our annual State Of JavaScript survey,
-          we’ve decided to take on the world of styles and selectors. We're hoping you’ll help
-          us identify the latest trends, and figure out what tools to learn and use next!
+          Então, após o sucesso da nossa pesquisa anual sobre o Estado do JavaScript,
+          decidimos entrar no mundo dos estilos e seletores. Estamos esperando que você nos
+          ajude a identificar as últimas tendências e descobrir quais ferramentas devemos aprender e usar em seguida!
 
     - key: general.results.description
-      t: The annual survey about the latest trends in CSS.
+      t: A pesquisa anual sobre as últimas tendências no CSS.
 
     ###########################################################################
     # Sections
