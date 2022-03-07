@@ -228,7 +228,7 @@ translations:
     - key: options.currently_missing_from_css.mixins.description
       t: Agrupar e reutilizar definições dinamicamente.
     - key: options.currently_missing_from_css.color_functions
-      t: Funções de cor
+      t: Funções de Cor
     - key: options.currently_missing_from_css.color_functions.description
       t: Funções para manipular valores de cores.
     - key: options.currently_missing_from_css.container_queries
