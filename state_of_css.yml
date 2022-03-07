@@ -193,7 +193,7 @@ translations:
     - key: options.css_pain_points.layout_positioning.description
       t: Configurando layouts e certificando-se de que os elementos estão onde você deseja.
     - key: options.css_pain_points.scoping_specificity
-      t: Escopo e especificidade
+      t: Escopo e Especificidade
     - key: options.css_pain_points.scoping_specificity.description
       t: Lidando com a cascata, substituindo estilos, etc.
     - key: options.css_pain_points.responsive_design
