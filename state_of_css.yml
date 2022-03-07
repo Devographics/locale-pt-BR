@@ -220,7 +220,7 @@ translations:
     - key: options.currently_missing_from_css.parent_selector.description
       t: A capacidade de selecionar um elemento pai com base em seus filhos.
     - key: options.currently_missing_from_css.browser_support
-      t: Suporte do navegador
+      t: Suporte do Navegador
     - key: options.currently_missing_from_css.browser_support.description
       t: Melhor suporte do navegador para recursos existentes.
     - key: options.currently_missing_from_css.mixins
