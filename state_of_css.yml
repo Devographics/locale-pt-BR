@@ -242,7 +242,7 @@ translations:
     - key: options.currently_missing_from_css.subgrid
       t: Subgrid
     - key: options.currently_missing_from_css.subgrid.description
-      t: Aninhando subgrids de nível mais profundo em uma grade pai.
+      t: Aninhando subgrids de nível mais profundo em uma grid pai.
 
     ###########################################################################
     # Features
