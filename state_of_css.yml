@@ -197,7 +197,7 @@ translations:
     - key: options.css_pain_points.scoping_specificity.description
       t: Lidando com a cascata, substituindo estilos, etc.
     - key: options.css_pain_points.responsive_design
-      t: Design responsivo
+      t: Design Responsivo
     - key: options.css_pain_points.responsive_design.description
       t: Adaptação de layouts e designs para diferentes formatos.
     - key: options.css_pain_points.form_elements_styling
