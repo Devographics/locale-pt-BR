@@ -645,152 +645,153 @@ translations:
     ###########################################################################
 
     - key: environments.browsers
-      t: Browsers
+      t: Navegadores
     - key: environments.browsers.description
-      t: Which browsers do you test in?
+      t: Em quais navegadores você testa?
 
     - key: environments.form_factors
-      t: Testing Environments
+      t: Ambientes de teste
     - key: environments.form_factors.description
-      t: Which form factors or environments do you test on?
+      t: Em quais fatores de forma ou ambientes você testa?
 
     - key: environments.accessibility_features
-      t: Accessibility Features
+      t: Recursos de acessibilidade
     - key: environments.accessibility_features.description
-      t: Which accessibility features do you usually implement?
+      t: Quais recursos de acessibilidade você costuma implementar?
     - key: environments.accessibility_features.others
-      t: Other Accessibility Features
+      t: Outros recursos de acessibilidade
     - key: environments.accessibility_features.others
-      t: Other accessibility features you usually implement
+      t: Outros recursos de acessibilidade que você costuma implementar
 
     - key: environments.css_for_print
-      t: CSS for Print
+      t: CSS para impressão
     - key: environments.css_for_print.description
-      t: Do you write print styles?
+      t: Você escreve estilos de impressão?
 
     - key: environments.css_for_email
-      t: CSS for Email Clients
+      t: CSS para clientes de e-mail
     - key: environments.css_for_email.description
-      t: Do you write CSS for email clients?
+      t: Você escreve CSS para clientes de e-mail?
 
     - key: environments.what_do_you_use_css_for
-      t: What do you mainly use CSS for?
+      t: Para que você usa CSS principalmente?
     - key: environments.what_do_you_use_css_for.description
-      t: What kind of project do you usually use CSS for?
+      t: Para que tipo de projeto você costuma usar CSS?
     - key: environments.what_do_you_use_css_for.others
-      t: Other kinds of projects
+      t: Outros tipos de projetos
 
     - key: charts.axis_legends.css_for_print
-      t: Frequency
+      t: Frequência
     - key: charts.axis_legends.css_for_email
-      t: Frequency
+      t: Frequência
 
     - key: tools_others.tool_evaluation
-      t: Library Evaluation
+      t: Avaliação da Biblioteca
     - key: tools_others.tool_evaluation.description
-      t: For each matchup, pick the factor you prioritize when evaluating a new library.
+      t: Para cada confronto, escolha o fator que você prioriza ao avaliar uma nova biblioteca.
 
     ###########################################################################
     # Opinions
     ###########################################################################
 
     - key: opinions.css_easy_to_learn
-      t: CSS is easy to learn
+      t: CSS é fácil de aprender
     - key: opinions.css_easy_to_learn.title
-      t: Learning Curve
+      t: Curva de aprendizagem
 
     - key: opinions.css_evolving_slowly
-      t: CSS is evolving too slowly
+      t: CSS está evoluindo muito devagar
     - key: opinions.css_evolving_slowly.title
-      t: Rate of Change
+      t: Taxa de variação
 
     - key: opinions.utility_classes_to_be_avoided
-      t: Utility (non-semantic) classes (.center, .large-text, etc.) should be avoided
+      t: Classes utilitárias (não semânticas) (.center, .large-text, etc.) devem ser evitadas
     - key: opinions.utility_classes_to_be_avoided.title
-      t: Non-Semantic Classes
+      t: Classes não semânticas
 
     - key: opinions.selector_nesting_to_be_avoided
-      t: Selector nesting (.foo .bar ul li {...}) should be avoided
+      t: O aninhamento de seletores (.foo .bar ul li {...}) deve ser evitado
     - key: opinions.selector_nesting_to_be_avoided.title
-      t: Selector Nesting
+      t: Aninhamento de seletor
 
     - key: opinions.css_is_programming_language
-      t: CSS is a programming language
+      t: CSS é uma linguagem de programação
     - key: opinions.css_is_programming_language.title
-      t: Programming Language
+      t: Linguagem de programação
 
     - key: opinions.enjoy_writing_css
-      t: I enjoy writing CSS
+      t: Eu gosto de escrever CSS
     - key: opinions.enjoy_writing_css.title
-      t: Enjoyment
+      t: Prazer
 
     # Browser interoperability question
     - key: opinions_others.browser_interoperability_features.others
-      t: Browser Incompatibilities
+      t: Incompatibilidades do navegador
     - key: opinions_others.browser_interoperability_features.others.description
       t: >
-        Are there any CSS features you have difficulties using
-        because of differences between browsers?
+        Existem recursos CSS que você tem dificuldade em usar
+        por causa das diferenças entre os navegadores?
+
 
     # Pain Points
     - key: opinions.css_pain_points
-      t: CSS Pain Points
+      t: Pontos problemáticos CSS
     - key: opinions.css_pain_points.description
-      t: For each matchup, pick the aspect of CSS you struggle with the most.
+      t: Para cada confronto, escolha o aspecto do CSS com o qual você mais luta.
 
     - key: opinions_others.css_pain_points.others
-      t: Other CSS Pain Points
+      t: Outros pontos problemáticos do CSS
 
     # Missing Features
     - key: opinions.currently_missing_from_css
-      t: What do you feel is currently missing from CSS?
+      t: O que você sente que está faltando atualmente no CSS?
     - key: opinions.currently_missing_from_css.description
-      t: For each matchup, pick the feature you'd most like to be able to use in CSS today.
+      t: Para cada confronto, escolha o recurso que você mais gostaria de usar no CSS hoje.
     - key: opinions_others.currently_missing_from_css.others
-      t: Other Missing Features
+      t: Outros recursos ausentes
     - key: opinions_others.currently_missing_from_css.others.note
       t: >
-          These results were normalized based on the contents of a freeform field.
-          To view the raw, unprocessed responses check out [whatsmissingfromcss.com](http://whatsmissingfromcss.com/).
+          Esses resultados foram normalizados com base no conteúdo de um campo de forma livre.
+          Para visualizar as respostas brutas e não processadas, confira [whatsmissingfromcss.com](http://whatsmissingfromcss.com/).
 
     - key: opinions.sum_up_one_word_css
-      t: CSS in one word
+      t: CSS em uma palavra
     - key: opinions.sum_up_one_word_css.description
-      t: How would you sum up your opinion of CSS in one word?
+      t: Como você resumiria sua opinião sobre CSS em uma palavra?
 
     - key: happiness.pre_post_processors
-      t: How happy are you with the state of pre/post-processors?
+      t: Quão satisfeito você está com o estado dos pré/pós-processadores?
     - key: happiness.css_in_js
-      t: How happy are you with the state of CSS-in-JS libraries?
+      t: Quão satisfeito você está com o estado das bibliotecas CSS-in-JS?
     - key: happiness.css_frameworks
-      t: How happy are you with the state of CSS frameworks?
+      t: Quão satisfeito você está com o estado dos frameworks CSS?
 
     - key: happiness.state_of_the_web
-      t: How happy are you with the general state of web technologies?
+      t: Quão satisfeito você está com o estado geral das tecnologias da web?
 
     - key: happiness.state_of_css
-      t: How happy are you with the general state of CSS?
+      t: Quão satisfeito você está com o estado geral do CSS?
 
     # pain points/currently missing (results)
     - key: css_pain_points.css_pain_points_wins
-      t: CSS Pain Points
+      t: Problemas do CSS
     - key: css_pain_points.css_pain_points_wins.description
-      t: Which aspect of CSS do you struggle with the most? Results are ranked by number of tournament rounds won.
+      t: Com qual aspecto do CSS você tem mais dificuldade? Os resultados são classificados pelo número de rodadas do torneio vencidas.
 
     - key: css_pain_points.css_pain_points_matchups
-      t: CSS Pain Points (Matchups)
+      t: Problemas do CSS (Confrontos)
     - key: css_pain_points.css_pain_points_matchups.description
-      t: Which aspect of CSS do you struggle with the most? Percentage of rounds won by left-hand item against top-side item.
+      t: Com qual aspecto do CSS você tem mais dificuldade? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item do topo.
 
     - key: currently_missing_from_css.currently_missing_from_css_wins
-      t: Features Missing From CSS
+      t: Recursos ausentes do CSS
     - key: currently_missing_from_css.currently_missing_from_css_wins.description
-      t: Which feature would you most like to be able to use in CSS today? Results are ranked by number of tournament rounds won.
+      t: Qual recurso você mais gostaria de poder usar no CSS hoje? Os resultados são classificados pelo número de rodadas do torneio vencidas.
 
     - key: currently_missing_from_css.currently_missing_from_css_matchups
-      t: Features Missing From CSS (Matchups)
+      t: Recursos ausentes do CSS (Combinações)
     - key: currently_missing_from_css.currently_missing_from_css_matchups.description
-      t: Which feature would you most like to be able to use in CSS today? Percentage of rounds won by left-hand item against top-side item.
+      t: Qual recurso você mais gostaria de poder usar no CSS hoje? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item do topo.
 
     ###########################################################################
     # Resources
