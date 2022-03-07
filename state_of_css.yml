@@ -7,18 +7,18 @@ translations:
 
     - key: general.survey_intro_css2020
       t: >
-          CSS is evolving faster than ever.
+          CSS está evoluindo mais rápido do que nunca.
 
 
-          Flexbox, Grid, Multi-Column… To say nothing of whole new paradigms like CSS-in-JS.
+          Flexbox, grid, multi-colunas...além dos todos os novos paradigmas, como o CSS-IN-JS.
 
 
-          So after the success of our annual State Of JavaScript survey,
-          we’ve decided to take on the world of styles and selectors. We're hoping you’ll help
-          us identify the latest trends, and figure out what tools to learn and use next!
+          Então, após o sucesso da nossa pesquisa anual sobre o Estado do JavaScript,
+          decidimos entrar no mundo dos estilos e seletores. Estamos esperando que você nos
+          ajude a identificar as últimas tendências e descobrir quais ferramentas devemos aprender e usar em seguida!
 
     - key: general.results.description
-      t: The annual survey about the latest trends in CSS.
+      t: A pesquisa anual sobre as últimas tendências no CSS.
 
     ###########################################################################
     # Sections
@@ -461,9 +461,9 @@ translations:
     ###########################################################################
 
     - key: features_others.units
-      t: Units
+      t: Unidades
     - key: features_others.units.description
-      t: Which of these CSS units have you used?
+      t: Quais dessas unidades CSS você já usou?
 
     - key: options.units.px
       t: px
@@ -491,9 +491,9 @@ translations:
       t: in
 
     - key: features_others.pseudo_elements
-      t: Pseudo Elements
+      t: Pseudo elementos
     - key: features_others.pseudo_elements.description
-      t: Which of these CSS pseudo-elements have you used?
+      t: Quais desses pseudo-elementos CSS você já usou?
 
     - key: options.pseudo_elements.before
       t: '::before'
@@ -513,23 +513,23 @@ translations:
       t: '::backdrop'
 
     - key: features_others.combinators
-      t: Combinators
+      t: Combinadores
     - key: features_others.combinators.description
-      t: Which of these combinations CSS selectors have you used?
+      t: Quais destas combinações de seletores CSS você já usou?
 
     - key: options.combinators.descendant
-      t: div span (descendant)
+      t: div span (descendente)
     - key: options.combinators.child
-      t: div > span (child)
+      t: div > span (filho)
     - key: options.combinators.next_sibling
-      t: div + div (next sibling)
+      t: div + div (próximo irmão)
     - key: options.combinators.subsequent_sibling
-      t: div ~ div (subsequent sibling)
+      t: div ~ div (irmão subsequente)
 
     - key: features_others.tree_document_structure
-      t: Tree / Document Structure
+      t: Árvore / Estrutura do Documento
     - key: features_others.tree_document_structure.description
-      t: Which of these structure related CSS selectors have you used?
+      t: Quais desses seletores CSS relacionados à estrutura você usou?
 
     - key: options.tree_document_structure.root
       t: :root
@@ -567,27 +567,27 @@ translations:
       t: :has()
 
     - key: features_others.attributes
-      t: Attributes
+      t: Atributos
     - key: features_others.attributes.description
-      t: Which of these CSS attributes selectors have you used?
+      t: Quais desses seletores de atributos CSS você já usou?
 
     - key: options.attributes.presence
-      t: div[foo] (Presence)
+      t: div[foo] (Presença)
     - key: options.attributes.equality
-      t: div[foo="bar"] (Equality)
+      t: div[foo="bar"] (Igualdade)
     - key: options.attributes.starts_with
-      t: div[foo^="bar"] (Starts with)
+      t: div[foo^="bar"] (Começa com)
     - key: options.attributes.ends_with
-      t: div[foo$="bar"] (Ends with)
+      t: div[foo$="bar"] (Termina com)
     - key: options.attributes.contains_word
-      t: div[foo~="bar"] (Contains word)
+      t: div[foo~="bar"] (Contém palavra)
     - key: options.attributes.contains_substring
-      t: div[foo*="bar"] (Contains substring)
+      t: div[foo*="bar"] (Contém substring)
 
     - key: features_others.links_urls
       t: Links/URLs
     - key: features_others.links_urls.description
-      t: Which of these links & URLs related CSS selectors have you used?
+      t: Quais destes seletores de CSS relacionados a links e URLs você usou?
 
     - key: options.links_urls.any_link
       t: :any-link
@@ -599,9 +599,9 @@ translations:
       t: :target
 
     - key: features_others.interaction
-      t: Interaction
+      t: Interação
     - key: features_others.interaction.description
-      t: Which of these interaction CSS selectors have you used?
+      t: Quais desses seletores CSS de interação você já usou?
 
     - key: options.interaction.hover
       t: :hover
@@ -615,14 +615,14 @@ translations:
       t: :focus-visible
 
     - key: features_others.form_controls
-      t: Form Controls
+      t: Controles de formulário
     - key: features_others.form_controls.description
-      t: Which of these form related CSS selectors have you used?
+      t: Quais destes seletores CSS relacionados a formulários você usou?
 
     - key: options.form_controls.enabled_disabled
       t: :enabled and :disabled
     - key: options.form_controls.read_only_write
-      t: :read-only and :read-write
+      t: :read-only e :read-write
     - key: options.form_controls.placeholder_shown
       t: :placeholder-shown
     - key: options.form_controls.default
@@ -632,13 +632,13 @@ translations:
     - key: options.form_controls.indeterminate
       t: :indeterminate
     - key: options.form_controls.valid_invalid
-      t: :valid and :invalid
+      t: :valid e :invalid
     - key: options.form_controls.user_invalid
       t: :user-invalid
     - key: options.form_controls.in_out_range
-      t: :in-range and :out-of-range
+      t: :in-range e :out-of-range
     - key: options.form_controls.required_optional
-      t: :required and :optional
+      t: :required e :optional
 
     ###########################################################################
     # Environments
@@ -731,6 +731,7 @@ translations:
       t: >
         Existem recursos CSS que você tem dificuldade em usar
         por causa das diferenças entre os navegadores?
+
 
     # Pain Points
     - key: opinions.css_pain_points
