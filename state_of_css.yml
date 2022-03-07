@@ -27,89 +27,89 @@ translations:
     - key: sections.layout.title
       t: Layout
     - key: sections.layout.description
-      t: How do you position elements on the screen?
+      t: Como você posiciona elementos na tela?
 
     - key: sections.shapes_graphics.title
-      t: Shapes & Graphics
+      t: Formas e Gráficos
     - key: sections.shapes_graphics.description
-      t: Controlling the shape and display of elements.
+      t: Controlando a forma e exibição de elementos.
 
     - key: sections.interactions.title
-      t: Interactions
+      t: Interações
     - key: sections.interactions.description
-      t: Controlling how the user interacts with the page.
+      t: Controlando como o usuário interage com a página.
 
     - key: sections.typography.title
-      t: Typography
+      t: Tipografia
     - key: sections.typography.description
-      t: Setting and laying out text.
+      t: Configuração e disposição de texto.
 
     - key: sections.animations_transforms.title
-      t: Animations & Transforms
+      t: Animações e Transformações
     - key: sections.animations_transforms.description
-      t: Animating and transforming elements.
+      t: Animando e transformando elementos.
 
     - key: sections.accessibility.title
-      t: Accessibility
+      t: Acessibilidade
     - key: sections.accessibility.description
-      t: Accessibility features and techniques.
+      t: Recursos e técnicas de acessibilidade.
 
     - key: sections.media_queries.title
       t: Media Queries
     - key: sections.media_queries.description
-      t: Ways of adapting your site to the user's device or preferences.
+      t: Maneiras de adaptar seu site para o dispositivo ou preferências do usuário.
 
     - key: sections.other_features.title
-      t: Other Features
+      t: Outros Recursos
     - key: sections.other_features.description
-      t: Other CSS features.
+      t: Outros recursos do CSS.
 
     - key: sections.units_selectors.title
-      t: Units & Selectors
+      t: Unidades e Seletores.
     - key: sections.units_selectors.description
-      t: Test your knowledge of CSS units and selectors.
+      t: Teste seu conhecimento de unidades e seletores CSS.
 
     - key: sections.pre_post_processors.title
-      t: Pre-/Post-processors
+      t: Pré e Pós-Processadores
     - key: sections.pre_post_processors.description
-      t: Utilities that augment CSS.
+      t: Utilitários que ampliam o CSS.
 
     - key: sections.pre_post_processors_others.title
-      t: Other Pre-/Post-processors
+      t: Outros pré e pós-processadores
 
     - key: sections.css_frameworks.title
-      t: CSS Frameworks
+      t: Frameworks CSS
     - key: sections.css_frameworks.description
-      t: Libraries that give you pre-made components and styles.
+      t: Bibliotecas que lhe dão componentes e estilos pré-fabricados.
 
     - key: sections.css_frameworks_others.title
-      t: Other CSS Frameworks
+      t: Outros Frameworks CSS
 
     - key: sections.css_methodologies.title
-      t: CSS Methodologies
+      t: Metodologias CSS
     - key: sections.css_methodologies.description
-      t: Codified ways to write cleaner CSS.
+      t: Formas codificadas de escrever CSS mais limpo.
 
     - key: sections.css_methodologies_others.title
-      t: Other CSS Methodologies.
+      t: Outras metodologias CSS.
 
     - key: sections.css_in_js.title
       t: CSS-in-JS
     - key: sections.css_in_js.description
-      t: Libraries that help integrate CSS into JavaScript code.
+      t: Bibliotecas que ajudam a integrar CSS ao código JavaScript.
 
     - key: sections.css_in_js_others.title
-      t: Other CSS-in-JS Libraries.
+      t: Outras bibliotecas CSS-in-JS.
 
     - key: sections.tools_others.title
-      t: Other Tools
+      t: Outras Ferramentas
     - key: sections.tools_others.description
-      t: Other CSS tools.
+      t: Outras ferramentas CSS.
 
     - key: sections.environments.title
-      t: Environments
+      t: Ambientes
     - key: sections.environments.description
-      t: Which environments and accessibility concerns do you consider when writing CSS?
+      t: Quais ambientes e preocupações de acessibilidade você considera ao escrever CSS?
 
     ###########################################################################
     # Options
