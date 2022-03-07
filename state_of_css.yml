@@ -124,7 +124,7 @@ translations:
     - key: options.css_for_print.1
       t: Eu as vezes escrevo estilos de impressão
     - key: options.css_for_print.1.short
-      t: As vezes
+      t: Às vezes
 
     - key: options.css_for_print.2
       t: Eu escrevo estilos de impressão como parte da maioria dos projetos
