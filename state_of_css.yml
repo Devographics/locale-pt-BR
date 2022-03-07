@@ -165,7 +165,7 @@ translations:
     - key: options.what_do_you_use_css_for.blogs
       t: Blogs ou outros sites com muito texto
     - key: options.what_do_you_use_css_for.web_apps
-      t: Aplicativos da Web
+      t: Aplicativos web
     - key: options.what_do_you_use_css_for.mobile_apps
       t: Aplicativos móveis
     - key: options.what_do_you_use_css_for.css_art
