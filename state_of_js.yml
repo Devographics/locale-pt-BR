@@ -22,84 +22,84 @@ translations:
     ###########################################################################
 
     - key: sections.syntax.title
-      t: Syntax
+      t: Sintaxe
     - key: sections.syntax.description
       t: The grammar of JavaScript.
 
     - key: sections.language.title
-      t: Language
+      t: Linguagem
     - key: sections.language.description
-      t: The vocabulary of JavaScript.
+      t: O vocabulário do JavaScript.
 
     - key: sections.data_structures.title
-      t: Data Structures
+      t: Estrutura de Dados
     - key: sections.data_structures.description
-      t: How you store and manipulate data.
+      t: Como guardar e manipular dados.
 
     - key: sections.browser_apis.title
-      t: Browser APIs
+      t: APIs do Navegador
     - key: sections.browser_apis.description
-      t: The features provided by the browser.
+      t: Os recursos fornecidos pelo navegador.
 
     - key: sections.other_features.title
-      t: Other Features
+      t: Outros recursos
     - key: sections.other_features.description
-      t: Other technologies and patterns
+      t: Outras tecnologias e padrões
 
     - key: sections.patterns.title
-      t: Patterns
+      t: Padrões
     - key: sections.patterns.description
-      t: How you prefer writing code
+      t: Como você prefere escrever código
 
     - key: sections.javascript_flavors.title
-      t: JavaScript Flavors
+      t: Sabores JavaScript
     - key: sections.javascript_flavors.description
-      t: Languages that compile to JavaScript
+      t: Linguagens que compilam para JavaScript
 
     - key: sections.front_end_frameworks.title
-      t: Front-end Frameworks
+      t: Frameworks de Front-end 
     - key: sections.front_end_frameworks.description
-      t: Front-end frameworks and libraries
+      t: Frameworks e bibliotecas de front-end
 
     - key: sections.datalayer.title
-      t: Data Layer
+      t: Camada de Dados
     - key: sections.datalayer.description
-      t: Loading and managing data in your app
+      t: Carregando e gerenciando dados em seu aplicativo
 
     - key: sections.back_end_frameworks.title
-      t: Back-end Frameworks
+      t: Frameworks de Back-end
     - key: sections.back_end_frameworks.description
-      t: JavaScript on the server
+      t: JavaScript no servidors
 
     - key: sections.testing.title
-      t: Testing
+      t: Teste
     - key: sections.testing.description
-      t: Tools for testing your code
+      t: Ferramentas para testar seu código
 
     - key: sections.mobile_desktop.title
-      t: Mobile & Desktop
+      t: Celular e Desktop
     - key: sections.mobile_desktop.description
-      t: JavaScript for mobile devices and desktop apps
+      t: JavaScript para dispositivos móveis e aplicativos de desktop
 
     - key: sections.build_tools.title
-      t: Build Tools
+      t: Ferramentas de Build
     - key: sections.build_tools.description
-      t: Compiling & bundling code
+      t: Compilando e agrupando código
 
     - key: sections.monorepo_tools.title
-      t: Monorepo Tools
+      t: Ferramentas de Monorepo 
     - key: sections.monorepo_tools.description
-      t: Tools used to manage JavaScript monorepos.
+      t: Ferramentas usadas para gerenciar monorepos JavaScript.
       
     - key: sections.tools_others.title
-      t: Other Tools
+      t: Outras Ferramentas
     - key: sections.tools_others.description
-      t: Other JavaScript tools
+      t: Outras ferramentas JavaScript
       
     - key: sections.other_tools.title
-      t: Other Tools
+      t: Outras Ferramentas
     - key: sections.other_tools.description
-      t: For these tools & technologies, just check the ones that you use regularly.
+      t: Para essas ferramentas e tecnologias, basta verificar as que você usa regularmente.
 
     ###########################################################################
     # Options
