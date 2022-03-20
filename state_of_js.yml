@@ -363,8 +363,8 @@ translations:
 
     - key: tools.angular.description
       t: >
-        Note that this question only targets [Angular](https://angular.io/) experience,
-        and specifically does *not* apply to the deprecated [AngularJS](https://angularjs.org/).
+        Observe que esta pergunta visa apenas a experiência [Angular](https://angular.io/),
+        e especificamente *não* se aplica ao [AngularJS](https://angularjs.org/) obsoleto.
    
     ###########################################################################
     # Other Tools
