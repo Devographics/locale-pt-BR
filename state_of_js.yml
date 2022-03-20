@@ -398,84 +398,84 @@ translations:
     ###########################################################################
 
     - key: opinions.js_moving_in_right_direction
-      t: JavaScript is moving in the right direction
+      t: JavaScript está se movendo na direção certa
 
     - key: opinions.building_js_apps_overly_complex
-      t: Building JavaScript apps is overly complex right now
+      t: Construir aplicativos JavaScript é muito complexo no momento
 
     - key: opinions.js_over_used_online
-      t: JavaScript is over-used online
+      t: JavaScript é usado em excesso online
 
     - key: opinions.enjoy_building_js_apps
-      t: I enjoy building JavaScript apps
+      t: Eu gosto de construir aplicativos JavaScript
 
     - key: opinions.would_like_js_to_be_main_lang
-      t: I would like JavaScript to be my main programming language
+      t: Eu gostaria que o JavaScript fosse minha principal linguagem de programação
 
     - key: opinions.js_ecosystem_changing_to_fast
-      t: The JavaScript ecosystem is changing too fast
+      t: O ecossistema JavaScript está mudando muito rápido
 
     - key: opinions_others.missing_from_js.others
-      t: What do you feel is currently missing from JavaScript?
+      t: O que você sente que está faltando no JavaScript?
     - key: opinions_others.missing_from_js.others.description
-      t: Features you'd like to see in JavaScript one day.
+      t: Recursos que você gostaria de ver em JavaScript um dia.
 
     - key: happiness.front_end_frameworks
-      t: How happy are you with the state of front end frameworks?
+      t: Quão satisfeito você está com o estado dos frameworks front-end?
     - key: happiness.back_end_frameworks
-      t: How happy are you with the state of back end frameworks?
+      t: Quão satisfeito você está com o estado das estruturas de back-end?
     - key: happiness.testing
-      t: How happy are you with the state of testing tools?
+      t: Quão satisfeito você está com o estado das ferramentas de teste?
     - key: happiness.mobile_desktop
-      t: How happy are you with the state of mobile & desktop frameworks?
+      t: Quão satisfeito você está com o estado das estruturas móveis e de desktop?
     - key: happiness.build_tools
-      t: How happy are you with the state of build tools?
+      t: Quão satisfeito você está com o estado das ferramentas de construção?
     - key: happiness.monorepo_tools
-      t: How happy are you with the state of monorepo tools?
+      t: Quão satisfeito você está com o estado das ferramentas monorepo?
 
     - key: happiness.state_of_the_web
-      t: How happy are you with the general state of web technologies?
+      t: Quão satisfeito você está com o estado geral das tecnologias da web?
 
     - key: happiness.state_of_js
-      t: How happy are you with the general state of JavaScript?
+      t: Quão satisfeito você está com o estado geral do JavaScript?
 
     # Pain Points
     - key: opinions.js_pain_points
-      t: JavaScript Pain Points
+      t: Pontos problemáticos do JavaScript
     - key: opinions.js_pain_points.description
-      t: For each matchup, pick the aspect of JavaScript you struggle with the most.
+      t: Para cada confronto, escolha o aspecto do JavaScript que você mais gosta.
 
     - key: opinions_others.js_pain_points.others
-      t: Other JavaScript Pain Points
+      t: Outros Pontos problemáticos do JavaScript
 
     # Missing Features
     - key: opinions.currently_missing_from_js
-      t: What do you feel is currently missing from JavaScript?
+      t: O que você sente que está faltando no JavaScript?
     - key: opinions.currently_missing_from_js.description
-      t: For each matchup, pick the feature you'd most like to be able to use in JavaScript today.
+      t: Para cada confronto, escolha o recurso que você mais gostaria de usar no JavaScript hoje.
     - key: opinions_others.currently_missing_from_js.others
-      t: Other Missing Features
+      t: Outros recursos ausentes
 
     # pain points/currently missing (results)
     - key: js_pain_points.js_pain_points_wins
-      t: JavaScript Pain Points
+      t: Pontos problemáticos do JavaScript
     - key: js_pain_points.js_pain_points_wins.description
-      t: Which aspect of JavaScript do you struggle with the most? Results are ranked by number of tournament rounds won.
+      t: Com qual aspecto do JavaScript você tem mais dificuldade? Os resultados são classificados pelo número de rodadas do torneio vencidas.
 
     - key: js_pain_points.js_pain_points_matchups
-      t: JavaScript Pain Points (Matchups)
+      t: Pontos problemáticos do JavaScript (Confrontos)
     - key: js_pain_points.js_pain_points_matchups.description
-      t: Which aspect of JavaScript do you struggle with the most? Percentage of rounds won by left-hand item against top-side item.
+      t: Com qual aspecto do JavaScript você tem mais dificuldade? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item do topo.
 
     - key: currently_missing_from_js.currently_missing_from_js_wins
-      t: Features Missing From JavaScript
+      t: Recursos ausentes do JavaScript
     - key: currently_missing_from_js.currently_missing_from_js_wins.description
-      t: Which feature would you most like to be able to use in JavaScript today? Results are ranked by number of tournament rounds won.
+      t: Qual recurso você mais gostaria de poder usar no JavaScript hoje? Os resultados são classificados pelo número de rodadas do torneio vencidas.
 
     - key: currently_missing_from_js.currently_missing_from_js_matchups
-      t: Features Missing From JavaScript (Matchups)
+      t: Recursos ausentes do JavaScript (Confrontos)
     - key: currently_missing_from_js.currently_missing_from_js_matchups.description
-      t: Which feature would you most like to be able to use in JavaScript today? Percentage of rounds won by left-hand item against top-side item.
+      t: Qual recurso você mais gostaria de poder usar no JavaScript hoje? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item do topo.
 
     ###########################################################################
     # Resources
