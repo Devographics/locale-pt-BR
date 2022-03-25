@@ -371,22 +371,22 @@ translations:
     ###########################################################################
 
     - key: tools_others.runtimes
-      t: JavaScript Runtimes
+      t: Ambientes de execução JavaScript
     - key: tools_others.runtimes.description
-      t: Which engines/runtimes/execution environments do you regularly use?
+      t: Quais mecanismos/tempos/ambientes de execução você usa regularmente?
     - key: tools_others.runtimes.others
-      t: Other Runtimes
+      t: Outros Tempos de Execução
     - key: tools_others.runtimes.others.description
-      t: Other answers (freeform field).
+      t: Outras Respostas (campo de forma livre).
 
     - key: tools_others.package_registries
-      t: Package Registries
+      t: Registros de Pacotes
     - key: tools_others.package_registries.description
-      t: Which package registries do you regularly fetch packages from?
+      t: Em quais registros de pacotes você busca pacotes regularmente?
     - key: tools_others.package_registries.others
-      t: Other Package Registries
+      t: Outros Registros de Pacotes
     - key: tools_others.package_registries.others.description
-      t: Other answers (freeform field).
+      t: Outras Respostas (campo de forma livre).
 
     - key: tools_others.form_factors
       aliasFor: environments.form_factors
