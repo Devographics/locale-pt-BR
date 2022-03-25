@@ -384,7 +384,7 @@ translations:
     - key: tools_others.package_registries.description
       t: Em quais registros de pacotes você busca pacotes regularmente?
     - key: tools_others.package_registries.others
-      t: Outros registros de pacotes
+      t: Outros Registros de Pacotes
     - key: tools_others.package_registries.others.description
       t: Outras respostas (campo de forma livre).
 
