@@ -209,32 +209,32 @@ translations:
 
     # syntax
     - key: features.destructuring
-      t: Destructuring
+      t: Desestruturando
     - key: features.destructuring.description
-      t: 'Example: `const { foo } = bar`'
+      t: 'Exemplo: `const { foo } = bar`'
     - key: features.spread_operator
       t: Spread operator
     - key: features.spread_operator.description
-      t: 'Example: `[...array1, ...array2]`'
+      t: 'Exemplo: `[...array1, ...array2]`'
     - key: features.arrow_functions
       t: Arrow Functions
     - key: features.arrow_functions.description
-      t: 'Example: `const foo = () => {}`'
+      t: 'Exemplo: `const foo = () => {}`'
     - key: features.nullish_coalescing
-      t: Nullish Coalescing
+      t: Coalescência Nula
     - key: features.nullish_coalescing.description
       t: >
-        Example: `const foo = 0 ?? 42`
+        Exemplo: `const foo = 0 ?? 42`
     - key: features.optional_chaining
-      t: Optional Chaining
+      t: Encadeamento opcional
     - key: features.optional_chaining.description
       t: >
-        Example: `const dogName = adventurer.dog?.name`
+        Exemplo: `const dogName = adventurer.dog?.name`
     - key: features.private_fields
-      t: Private Fields
+      t: Campos privados
     - key: features.private_fields.description
       t: >
-        Example: `class ClassWithPrivateField { #privateField }`
+        Exemplo: `class ClassWithPrivateField { #privateField }`
 
     # language
     - key: features.proxies
@@ -244,28 +244,28 @@ translations:
     - key: features.promises
       t: Promises
     - key: features.decorators
-      t: Decorators
+      t: Decoradores
     - key: features.decorators.description
       t: >
-          In its simplest form, a decorator is simply a way of 
-          wrapping one piece of code with another — literally “decorating” it.
+          Em sua forma mais simples, um decorador é simplesmente uma maneira de 
+          nvolver um pedaço de código com outro – literalmente “decorando-o”.
     - key: features.dynamic_import
-      t: Dynamic Import
+      t: Importação dinâmica
     - key: features.dynamic_import.description
       t: >
-        Example: <code>await import('/modules/my-module.js')</code>
+        Exemplo: <code>await import('/modules/my-module.js')</code>
     - key: features.promise_all_settled
       t: Promise.allSettled()
     - key: features.big_int
       t: BigInt
     - key: features.numeric_separators
-      t: Numeric Separators
+      t: Separadores Numéricos
     - key: features.string_replace_all
       t: String.prototype.replaceAll()
     - key: features.string_match_all
       t: String.prototype.matchAll()
     - key: features.logical_assignment
-      t: Logical Assignment
+      t: Atribuição lógica
     - key: features.promise_any
       t: Promise.any()
     - key: features.array_at
@@ -279,25 +279,25 @@ translations:
     - key: features.shadow_dom
       t: Shadow DOM
     - key: features.page_visibility
-      t: Page Visibility API
+      t: API de Visibilidade de Página 
     - key: features.broadcast_channel
-      t: Broadcast Channel API
+      t: API do Canal de Transmissão
     - key: features.geolocation
-      t: Geolocation API
+      t: API de Geolocalização
     - key: features.file_system_access
-      t: File System Access API
+      t: API de Acesso ao Sistema de Arquivos
     - key: features.web_share
-      t: Web Share API
+      t: API de Compartilhamento da Web
     - key: features.webxr
       t: WebXR
 
     # data structures
     - key: features.maps
-      t: Maps
+      t: Mapas
     - key: features.sets
       t: Sets
     - key: features.typed_arrays
-      t: Typed Arrays
+      t: Arrays tipados
     - key: array_prototype_flat
       t: Array.prototype.flat
 
@@ -335,27 +335,27 @@ translations:
 
     # patterns
     - key: patterns.object_oriented_programming
-      t: Object-Oriented Programming
+      t: Programação Orientada a Objetos
     - key: features.functional_programming
-      t: Functional Programming
+      t: Programação Funcional
     - key: features.reactive_programming
-      t: Reactive Programming
+      t: Programação Reativa
 
     # upcoming features
     # - key: features.static_typing
-    #   t: Static Typing
+    #   t: Tipagem Estática
 
     # - key: features.standard_library
-    #   t: Standard Library
+    #   t: Biblioteca padrão
     
     # - key: features.pattern_matching
-    #   t: Pattern Matching
+    #   t: Correspondência de padrões
 
     # - key: features.pipe_operator
-    #   t: Pipe Operator
+    #   t: Operador Pipe
 
     # - key: features.immutable_data_structures
-    #   t: Immutable Data Structures
+    #   t: Estruturas de Dados Imutáveis
 
     ###########################################################################
     # Tools
