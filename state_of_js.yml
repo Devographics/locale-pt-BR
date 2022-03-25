@@ -377,7 +377,7 @@ translations:
     - key: tools_others.runtimes.others
       t: Outros Tempos de Execução
     - key: tools_others.runtimes.others.description
-      t: Outras respostas (campo de forma livre).
+      t: Outras Respostas (campo de forma livre).
 
     - key: tools_others.package_registries
       t: Registros de Pacotes
