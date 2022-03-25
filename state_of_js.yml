@@ -24,7 +24,7 @@ translations:
     - key: sections.syntax.title
       t: Sintaxe
     - key: sections.syntax.description
-      t: The grammar of JavaScript.
+      t: A gramática do JavaScript.
 
     - key: sections.language.title
       t: Linguagem
