@@ -386,7 +386,7 @@ translations:
     - key: tools_others.package_registries.others
       t: Outros Registros de Pacotes
     - key: tools_others.package_registries.others.description
-      t: Outras respostas (campo de forma livre).
+      t: Outras Respostas (campo de forma livre).
 
     - key: tools_others.form_factors
       aliasFor: environments.form_factors
