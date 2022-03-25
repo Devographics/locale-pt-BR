@@ -69,7 +69,7 @@ translations:
     - key: sections.back_end_frameworks.title
       t: Frameworks de Back-end
     - key: sections.back_end_frameworks.description
-      t: JavaScript no servidors
+      t: JavaScript em servidores
 
     - key: sections.testing.title
       t: Teste
