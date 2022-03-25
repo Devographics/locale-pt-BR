@@ -107,57 +107,57 @@ translations:
 
     # JS pain points
     # - key: options.js_pain_points.browser_interoperability
-    #   t: Browser Compatibility
+    #   t: Compatibilidade do navegador
     # - key: options.js_pain_points.browser_interoperability.description
-    #   t: Differences between Chrome, Safari, Firefox, etc.
+    #   t: Diferenças entre Chrome, Safari, Firefox, etc.
     # - key: options.js_pain_points.animations
-    #   t: Animations
+    #   t: Animações
     # - key: options.js_pain_points.animations.description
-    #   t: Managing animations, transitions, etc. using JavaScript.
+    #   t: Gerenciando animações, transições, etc. usando JavaScript.
     # - key: options.js_pain_points.form_handling
-    #   t: Form Handling
+    #   t: Manipulação de formulários
     # - key: options.js_pain_points.form_handling.description
-    #   t: Creating forms, managing their state and errors, and saving their data. 
+    #   t: Criando formulários, gerenciando seu estado e erros e salvando seus dados.
     - key: options.js_pain_points.state_management
-      t: State Management
+      t: Gerenciamento de estado
     - key: options.js_pain_points.state_management.description
-      t: Managing global data state in complex applications. 
+      t: Gerenciando o estado de dados globais em aplicativos complexos.
     # - key: options.js_pain_points.performance_issues
-    #   t: Performance Issues
+    #   t: Problemas de desempenho
     # - key: options.js_pain_points.performance_issues.description
-    #   t: Bundle sizes, slow loading, and other performance issues. 
+    #   t: Tamanhos de pacote, carregamento lento e outros problemas de desempenho.
     - key: options.js_pain_points.managing_dependencies
-      t: Managing Dependencies
+      t: Gerenciando dependências
     - key: options.js_pain_points.managing_dependencies.description
-      t: Managing dependencies, package versions and bundle sizes.
+      t: Gerenciando dependências, versões de pacotes e tamanhos de pacotes.
     - key: options.js_pain_points.architecture
-      t: Code Architecture
+      t: Arquitetura de código
     - key: options.js_pain_points.architecture.description
-      t: Organizing and maintaining your codebase.
+      t: Organizando e mantendo sua base de código.
     - key: options.js_pain_points.finding_packages
-      t: Finding Packages
+      t: Encontrando pacotes
     - key: options.js_pain_points.finding_packages.description
-      t: Finding and evaluating JavaScript packages.
+      t: Encontrando e avaliando pacotes JavaScript.
     - key: options.js_pain_points.writing_modules
-      t: Writing Modules
+      t: Escrevedo módulos
     - key: options.js_pain_points.writing_modules.description
-      t: Writing JavaScript modules and publishing them as packages. 
+      t: Escrevendo módulos JavaScript e publicando-os como pacotes.
     - key: options.js_pain_points.debugging
       t: Debugging
     - key: options.js_pain_points.debugging.description
-      t: Identifying and solving issues with your code. 
+      t: Identificando e resolvendo problemas com seu código.
     - key: options.js_pain_points.async_code
-      t: Async Code
+      t: Código assíncrono
     - key: options.js_pain_points.async_code.description
-      t: Handling asynchronous functions. 
+      t: Manipulação de funções assíncronas.
     - key: options.js_pain_points.modules_management
-      t: Modules Management
+      t: Gerenciamento de Módulos
     - key: options.js_pain_points.modules_management.description
-      t: Writing and importing modules. 
+      t: Escrevendo e importando módulos.
     - key: options.js_pain_points.date_management
-      t: Date Management
+      t: Gerenciamento de datas
     - key: options.js_pain_points.date_management.description
-      t: Handling and manipulating dates and times. 
+      t: Manipulação e manipulação de datas e horários.
     # - key: options.js_pain_points.xxx
     #   t: 
     # - key: options.js_pain_points.xxx.description
@@ -166,35 +166,35 @@ translations:
 
     # JS missing features
     - key: options.currently_missing_from_js.static_typing
-      t: Static Typing
+      t: Digitação Estática
     - key: options.currently_missing_from_js.static_typing.description
-      t: Native types (similar to what TypeScript offers).
+      t: Tipos nativos (semelhantes ao que o TypeScript oferece).
     - key: options.currently_missing_from_js.standard_library
-      t: Standard Library
+      t: Biblioteca padrão
     - key: options.currently_missing_from_js.standard_library.description
-      t: A standard library of common utilities
+      t: Uma biblioteca padrão de utilitários comuns
     - key: options.currently_missing_from_js.pattern_matching
-      t: Pattern Matching
+      t: Correspondência de padrões
     - key: options.currently_missing_from_js.pattern_matching.description
-      t: A new `match` keyword for pattern-matching objects. 
+      t: Uma nova palavra-chave `match` para objetos de correspondência de padrões.
     - key: options.currently_missing_from_js.pipe_operator
-      t: Pipe Operator
+      t: Operador Pipe
     - key: options.currently_missing_from_js.pipe_operator.description
-      t: A new `|>` operator for passing the result of one function to another.
+      t: Um novo operador `|>` para passar o resultado de uma função para outra.
     - key: options.currently_missing_from_js.decorators
-      t: Decorators
+      t: Decoradores
     - key: options.currently_missing_from_js.decorators.description
-      t: Decorators used to metaprogram and add functionality to a value.
+      t: Decoradores usados ​​para metaprogramar e adicionar funcionalidade a um valor.
     - key: options.currently_missing_from_js.immutable_data_structures
-      t: Immutable Data Structures
+      t: Estruturas de dados imutáveis
     - key: options.currently_missing_from_js.immutable_data_structures.description
-      t: New deeply immutable data structures such as `Record` and `Tuple`.
+      t: Novas estruturas de dados profundamente imutáveis, como `Record` e `Tuple`.
     - key: options.currently_missing_from_js.better_date_management
-      t: Better Date Management
+      t: Melhor gerenciamento de datas
     - key: options.currently_missing_from_js.better_date_management.description
-      t: A new `Temporal` object for working with dates and times.
+      t: Um novo objeto `Temporal` para trabalhar com datas e horas.
     - key: options.currently_missing_from_js.observable
-      t: Observable
+      t: Observável
     - key: options.currently_missing_from_js.observable.description
       t: A new `Observable`` type used to model push-based data sources.
     # - key: options.currently_missing_from_js.xxx
