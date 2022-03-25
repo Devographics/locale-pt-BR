@@ -401,7 +401,7 @@ translations:
       t: JavaScript está se movendo na direção certa
 
     - key: opinions.building_js_apps_overly_complex
-      t: Construir aplicativos JavaScript é muito complexo no momento
+      t: Construir aplicativos JavaScript está muito complexo no momento
 
     - key: opinions.js_over_used_online
       t: JavaScript é usado em excesso online
