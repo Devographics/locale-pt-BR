@@ -7,17 +7,17 @@ translations:
 
     - key: general.survey_intro_js2021
       t: >
-          First the 2020 Olympics got pushed back to 2021, 
-          and now the 2021 State of JavaScript survey is happening now, in 2022!
+          Primeiro, as Olimpíadas de 2020 foram adiadas para 2021, 
+          e agora a pesquisa State of JavaScript 2021 está acontecendo agora, em 2022!
 
 
-          It's true: between work, family, and and all the turmoil in the world, 
-          some things got disrupted a little.
+          É verdade: entre trabalho, família e toda a turbulência do mundo, 
+          algumas coisas ficaram um pouco atrapalhadas.
           
 
-          But while the year may be off-by-one, we hope the data provided by the 
-          survey itself will be just as informative and insightful as ever. 
-          And don't worry, there will be another survey towards the end of this year to set things straight again!
+          Mas, embora tenhamos pulado 1 ano, esperamos que os dados fornecidos pela 
+          pesquisa em si seja tão informativa e perspicaz como sempre. 
+          E não se preocupe, haverá outra pesquisa no final deste ano para esclarecer as coisas novamente!
           
     ###########################################################################
     # Survey
@@ -25,11 +25,11 @@ translations:
 
     - key: features.features_intro
       t: >
-          Welcome to the survey! This first part is all about figuring out 
-          which **features** of the JavaScript language you know about. 
-          And if you know about something but haven't yet used it, that's fine too!
+          Bem-vindo à pesquisa! Esta primeira parte é sobre descobrir 
+          quais **recursos** da linguagem JavaScript você conhece. 
+          E se você conhece alguma coisa, mas ainda não usou, tudo bem também!
 
     - key: tools.tools_intro
       t: >
-          The next couple sections focus on the **libraries** and **frameworks** that make up 
-          the JavaScript ecosystem. Let us know what you're excited about!
+          As próximas seções focam nas **bibliotecas** e **frameworks** que compõem 
+          o ecossistema JavaScript. Deixe-nos saber com o que você está animado!
