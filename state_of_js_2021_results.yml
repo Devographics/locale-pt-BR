@@ -5,7 +5,7 @@ translations:
     ###########################################################################
 
     - key: general.results.description
-      t: The 2021 edition of the annual survey about the latest trends in the JavaScript ecosystem.
+      t: A edição de 2021 da pesquisa anual sobre as últimas tendências do ecossistema do JavaScript.
 
     ###########################################################################
     # Introduction
@@ -14,13 +14,13 @@ translations:
     - key: sections.introduction.description
       t: |
 
-            <span class="first-letter">A</span> lot happened in 2021. So much in fact that the survey was pushed back all the way to 2022! 
+            <span class="first-letter">M</span> uito aconteceu em 2021. Tantos acontecimentos levaram ao adiamento da pesquisa para 2022! 
 
-            Between a slew of faster build tools and a new crop of back-end frameworks, the JavaScript world kept evolving. And we did our best to keep up, giving this survey a couple new power-ups ([read more about what's new](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)) such as new question types, the ability to cross-reference two datapoints (such as yearly salaries by experience level), and even a way to customize the charts to surface your own insights! Read more about [what's new this year](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej) (English).
+            Entre uma série de ferramentas de construção mais rápidas e uma nova safra de estruturas de back-end, o mundo do JavaScript continuou evoluindo. E fizemos o nosso melhor para acompanhar, dando a esta pesquisa alguns novos power-ups ([leia mais sobre o que há de novo](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)), como por exemplo, novos tipos de perguntas, a capacidade de fazer referência cruzada de dois pontos de dados (como salários anuais por nível de experiência) e até mesmo uma maneira de personalizar os gráficos para exibir seus próprios insights! Leia mais sobre [o que há de novo este ano](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej) (em Inglês).
 
-            It wasn't all smooth sailing, though. We had to deal with a [data leak](https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1) that thankfully didn't seem to have any bad consequences. And we're constantly making efforts to make the survey more inclusive, more accessible, and more fair. 
+            Mas nem tudo foi tranquilo. Tivemos que lidar com um [vazamento de dados](https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1) que felizmente não teve nenhuma consequência ruim. E estamos constantemente nos esforçando para tornar a pesquisa mais inclusiva, mais acessíva e mais justa.
             
-            Still, even though the survey can ever only represents a tiny, tiny part of the JavaScript ecosystem, we hope you'll find the resulting data interesting!
+            Ainda assim, mesmo que a pesquisa possa representar apenas uma pequena parte do ecossistema JavaScript, esperamos que você ache os resultados interessantes!
 
             <span class="conclusion__byline">– Sacha Greif</span>
 
@@ -29,38 +29,38 @@ translations:
     ###########################################################################
 
     - key: sections.tshirt.title
-      t: T-shirt
+      t: Camiseta
 
     - key: sections.tshirt.description
       t: |
-          ## Support the Survey With the State of JavaScript T-Shirt
+          ## Apoie essa pesquisa com uma camiseta do Estado do Javascript
 
-          Between the bad video quality, the bulky cassettes, and having to rewind, there's not much to miss about the VHS era. But one thing we *do* miss are the amazing 90s visuals that used to adorn blank VHS tapes. 
+          Entre a má qualidade do vídeo, os cassetes volumosos e a necessidade de rebobinar, não há muito para se ter saudades da era do VHS. Mas uma coisa que nós *sentimos* falta são os incríveis visuais dos anos 90 que costumavam adornar fitas VHS em branco.
 
-          But now, thanks to the talented Christopher Kirk-Nielsen you can enjoy all this retro radness while also celebrating your love for JavaScript at the same time!
+          Mas agora, graças ao talentoso Christopher Kirk-Nielsen, você pode aproveitar toda essa modernidade retrô enquanto celebra seu amor pelo JavaScript ao mesmo tempo!
 
     - key: tshirt.about
-      t: About the T-shirt
+      t: Sobre a camiseta
 
     - key: tshirt.description
       t: |
-          We use a high-quality, super-soft tri-blend shirt with a slim fit printed by our partners at Cotton Bureau. 
+          Usamos uma camisa tri-blend super macia e de alta qualidade com um ajuste fino impresso por nossos parceiros do Cotton Bureau.
 
     - key: tshirt.getit
-      t: Get It
+      t: Compre agora!
 
     - key: tshirt.price
-      t: USD $29 + shipping
+      t: USD $29 + frete
 
     - key: tshirt.designer.heading
-      t: About the Designer
+      t: Sobre o designer
 
     - key: tshirt.designer.name
       t: Christopher Kirk-Nielsen
 
     - key: tshirt.designer.bio
       t: |
-          Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+          Originalmente da França, mas agora morando nos Estados Unidos, Chris não é apenas um incrível desenvolvedor front-end, mas também um talentoso ilustrador especializado em visuais retrô. Na verdade, recomendamos que você também confira os seus [outros designs de camisetas](https://chriskirknielsen.com/designs)!
           
     ###########################################################################
     # Sections
@@ -68,37 +68,35 @@ translations:
 
     - key: sections.user_info.description
       t: |
-          This year, **16,085** respondents took part in the survey. And in order
-          to help highlight different voices and surface deeper insights, we made a special
-          effort to provide new ways to break our data down. 
+          Este ano, **16.085** entrevistados participaram da pesquisa. E para ajudar a destacar vozes diferentes e trazer insights mais profundos, fizemos um esforço especial para fornecer novas maneiras de detalhar nossos dados.
 
     - key: sections.features.description
       t: |
-          JavaScript may move fast, but it seems like JavaScript developers move even faster, as many relatively new features already show high adoption levels. 
+          O JavaScript pode se mover rapidamente, mas parece que os desenvolvedores de JavaScript se movem ainda mais rápido, já que muitos recursos relativamente novos já mostram altos níveis de adoção.
 
     - key: sections.technologies.description
       t: |
-          This year's results point to a high degree of fragmentation in the JavaScript world. But while this can sometimes cause headaches, all that competition does make for a very dynamic ecosystem. 
+          Os resultados deste ano apontam para um alto grau de fragmentação no mundo do JavaScript. Embora isso às vezes possa causar dores de cabeça, toda essa competição contribui para um ecossistema muito dinâmico. 
 
     - key: sections.tools_others.description
       t: |
-          Picking a technology can often come down to a series of tough choices between 
-          competing priorities, and this year we tried to capture this process using a new bracket-style question format. 
+          A escolha de uma tecnologia muitas vezes pode se resumir a uma série de escolhas difíceis entre prioridades concorrentes, 
+          e este ano tentamos capturar esse processo usando um novo formato de perguntas no estilo de colchetes.
 
     - key: sections.environments.description
       t: |
-          Accessibility has long been an after-thought when it comes to web development, but many developers
-          are now realizing that it should in fact be the foundation on which everything else rests. 
+          A acessibilidade tem sido uma reflexão tardia quando se trata de desenvolvimento web, mas muitos desenvolvedores 
+          agora estão percebendo que ela deveria, de fato, ser a base sobre a qual tudo mais repousa.
 
     - key: sections.resources.description
       t: |
-          Highlighting blogs, podcasts, and sites was a good start, but this year we decided to go one step further
-          and actually feature the people who make up the JavaScript community! 
+          Destacar blogs, podcasts e sites foi um bom começo, mas este ano decidimos dar um passo adiante 
+          e realmente apresentar as pessoas que compõem a comunidade JavaScript!
 
     - key: sections.opinions.description
       t: |
-          Whether it's pain points that hold you back today, or missing features that you hope to use
-          tomorrow, this was your chance to vent and share your gripes with JavaScript!
+          Sejam pontos problemáticos que o impedem hoje ou recursos ausentes que você espera usar 
+          amanhã, esta foi sua chance de desabafar e compartilhar suas queixas com JavaScript!
     
     ###########################################################################
     # Charts
@@ -113,16 +111,16 @@ translations:
 
     - key: blocks.tools_quadrant.description
       t: |
-        This chart shows each technology's **satisfaction ratio** (or **interest ratio**) over its total **user count**.
-        It can be divided into four quadrants:
+        Este gráfico mostra a **taxa de satisfação** (ou **taxa de interesse**) de cada tecnologia em relação à sua **contagem total de usuários**. 
+        Pode ser dividido em quatro quadrantes:
 
-          - **1**: Low usage, high satisfaction. Technologies worth keeping an eye on.
+          - **1**: Baixo uso, alta satisfação. Tecnologias que valem a pena ficar de olho.
 
-          - **2**: High usage, high satisfaction. Safe technologies to adopt.
+          - **2**: Alto uso, alta satisfação. Tecnologias seguras para adotar.
 
-          - **3**: Low usage, low satisfaction. Technologies that are harder to recommend currently.
+          - **3**: Baixo uso, baixa satisfação. Tecnologias que são mais difíceis de se recomendar atualmente.
 
-          - **4**: High usage, low satisfaction. Reassess these technologies if you're currently using them.
+          - **4**: Alto uso, baixa satisfação. Reavalie essas tecnologias se você as estiver usando no momento.
 
 
     ###########################################################################
@@ -131,41 +129,41 @@ translations:
 
     - key: blocks.gender.note
       t: |
-          If you're interested in learning more, we [wrote a blog post](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) that addresses the survey's gender dynamics.
+          Se você estiver interessado em saber mais, [escrevemos uma postagem no blog](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) que aborda a dinâmica de gênero da pesquisa.
 
     - key: blocks.currently_missing_from_css.note
       t: |
-          You can explore the full dataset of answers to this question in [this side project](https://whatsmissingfromcss.com/).
+          Você pode explorar todos os dados das respostas a esta pergunta [neste projeto paralelo](https://whatsmissingfromcss.com/).
 
     - key: blocks.source.note
       t: >
       
-        This chart aggregates a mix of referrers, URL parameters, and freeform answers. 
+        Este gráfico agrega uma combinação de referenciadores, parâmetros de URL e respostas de forma livre. 
 
-        - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+        - State of JS: a lista de emails do [State of JS](https://stateofjs.com).
 
-        - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+        - State of CSS: a lista de email do State of CSS; também corresponde a `email`, `por email`, etc.
 
-        - Work: matches `work`, `colleagues`, `coworkers`, etc.
+        - Work: corresponde a `trabalho`, `colegas`, `colaboradores`, etc.
 
     ###########################################################################
     # Awards
     ###########################################################################
 
     - key: award.feature_adoption_delta_award.comment
-      t: With a **{value}** progression in 2021, the nullish coalescing operator (??) has quickly become an integral part of JavaScript. 
+      t: Com uma progressão de **{valor}** em 2021, o operador de coalescência nulo (??) tornou-se rapidamente parte integrante do JavaScript.
 
     - key: award.tool_usage_delta_award.comment
-      t: esbuild is barely two years old, but with a **{value}** progression over the last year it's already gaining ground.
+      t: esbuild tem apenas dois anos, mas com uma progressão de **{value}** ao longo do último ano já está ganhando terreno.
 
     - key: award.tool_satisfaction_award.comment
-      t: Vite takes the top spot with a sky-high **{value}** satisfaction ratio!
+      t: Vite ocupa o primeiro lugar com um índice de satisfação altíssimo! De **{value}**.
 
     - key: award.tool_interest_award.comment
-      t: With a **{value}** interest ratio, Vite once again wins the gold!
+      t: Com uma taxa de interesse de **{value}**, Vite mais uma vez ganha o ouro!
 
     - key: award.most_write_ins_award.comment
-      t: Many questions also accepted write-in answers, and with **{value}** mentions Elm was the most popular item overall.
+      t: Muitas perguntas também aceitaram respostas por escrito, e com **{value}** menções, Elm foi o item mais popular em geral.
 
       
     ###########################################################################
@@ -175,169 +173,169 @@ translations:
     - key: sections.conclusion.description
       t: |
 
-            <span class="first-line">JavaScript is in a tremendously better state today compared to 2016.</span>
+            <span class="first-line">O JavaScript está em um estado tremendamente melhor hoje em comparação com 2016.</span>
             
-            Back when the first State of JS survey took place, only 21% of you used TypeScript compared to 69% today. Whereas we used to joke about a new front end framework releasing every day, **React** and **Vue** have now been dominant for 6 years running. And the percentage of people reporting that "JS is moving too fast" is down from 59% to 38%.
+            Quando a primeira pesquisa do State of JS ocorreu, apenas 21% de vocês usavam TypeScript em comparação com 69% hoje. Enquanto costumávamos brincar sobre uma nova estrutura de front-end sendo lançada todos os dias, **React** e **Vue** agora são dominantes há 6 anos consecutivos. E a porcentagem de pessoas relatando que "JS está se movendo muito rápido" caiu de 59% para 38%.
 
-            This is not to say that the language has stood still. The **Optional Chaining** and **Nullish Coalescing** APIs have rocketed up to be the most used new APIs in our survey, despite only being 2 years old. And more good things are on the way from TC39: you reported that date management is a top missing feature, and the Temporal API recently reached [Stage 3](https://github.com/tc39/proposal-temporal).
+            Isso não quer dizer que a linguagem tenha parado. As APIs **Encadeamento opcional** e **Operador de coalescência nula** dispararam para serem as novas APIs mais usadas em nossa pesquisa, apesar de terem apenas 2 anos de idade. E mais coisas boas estão a caminho do TC39: você relatou que o gerenciamento de datas é um dos principais recursos ausentes e a API Temporal atingiu recentemente o [Estágio 3](https://github.com/tc39/proposal-temporal).
 
-            The tooling ecosystem is also seeing its own rapid evolution, and it's fair to say that 2021 has been the year of **Vite**. Vite not only debuted at 98% satisfaction, but usage is already at 30% in its first year on our survey, even eclipsing esbuild. Vite isn't alone in trying to improve the state of JavaScript build tools - 8 of the 12 tools we track today are less than two years old! And while **pnpm**, **Turborepo**, and **Nx** took the top spots in our first year tracking monorepo tooling, only 25% report being happy with the state of that category, showing that a lot of work remains to be done. 
+            O ecossistema de ferramentas também está vendo sua própria evolução rápida, e é justo dizer que 2021 foi o ano do **Vite**. O Vite não apenas estreou com 98% de satisfação, mas o uso já está em 30% em seu primeiro ano em nossa pesquisa, superando até mesmo o esbuild. O Vite não está sozinho na tentativa de melhorar o estado das ferramentas de construção JavaScript - 8 das 12 ferramentas que acompanhamos hoje têm menos de dois anos! E enquanto **pnpm**, **Turborepo** e **Nx** ocuparam os primeiros lugares em nosso primeiro ano de rastreamento de ferramentas de monorepo, apenas 25% relatam estar satisfeitos com o estado dessa categoria, mostrando que muito trabalho ainda precisa ser feito.
             
-            Also notable: many new entrants like **Deno**, **Rome**, **Astro**, **Remix**, and more are now supported by venture-backed companies, perhaps charting a viable alternative to the fragile open-source funding environment.
+            Também notável: muitos novos participantes como **Deno**, **Rome**, **Astro**, **Remix** e outros agora são apoiados por empresas de capital de risco, talvez traçando uma alternativa viável para o frágil ambiente de financiamento de código aberto.
 
-            As the [Third Age of JavaScript](https://www.swyx.io/js-third-age/) enters its third year, the opportunities for aspiring open sourcerors and entrepreneurs continue to unfold, and I'm excited to see what the next couple years bring!
+            À medida que a [Terceira Era do JavaScript](https://www.swyx.io/js-third-age/) entra em seu terceiro ano, as oportunidades para aspirantes a desenvolvedores de código aberto e empreendedores continuam a se desdobrar, e estou animado para ver o que os próximos anos trazem!
 
     - key: conclusion.bio
-      t: Head of DX at Temporal
+      t: Head de DX na Temporal
       
     ###########################################################################
     # Picks
     ###########################################################################
 
     - key: picks.my_pick
-      t: 'My 2021 Pick: '
+      t: 'Minha escolha de 2021: '
     - key: picks.intro
-      t: We asked members of the JavaScript community to share their “pick of the year”
+      t: Pedimos aos membros da comunidade JavaScript para que compartilhassem sua “escolha do ano”
 
     - key: picks.lee_robinson.name
       t: SvelteKit
     - key: picks.lee_robinson.bio
-      t: Director of Developer Relations at Vercel
+      t: Diretor de Relações com Desenvolvedores na Vercel
     - key: picks.lee_robinson.description
       t: |
-          SvelteKit is a fresh take on building for the web and has an 
-          incredibly passionate, growing community of supporters. 
+          O SvelteKit é uma nova visão da construção para a web e tem uma 
+          incrivelmente apaixonada e crescente comunidade de apoiadores.
 
     - key: picks.vadim_makeev.name
       t: Server-Side Rendering
     - key: picks.vadim_makeev.bio
-      t: DevRel, Podcaster & Web Standards Advocate
+      t: DevRel, Podcaster e Defensor de padrões da Web
     - key: picks.vadim_makeev.description
       t: |
-          The time has come to get our priorities straight. 
-          UX > DX, and it has always been like that. Performance FTW!
+          Chegou a hora de acertar nossas prioridades. 
+          UX > DX, e sempre foi assim. Desempenho FTW (For The Win - Para a Vitória)!
             
     - key: picks.ben_ilegbodu.name
       t: Lee Robinson
     - key: picks.ben_ilegbodu.bio
-      t: Ben Ilegbodu, Principal Frontend Engineer @ Stitch Fix
+      t: Ben Ilegbodu, Engenheiro Frontend Principal @ Stitch Fix
     - key: picks.ben_ilegbodu.description
       t: |
-          Lee has been great at shepherding and advocating for Next.js. 
-          He's helped me a ton with Next and continues to build excitement 
-          for where it's going
+          Lee tem sido ótimo em pastorear e defender o Next.js. 
+          Ele me ajudou muito com o Next e continua a criar entusiasmo 
+          para onde está indo.
             
     - key: picks.shawn_wang.name
       t: Supabase
     - key: picks.shawn_wang.bio
-      t: Head of DX at Temporal
+      t: Head de DX na Temporal
     - key: picks.shawn_wang.description
       t: |
-          Supabase is making Postgres accessible to more developers and showing 
-          everyone how a small focused team can out-ship peers 10x their size.
+          Supabase está tornando o Postgres acessível a mais desenvolvedores e mostrando 
+          a todos como uma pequena equipe focada pode superar concorrentes com 10x seu tamanho.
 
     - key: picks.sarah_drasner.name
       t: Pawel Kozlowski
     - key: picks.sarah_drasner.bio
-      t: Director of Engineering, Core Developer Web at Google
+      t: Diretor de Engenharia, Core Developer Web no Google
     - key: picks.sarah_drasner.description
       t: |
-          Pawel Kozlowski is the kind of developer who can be open-minded to different 
-          approaches with humility and curiosity with the interest of improving things.
+          Pawel Kozlowski é o tipo de desenvolvedor que pode ter a mente aberta para diferentes 
+          abordagens com humildade e curiosidade, com o interesse de melhorar as coisas.
 
     - key: picks.sara_vieira.name
       t: Paul Henschel
     - key: picks.sara_vieira.bio
-      t: International Agent of JS Bullshit
+      t: Agente Internacional da JS Bullshit
     - key: picks.sara_vieira.description
       t: |
-          Paul's work on animations and ReactThreeFiber 
-          have made doing any kind of 3D work on the web way easier. 
+          O trabalho de Paul em animações e ReactThreeFiber 
+          tornaram o trabalho com 3D na web muito mais fácil.
 
     - key: picks.mark_erikson.name
       t: Ryan Carniato
     - key: picks.mark_erikson.bio
-      t: Redux Maintainer
+      t: Mantenedor do Redux
     - key: picks.mark_erikson.description
       t: |
-          Ryan's reactive JS framework SolidJS hit 1.0, 
-          and he wrote numerous articles analyzing advanced 
-          JS framework implementation concepts.
+          O framework JS reativo SolidJS do Ryan atingiu a versão 1.0, 
+          e ele escreveu vários artigos analisando 
+          conceitos avançados de implementação do framework JS.
     
     - key: picks.miguel_angel_duran.name
       t: Vite
     - key: picks.miguel_angel_duran.bio
-      t: Front End Dev & Twitch Coding Streamer
+      t: Dev Frontend e Streamer de codificação na Twitch
     - key: picks.miguel_angel_duran.description
       t: |
-          In addition to esbuild and swc, fantastic tools pushing forward the ecosystem, 
-          I'm enjoying Vite. It has a delightful DX, and it's rich in features. 
+          Além de esbuild e swc, ferramentas fantásticas que impulsionam o ecossistema, 
+          estou gostando do Vite. Tem um DX encantador e é rico em recursos.
       
     - key: picks.alyssa_nicoll.name
       t: BroccoDev's Twitch Stream
     - key: picks.alyssa_nicoll.bio
-      t: Sr. Developer Advocate at Progress
+      t: Evangelista Desenvolvedor Sênior na Progress.
     - key: picks.alyssa_nicoll.description
       t: |
-        Mike Brocchi recently started streaming to Twitch. He is a brilliant programmer, 
-        developer, and most importantly teacher. 
-        I always have a blast watching his streams and learning from him.
+        Mike Brocchi recentemente começou a transmitir para a Twitch. Ele é um programador brilhante, 
+        desenvolvedor e, mais importante, professor. 
+        Eu sempre me divirto assistindo suas transmissões e aprendendo com ele.
       
     - key: picks.michael_jackson.name
       t: esbuild
     - key: picks.michael_jackson.bio
-      t: Co-founder of Remix
+      t: Cofundador da Remix
     - key: picks.michael_jackson.description
       t: |
-        We have been building the Remix compiler on top of esbuild and it 
-        has definitely raised the bar as far as JS bundlers are concerned. 
-        It's incredibly fast and the plugin API allows us to do pretty much anything we want.
+        Estamos construindo o compilador Remix em cima do esbuild e ele 
+        definitivamente elevou a fasquia no que diz respeito aos bundlers de JS. 
+        É incrivelmente rápido e a API do plugin nos permite fazer praticamente tudo o que queremos.
 
     - key: picks.david_khourshid.name
       t: Remix
     - key: picks.david_khourshid.bio
-      t: Pianist and founder of Stately
+      t: Pianista e fundador do Stately
     - key: picks.david_khourshid.description
       t: |
-          Remix is a full-stack web framework that feels old-school, but in a good way, 
-          by putting you on the path to create fast, complex, and accessible modern web apps.
+          O Remix é um framework web full-stack que parece antiquado, mas de um jeito bom, 
+          colocando você no caminho para criar aplicativos Web modernos, rápidos, complexos e acessíveis.
       
     - key: picks.kent_c_dodds.name
       t: Fly.io
     - key: picks.kent_c_dodds.bio
-      t: Director of Developer Experience, Remix
+      t: Diretor de Desenvolvimento de experiência, Remix
     - key: picks.kent_c_dodds.description
       t: |
-          Fly enabled me (a frontend engineer with a distain for DevOps) 
-          to confidently deploy a real-world, globally-distributed, production-grade 
-          app.
+          Fly me habilitou (um engenheiro de front-end com desinteresse por DevOps) 
+          para implantar com confiança um aplicativo no mundo real, distribuído globalmente, de 
+          nível de produção.
 
     - key: picks.tejas_kumar.name
       t: Joe Haddad
     - key: picks.tejas_kumar.bio
-      t: Web Developer, Conference Speaker, and Director of DevRel at Xata
+      t: Desenvolvedor Web, Conferencista e Diretor de DevRel na Xata
     - key: picks.tejas_kumar.description
       t: |   
-          Joe works on Next.js at Vercel and is constantly looking to proudly 
-          demonstrate its power while actively listening 
-          to feedback from the community to support them better. 
+          Joe trabalha no Next.js na Vercel e está constantemente procurando demonstrar 
+          orgulhosamente seu poder enquanto escuta ativamente 
+          ao feedback da comunidade para apoiá-los melhor.
 
     - key: picks.wes_bos.name
       t: TC39 Proposals
     - key: picks.wes_bos.bio
-      t: JavaScript Teacher & Podcast Host
+      t: Professor de JavaScript e Host de Podcast
     - key: picks.wes_bos.description
       t: |
-          A Git repo full of all the things that have been proposed to be added to JavaScript. It's really fun to read through all the ideas people have for the language and see them go through the stages.
+          Um repositório Git cheio de todas as coisas que foram propostas para serem adicionadas ao JavaScript. É muito divertido ler todas as ideias que as pessoas têm para a linguagem e vê-las passar pelos estágios.
       
     - key: picks.scott_tolinkski.name
       t: SvelteKit
     - key: picks.scott_tolinkski.bio
-      t: Creator of Level-Up Tuts, co-host of Syntax
+      t: Criador do Level-Up Tuts, co-apresentador do Syntax
     - key: picks.scott_tolinkski.description
       t: |   
-          Svelte Kit provides the amazing developer experience of Svelte with all 
-          of the modern features of expected from a web platform. 
+          O Svelte Kit fornece a incrível experiência de desenvolvedor do Svelte com todos os 
+          recursos modernos esperados de uma plataforma web.
 
     - key: picks.xxxx.name
       t:
@@ -350,11 +348,11 @@ translations:
 ###########################################################################
 
     - key: partners.frontendmasters.description
-      t: Advance your skills with in-depth, modern front-end engineering courses.
+      t: Aprimore suas habilidades com cursos avançados e modernos de engenharia de front-end.
     - key: partners.polypane.description
-      t: The browser for ambitious devs. Build responsive, accessible and fast websites with ease.
+      t: O navegador para desenvolvedores ambiciosos. Crie sites responsivos, acessíveis e rápidos com facilidade.
     - key: partners.google_chrome.description
-      t: Thanks to the Google Chrome team for supporting our work.
+      t: Agradecemos à equipe do Google Chrome por apoiar nosso trabalho.
 
 ###########################################################################
 # FAQ/About
@@ -362,72 +360,72 @@ translations:
     
     - key: about.content
       t: >
-            The 2021 State of JS survey ran from January 13 to February 2 **2022**, and collected 16,085 responses. The survey is run by me, [Sacha Greif](https://sachagreif.com/), with help from a team of open-source contributors and consultants. 
+            A pesquisa State of JS de 2021 foi realizada de 13 de janeiro a 2 de fevereiro **2022** e coletou 16.085 respostas. A pesquisa é conduzida por mim, [Sacha Greif](https://sachagreif.com/), com a ajuda de uma equipe de colaboradores e consultores de código aberto.
 
-            This year's logo and t-shirt were designed by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+            O logotipo e a camiseta deste ano foram desenhados por [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
 
-            ### Survey Goals
+            ### Objetivos da pesquisa
 
-            This survey, along with the [State of CSS](https://stateofcss.com/) survey, was created to identify upcoming trends in the web development ecosystem in order to help developers make technological choices. 
+            Esta pesquisa, juntamente com a pesquisa [State of CSS](https://stateofcss.com/), foi criada para identificar tendências futuras no ecossistema de desenvolvimento da Web para ajudar os desenvolvedores a fazer escolhas tecnológicas.
 
-            As such, these surveys are focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why the features or technologies that are currently most widespread are not always included. 
+            Como tal, essas pesquisas estão focadas em antecipar o que está por vir nos próximos anos, em vez de analisar o que é popular agora, e é por isso que os recursos ou tecnologias mais difundidos atualmente nem sempre são incluídos.
 
-            They should also be taken as a **snapshot of a specific subset of developers**, and are not meant to speak for the entire ecosystem. 
+            Eles também devem ser considerados um **vislumbre de um subconjunto específico de desenvolvedores** e não devem falar por todo o ecossistema.
 
-            ### Survey Design
+            ### Projeto de Pesquisa
 
-            The survey was designed in part based on last year's survey, with an open feedback period where the survey outline was discussed [on GitHub](https://github.com/StateOfJS/Monorepo/issues/56). 
+            A pesquisa foi projetada em parte com base na pesquisa do ano passado, com um período de feedback aberto em que o esboço da pesquisa foi discutido [no GitHub](https://github.com/StateOfJS/Monorepo/issues/56). 
             
-            All survey questions were optional. 
+            Todas as perguntas da pesquisa eram opcionais.
 
-            ### Survey Audience
+            ### Público-alvo da pesquisa
 
-            The survey was openly accessible online and respondents were not filtered or selected in any way. Respondents were primarily a mix of respondents from past surveys (alerted through a dedicated mailing list) and social media traffic. 
+            A pesquisa foi abertamente acessível on-line e os entrevistados não foram filtrados ou selecionados de forma alguma. Os entrevistados eram principalmente uma mistura de entrevistados de pesquisas anteriores (alertados por meio de uma lista de emails dedicada) e tráfego de mídia social.
 
-            Note that frameworks, libraries, etc. were free to encourage their audience to participate in the survey and some of them did take advantage of this via banners, tweets, etc. A detailed breakdown of traffic sources is included in the "Sources" chart. 
+            Observe que frameworks, bibliotecas, etc. eram livres para encorajar seu público a participar da pesquisa e alguns deles tiraram vantagem disso por meio de banners, tweets, etc. Um detalhamento das fontes de tráfego está incluído no gráfico "Fontes".
 
-            ### Representativeness & Inclusivity
+            ### Representatividade e Inclusão
 
-            While we believe it's important to give a voice to every community, the reality is that an open survey like this one will always struggle to properly represent everybody, especially when operating through systems that already carry their own inherent biases. 
-
-
-            In order to counter-balance this, we are implementing three distinct strategies:
+            Embora acreditemos que seja importante dar voz a todas as comunidades, a realidade é que uma pesquisa aberta como esta sempre terá dificuldades para representar todos adequadamente, especialmente ao operar em sistemas que já carregam seus próprios pré-conceitos inerentes.
 
 
-            - **Outreach**: we always try to reach out to different organizations (such as BIPOC- or LGBTQ-focused organizations, or online teaching platforms) to try and diversify our own audience. 
+            Para contrabalançar isso, estamos implementando três estratégias distintas:
+
+
+            - **Extensão**: sempre tentamos alcançar diferentes organizações (como organizações focadas em BIPOC ou LGBTQ, ou plataformas de ensino online) para tentar diversificar nosso próprio público. 
             
-            - **Data Analysis**: through features like facets and variants, we're always trying to make it easier to surface the voices of any demographic segment, no matter how minoritized it might be in our data. 
+            - **Análise de dados**: por meio de recursos como facetas e variantes, estamos sempre tentando facilitar a exibição das vozes de qualquer segmento demográfico, por menor que seja em nossos dados.
             
-            - **Barrier Lowering**: making the survey too long, inaccessible, slow to load, English-only, etc. can all contribute to imposing an "effort tax" that cuts off the parts of the community that can't afford to pay it. Fixing these issues can lower the barrier to entry and in the process make our audience more diverse. 
+            - **Redução de barreira**: tornar a pesquisa muito longa, inacessível, lenta para carregar, somente em inglês etc. pode contribuir para a imposição de uma "taxa de esforço" que corta as partes da comunidade que não podem pagar por isto. Corrigir esses problemas pode diminuir a barreira de entrada e, no processo, tornar nosso público mais diversificado.
 
-            ### Project Funding
+            ### Financiamento do projeto
 
-            Funding from this project comes from a variety of sources:
+            O financiamento deste projeto vem de uma variedade de fontes:
 
 
-            - **T-shirt sales**. 
+            - **Venda de camisetas**. 
 
-            - **Chart Sponsorships**: members of the community can donate to the survey in exchange for having their name featured in the report.  
+            - **Patrocínios do gráfico**: os membros da comunidade podem doar para a pesquisa em troca de terem seu nome em destaque no relatório.
 
-            - **Sponsored links**: the links to recommended resources at the bottom of each page are provided by our partner [Frontend Masters](https://frontendmasters.com/).
+            - **Links patrocinados**: os links para recursos recomendados na parte inferior de cada página são fornecidos pelo nosso parceiro [Frontend Masters](https://frontendmasters.com/).
             
-            - **Other Funding**: this year, the [Google Chrome](https://www.google.com/chrome/) team set aside a small budget to help hire an [accessibility consultant](https://fossheim.io/) to work on the CSS and JS surveys.
+            - **Outros financiamentos**: este ano, a equipe do [Google Chrome](https://www.google.com/chrome/) reservou um pequeno orçamento para ajudar a contratar um [consultor de acessibilidade](https://fossheim.io/) para trabalhar nas pesquisas de CSS e JS.
 
 
-            Despite these funding sources, the surveys remains mostly a self-funded project overall and any contribution or sponsorship would be greatly appreciated. I would especially like to work closely with more browser vendors, since they play such a central role in the web ecosystem.  
+            Apesar dessas fontes de financiamento, as pesquisas continuam sendo principalmente um projeto autofinanciado em geral e qualquer contribuição ou patrocínio seria muito apreciado. Gostaria especialmente de estreitar a colaboração com mais fornecedores de navegadores, por desempenharem um papel tão central no ecossistema da web. 
 
-            ### Technical Overview
+            ### Visão geral técnica
 
-            You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).
+            Você pode encontrar uma visão geral técnica mais detalhada de como as pesquisas são executadas [aqui](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).
 
-            - **Data collection**: custom [Vulcan.js](http://vulcanjs.org/) app.
+            - **Coleta de dados**: aplicativo personalizado [Vulcan.js](http://vulcanjs.org/).
 
-            - **Data storage/processing**: MongoDB & MongoDB Aggregations.
+            - **Armazenamento/processamento de dados**: MongoDB e agregações.
             
-            - **Data API**: Node.js GraphQL API. 
+            - **API de dados**: API GraphQL do Node.js.
             
-            - **Results Site**: [Gatsby](https://www.gatsbyjs.com/) React app.
+            - **Site de resultados**: [Gatsby](https://www.gatsbyjs.com/) aplicativo React.
             
-            - **Data Visualizations**: [Nivo](https://nivo.rocks/) React dataviz library. 
+            - **Visualizações de dados**: [Nivo](https://nivo.rocks/) React dataviz library.
             
-            - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) and [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).
+            - **Fonte**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) e [Bebas Neue](https://fonts.google.com/specimen/Bebas+ Neue).
