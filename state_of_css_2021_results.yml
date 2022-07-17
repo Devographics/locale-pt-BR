@@ -7,15 +7,15 @@ translations:
     - key: sections.introduction.description
       t: |
 
-            <span class="first-letter">D</span>o woodworkers have to learn a new, better way to saw a board every couple years? Do painters feel like frauds for still using oil paint? Or is it just us front-end developers who get to experience this constant state of change?
+            <span class="first-letter">O</span>s marceneiros precisam aprender uma maneira nova e melhor de ver uma prancha a cada dois anos? Os pintores são fraudes por ainda usarem tinta a óleo? Ou são apenas os desenvolvedores front-end que experimentam esse estado constante de mudança?
 
-            With container queries and more just around the corner, things are definitely moving fast. And since we need to keep up as well, we took the time to give these survey results a couple new power-ups of their own! 
+           Com consultas de contêineres e muito mais ao virar da esquina, as coisas estão definitivamente se movendo rapidamente. E como precisamos nos atualizar também, dedicamos um tempo para dar a esses resultados da pesquisa alguns novos poderes próprios!
 
-            What this means in practice is that we can now cross-reference two datapoints, such as yearly salaries by experience level; or gender by country. You'll see some of these breakdowns included throughout the results, but we encourage you to explore the data further using [our API](https://api.stateofjs.com/) or by [downloading our data](https://www.kaggle.com/sachag/state-of-css). Let us know if you end up making your own data visualizations!
+            O que isso significa na prática é que agora podemos cruzar referências de duas fontes de dados, como salários anuais por nível de experiência; ou gênero por país. Você verá algumas dessas separações incluídas nos resultados, mas incentivamos você a explorar os dados usando [nossa API](https://api.stateofjs.com/) ou [baixando nossos dados](https://www.kaggle.com/sachag/state-of-css). Informe-nos se você acabar fazendo suas próprias visualizações de dados!
 
-            And now, let's see what CSS has been up to this year!
+            E agora, vamos ver o que o CSS tem feito este ano!
 
-            *Note: We've had to push back the 2021 [State of JavaScript](http://stateofjs.com/) survey to January 2022 for lack of time. See you after the holidays!*
+            *Nota: Tivemos que adiar a pesquisa de 2021 [State of JavaScript](http://stateofjs.com/) até janeiro de 2022 por falta de tempo. Vejo você depois das férias!*
 
             <span class="conclusion__byline">– Sacha Greif</span>
 
