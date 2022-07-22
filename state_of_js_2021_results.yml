@@ -151,7 +151,7 @@ translations:
     ###########################################################################
 
     - key: award.feature_adoption_delta_award.comment
-      t: Com uma progressão de **{valor}** em 2021, o operador de coalescência nulo (??) tornou-se rapidamente parte integrante do JavaScript.
+      t: Com uma progressão de **{value}** em 2021, o operador de coalescência nulo (??) tornou-se rapidamente parte integrante do JavaScript.
 
     - key: award.tool_usage_delta_award.comment
       t: esbuild tem apenas dois anos, mas com uma progressão de **{value}** ao longo do último ano já está ganhando terreno.
