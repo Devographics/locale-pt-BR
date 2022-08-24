@@ -31,7 +31,7 @@ translations:
     t: Responder à pesquisa
 
   - key: homepage.view_results
-    t: Ver resultados de 2019
+    t: Ver resultados
 
   - key: share.help_spread
     t: Ajude a espalhar a palavra!
