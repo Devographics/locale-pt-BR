@@ -21,10 +21,10 @@ translations:
   - key: general.completion_percentage
     t: "Porcentagem de conclusão:"
 
-  - key: partners.thanks
+  - key: sponsors.thanks
     t: Obrigado aos nossos parceiros por nos apoiarem!
 
-  - key: partners.learn_more
+  - key: sponsors.learn_more
     t: Saiba mais.
 
   - key: tabs.all_respondents

@@ -168,9 +168,9 @@ translations:
       t: Limpar questão
 
     # partners
-    - key: partners.our_partners
+    - key: sponsors.our_partners
       t: Nossos parceiros
-    - key: partners.become_partner
+    - key: sponsors.become_partner
       t: Se torne um parceiro
 
     # 404
