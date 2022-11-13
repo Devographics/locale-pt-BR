@@ -56,10 +56,10 @@ translations:
     - key: general.preview_survey
       t: Visualizar pesquisa »
     - key: general.finish_survey
-      t: Finalizar pesquisa »
+      t: Finalizar pesquisa
     - key: general.next_section
       t: Próxima seção
-    - key: general.prev_section
+    - key: general.previous_section
       t: Seção anterior
     - key: general.survey_closed
       t: Esta pesquisa está encerrada.
