@@ -11,6 +11,9 @@ translations:
   - key: homepage.get_in_touch
     t: Entre em contato
 
+  - key: homepage.other_surveys
+    t: 'Outras Pesquisas:'
+
   - key: homepage.made_by
     t: 'O State of CSS é feito por:'
 
@@ -40,6 +43,11 @@ translations:
     t: Fique ligado
   - key: newsletter.leave_your_email
     t: Deixe-nos seu e-mail e informaremos quando a próxima pesquisa ocorrer.
+
+  - key: newsletter.email
+    t: Seu Email
+  - key: newsletter.submit
+    t: Me Avise
 
   - key: author.sacha.bio
     t: >
