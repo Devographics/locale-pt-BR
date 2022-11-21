@@ -170,7 +170,7 @@ translations:
     # Conclusion
     ###########################################################################
 
-    - key: sections.conclusion.description
+    - key: conclusion.js2021
       t: |
 
             <span class="first-line">O JavaScript está em um estado tremendamente melhor hoje em comparação com 2016.</span>
@@ -185,7 +185,7 @@ translations:
 
             À medida que a [Terceira Era do JavaScript](https://www.swyx.io/js-third-age/) entra em seu terceiro ano, as oportunidades para aspirantes a desenvolvedores de código aberto e empreendedores continuam a se desdobrar, e estou animado para ver o que os próximos anos trazem!
 
-    - key: conclusion.bio
+    - key: conclusion.js2021.bio
       t: Head de DX na Temporal
       
     ###########################################################################
