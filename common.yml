@@ -77,10 +77,16 @@ translations:
       t: Adicionado recentemente este ano
     - key: general.new
       t: Novo
+    - key: general.devographics_banner
+      t: <a href="https://www.devographics.com/" target="_blank">Devographics</a> é o novo nome do coletivo que executa as pesquisas State of JavaScript, CSS e GraphQL.
 
     # credits
     - key: credits.thanks
       t: Agradecimeto especial
+    - key: credits.contributors
+      t: Contribuidores(as)
+    - key: credits.contributors.description
+      t: Agradecimentos especiais às seguintes pessoas por nos ajudar a criar a pesquisa.
     - key: credits.accessibility
       t: Consultor de acessibilidade
     - key: credits.survey_design
@@ -97,6 +103,8 @@ translations:
       t: Refatoração de código
     - key: credits.data_processing
       t: Processamento de dados
+    - key: credits.back_end_development
+      t: Desenvolvedor Back-End
 
     # support
     - key: general.support_from
@@ -166,8 +174,12 @@ translations:
       t: Selecione a opção
     - key: forms.clear_field
       t: Limpar questão
+    - key: forms.more_options
+      t: Mostrar mais
 
-    # partners
+    # partners & sponsors
+    - key: sponsors.with_support_from
+      t: Com suporte especial de
     - key: sponsors.our_partners
       t: Nossos parceiros
     - key: sponsors.become_partner
@@ -186,6 +198,15 @@ translations:
       t: Pressione option/alt para habilitar o modo tradutor.
     - key: general.charts_nivo
       t: Gráficos construídos com <a href="{link}">Nivo</a>.
+    - key: general.made_by_devographics
+      t: Feito por <a href="{link}">Devographics</a>
+    - key: general.view_code_example
+      t: Ver exemplo de código
+    - key: general.feature_code_example
+      t: "**{featureName}** Exemplo de código"
+    - key: general.code_example
+      t: Exemplo de código
+      
 
     ###########################################################################
     # Nav
@@ -826,6 +847,22 @@ translations:
     - key: options.higher_education_degree.yes_unrelated.short
       t: Sim, campo não relacionado
 
+    # employment_status
+    - key: options.employment_status.full_time
+      t: Tempo Integral
+    - key: options.employment_status.student
+      t: Estudante
+    - key: options.employment_status.self_employed
+      t: Trabalho autônomo
+    - key: options.employment_status.contractor
+      t: Contrato
+    - key: options.employment_status.part_time
+      t: Meio-período
+    - key: options.employment_status.between_jobs
+      t: Entre empregos
+    - key: options.employment_status.retired
+      t: Aposentado(a)
+
     # bracket
     - key: options.bracket.round1
       t: Vitórias na 1ª rodada
@@ -835,6 +872,18 @@ translations:
       t: Ganhar a 3ª rodada
     - key: options.bracket.combined
       t: Combinadas
+
+    # email_temporary (receive updates?)
+    - key: options.email_temporary.yes
+      t: Sim, mande-me um email quando os resultados forem publicados
+      
+    # usage type
+    - key: options.usage_type.professionally
+      t: Profissionalmente
+    - key: options.usage_type.student
+      t: Como estudante
+    - key: options.usage_type.hobby
+      t: Como um hobby
 
     ###########################################################################
     # Tools
@@ -926,7 +975,11 @@ translations:
         Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
         achamos importante obter esses dados para ajudar a medir e melhorar
         os esforços da pesquisa em termos de inclusão e representatividade.
-
+    - key: user_info.race_ethnicity.not_allowed
+      t: >
+        Para cumprir as políticas locais, a coleta de dados de raça ou etnia foi
+          foi desativada para o seu país ou região.
+        
     # disability status
     - key: user_info.disability_status
       t: Deficiências
@@ -944,6 +997,12 @@ translations:
       t: Como você ficou sabendo dessa pesquisa?
     - key: user_info.email
       t: Seu e-mail
+    - key: user_info.email.description
+      t: > 
+          Você preencheu a pesquisa anonimamente. Se desejar, você pode opcionalmente inserir seu e-mail para poder acessar seus dados posteriormente e ser notificado quando os resultados da pesquisa forem publicados. 
+    - key: user_info.email.note
+      t: > 
+          Não armazenamos nenhum dado pessoal, portanto, após você preencher seu endereço de e-mail, iremos usá-lo para gerar um identificador anônimo exclusivo e, em seguida, excluir o próprio endereço de nossos registros. 
     - key: user_info.country
       t: Seu país ou região
     - key: user_info.country.description
@@ -973,11 +1032,44 @@ translations:
     - key: user_info.industry_sector.others.description
       t: Outro(s) setor(es) da indústria em que você trabalha não mencionado(s) acima.
 
+    - key: usage.industry_sector
+      aliasFor: user_info.industry_sector
+    - key: usage.industry_sector.description
+      aliasFor: user_info.industry_sector.description
+    - key: usage.industry_sector.others
+      aliasFor: user_info.industry_sector.others
+    - key: usage.industry_sector.others.description
+      aliasFor: user_info.industry_sector.description
+
     # degree
     - key: user_info.higher_education_degree
       t: Graduação em Ensino Superior
     - key: user_info.higher_education_degree.description
       t: Você tem um diploma de ensino superior?
+
+    # employment status
+    - key: user_info.employment_status
+      t: Situação Empregatícia
+    - key: user_info.employment_status.description
+      t: Qual é a sua situação profissional?
+
+    # completion
+    - key: user_info.completion_stats
+      t: Conclusão da Pesquisa
+    - key: user_info.completion_stats.description
+      t: Que proporção da pesquisa os entrevistados preencheram?
+
+    # email_temporary (receive updates?)
+    - key: user_info.email_temporary
+      t: Você quer ser notificado quando o resultado da pesquisa ser lançado?
+    - key: user_info.email_temporary.note
+      t: >
+        Nós não armazenamos nenhuma informação privada, então após o email ser enviado para o nosso 
+        provedor de mailing list ele será deletado de nossos bancos. 
+      
+    # how can we improve the survey?
+    - key: user_info.how_can_we_improve
+      t: Como podemos melhorar essa pesquisa?
 
     ###########################################################################
     # Other Tools
@@ -1047,6 +1139,10 @@ translations:
       t: Outras respostas (campo de texto livre).
 
     ###########################################################################
+    # Usage
+    ###########################################################################
+
+    ###########################################################################
     # Resources
     ###########################################################################
 
@@ -1105,3 +1201,19 @@ translations:
       t: >
         Pessoas que você lê, segue ou apenas quer destacar por seu trabalho
         (campo de texto livre, nomes separados por virgula).
+
+    # other surveys
+    - key: resources.other_surveys
+      t: Outras pesquisas
+    - key: resources.other_surveys.description
+      t: Quais outras pesquisas sobre desenvolvimento você participou?
+    - key: resources.other_surveys.others
+      t: Outras pesquisas não mencionadas acima
+
+    # video creators
+    - key: resources.video_creators
+      t: Criadores de vídeos
+    - key: resources.video_creators.description
+      t: Criadores de conteúdo que você segue em plataformas de vídeos como YouTube, Twitch, TikTok, etc. 
+    - key: resources.video_creators.others
+      t: Outros criadores de vídeos
