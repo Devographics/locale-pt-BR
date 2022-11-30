@@ -11,7 +11,7 @@ translations:
     # Introduction
     ###########################################################################
 
-    - key: sections.introduction.description
+    - key: introduction.js2021
       t: |
 
             <span class="first-letter">M</span> uito aconteceu em 2021. Tantos acontecimentos levaram ao adiamento da pesquisa para 2022! 

@@ -538,7 +538,7 @@ translations:
     t: Desculpe, a exportação de CSV não está disponível para este conjunto de dados.
   - key: export.graphql
     t: >
-      Você pode copiar e colar esta consulta em nossa <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">API GraphQL pública</a>.
+      Você pode copiar e colar esta consulta em nossa <a target="_blank" rel="nofollow" href="https://graphiql.devographics.com/">API GraphQL pública</a>.
   - key: export.export_json
     t: Obter dados JSON
   - key: export.export_graphql
