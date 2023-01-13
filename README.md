@@ -36,7 +36,7 @@ query GetLocaleData {
 
 Todo tradutor será creditado em qualquer site que faça uso das traduções, começando com o aplicativo de levantamento. Embora isso eventualmente seja automatizado através da _API_ do _GitHub_, por enquanto você pode adicionar seu nome aqui:
 
-- https://github.com/StateOfJS/Monorepo/blob/main/api/src/data/locales.yml
+- https://github.com/StateOfJS/Monorepo/blob/main/api-internal/src/data/locales.yml
 
 #### 4. Empurrando suas mudanças ao vivo
 
