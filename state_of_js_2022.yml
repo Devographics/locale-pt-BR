@@ -1,14 +1,14 @@
-locale: en-US
+locale: pt-BR
 translations:
     ###########################################################################
     # General
     ###########################################################################
 
     - key: general.results.description
-      t: The 2022 edition of the annual survey about the latest trends in the JavaScript ecosystem.
+      t: A edição de 2022 da pesquisa anual sobre as últimas tendências no ecossistema JavaScript.
 
     - key: general.livestream_announcement
-      t: Make sure to tune in for our [special survey results livestream](https://dev.to/sachagreif/state-of-javascript-2021-livestream-24a5) on February 22! (English)
+      t: Certifique-se de sintonizar na [nossa transmissão ao vivo especial dos resultados da pesquisa](https://dev.to/sachagreif/state-of-javascript-2021-livestream-24a5) em 22 de fevereiro! (Inglês)
 
     ###########################################################################
     # Introduction
@@ -17,21 +17,21 @@ translations:
     - key: introduction.js2022
       t: |
 
-            <span class="first-letter">A</span>fter years of relative stability, many are now beginning to question the status quo.
+            <span class="first-letter">A</span>pós anos de relativa estabilidade, muitos estão começando a questionar o status quo.
 
-            New front-end frameworks like Solid and Qwik are suggesting that React might not have all the answers after all, and on the server Astro, Remix and Next.js (among others) are making us reconsider how much code we really need to ship to the client.
+            Novos frameworks de front-end como Solid e Qwik estão sugerindo que o React pode não ter todas as respostas, afinal, e no servidor Astro, Remix e Next.js (entre outros) estão nos fazendo reconsiderar quanto código realmente precisamos enviar para o cliente.
 
-            We'll need all the data we can get if we want to make sense of all this, and in fact this year's survey received a massive **39,472** responses, almost double last year's amount!
+            Vamos precisar de todos os dados que pudermos obter se quisermos entender tudo isso e, de fato, a pesquisa deste ano recebeu um número massivo de **39.472** respostas, quase o dobro do valor do ano passado!
 
-            Because of this newly expanded audience you might notice some unexpected results, such as some features going down year-over-year in terms of awareness or usage.
+            Devido a esse público recém-expandido, você pode notar alguns resultados inesperados, como alguns recursos diminuindo ano a ano em termos de reconhecimento ou uso.
 
-            But having more data can potentially mean new insights, and that's why we've developed two new ways to interact with our dataset: the **Data Explorer** lets you cross-reference two variables and highlight any outlying results; while **Chart Filters** let you filter specific charts by salary, country, gender, and many other demographic variables.
+            Mas ter mais dados pode potencialmente significar novos insights, e é por isso que desenvolvemos duas novas maneiras de interagir com nosso conjunto de dados: o **Data Explorer** permite que você faça referência cruzada de duas variáveis ​​e destaque quaisquer resultados distantes; enquanto os **Filtros de gráfico** permitem filtrar gráficos específicos por salário, país, gênero e muitas outras variáveis ​​demográficas.
 
-            We've also replaced our catch-all "back-end" category with a more specific **Rendering Frameworks** page and added a new **Video Creators** list to the Resources section.
+            Também substituímos nossa categoria abrangente de "back-end" por uma página **Estruturas de renderização** mais específica e adicionamos uma nova lista de **Criadores de vídeo** à seção Recursos.
 
-            Finally, Features and Libraries questions also now have a **Comments** popup that lets you see what people actually think of the items mentioned in the survey!
+            Por fim, as perguntas sobre Recursos e Bibliotecas agora também têm um pop-up **Comentários** que permite ver o que as pessoas realmente pensam sobre os itens mencionados na pesquisa!
 
-            With all this out of the way, let's discover what JavaScript has been up to in 2022!
+            Com tudo isso resolvido, vamos descobrir o que o JavaScript tem feito em 2022!
 
             <span class="conclusion__byline">– Sacha Greif</span>
 
@@ -40,38 +40,38 @@ translations:
     ###########################################################################
 
     - key: sections.tshirt.title
-      t: T-shirt
+      t: Camisetas
 
     - key: sections.tshirt.description
       t: |
-          ## Support the Survey With the State of JavaScript T-Shirt
+          ## Apoie a pesquisa com a camiseta State of JavaScript
 
-          Between the bad video quality, the bulky cassettes, and having to rewind, there's not much to miss about the VHS era. But one thing we *do* miss are the amazing 90s visuals that used to adorn blank VHS tapes.
+          Entre a má qualidade do vídeo, os cassetes volumosos e a necessidade de rebobinar, não há muito o que perder sobre a era do VHS. Mas uma coisa que sentimos falta são os incríveis visuais dos anos 90 que costumavam adornar as fitas VHS virgens.
 
-          But now, thanks to the talented Christopher Kirk-Nielsen you can enjoy all this retro radness while also celebrating your love for JavaScript at the same time!
+          Mas agora, graças ao talentoso Christopher Kirk-Nielsen, você pode aproveitar toda essa elegância retrô e, ao mesmo tempo, celebrar seu amor pelo JavaScript!
 
     - key: tshirt.about
-      t: About the T-shirt
+      t: Sobre a camiseta
 
     - key: tshirt.description
       t: |
-          We use a high-quality, super-soft tri-blend shirt with a slim fit printed by our partners at Cotton Bureau.
+          Usamos uma camisa tri-blend supermacia e de alta qualidade com um ajuste justo impresso por nossos parceiros da Cotton Bureau.
 
     - key: tshirt.getit
-      t: Get It
+      t: Compre agora!
 
     - key: tshirt.price
-      t: USD $29 + shipping
+      t: USD $29 + frete
 
     - key: tshirt.designer.heading
-      t: About the Designer
+      t: Sobre o designer
 
     - key: tshirt.designer.name
       t: Christopher Kirk-Nielsen
 
     - key: tshirt.designer.bio
       t: |
-          Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+          Originalmente da França, mas agora morando nos Estados Unidos, Chris não é apenas um incrível desenvolvedor front-end, mas também um talentoso ilustrador especializado em visuais retrô. Na verdade, recomendamos que você também confira os seus [outros designs de camisetas](https://chriskirknielsen.com/designs)!
 
     ###########################################################################
     # Sections
