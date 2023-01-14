@@ -82,4 +82,4 @@ Atualmente não há maneira fácil de ver suas _strings_ em andamento durante o 
 
 ## Conseguindo ajuda
 
-Entre no [nosso _Discord_](https://discord.gg/zrdb35jfrt).
+Entre no [nosso _Discord_](https://discord.gg/2GYXsG5BxK).
