@@ -79,37 +79,38 @@ translations:
 
     - key: sections.user_info.description
       t: |
-          This year, **39,471** respondents took part in the survey. And in order
-          to help highlight different voices and surface deeper insights, we made a special
-          effort to provide new ways to break our data down.
+          Este ano, **39.471** entrevistados participaram da pesquisa. E para ajudar a destacar
+          diferentes vozes e revelar insights mais profundos, fizemos um esforço especial
+          para fornecer novas maneiras de detalhar nossos dados.
 
     - key: sections.features.description
       t: |
-          JavaScript may move fast, but it seems like JavaScript developers move even faster, as many relatively new features already show high adoption levels.
+          O JavaScript pode se mover rapidamente, mas parece que os desenvolvedores de JavaScript se movem ainda mais rápido, já que muitos recursos relativamente novos já mostram altos níveis de adoção.
 
     - key: sections.technologies.description
       t: |
-          This year's results point to a high degree of fragmentation in the JavaScript world. But while this can sometimes cause headaches, all that competition does make for a very dynamic ecosystem.
+          Os resultados deste ano apontam para um alto grau de fragmentação no mundo do JavaScript.
+          Mas, embora às vezes isso possa causar dores de cabeça, toda essa competição contribui para um ecossistema muito dinâmico.
 
     - key: sections.tools_others.description
       t: |
-          Picking a technology can often come down to a series of tough choices between
-          competing priorities, and this year we tried to capture this process using a new bracket-style question format.
+          Escolher uma tecnologia muitas vezes pode se resumir a uma série de escolhas difíceis entre
+          prioridades concorrentes, e este ano tentamos capturar esse processo usando um novo formato de pergunta no estilo colchetes.
 
     - key: sections.environments.description
       t: |
-          Accessibility has long been an after-thought when it comes to web development, but many developers
-          are now realizing that it should in fact be the foundation on which everything else rests.
+          Acessibilidade tem sido uma reflexão tardia quando se trata de desenvolvimento web, mas muitos desenvolvedores
+          agora estão percebendo que deveria ser, de fato, a base sobre a qual repousa todo o resto.
 
     - key: sections.resources.description
       t: |
-          Highlighting blogs, podcasts, and sites was a good start, but this year we decided to go one step further
-          and actually feature the people who make up the JavaScript community!
+          Destacar blogs, podcasts e sites foi um bom começo, mas este ano decidimos dar um passo além
+          e realmente apresentar as pessoas que compõem a comunidade JavaScript!
 
     - key: sections.opinions.description
       t: |
-          Whether it's pain points that hold you back today, or missing features that you hope to use
-          tomorrow, this was your chance to vent and share your gripes with JavaScript!
+          Sejam os pontos problemáticos que o impedem hoje ou os recursos ausentes que você espera usar
+          amanhã, esta foi sua chance de desabafar e compartilhar suas queixas com o JavaScript!
 
     ###########################################################################
     # Charts
