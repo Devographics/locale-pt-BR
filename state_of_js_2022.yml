@@ -165,26 +165,26 @@ translations:
     ###########################################################################
 
     - key: award.feature_adoption_delta_award.comment
-      t: With a **{value}** progression in 2022, **top-level await** has quickly become an integral part of JavaScript.
+      t: Com uma progressão de **{value}** em 2022, **top-level await** tornou-se rapidamente uma parte integrante do JavaScript.
 
     - key: award.tool_usage_delta_award.comment
       t: |
-        **Vite** is barely two years old, but with a **{value}** progression over the last year it's already gaining ground.
+        **Vite** tem apenas dois anos, mas com uma progressão de **{value}** ao longo do último ano já está ganhando terreno.
 
     - key: award.tool_satisfaction_award.comment
-      t: Vite takes the top spot with a sky-high **{value}** retention ratio!
+      t: Vite leva o primeiro lugar com uma altíssima taxa de retenção de **{value}**!
 
     - key: award.tool_interest_award.comment
-      t: With a **{value}** interest ratio, Vite once again wins the gold!
+      t: Com uma porcentagem de **{value}** de interesse, Vite ganha novamente o ouro!
 
     - key: award.most_write_ins_award.comment
-      t: Many questions also accepted write-in answers, and with **{value}** mentions **Astro** was the most popular item overall.
+      t: Muitas perguntas aceitaram também respostas escritas, e com **{value}** menções **Astro** foi o item mais popular em geral.
 
     - key: award.most_commented_feature_award.comment
-      t: With **{value}** comments, no other feature even came close to generating as much feedback as Private Fields.
+      t: Com **{value}** comentários, nenhuma outra característica sequer chegou perto de gerar tanto feedback como o **Private Fields**.
 
     - key: award.most_commented_tool_award.comment
-      t: With **{value}** comments, React showed that it's still the most-discussed library around.
+      t: Com **{value}** comentários, React mostrou que ainda é a biblioteca mais discutida por aí.
 
     ###########################################################################
     # Conclusion
