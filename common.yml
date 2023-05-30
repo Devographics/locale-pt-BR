@@ -1,1219 +1,1216 @@
 locale: pt-BR
 translations:
-    ###########################################################################
-    # General
-    ###########################################################################
-
-    # homepage
-    - key: general.why_create_account
-      t: Por que eu preciso criar uma conta?
-    - key: general.create_account_reasons
-      t: >
-          Nós pedimos para você criar uma conta para:
-
-          - Evite respostas duplicadas
-
-          - Te dá acesso aos seus dados
-
-          - Salvar sua sessão a medida que avança
-
-          - Notificar quando os resultados sairem
-    - key: general.survey_closed
-      t: >
-          Desculpe, a pesquisa está encerrada! Você ainda pode revisar seus dados, mas não poderá modificá-los.
-    - key: general.survey_read_only
-      t: >
-          Você está visualizando esta pesquisa no modo somente leitura.
-    - key: general.survey_preview
-      t: >
-          Esta pesquisa está no modo de visualização. As perguntas estão sujeitas a alterações e todos os dados inseridos serão excluídos quando a pesquisa real começar.
-
-    - key: general.survey_read_only_back
-      t: >
-          <a href="{link}">Voltar</a> para a página principal da pesquisa para iniciar ou retomar uma sessão.
-    - key: general.take_survey
-      t: Faça a pesquisa {name}
-
-    # surveys
-    - key: general.open_surveys
-      t: Abrir Pesquisas
-    - key: general.no_open_surveys
-      t: Nenhuma pesquisa está aberta no momento.
-    - key: general.closed_surveys
-      t: Pesquisas encerradas
-    - key: general.no_closed_surveys
-      t: Nenhuma pesquisa está fechada no momento.
-    - key: general.preview_surveys
-      t: Visualizar pesquisas
-    - key: general.no_preview_surveys
-      t: Nenhuma pesquisa disponível para visualização.
-    - key: general.start_survey
-      t: Iniciar pesquisa »
-    - key: general.continue_survey
-      t: Continuar pesquisa »
-    - key: general.review_survey
-      t: Revisar pesquisa »
-    - key: general.preview_survey
-      t: Visualizar pesquisa »
-    - key: general.finish_survey
-      t: Finalizar pesquisa
-    - key: general.next_section
-      t: Próxima seção
-    - key: general.previous_section
-      t: Seção anterior
-    - key: general.survey_closed
-      t: Esta pesquisa está encerrada.
-    - key: general.survey_results
-      t: Ver resultados da pesquisa »
-    - key: general.surveys_available_languages
-      t: 'Pesquisas disponíveis em:'
-    - key: general.help_us_translate
-      t: Ajude-nos a traduzir as pesquisas »
-    - key: general.translators
-      t: Tradutores
-    - key: general.translation_help
-      t: Ajudar na tradução
-    - key: general.newly_added
-      t: Adicionado recentemente este ano
-    - key: general.new
-      t: Novo
-    - key: general.devographics_banner
-      t: <a href="https://www.devographics.com/" target="_blank">Devographics</a> é o novo nome do coletivo que executa as pesquisas State of JavaScript, CSS e GraphQL.
-
-    # credits
-    - key: credits.thanks
-      t: Agradecimeto especial
-    - key: credits.contributors
-      t: Contribuidores(as)
-    - key: credits.contributors.description
-      t: Agradecimentos especiais às seguintes pessoas por nos ajudar a criar a pesquisa.
-    - key: credits.accessibility
-      t: Consultor de acessibilidade
-    - key: credits.survey_design
-      t: Design de pesquisa
-    - key: credits.logo_design
-      t: Design de logo
-    - key: credits.mobile_testing
-      t: Testes para dispositivos móveis
-    - key: credits.data_visualizations
-      t: Visualização de dados
-    - key: credits.repo_architecture
-      t: Arquiteture de repositório
-    - key: credits.code_refactoring
-      t: Refatoração de código
-    - key: credits.data_processing
-      t: Processamento de dados
-    - key: credits.back_end_development
-      t: Desenvolvedor Back-End
-
-    # support
-    - key: general.support_from
-      t: Com apoio de
-
-    # footer
-    - key: general.privacy_policy
-      t: Politica de privacidade
-    - key: general.leave_issue
-      t: Perguntas? Encontrou um bug? <a href="{link}" target="_blank">Nos deixe um issue</a>.
-    - key: general.emoji_icons
-      t: Emoji icons por <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
-
-    # navigation
-    - key: general.table_of_contents
-      t: Tabela de conteúdos
-    - key: general.all_questions_optional
-      t: >
-          Nota: todas as questões são opcionais, não é necessário atingir 100% de preenchimento.
-    - key: general.data_is_saved
-      t: Seus dados são salvos sempre que você navega para a seção anterior ou seguinte
-    - key: general.close_nav
-      t: Fechar menu
-    - key: general.open_nav
-      t: Abrir menu
-    - key: general.more_actions
-      t: Mais ações
-    - key: general.skip_to_content
-      t: Ir para o conteúdo
-
-    # thanks
-    - key: general.back
-      t: Voltar
-    - key: general.thanks
-      t: >
-          Obrigado por preencher a pesquisa!
-
-          Seus dados estão salvos. Você pode revisá-lo ou modificá-lo até que a pesquisa seja encerrada.
-
-          Além disso, você pode nos ajudar a divulgar compartilhando esta pesquisa. Cada bit conta, e isso ajudará a tornar nossos dados ainda mais
-          representativo:
-    - key: thanks.learn_more_about
-      t: 'Alguns dos recursos sobre os quais você pode querer saber mais:'
-    - key: thanks.knowledge_score
-      t: Placar do conhecimento
-    - key: thanks.score_explanation
-      t: >
-          Você já ouviu ou usou <span class="score-number score-number-known">{known}</span> dos
-          <span class="score-number score-number-total">{total}</span> recursos mencionados na pesquisa, o que
-          te coloca entre os <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
-          entrevistados mais completos.
-    - key: thanks.share_on_twitter
-      t: Compartilhe no Twitter
-    - key: thanks.share_score_message
-      t: >
-          Consegui uma pontuação de conhecimento de {score}% na pesquisa #{hashtag} deste ano! Faça a pesquisa aqui: {shareUrl}
-    # share
-    - key: general.share_subject
-      t: >
-          {surveyName} pesquisa
-    - key: general.share_text
-      t: >
-          A pesquisa {surveyName} desse ano está aberta! {link}
-
-    # forms
-    - key: forms.select_option
-      t: Selecione a opção
-    - key: forms.clear_field
-      t: Limpar questão
-    - key: forms.more_options
-      t: Mostrar mais
-
-    # partners & sponsors
-    - key: sponsors.with_support_from
-      t: Com suporte especial de
-    - key: sponsors.our_partners
-      t: Nossos parceiros
-    - key: sponsors.become_partner
-      t: Se torne um parceiro
-
-    # 404
-    - key: notfound.title
-      t: 404 Não encontrado
-    - key: notfound.description
-      t: Desculpe, não encontramos o que você estava procurando.
-
-    # other
-    - key: general.join_discord
-      t: Junte se a nós no <a href="{link}">Discord</a>.
-    - key: general.translator_mode
-      t: Pressione option/alt para habilitar o modo tradutor.
-    - key: general.charts_nivo
-      t: Gráficos construídos com <a href="{link}">Nivo</a>.
-    - key: general.made_by_devographics
-      t: Feito por <a href="{link}">Devographics</a>
-    - key: general.view_code_example
-      t: Ver exemplo de código
-    - key: general.feature_code_example
-      t: "**{featureName}** Exemplo de código"
-    - key: general.code_example
-      t: Exemplo de código
-      
-
-    ###########################################################################
-    # Nav
-    ###########################################################################
-
-    - key: nav.surveys
-      t: Pesquisas
-    - key: nav.account
-      t: Conta
-
-    ###########################################################################
-    # Sections
-    ###########################################################################
-
-    - key: sections.user_info.title
-      t: Sobre você
-    - key: sections.user_info.description
-      t: Vamos conhecer o seu verdadeiro "eu".
-
-    - key: sections.features.title
-      t: Funcionalidades
-    - key: sections.features.description
-      t: Sintaxe, palavras-chave e outras funcionalidades da linguagem.
-
-    - key: sections.resources.title
-      t: Recursos
-    - key: sections.resources.description
-      t: Quais recursos {topic} você consulta?
-
-    - key: sections.opinions.title
-      t: Opiniões
-    - key: sections.opinions.description
-      t: Como você se sente sobre o estato do {topic}?
-
-    - key: sections.other_tools.title
-      t: Outras ferramentas
-    - key: sections.other_tools.description
-      t: Para essas ferramentas e tecnologias, selecione apenas as que você usa regularmente.
-
-    - key: sections.report.title
-      t: Relatório de tendências
-
-    ###########################################################################
-    # Options
-    ###########################################################################
-
-    # features
-    - key: options.features.never_heard
-      t: <span aria-hidden="true">🤷</span> Nunca ouvi falar/Não tenho certeza do que é
-    - key: options.features.heard
-      t: <span aria-hidden="true">✅</span> Eu sei o que é mas nunca usei
-    - key: options.features.used
-      t: <span aria-hidden="true">👍</span> Já usei
-
-    # features (no emoji)
-    - key: options.features.never_heard.label
-      t: Nunca ouvi falar/Não tenho certeza do que é
-    - key: options.features.heard.label
-      t: Eu sei o que é mas nunca usei
-    - key: options.features.used.label
-      t: Já usei
-
-    # features (short versions)
-    - key: options.features.never_heard.short
-      t: Nunca ouvi falar
-    - key: options.features.heard.short
-      t: Conheço
-    - key: options.features.used.short
-      t: Já usei
-
-    # patterns
-    - key: options.patterns.use_never
-      t: Quase sempre evitar
-    - key: options.patterns.use_sparingly
-      t: Usar moderadamente
-    - key: options.patterns.use_neutral
-      t: Neutro
-    - key: options.patterns.use_frequently
-      t: Usar frequentemente
-    - key: options.patterns.use_always
-      t: Usei o máximo que pude
-
-    # tools experience
-    - key: options.tools.never_heard
-      t: <span aria-hidden="true">🤷</span> Nunca ouvi falar/Não tenho certeza do que é
-    - key: options.tools.interested
-      t: <span aria-hidden="true">✅</span> Ouvi falar > Gostaria de aprender
-    - key: options.tools.not_interested
-      t: <span aria-hidden="true">🚫</span> Ouvi falar > Não tenho interesse
-    - key: options.tools.would_use
-      t: <span aria-hidden="true">👍</span> Já usei > Usaria novamente
-    - key: options.tools.would_not_use
-      t: <span aria-hidden="true">👎</span> Já usei > Não usaria novamente
-
-    # tools experience (no emoji)
-    - key: options.tools.never_heard.legend
-      t: Nunca ouvi falar/Não tenho certeza do que é
-    - key: options.tools.interested.legend
-      t: Ouvi falar > Gostaria de aprender
-    - key: options.tools.not_interested.legend
-      t: Ouvi falar > Não tenho interesse
-    - key: options.tools.would_use.legend
-      t: Já usei > Usaria novamente
-    - key: options.tools.would_not_use.legend
-      t: Já usei > Não usaria novamente
-
-    # tools experience (short versions)
-    - key: options.tools.never_heard.short
-      t: Nunca ouvi
-    - key: options.tools.interested.short
-      t: Interessado
-    - key: options.tools.not_interested.short
-      t: Sem interesse
-    - key: options.tools.would_use.short
-      t: Usaria novamente
-    - key: options.tools.would_not_use.short
-      t: Não usaria
-
-    # happiness
-    - key: options.happiness.0
-      t: Muito infeliz
-    - key: options.happiness.1
-      t: Infeliz
-    - key: options.happiness.2
-      t: Neutro
-    - key: options.happiness.3
-      t: Feliz
-    - key: options.happiness.4
-      t: Muito feliz
-
-    # happiness (short version)
-    - key: options.happiness.0.short
-      t: Muito infeliz
-    - key: options.happiness.1.short
-      t: Infeliz
-    - key: options.happiness.2.short
-      t: Neutro
-    - key: options.happiness.3.short
-      t: Feliz
-    - key: options.happiness.4.short
-      t: Muito feliz
-
-    # opinions
-    - key: options.opinions.0
-      t: Discordo fortemente
-    - key: options.opinions.1
-      t: Discordo
-    - key: options.opinions.2
-      t: Neutro
-    - key: options.opinions.3
-      t: Concordo
-    - key: options.opinions.4
-      t: Concordo fortemente
-
-    # age
-    - key: options.age.range_less_than_10
-      t: Menos de 10 anos
-    - key: options.age.range_10_18
-      t: entre 10 e 18 anos
-    - key: options.age.range_18_24
-      t: entre 18 e 24 anos
-    - key: options.age.range_25_34
-      t: entre 24 e 34 anos
-    - key: options.age.range_35_44
-      t: entre 35 e 44 anos
-    - key: options.age.range_45_54
-      t: entre 45 e 54 anos
-    - key: options.age.range_55_64
-      t: entre 55 e 64 anos
-    - key: options.age.range_more_than_65
-      t: 65 anos ou mais
-
-    # age (short versions)
-    - key: options.age.range_less_than_10.short
-      t: '<10'
-    - key: options.age.range_10_18.short
-      t: 10-18
-    - key: options.age.range_18_24.short
-      t: 18-24
-    - key: options.age.range_25_34.short
-      t: 24-34
-    - key: options.age.range_35_44.short
-      t: 35-44
-    - key: options.age.range_45_54.short
-      t: 45-54
-    - key: options.age.range_55_64.short
-      t: 55-64
-    - key: options.age.range_more_than_65.short
-      t: '>65'
-
-    # years of experience
-    - key: options.years_of_experience.range_less_than_1
-      t: Menos de um ano
-    - key: options.years_of_experience.range_1_2
-      t: 1 a  2 anos
-    - key: options.years_of_experience.range_2_5
-      t: 2 a  5 anos
-    - key: options.years_of_experience.range_5_10
-      t: 5 a 10 anos
-    - key: options.years_of_experience.range_10_20
-      t: 10 a 20 anos
-    - key: options.years_of_experience.range_more_than_20
-      t: Mais de 20 anos
-
-    # years of experience (short versions)
-    - key: options.years_of_experience.range_less_than_1.short
-      t: '<1 anos'
-    - key: options.years_of_experience.range_1_2.short
-      t: 1-2 anos
-    - key: options.years_of_experience.range_2_5.short
-      t: 2-5 anos
-    - key: options.years_of_experience.range_5_10.short
-      t: 5-10 anos
-    - key: options.years_of_experience.range_10_20.short
-      t: 10-20 anos
-    - key: options.years_of_experience.range_more_than_20.short
-      t: '>20 anos'
-
-    # company size
-    - key: options.company_size.range_1
-      t: Um empregado
-    - key: options.company_size.range_1_5
-      t: 1 a 5 empregados
-    - key: options.company_size.range_5_10
-      t: 5 a 10 empregados
-    - key: options.company_size.range_10_20
-      t: 10 a 20 empregados
-    - key: options.company_size.range_20_50
-      t: 20 a 50 empregados
-    - key: options.company_size.range_50_100
-      t: 50 a 100 empregados
-    - key: options.company_size.range_100_1000
-      t: 100 a 1000 empregados
-    - key: options.company_size.range_more_than_1000
-      t: Mais de 1000 empregados
-
-    # company size (short versions)
-    - key: options.company_size.range_1.short
-      t: 1
-    - key: options.company_size.range_1_5.short
-      t: 1-5
-    - key: options.company_size.range_5_10.short
-      t: 5-10
-    - key: options.company_size.range_10_20.short
-      t: 10-20
-    - key: options.company_size.range_20_50.short
-      t: 20-50
-    - key: options.company_size.range_50_100.short
-      t: 50-100
-    - key: options.company_size.range_100_1000.short
-      t: 100-1000
-    - key: options.company_size.range_more_than_1000.short
-      t: '>1000'
-
-    # salary
-    - key: options.yearly_salary.range_work_for_free
-      t: Trabalho de graça
-    - key: options.yearly_salary.range_0_10
-      t: $0k-$10k
-    - key: options.yearly_salary.range_10_30
-      t: $10k-$30k
-    - key: options.yearly_salary.range_30_50
-      t: $30k-$50k
-    - key: options.yearly_salary.range_50_100
-      t: $50k-$100k
-    - key: options.yearly_salary.range_100_200
-      t: $100k-$200k
-    - key: options.yearly_salary.range_more_than_200
-      t: Mais de $200k
-
-    # salary (short versions)
-    - key: options.yearly_salary.range_work_for_free.short
-      t: $0
-    - key: options.yearly_salary.range_0_10.short
-      t: $0-$10k
-    - key: options.yearly_salary.range_10_30.short
-      t: $10k-$30k
-    - key: options.yearly_salary.range_30_50.short
-      t: $30k-$50k
-    - key: options.yearly_salary.range_50_100.short
-      t: $50k-$100k
-    - key: options.yearly_salary.range_100_200.short
-      t: $100k-$200k
-    - key: options.yearly_salary.range_more_than_200.short
-      t: '>$200k'
-
-    # job titles
-    - key: options.job_title.cto
-      t: CTO
-    - key: options.job_title.front_end_developer
-      t: Desenvolvedor ou Engenheiro Front-End
-    - key: options.job_title.back_end_developer
-      t: Desenvolvedor ou Engenheiro Back-End
-    - key: options.job_title.full_stack_developer
-      t: Desenvolvedor ou Engenheiro Full Stack
-    - key: options.job_title.web_developer
-      t: Desenvolvedor Web
-    - key: options.job_title.web_designer
-      t: Web Designer
-    - key: options.job_title.ux_designer
-      t: UX Designer
-    - key: options.job_title.ui_designer
-      t: UI Designer
-    - key: options.job_title.back_end_dev
-      t: Desenvolvedor ou Engenheiro Back-End
-
-    # JavaScript proficiency
-    - key: options.javascript_proficiency.0
-      t: Não sou capaz de escrever JavaScript
-    - key: options.javascript_proficiency.1
-      t: Eu escrevo códigos simples em JavaScript ou jQuery
-    - key: options.javascript_proficiency.2
-      t: Trabalho em projetos front-end usando framework modernos (React, Vue, etc.)
-    - key: options.javascript_proficiency.3
-      t: Crio projetos front-end inteiros do zero
-    - key: options.javascript_proficiency.4
-      t: Lido com padrões avançados de front-end (gerenciamento de estado, carregamento de dados, etc.)
-
-    # CSS proficiency
-    - key: options.css_proficiency.0
-      t: Não tenho nenhum conhecimento de CSS
-    - key: options.css_proficiency.1
-      t: Uso frameworks CSS e aprimoro estilos existentes
-    - key: options.css_proficiency.2
-      t: Conheço regras de especificidade, sou capaz de criar layouts
-    - key: options.css_proficiency.3
-      t: Domino animações, interações, transições, etc.
-    - key: options.css_proficiency.4
-      t: Sou capaz de estilizar um front-end inteiro do zero seguindo uma metodologia consistente
-
-    # Back-end proficiency
-    - key: options.backend_proficiency.0
-      t: Não sou capaz de lidar com nada de back-end
-    - key: options.backend_proficiency.1
-      t: Sou capaz de configurar CMSs (WordPress, etc.) ou geradores de sites estáticos (Jekyll, etc.)
-    - key: options.backend_proficiency.2
-      t: Consigo desenvolver aplicações utilizando frameworks (Rails, Laravel, etc.)
-    - key: options.backend_proficiency.3
-      t: Consigo montar um sistema back-end do zero (Go, Node.js, etc.)
-    - key: options.backend_proficiency.4
-      t: Consigo lidar com arquiteturas complexas de multi-servidores ou microsserviços
-
-    # Proficiency (generic versions)
-    - key: options.proficiency.0
-      t: Nenhum
-    - key: options.proficiency.1
-      t: Iniciante
-    - key: options.proficiency.2
-      t: Intermediário
-    - key: options.proficiency.3
-      t: Avançado
-    - key: options.proficiency.4
-      t: Especialista
-
-    # Gender
-
-    - key: options.gender.female
-      t: Mulher
-    - key: options.gender.male
-      t: Homem
-    - key: options.gender.non_binary
-      t: Não binario ou sem gênero definido
-    - key: options.gender.questioning
-      t: Ainda não me decidi
-    - key: options.gender.prefer_not_to_say
-      t: Prefiro não dizer
-    - key: options.gender.not_listed
-      t: Não listado
-
-    # Gender (short)
-
-    - key: options.gender.female.short
-      t: Mulher
-    - key: options.gender.male.short
-      t: Homem
-    - key: options.gender.non_binary.short
-      t: Não binario ou sem gênero definido
-    - key: options.gender.questioning.short
-      t: Ainda não me decidi
-    - key: options.gender.prefer_not_to_say.short
-      t: Prefiro não dizer
-    - key: options.gender.not_listed.short
-      t: Não listado
-
-    # Race & Ethnicity
-
-    - key: options.race_ethnicity.white_european
-      t: Branco ou de ascendência europeia
-    - key: options.race_ethnicity.south_asian
-      t: Sul da Ásia
-    - key: options.race_ethnicity.south_east_asian
-      t: Sudeste da Ásia
-    - key: options.race_ethnicity.hispanic_latin
-      t: Hispânico ou latino
-    - key: options.race_ethnicity.east_asian
-      t: Ásia Oriental
-    - key: options.race_ethnicity.middle_eastern
-      t: Oriente Médio
-    - key: options.race_ethnicity.black_african
-      t: Negro ou de ascendência africana
-    - key: options.race_ethnicity.multiracial
-      t: Multirracial
-    - key: options.race_ethnicity.biracial
-      t: Biracial
-    - key: options.race_ethnicity.native_american_islander_australian
-      t: Nativo americano, ilhéu do Pacífico ou australiano indígena
-    - key: options.race_ethnicity.not_listed
-      t: Não listado
-
-    # Race & Ethnicity (short)
-
-    - key: options.race_ethnicity.white_european.short
-      t: Branco ou de ascendência europeia
-    - key: options.race_ethnicity.south_asian.short
-      t: Sul da Ásia
-    - key: options.race_ethnicity.south_east_asian.short
-      t: Sudeste da Ásia
-    - key: options.race_ethnicity.hispanic_latin.short
-      t: Hispânico ou latino
-    - key: options.race_ethnicity.east_asian.short
-      t: Ásia Oriental
-    - key: options.race_ethnicity.middle_eastern.short
-      t: Oriente Médio
-    - key: options.race_ethnicity.black_african.short
-      t: Negro ou de ascendência africana
-    - key: options.race_ethnicity.multiracial.short
-      t: Multirracial
-    - key: options.race_ethnicity.biracial.short
-      t: Biracial
-    - key: options.race_ethnicity.native_american_islander_australian.short
-      t: Nativo americano, ilhéu do Pacífico ou australiano indígena
-    - key: options.race_ethnicity.not_listed.short
-      t: Não listado
-
-    # Disability Status
-    - key: options.disability_status.visual_impairments
-      t: >
-        Deficiências visuais (cegueira, daltonismo, etc.)
-    - key: options.disability_status.hearing_impairments
-      t: >
-        Deficiências auditivas (surdez, zumbido, etc.)
-    - key: options.disability_status.mobility_impairments
-      t: >
-        Deficiências de mobilidade (artrite, túnel do carpo, etc.)
-    - key: options.disability_status.cognitive_impairments
-      t: >
-        Deficiências cognitivas (ansiedade, dislexia, etc.)
-    - key: options.disability_status.not_listed
-      t: >
-        Não listado
-
-    # Disability Status (short)
-    - key: options.disability_status.visual_impairments
-      t: >
-        Deficiências visuais
-    - key: options.disability_status.hearing_impairments
-      t: >
-        Deficiências auditivas
-    - key: options.disability_status.mobility_impairments
-      t: >
-        Deficiências de mobilidade
-    - key: options.disability_status.cognitive_impairments
-      t: >
-        Deficiências cognitivas
-    - key: options.disability_status.not_listed
-      t: >
-        Não listado
-
-    # Form Factors
-    - key: options.form_factors.desktop
-      t: Desktop
-    - key: options.form_factors.keyboard_only
-      t: Desktop apenas com teclado
-    - key: options.form_factors.smartphone
-      t: Smartphone
-    - key: options.form_factors.feature_phone
-      t: Celular não smart
-    - key: options.form_factors.tablet
-      t: Tablet
-    - key: options.form_factors.smart_watch
-      t: Relógio inteligente
-    - key: options.form_factors.tv
-      t: TV
-    - key: options.form_factors.gaming_console
-      t: Console de jogos
-    - key: options.form_factors.screen_reader
-      t: Leitor de tela
-    - key: options.form_factors.print
-      t: Impressão
-    - key: options.form_factors.testing_tools
-      t: Ferramentas de teste (Axe, Lighthouse, etc.)
-    - key: options.form_factors.vision_simulator
-      t: Simulador de visão alterada (daltonismo, etc.)
-
-    # Industry Sector
-    - key: options.industry_sector.ecommerce
-      t: Comércio eletrônico e varejo
-    - key: options.industry_sector.news_media
-      t: Notícias, mídia e blogs
-    - key: options.industry_sector.healthcare
-      t: Saúde
-    - key: options.industry_sector.finance
-      t: Financeiro
-    - key: options.industry_sector.programming_tools
-      t: Programação e ferramentas técnicas
-    - key: options.industry_sector.socialmedia
-      t: Social media
-    - key: options.industry_sector.marketing_tools
-      t: Ferramentas de marketing/vendas/análises
-    - key: options.industry_sector.education
-      t: Educação
-    - key: options.industry_sector.real_estate
-      t: Real Estate
-    - key: options.industry_sector.government
-      t: Imobiliário
-    - key: options.industry_sector.entertainment
-      t: Entretenimento
-    - key: options.industry_sector.consulting
-      t: Consultoria e serviços
-    - key: options.industry_sector.travel
-      t: Viagem
-    - key: options.industry_sector.insurance
-      t: Seguro
-    - key: options.industry_sector.logistics
-      t: Logística
-    - key: options.industry_sector.energy
-      t: Energia
-    - key: options.industry_sector.telecommunications
-      t: Telecomunicações
-    - key: options.industry_sector.student
-      t: Estudante
-    - key: options.industry_sector.hospitality
-      t: Hotelaria
-    - key: options.industry_sector.cyber_security
-      t: Cibersegurança
-    - key: options.industry_sector.construction
-      t: Construção
-    - key: options.industry_sector.automotive
-      t: Automotivo
-    - key: options.industry_sector.agriculture
-      t: Agricultura
-    - key: options.industry_sector.transport
-      t: Transporte
-    - key: options.industry_sector.manufacturing
-      t: Manufatura
-
-    # tool evaluation
-    - key: options.tool_evaluation.learning_curve_documentation
-      t: Documentação
-    - key: options.tool_evaluation.learning_curve_documentation.description
-      t: É fácil de aprender e/ou bem documentado?
-    - key: options.tool_evaluation.momentum_popularity
-      t: Hype e impulso
-    - key: options.tool_evaluation.momentum_popularity.description
-      t: Atualmente, está gerando muito buzz?
-    - key: options.tool_evaluation.user_base_size
-      t: Tamanho base do usuário
-    - key: options.tool_evaluation.user_base_size.description
-      t: É uma opção bem estabelecida com um longo histórico?
-    - key: options.tool_evaluation.developer_experience_tooling
-      t: Experiência do desenvolvedor
-    - key: options.tool_evaluation.developer_experience_tooling.description
-      t: Possui boas ferramentas de desenvolvedor, um grande ecossistema de plugins, etc.?
-    - key: options.tool_evaluation.performance_user_experience
-      t: Experiência do usuário
-    - key: options.tool_evaluation.performance_user_experience.description
-      t: Isso ajuda você a criar experiências de usuário suaves e de alto desempenho?
-    - key: options.tool_evaluation.creator_team
-      t: Criador e equipe
-    - key: options.tool_evaluation.creator_team.description
-      t: É apoiado por uma equipe bem conhecida, bem financiada ou experiente?
-    - key: options.tool_evaluation.accessibility_features
-      t: Recursos de acessibilidade
-    - key: options.tool_evaluation.accessibility_features.description
-      t: É bom para criar experiências acessíveis para todos os usuários?
-    - key: options.tool_evaluation.community_inclusivity
-      t: Comunidade e Inclusão
-    - key: options.tool_evaluation.community_inclusivity.description
-      t: Tem uma comunidade acolhedora e vibrante construída em torno dela?
-
-
-
-    # accessibility features
-    - key: options.accessibility_features.keyboard_navigation
-      t: Navegação do teclado
-    - key: options.accessibility_features.compliant_contrast
-      t: Contraste compatível com WCAG
-    - key: options.accessibility_features.focus_indicators
-      t: Indicadores de foco
-    - key: options.accessibility_features.skip_to_content_link
-      t: Link para pular para o conteúdo
-    - key: options.accessibility_features.color_themes
-      t: Temas de cores (modo escuro, modo de alto contraste, etc.)
-    - key: options.accessibility_features.prefers_reduced_motion
-      t: Prefere movimento reduzido
-    - key: options.accessibility_features.alt_text
-      t: Textos alternativos
-    - key: options.accessibility_features.semantic_markup
-      t: Marcação semântica
-    - key: options.accessibility_features.aria_attributes
-      t: Atributos ARIA HTML
-
-    # learning methods
-    - key: options.first_steps.books
-      t: Livros
-    - key: options.first_steps.videos
-      t: Vídeos & screencasts
-    - key: options.first_steps.school
-      t: Escola e ensino superior
-    - key: options.first_steps.courses_free
-      t: Cursos online (gratuitos)
-    - key: options.first_steps.courses_paid
-      t: Cursos online (pagos)
-    - key: options.first_steps.podcasts
-      t: Podcasts
-    - key: options.first_steps.bootcamp
-      t: Bootcamp de codificação
-    - key: options.first_steps.on_the_job
-      t: Treinamento no local de trabalho
-    - key: options.first_steps.self_directed
-      t: Aprendizagem autônoma(Google, Stack Overflow, etc.)
-    - key: options.first_steps.mentoring
-      t: Mentoria
-
-    # degree
-    - key: options.higher_education_degree.no_degree
-      t: Não
-    - key: options.higher_education_degree.yes_related
-      t: Sim, em um campo relacionado à minha profissão atual
-    - key: options.higher_education_degree.yes_unrelated
-      t: Sim, mas em um campo não relacionado à minha profissão atual
-
-    # degree (short versions)
-    - key: options.higher_education_degree.no_degree.short
-      t: Não
-    - key: options.higher_education_degree.yes_related.short
-      t: Sim, campo relacionado
-    - key: options.higher_education_degree.yes_unrelated.short
-      t: Sim, campo não relacionado
-
-    # employment_status
-    - key: options.employment_status.full_time
-      t: Tempo Integral
-    - key: options.employment_status.student
-      t: Estudante
-    - key: options.employment_status.self_employed
-      t: Trabalho autônomo
-    - key: options.employment_status.contractor
-      t: Contrato
-    - key: options.employment_status.part_time
-      t: Meio-período
-    - key: options.employment_status.between_jobs
-      t: Entre empregos
-    - key: options.employment_status.retired
-      t: Aposentado(a)
-
-    # bracket
-    - key: options.bracket.round1
-      t: Vitórias na 1ª rodada
-    - key: options.bracket.round2
-      t: Vitórias na 2ª rodada
-    - key: options.bracket.round3
-      t: Ganhar a 3ª rodada
-    - key: options.bracket.combined
-      t: Combinadas
-
-    # email_temporary (receive updates?)
-    - key: options.email_temporary.yes
-      t: Sim, mande-me um email quando os resultados forem publicados
-      
-    # usage type
-    - key: options.usage_type.professionally
-      t: Profissionalmente
-    - key: options.usage_type.student
-      t: Como estudante
-    - key: options.usage_type.hobby
-      t: Como um hobby
-
-    ###########################################################################
-    # Tools
-    ###########################################################################
-
-    - key: tools.other_tools
-      t: Outras opções
-    - key: tools.other_tools.description
-      t: Outras opções que você usa para a seção atual não mencionada na lista acima.
-    - key: tools.happiness
-      t: Felicidade geral
-    - key: tools.happiness.description
-      t: >
-          Em uma escala de um (muito infeliz) a cinco (muito feliz), quão feliz você
-          está com o atual estado geral das coisas que se relacionam com as opções listadas acima?
-
-    ###########################################################################
-    # Demographics (About You/User Info)
-    ###########################################################################
-
-    # age
-    - key: user_info.age
-      t: Idade
-    - key: user_info.age.description
-      t: Quantos anos você tem?
-
-    # years of experience
-    - key: user_info.years_of_experience
-      t: Anos de experiência
-    - key: user_info.years_of_experience.description
-      t: Há quantos anos você trabalha ou estuda essa área?
-
-    # company size
-    - key: user_info.company_size
-      t: Tamanho da empresa
-    - key: user_info.company_size.description
-      t: Qual o tamanho da sua empresa, em número de funcionários?
-
-    # salary ranges
-    - key: user_info.yearly_salary
-      t: Salário anual
-    - key: user_info.yearly_salary.description
-      t: Seu salário anual em dólares americanos.
-
-    # job title
-    - key: user_info.job_title
-      t: Cargo
-    - key: user_info.job_title.description
-      t: Como você se apresenta aos outros?
-
-    # javascript proficiency
-    - key: user_info.javascript_proficiency
-      t: Proficiência em JavaScript
-    - key: user_info.javascript_proficiency.description
-      t: Quão proficiente você é em JavaScript?
-
-    # css proficiency
-    - key: user_info.css_proficiency
-      t: Proficiência em CSS
-    - key: user_info.css_proficiency.description
-      t: Quão proficiente você é em CSS?
-
-    # backend proficiency
-    - key: user_info.backend_proficiency
-      t: Proficiência em back-end
-    - key: user_info.backend_proficiency.description
-      t: Quão proficiente você é no desenvolvimento de back-end?
-
-    # gender
-    - key: user_info.gender
-      t: Gênero
-    - key: user_info.gender.description
-      t: >
-        Qual das opções a seguir descreve você? Por favor, escolha uma.
-    - key: user_info.gender.note
-      t: >
-        Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
-        achamos importante obter esses dados para ajudar a medir e melhorar
-        os esforços da pesquisa em termos de inclusão e representatividade.
-
-    # race & ethnicity
-    - key: user_info.race_ethnicity
-      t: Raça e etnia
-    - key: user_info.race_ethnicity.description
-      t: >
-        Qual das opções a seguir descreve você? Por favor, selecione todas as que se aplicam.
-    - key: user_info.race_ethnicity.note
-      t: >
-        Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
-        achamos importante obter esses dados para ajudar a medir e melhorar
-        os esforços da pesquisa em termos de inclusão e representatividade.
-    - key: user_info.race_ethnicity.not_allowed
-      t: >
-        Para cumprir as políticas locais, a coleta de dados de raça ou etnia foi
-          foi desativada para o seu país ou região.
-        
-    # disability status
-    - key: user_info.disability_status
-      t: Deficiências
-    - key: user_info.disability_status.description
-      t: >
-        Qual das seguintes deficiências você apresenta? Por favor, selecione todas as que se aplicam.
-        Observe que isso pode incluir incapacidades temporárias ou lesões.
-
-    # disability status (other)
-    - key: user_info.disability_status.others
-      t: Outras deficiências
-
-    # other info
-    - key: user_info.how_did_user_find_out_about_the_survey
-      t: Como você ficou sabendo dessa pesquisa?
-    - key: user_info.email
-      t: Seu e-mail
-    - key: user_info.email.description
-      t: > 
-          Você preencheu a pesquisa anonimamente. Se desejar, você pode opcionalmente inserir seu e-mail para poder acessar seus dados posteriormente e ser notificado quando os resultados da pesquisa forem publicados. 
-    - key: user_info.email.note
-      t: > 
-          Não armazenamos nenhum dado pessoal, portanto, após você preencher seu endereço de e-mail, iremos usá-lo para gerar um identificador anônimo exclusivo e, em seguida, excluir o próprio endereço de nossos registros. 
-    - key: user_info.country
-      t: Seu país ou região
-    - key: user_info.country.description
-      t: Onde você reside atualmente?
-
-    - key: user_info.github_username
-      t: Seu usuário do GitHub
-    - key: user_info.github_username.description
-      t: >
-        Podemos usar nomes de usuários do GitHub no futuro para analisar
-        repositórios e fazer referência cruzada de informações disponíveis publicamente.
-
-    - key: user_info.twitter_username
-      t: Seu usuário do Twitter
-    - key: user_info.twitter_username.description
-      t: >
-        Podemos usar nomes de usuário do Twitter no futuro para
-        analisar a atividade do Twitter e fazer referência cruzada de informações disponíveis publicamente
-        (como a lista de pessoas que você está seguindo).
-
-    - key: user_info.industry_sector
-      t: Setor industrial
-    - key: user_info.industry_sector.description
-      t: Em qual(is) setor(es) da indústria você trabalha?
-    - key: user_info.industry_sector.others
-      t: Outros setores da indústria
-    - key: user_info.industry_sector.others.description
-      t: Outro(s) setor(es) da indústria em que você trabalha não mencionado(s) acima.
-
-    - key: usage.industry_sector
-      aliasFor: user_info.industry_sector
-    - key: usage.industry_sector.description
-      aliasFor: user_info.industry_sector.description
-    - key: usage.industry_sector.others
-      aliasFor: user_info.industry_sector.others
-    - key: usage.industry_sector.others.description
-      aliasFor: user_info.industry_sector.description
-
-    # degree
-    - key: user_info.higher_education_degree
-      t: Graduação em Ensino Superior
-    - key: user_info.higher_education_degree.description
-      t: Você tem um diploma de ensino superior?
-
-    # employment status
-    - key: user_info.employment_status
-      t: Situação Empregatícia
-    - key: user_info.employment_status.description
-      t: Qual é a sua situação profissional?
-
-    # completion
-    - key: user_info.completion_stats
-      t: Conclusão da Pesquisa
-    - key: user_info.completion_stats.description
-      t: Que proporção da pesquisa os entrevistados preencheram?
-
-    # email_temporary (receive updates?)
-    - key: user_info.email_temporary
-      t: Você quer ser notificado quando o resultado da pesquisa ser lançado?
-    - key: user_info.email_temporary.note
-      t: >
-        Nós não armazenamos nenhuma informação privada, então após o email ser enviado para o nosso 
-        provedor de mailing list ele será deletado de nossos bancos. 
-      
-    # how can we improve the survey?
-    - key: user_info.how_can_we_improve
-      t: Como podemos melhorar essa pesquisa?
-
-    ###########################################################################
-    # Other Tools
-    ###########################################################################
-
-    - key: tools_others.libraries
-      t: Bibliotecas
-    - key: tools_others.libraries.description
-      t: Quais bibliotecas você usa regularmente?
-    - key: tools_others.libraries.others
-      t: Outras bibliotecas
-    - key: tools_others.libraries.others.description
-      t: Outras respostas (campo de texto livre).
-
-    - key: tools_others.text_editors
-      t: Editores de texto.
-    - key: tools_others.text_editors.description
-      t: Quais editor(es) de texto você usa regularmente?
-    - key: tools_others.text_editors.others
-      t: Outros editores de texto.
-    - key: tools_others.text_editors.others.description
-      t: Outras respostas (campo de texto livre).
-
-    - key: tools_others.utilities
-      t: Utilitários
-    - key: tools_others.utilities.description
-      t: Quais utilitários ou ferramentas você usa regularmente?
-    - key: tools_others.utilities.others
-      t: Outros utilitários
-    - key: tools_others.utilities.others.description
-      t: Outros utilitários (campo de texto livre).
-
-    - key: tools_others.browsers
-      t: Navegadores
-    - key: tools_others.browsers.description
-      t: Qual(is) navegador(es) você usa principalmente durante o desenvolvimento inicial?
-    - key: tools_others.browsers.others
-      t: Outros navegadores
-    - key: tools_others.browsers.others.description
-      t: Outras respostas (campo de texto livre).
-
-    - key: tools_others.build_tools
-      t: Ferramentas de build
-    - key: tools_others.build_tools.description
-      t: Quais ferramentas de build você usa?
-    - key: tools_others.build_tools.others
-      t: Outras ferramentas de build
-    - key: tools_others.build_tools.others.description
-      t: Outras respostas (campo de texto livre).
-
-    - key: tools_others.non_js_languages
-      t: Linguagens de programação diferentes de JavaScript
-    - key: tools_others.non_js_languages.description
-      t: Quais outras linguagens de programação você usa?
-    - key: tools_others.non_js_languages.others
-      t: Outras linguagens de programação
-    - key: tools_others.non_js_languages.others.description
-      t: Outras respostas (campo de texto livre).
-
-    - key: tools_others.javascript_flavors
-      t: Sabores de JavaScript
-    - key: tools_others.javascript_flavors.description
-      t: Linguagens que compilam para JavaScript
-    - key: tools_others.javascript_flavors.others
-      t: Outros sabores de JavaScript
-    - key: tools_others.javascript_flavors.others.description
-      t: Outras respostas (campo de texto livre).
-
-    ###########################################################################
-    # Usage
-    ###########################################################################
-
-    ###########################################################################
-    # Resources
-    ###########################################################################
-
-    # learning method
-    - key: resources.first_steps
-      t: Primeiros métodos de aprendizagem
-    - key: resources.first_steps.description
-      t: Como você começou a aprender programação?
-    - key: resources.first_steps.others
-      t: Outros métodos para começar a aprender
-    - key: resources.first_steps.others.description
-      t: Outras respostas (campo de texto livre).
-
-    # blogs & magazines
-    - key: resources.blogs_news_magazines
-      t: Blogs e revistas
-    - key: resources.blogs_news_magazines.description
-      t: Quais blogs/revistas/etc. você lê?
-    - key: resources.blogs_news_magazines.others
-      t: Other blogs e revistas
-    - key: resources.blogs_news_magazines.others.description
-      t: Outras respostas (campo de texto livre).
-
-    # sites & courses
-    - key: resources.sites_courses
-      t: Sites e cursos
-    - key: resources.sites_courses.description
-      t: Quais sites/cursos/etc. você consulta?
-    - key: resources.sites_courses.others
-      t: Outros sites e cursos
-    - key: resources.sites_courses.others.description
-      t: Outras respostas (campo de texto livre).
-
-    # podcasts
-    - key: resources.podcasts
-      t: Podcasts
-    - key: resources.podcasts.description
-      t: Qual podcast relacionado a programação você escuta?
-    - key: resources.podcasts.others
-      t: Outros podcasts
-    - key: resources.podcasts.others.description
-      t: Outras respostas (campo de texto livre).
-
-    # people
-    - key: resources.people
-      t: Pessoas
-    - key: resources.people.description
-      t: Pessoas que você lê, segue ou apenas quer destacar.
-    # - key: resources.people.others
-    #   t: Outras pessoas
-    # - key: resources.people.others.description
-    #   t: Outras respostas (campo de texto livre).
-    - key: resources.people.others
-      t: Pessoas
-    - key: resources.people.others.description
-      t: >
-        Pessoas que você lê, segue ou apenas quer destacar por seu trabalho
-        (campo de texto livre, nomes separados por virgula).
-
-    # other surveys
-    - key: resources.other_surveys
-      t: Outras pesquisas
-    - key: resources.other_surveys.description
-      t: Quais outras pesquisas sobre desenvolvimento você participou?
-    - key: resources.other_surveys.others
-      t: Outras pesquisas não mencionadas acima
-
-    # video creators
-    - key: resources.video_creators
-      t: Criadores de vídeos
-    - key: resources.video_creators.description
-      t: Criadores de conteúdo que você segue em plataformas de vídeos como YouTube, Twitch, TikTok, etc. 
-    - key: resources.video_creators.others
-      t: Outros criadores de vídeos
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  # homepage
+  - key: general.why_create_account
+    t: Por que eu preciso criar uma conta?
+  - key: general.create_account_reasons
+    t: >
+      Nós pedimos para você criar uma conta para:
+
+      - Evite respostas duplicadas
+
+      - Te dá acesso aos seus dados
+
+      - Salvar sua sessão a medida que avança
+
+      - Notificar quando os resultados sairem
+  - key: general.survey_closed
+    t: >
+      Desculpe, a pesquisa está encerrada! Você ainda pode revisar seus dados, mas não poderá modificá-los.
+  - key: general.survey_read_only
+    t: >
+      Você está visualizando esta pesquisa no modo somente leitura.
+  - key: general.survey_preview
+    t: >
+      Esta pesquisa está no modo de visualização. As perguntas estão sujeitas a alterações e todos os dados inseridos serão excluídos quando a pesquisa real começar.
+
+  - key: general.survey_read_only_back
+    t: >
+      <a href="{link}">Voltar</a> para a página principal da pesquisa para iniciar ou retomar uma sessão.
+  - key: general.take_survey
+    t: Faça a pesquisa {name}
+
+  # surveys
+  - key: general.open_surveys
+    t: Abrir Pesquisas
+  - key: general.no_open_surveys
+    t: Nenhuma pesquisa está aberta no momento.
+  - key: general.closed_surveys
+    t: Pesquisas encerradas
+  - key: general.no_closed_surveys
+    t: Nenhuma pesquisa está fechada no momento.
+  - key: general.preview_surveys
+    t: Visualizar pesquisas
+  - key: general.no_preview_surveys
+    t: Nenhuma pesquisa disponível para visualização.
+  - key: general.start_survey
+    t: Iniciar pesquisa »
+  - key: general.continue_survey
+    t: Continuar pesquisa »
+  - key: general.review_survey
+    t: Revisar pesquisa »
+  - key: general.preview_survey
+    t: Visualizar pesquisa »
+  - key: general.finish_survey
+    t: Finalizar pesquisa
+  - key: general.next_section
+    t: Próxima seção
+  - key: general.previous_section
+    t: Seção anterior
+  - key: general.survey_closed
+    t: Esta pesquisa está encerrada.
+  - key: general.survey_results
+    t: Ver resultados da pesquisa »
+  - key: general.surveys_available_languages
+    t: "Pesquisas disponíveis em:"
+  - key: general.help_us_translate
+    t: Ajude-nos a traduzir as pesquisas »
+  - key: general.translators
+    t: Tradutores
+  - key: general.translation_help
+    t: Ajudar na tradução
+  - key: general.newly_added
+    t: Adicionado recentemente este ano
+  - key: general.new
+    t: Novo
+  - key: general.devographics_banner
+    t: <a href="https://www.devographics.com/" target="_blank">Devographics</a> é o novo nome do coletivo que executa as pesquisas State of JavaScript, CSS e GraphQL.
+
+  # credits
+  - key: credits.thanks
+    t: Agradecimeto especial
+  - key: credits.contributors
+    t: Contribuidores(as)
+  - key: credits.contributors.description
+    t: Agradecimentos especiais às seguintes pessoas por nos ajudar a criar a pesquisa.
+  - key: credits.accessibility
+    t: Consultor de acessibilidade
+  - key: credits.survey_design
+    t: Design de pesquisa
+  - key: credits.logo_design
+    t: Design de logo
+  - key: credits.mobile_testing
+    t: Testes para dispositivos móveis
+  - key: credits.data_visualizations
+    t: Visualização de dados
+  - key: credits.repo_architecture
+    t: Arquiteture de repositório
+  - key: credits.code_refactoring
+    t: Refatoração de código
+  - key: credits.data_processing
+    t: Processamento de dados
+  - key: credits.back_end_development
+    t: Desenvolvedor Back-End
+
+  # support
+  - key: general.support_from
+    t: Com apoio de
+
+  # footer
+  - key: general.privacy_policy
+    t: Politica de privacidade
+  - key: general.leave_issue
+    t: Perguntas? Encontrou um bug? <a href="{link}" target="_blank">Nos deixe um issue</a>.
+  - key: general.emoji_icons
+    t: Emoji icons por <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
+
+  # navigation
+  - key: general.table_of_contents
+    t: Tabela de conteúdos
+  - key: general.all_questions_optional
+    t: >
+      Nota: todas as questões são opcionais, não é necessário atingir 100% de preenchimento.
+  - key: general.data_is_saved
+    t: Seus dados são salvos sempre que você navega para a seção anterior ou seguinte
+  - key: general.close_nav
+    t: Fechar menu
+  - key: general.open_nav
+    t: Abrir menu
+  - key: general.more_actions
+    t: Mais ações
+  - key: general.skip_to_content
+    t: Ir para o conteúdo
+
+  # thanks
+  - key: general.back
+    t: Voltar
+  - key: general.thanks
+    t: >
+      Obrigado por preencher a pesquisa!
+
+      Seus dados estão salvos. Você pode revisá-lo ou modificá-lo até que a pesquisa seja encerrada.
+
+      Além disso, você pode nos ajudar a divulgar compartilhando esta pesquisa. Cada bit conta, e isso ajudará a tornar nossos dados ainda mais
+      representativo:
+  - key: thanks.learn_more_about
+    t: "Alguns dos recursos sobre os quais você pode querer saber mais:"
+  - key: thanks.knowledge_score
+    t: Placar do conhecimento
+  - key: thanks.score_explanation
+    t: >
+      Você já ouviu ou usou <span class="score-number score-number-known">{known}</span> dos
+      <span class="score-number score-number-total">{total}</span> recursos mencionados na pesquisa, o que
+      te coloca entre os <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
+      entrevistados mais completos.
+  - key: thanks.share_on_twitter
+    t: Compartilhe no Twitter
+  - key: thanks.share_score_message
+    t: >
+      Consegui uma pontuação de conhecimento de {score}% na pesquisa #{hashtag} deste ano! Faça a pesquisa aqui: {shareUrl}
+  # share
+  - key: general.share_subject
+    t: >
+      {surveyName} pesquisa
+  - key: general.share_text
+    t: >
+      A pesquisa {surveyName} desse ano está aberta! {link}
+
+  # forms
+  - key: forms.select_option
+    t: Selecione a opção
+  - key: forms.clear_field
+    t: Limpar questão
+  - key: forms.more_options
+    t: Mostrar mais
+
+  # partners & sponsors
+  - key: sponsors.with_support_from
+    t: Com suporte especial de
+  - key: sponsors.our_partners
+    t: Nossos parceiros
+  - key: sponsors.become_partner
+    t: Se torne um parceiro
+
+  # 404
+  - key: notfound.title
+    t: 404 Não encontrado
+  - key: notfound.description
+    t: Desculpe, não encontramos o que você estava procurando.
+
+  # other
+  - key: general.join_discord
+    t: Junte se a nós no <a href="{link}">Discord</a>.
+  - key: general.translator_mode
+    t: Pressione option/alt para habilitar o modo tradutor.
+  - key: general.charts_nivo
+    t: Gráficos construídos com <a href="{link}">Nivo</a>.
+  - key: general.made_by_devographics
+    t: Feito por <a href="{link}">Devographics</a>
+  - key: general.view_code_example
+    t: Ver exemplo de código
+  - key: general.feature_code_example
+    t: "**{featureName}** Exemplo de código"
+  - key: general.code_example
+    t: Exemplo de código
+
+  ###########################################################################
+  # Nav
+  ###########################################################################
+
+  - key: nav.surveys
+    t: Pesquisas
+  - key: nav.account
+    t: Conta
+
+  ###########################################################################
+  # Sections
+  ###########################################################################
+
+  - key: sections.user_info.title
+    t: Sobre você
+  - key: sections.user_info.description
+    t: Vamos conhecer o seu verdadeiro "eu".
+
+  - key: sections.features.title
+    t: Funcionalidades
+  - key: sections.features.description
+    t: Sintaxe, palavras-chave e outras funcionalidades da linguagem.
+
+  - key: sections.resources.title
+    t: Recursos
+  - key: sections.resources.description
+    t: Quais recursos {topic} você consulta?
+
+  - key: sections.opinions.title
+    t: Opiniões
+  - key: sections.opinions.description
+    t: Como você se sente sobre o estato do {topic}?
+
+  - key: sections.other_tools.title
+    t: Outras ferramentas
+  - key: sections.other_tools.description
+    t: Para essas ferramentas e tecnologias, selecione apenas as que você usa regularmente.
+
+  - key: sections.report.title
+    t: Relatório de tendências
+
+  ###########################################################################
+  # Options
+  ###########################################################################
+
+  # features
+  - key: options.features.never_heard
+    t: <span aria-hidden="true">🤷</span> Nunca ouvi falar/Não tenho certeza do que é
+  - key: options.features.heard
+    t: <span aria-hidden="true">✅</span> Eu sei o que é mas nunca usei
+  - key: options.features.used
+    t: <span aria-hidden="true">👍</span> Já usei
+
+  # features (no emoji)
+  - key: options.features.never_heard.label
+    t: Nunca ouvi falar/Não tenho certeza do que é
+  - key: options.features.heard.label
+    t: Eu sei o que é mas nunca usei
+  - key: options.features.used.label
+    t: Já usei
+
+  # features (short versions)
+  - key: options.features.never_heard.short
+    t: Nunca ouvi falar
+  - key: options.features.heard.short
+    t: Conheço
+  - key: options.features.used.short
+    t: Já usei
+
+  # patterns
+  - key: options.patterns.use_never
+    t: Quase sempre evitar
+  - key: options.patterns.use_sparingly
+    t: Usar moderadamente
+  - key: options.patterns.use_neutral
+    t: Neutro
+  - key: options.patterns.use_frequently
+    t: Usar frequentemente
+  - key: options.patterns.use_always
+    t: Usei o máximo que pude
+
+  # tools experience
+  - key: options.tools.never_heard
+    t: <span aria-hidden="true">🤷</span> Nunca ouvi falar/Não tenho certeza do que é
+  - key: options.tools.interested
+    t: <span aria-hidden="true">✅</span> Ouvi falar > Gostaria de aprender
+  - key: options.tools.not_interested
+    t: <span aria-hidden="true">🚫</span> Ouvi falar > Não tenho interesse
+  - key: options.tools.would_use
+    t: <span aria-hidden="true">👍</span> Já usei > Usaria novamente
+  - key: options.tools.would_not_use
+    t: <span aria-hidden="true">👎</span> Já usei > Não usaria novamente
+
+  # tools experience (no emoji)
+  - key: options.tools.never_heard.legend
+    t: Nunca ouvi falar/Não tenho certeza do que é
+  - key: options.tools.interested.legend
+    t: Ouvi falar > Gostaria de aprender
+  - key: options.tools.not_interested.legend
+    t: Ouvi falar > Não tenho interesse
+  - key: options.tools.would_use.legend
+    t: Já usei > Usaria novamente
+  - key: options.tools.would_not_use.legend
+    t: Já usei > Não usaria novamente
+
+  # tools experience (short versions)
+  - key: options.tools.never_heard.short
+    t: Nunca ouvi
+  - key: options.tools.interested.short
+    t: Interessado
+  - key: options.tools.not_interested.short
+    t: Sem interesse
+  - key: options.tools.would_use.short
+    t: Usaria novamente
+  - key: options.tools.would_not_use.short
+    t: Não usaria
+
+  # happiness
+  - key: options.happiness.0
+    t: Muito infeliz
+  - key: options.happiness.1
+    t: Infeliz
+  - key: options.happiness.2
+    t: Neutro
+  - key: options.happiness.3
+    t: Feliz
+  - key: options.happiness.4
+    t: Muito feliz
+
+  # happiness (short version)
+  - key: options.happiness.0.short
+    t: Muito infeliz
+  - key: options.happiness.1.short
+    t: Infeliz
+  - key: options.happiness.2.short
+    t: Neutro
+  - key: options.happiness.3.short
+    t: Feliz
+  - key: options.happiness.4.short
+    t: Muito feliz
+
+  # opinions
+  - key: options.opinions.0
+    t: Discordo fortemente
+  - key: options.opinions.1
+    t: Discordo
+  - key: options.opinions.2
+    t: Neutro
+  - key: options.opinions.3
+    t: Concordo
+  - key: options.opinions.4
+    t: Concordo fortemente
+
+  # age
+  - key: options.age.range_less_than_10
+    t: Menos de 10 anos
+  - key: options.age.range_10_18
+    t: entre 10 e 18 anos
+  - key: options.age.range_18_24
+    t: entre 18 e 24 anos
+  - key: options.age.range_25_34
+    t: entre 24 e 34 anos
+  - key: options.age.range_35_44
+    t: entre 35 e 44 anos
+  - key: options.age.range_45_54
+    t: entre 45 e 54 anos
+  - key: options.age.range_55_64
+    t: entre 55 e 64 anos
+  - key: options.age.range_more_than_65
+    t: 65 anos ou mais
+
+  # age (short versions)
+  - key: options.age.range_less_than_10.short
+    t: "<10"
+  - key: options.age.range_10_18.short
+    t: 10-18
+  - key: options.age.range_18_24.short
+    t: 18-24
+  - key: options.age.range_25_34.short
+    t: 24-34
+  - key: options.age.range_35_44.short
+    t: 35-44
+  - key: options.age.range_45_54.short
+    t: 45-54
+  - key: options.age.range_55_64.short
+    t: 55-64
+  - key: options.age.range_more_than_65.short
+    t: ">65"
+
+  # years of experience
+  - key: options.years_of_experience.range_less_than_1
+    t: Menos de um ano
+  - key: options.years_of_experience.range_1_2
+    t: 1 a  2 anos
+  - key: options.years_of_experience.range_2_5
+    t: 2 a  5 anos
+  - key: options.years_of_experience.range_5_10
+    t: 5 a 10 anos
+  - key: options.years_of_experience.range_10_20
+    t: 10 a 20 anos
+  - key: options.years_of_experience.range_more_than_20
+    t: Mais de 20 anos
+
+  # years of experience (short versions)
+  - key: options.years_of_experience.range_less_than_1.short
+    t: "<1 anos"
+  - key: options.years_of_experience.range_1_2.short
+    t: 1-2 anos
+  - key: options.years_of_experience.range_2_5.short
+    t: 2-5 anos
+  - key: options.years_of_experience.range_5_10.short
+    t: 5-10 anos
+  - key: options.years_of_experience.range_10_20.short
+    t: 10-20 anos
+  - key: options.years_of_experience.range_more_than_20.short
+    t: ">20 anos"
+
+  # company size
+  - key: options.company_size.range_1
+    t: Um empregado
+  - key: options.company_size.range_1_5
+    t: 1 a 5 empregados
+  - key: options.company_size.range_5_10
+    t: 5 a 10 empregados
+  - key: options.company_size.range_10_20
+    t: 10 a 20 empregados
+  - key: options.company_size.range_20_50
+    t: 20 a 50 empregados
+  - key: options.company_size.range_50_100
+    t: 50 a 100 empregados
+  - key: options.company_size.range_100_1000
+    t: 100 a 1000 empregados
+  - key: options.company_size.range_more_than_1000
+    t: Mais de 1000 empregados
+
+  # company size (short versions)
+  - key: options.company_size.range_1.short
+    t: 1
+  - key: options.company_size.range_1_5.short
+    t: 1-5
+  - key: options.company_size.range_5_10.short
+    t: 5-10
+  - key: options.company_size.range_10_20.short
+    t: 10-20
+  - key: options.company_size.range_20_50.short
+    t: 20-50
+  - key: options.company_size.range_50_100.short
+    t: 50-100
+  - key: options.company_size.range_100_1000.short
+    t: 100-1000
+  - key: options.company_size.range_more_than_1000.short
+    t: ">1000"
+
+  # salary
+  - key: options.yearly_salary.range_work_for_free
+    t: Trabalho de graça
+  - key: options.yearly_salary.range_0_10
+    t: $0k-$10k
+  - key: options.yearly_salary.range_10_30
+    t: $10k-$30k
+  - key: options.yearly_salary.range_30_50
+    t: $30k-$50k
+  - key: options.yearly_salary.range_50_100
+    t: $50k-$100k
+  - key: options.yearly_salary.range_100_200
+    t: $100k-$200k
+  - key: options.yearly_salary.range_more_than_200
+    t: Mais de $200k
+
+  # salary (short versions)
+  - key: options.yearly_salary.range_work_for_free.short
+    t: $0
+  - key: options.yearly_salary.range_0_10.short
+    t: $0-$10k
+  - key: options.yearly_salary.range_10_30.short
+    t: $10k-$30k
+  - key: options.yearly_salary.range_30_50.short
+    t: $30k-$50k
+  - key: options.yearly_salary.range_50_100.short
+    t: $50k-$100k
+  - key: options.yearly_salary.range_100_200.short
+    t: $100k-$200k
+  - key: options.yearly_salary.range_more_than_200.short
+    t: ">$200k"
+
+  # job titles
+  - key: options.job_title.cto
+    t: CTO
+  - key: options.job_title.front_end_developer
+    t: Desenvolvedor ou Engenheiro Front-End
+  - key: options.job_title.back_end_developer
+    t: Desenvolvedor ou Engenheiro Back-End
+  - key: options.job_title.full_stack_developer
+    t: Desenvolvedor ou Engenheiro Full Stack
+  - key: options.job_title.web_developer
+    t: Desenvolvedor Web
+  - key: options.job_title.web_designer
+    t: Web Designer
+  - key: options.job_title.ux_designer
+    t: UX Designer
+  - key: options.job_title.ui_designer
+    t: UI Designer
+  - key: options.job_title.back_end_dev
+    t: Desenvolvedor ou Engenheiro Back-End
+
+  # JavaScript proficiency
+  - key: options.javascript_proficiency.0
+    t: Não sou capaz de escrever JavaScript
+  - key: options.javascript_proficiency.1
+    t: Eu escrevo códigos simples em JavaScript ou jQuery
+  - key: options.javascript_proficiency.2
+    t: Trabalho em projetos front-end usando framework modernos (React, Vue, etc.)
+  - key: options.javascript_proficiency.3
+    t: Crio projetos front-end inteiros do zero
+  - key: options.javascript_proficiency.4
+    t: Lido com padrões avançados de front-end (gerenciamento de estado, carregamento de dados, etc.)
+
+  # CSS proficiency
+  - key: options.css_proficiency.0
+    t: Não tenho nenhum conhecimento de CSS
+  - key: options.css_proficiency.1
+    t: Uso frameworks CSS e aprimoro estilos existentes
+  - key: options.css_proficiency.2
+    t: Conheço regras de especificidade, sou capaz de criar layouts
+  - key: options.css_proficiency.3
+    t: Domino animações, interações, transições, etc.
+  - key: options.css_proficiency.4
+    t: Sou capaz de estilizar um front-end inteiro do zero seguindo uma metodologia consistente
+
+  # Back-end proficiency
+  - key: options.backend_proficiency.0
+    t: Não sou capaz de lidar com nada de back-end
+  - key: options.backend_proficiency.1
+    t: Sou capaz de configurar CMSs (WordPress, etc.) ou geradores de sites estáticos (Jekyll, etc.)
+  - key: options.backend_proficiency.2
+    t: Consigo desenvolver aplicações utilizando frameworks (Rails, Laravel, etc.)
+  - key: options.backend_proficiency.3
+    t: Consigo montar um sistema back-end do zero (Go, Node.js, etc.)
+  - key: options.backend_proficiency.4
+    t: Consigo lidar com arquiteturas complexas de multi-servidores ou microsserviços
+
+  # Proficiency (generic versions)
+  - key: options.proficiency.0
+    t: Nenhum
+  - key: options.proficiency.1
+    t: Iniciante
+  - key: options.proficiency.2
+    t: Intermediário
+  - key: options.proficiency.3
+    t: Avançado
+  - key: options.proficiency.4
+    t: Especialista
+
+  # Gender
+
+  - key: options.gender.female
+    t: Mulher
+  - key: options.gender.male
+    t: Homem
+  - key: options.gender.non_binary
+    t: Não binario ou sem gênero definido
+  - key: options.gender.questioning
+    t: Ainda não me decidi
+  - key: options.gender.prefer_not_to_say
+    t: Prefiro não dizer
+  - key: options.gender.not_listed
+    t: Não listado
+
+  # Gender (short)
+
+  - key: options.gender.female.short
+    t: Mulher
+  - key: options.gender.male.short
+    t: Homem
+  - key: options.gender.non_binary.short
+    t: Não binario ou sem gênero definido
+  - key: options.gender.questioning.short
+    t: Ainda não me decidi
+  - key: options.gender.prefer_not_to_say.short
+    t: Prefiro não dizer
+  - key: options.gender.not_listed.short
+    t: Não listado
+
+  # Race & Ethnicity
+
+  - key: options.race_ethnicity.white_european
+    t: Branco ou de ascendência europeia
+  - key: options.race_ethnicity.south_asian
+    t: Sul da Ásia
+  - key: options.race_ethnicity.south_east_asian
+    t: Sudeste da Ásia
+  - key: options.race_ethnicity.hispanic_latin
+    t: Hispânico ou latino
+  - key: options.race_ethnicity.east_asian
+    t: Ásia Oriental
+  - key: options.race_ethnicity.middle_eastern
+    t: Oriente Médio
+  - key: options.race_ethnicity.black_african
+    t: Negro ou de ascendência africana
+  - key: options.race_ethnicity.multiracial
+    t: Multirracial
+  - key: options.race_ethnicity.biracial
+    t: Biracial
+  - key: options.race_ethnicity.native_american_islander_australian
+    t: Nativo americano, ilhéu do Pacífico ou australiano indígena
+  - key: options.race_ethnicity.not_listed
+    t: Não listado
+
+  # Race & Ethnicity (short)
+
+  - key: options.race_ethnicity.white_european.short
+    t: Branco ou de ascendência europeia
+  - key: options.race_ethnicity.south_asian.short
+    t: Sul da Ásia
+  - key: options.race_ethnicity.south_east_asian.short
+    t: Sudeste da Ásia
+  - key: options.race_ethnicity.hispanic_latin.short
+    t: Hispânico ou latino
+  - key: options.race_ethnicity.east_asian.short
+    t: Ásia Oriental
+  - key: options.race_ethnicity.middle_eastern.short
+    t: Oriente Médio
+  - key: options.race_ethnicity.black_african.short
+    t: Negro ou de ascendência africana
+  - key: options.race_ethnicity.multiracial.short
+    t: Multirracial
+  - key: options.race_ethnicity.biracial.short
+    t: Biracial
+  - key: options.race_ethnicity.native_american_islander_australian.short
+    t: Nativo americano, ilhéu do Pacífico ou australiano indígena
+  - key: options.race_ethnicity.not_listed.short
+    t: Não listado
+
+  # Disability Status
+  - key: options.disability_status.visual_impairments
+    t: >
+      Deficiências visuais (cegueira, daltonismo, etc.)
+  - key: options.disability_status.hearing_impairments
+    t: >
+      Deficiências auditivas (surdez, zumbido, etc.)
+  - key: options.disability_status.mobility_impairments
+    t: >
+      Deficiências de mobilidade (artrite, túnel do carpo, etc.)
+  - key: options.disability_status.cognitive_impairments
+    t: >
+      Deficiências cognitivas (ansiedade, dislexia, etc.)
+  - key: options.disability_status.not_listed
+    t: >
+      Não listado
+
+  # Disability Status (short)
+  - key: options.disability_status.visual_impairments
+    t: >
+      Deficiências visuais
+  - key: options.disability_status.hearing_impairments
+    t: >
+      Deficiências auditivas
+  - key: options.disability_status.mobility_impairments
+    t: >
+      Deficiências de mobilidade
+  - key: options.disability_status.cognitive_impairments
+    t: >
+      Deficiências cognitivas
+  - key: options.disability_status.not_listed
+    t: >
+      Não listado
+
+  # Form Factors
+  - key: options.form_factors.desktop
+    t: Desktop
+  - key: options.form_factors.keyboard_only
+    t: Desktop apenas com teclado
+  - key: options.form_factors.smartphone
+    t: Smartphone
+  - key: options.form_factors.feature_phone
+    t: Celular não smart
+  - key: options.form_factors.tablet
+    t: Tablet
+  - key: options.form_factors.smart_watch
+    t: Relógio inteligente
+  - key: options.form_factors.tv
+    t: TV
+  - key: options.form_factors.gaming_console
+    t: Console de jogos
+  - key: options.form_factors.screen_reader
+    t: Leitor de tela
+  - key: options.form_factors.print
+    t: Impressão
+  - key: options.form_factors.testing_tools
+    t: Ferramentas de teste (Axe, Lighthouse, etc.)
+  - key: options.form_factors.vision_simulator
+    t: Simulador de visão alterada (daltonismo, etc.)
+
+  # Industry Sector
+  - key: options.industry_sector.ecommerce
+    t: Comércio eletrônico e varejo
+  - key: options.industry_sector.news_media
+    t: Notícias, mídia e blogs
+  - key: options.industry_sector.healthcare
+    t: Saúde
+  - key: options.industry_sector.finance
+    t: Financeiro
+  - key: options.industry_sector.programming_tools
+    t: Programação e ferramentas técnicas
+  - key: options.industry_sector.socialmedia
+    t: Social media
+  - key: options.industry_sector.marketing_tools
+    t: Ferramentas de marketing/vendas/análises
+  - key: options.industry_sector.education
+    t: Educação
+  - key: options.industry_sector.real_estate
+    t: Real Estate
+  - key: options.industry_sector.government
+    t: Imobiliário
+  - key: options.industry_sector.entertainment
+    t: Entretenimento
+  - key: options.industry_sector.consulting
+    t: Consultoria e serviços
+  - key: options.industry_sector.travel
+    t: Viagem
+  - key: options.industry_sector.insurance
+    t: Seguro
+  - key: options.industry_sector.logistics
+    t: Logística
+  - key: options.industry_sector.energy
+    t: Energia
+  - key: options.industry_sector.telecommunications
+    t: Telecomunicações
+  - key: options.industry_sector.student
+    t: Estudante
+  - key: options.industry_sector.hospitality
+    t: Hotelaria
+  - key: options.industry_sector.cyber_security
+    t: Cibersegurança
+  - key: options.industry_sector.construction
+    t: Construção
+  - key: options.industry_sector.automotive
+    t: Automotivo
+  - key: options.industry_sector.agriculture
+    t: Agricultura
+  - key: options.industry_sector.transport
+    t: Transporte
+  - key: options.industry_sector.manufacturing
+    t: Manufatura
+
+  # tool evaluation
+  - key: options.tool_evaluation.learning_curve_documentation
+    t: Documentação
+  - key: options.tool_evaluation.learning_curve_documentation.description
+    t: É fácil de aprender e/ou bem documentado?
+  - key: options.tool_evaluation.momentum_popularity
+    t: Hype e impulso
+  - key: options.tool_evaluation.momentum_popularity.description
+    t: Atualmente, está gerando muito buzz?
+  - key: options.tool_evaluation.user_base_size
+    t: Tamanho base do usuário
+  - key: options.tool_evaluation.user_base_size.description
+    t: É uma opção bem estabelecida com um longo histórico?
+  - key: options.tool_evaluation.developer_experience_tooling
+    t: Experiência do desenvolvedor
+  - key: options.tool_evaluation.developer_experience_tooling.description
+    t: Possui boas ferramentas de desenvolvedor, um grande ecossistema de plugins, etc.?
+  - key: options.tool_evaluation.performance_user_experience
+    t: Experiência do usuário
+  - key: options.tool_evaluation.performance_user_experience.description
+    t: Isso ajuda você a criar experiências de usuário suaves e de alto desempenho?
+  - key: options.tool_evaluation.creator_team
+    t: Criador e equipe
+  - key: options.tool_evaluation.creator_team.description
+    t: É apoiado por uma equipe bem conhecida, bem financiada ou experiente?
+  - key: options.tool_evaluation.accessibility_features
+    t: Recursos de acessibilidade
+  - key: options.tool_evaluation.accessibility_features.description
+    t: É bom para criar experiências acessíveis para todos os usuários?
+  - key: options.tool_evaluation.community_inclusivity
+    t: Comunidade e Inclusão
+  - key: options.tool_evaluation.community_inclusivity.description
+    t: Tem uma comunidade acolhedora e vibrante construída em torno dela?
+
+  # accessibility features
+  - key: options.accessibility_features.keyboard_navigation
+    t: Navegação do teclado
+  - key: options.accessibility_features.compliant_contrast
+    t: Contraste compatível com WCAG
+  - key: options.accessibility_features.focus_indicators
+    t: Indicadores de foco
+  - key: options.accessibility_features.skip_to_content_link
+    t: Link para pular para o conteúdo
+  - key: options.accessibility_features.color_themes
+    t: Temas de cores (modo escuro, modo de alto contraste, etc.)
+  - key: options.accessibility_features.prefers_reduced_motion
+    t: Prefere movimento reduzido
+  - key: options.accessibility_features.alt_text
+    t: Textos alternativos
+  - key: options.accessibility_features.semantic_markup
+    t: Marcação semântica
+  - key: options.accessibility_features.aria_attributes
+    t: Atributos ARIA HTML
+
+  # learning methods
+  - key: options.first_steps.books
+    t: Livros
+  - key: options.first_steps.videos
+    t: Vídeos & screencasts
+  - key: options.first_steps.school
+    t: Escola e ensino superior
+  - key: options.first_steps.courses_free
+    t: Cursos online (gratuitos)
+  - key: options.first_steps.courses_paid
+    t: Cursos online (pagos)
+  - key: options.first_steps.podcasts
+    t: Podcasts
+  - key: options.first_steps.bootcamp
+    t: Bootcamp de codificação
+  - key: options.first_steps.on_the_job
+    t: Treinamento no local de trabalho
+  - key: options.first_steps.self_directed
+    t: Aprendizagem autônoma(Google, Stack Overflow, etc.)
+  - key: options.first_steps.mentoring
+    t: Mentoria
+
+  # degree
+  - key: options.higher_education_degree.no_degree
+    t: Não
+  - key: options.higher_education_degree.yes_related
+    t: Sim, em um campo relacionado à minha profissão atual
+  - key: options.higher_education_degree.yes_unrelated
+    t: Sim, mas em um campo não relacionado à minha profissão atual
+
+  # degree (short versions)
+  - key: options.higher_education_degree.no_degree.short
+    t: Não
+  - key: options.higher_education_degree.yes_related.short
+    t: Sim, campo relacionado
+  - key: options.higher_education_degree.yes_unrelated.short
+    t: Sim, campo não relacionado
+
+  # employment_status
+  - key: options.employment_status.full_time
+    t: Tempo Integral
+  - key: options.employment_status.student
+    t: Estudante
+  - key: options.employment_status.self_employed
+    t: Trabalho autônomo
+  - key: options.employment_status.contractor
+    t: Contrato
+  - key: options.employment_status.part_time
+    t: Meio-período
+  - key: options.employment_status.between_jobs
+    t: Entre empregos
+  - key: options.employment_status.retired
+    t: Aposentado(a)
+
+  # bracket
+  - key: options.bracket.round1
+    t: Vitórias na 1ª rodada
+  - key: options.bracket.round2
+    t: Vitórias na 2ª rodada
+  - key: options.bracket.round3
+    t: Ganhar a 3ª rodada
+  - key: options.bracket.combined
+    t: Combinadas
+
+  # email_temporary (receive updates?)
+  - key: options.receive_notifications.yes
+    t: Sim, mande-me um email quando os resultados forem publicados
+
+  # usage type
+  - key: options.usage_type.professionally
+    t: Profissionalmente
+  - key: options.usage_type.student
+    t: Como estudante
+  - key: options.usage_type.hobby
+    t: Como um hobby
+
+  ###########################################################################
+  # Tools
+  ###########################################################################
+
+  - key: tools.other_tools
+    t: Outras opções
+  - key: tools.other_tools.description
+    t: Outras opções que você usa para a seção atual não mencionada na lista acima.
+  - key: tools.happiness
+    t: Felicidade geral
+  - key: tools.happiness.description
+    t: >
+      Em uma escala de um (muito infeliz) a cinco (muito feliz), quão feliz você
+      está com o atual estado geral das coisas que se relacionam com as opções listadas acima?
+
+  ###########################################################################
+  # Demographics (About You/User Info)
+  ###########################################################################
+
+  # age
+  - key: user_info.age
+    t: Idade
+  - key: user_info.age.description
+    t: Quantos anos você tem?
+
+  # years of experience
+  - key: user_info.years_of_experience
+    t: Anos de experiência
+  - key: user_info.years_of_experience.description
+    t: Há quantos anos você trabalha ou estuda essa área?
+
+  # company size
+  - key: user_info.company_size
+    t: Tamanho da empresa
+  - key: user_info.company_size.description
+    t: Qual o tamanho da sua empresa, em número de funcionários?
+
+  # salary ranges
+  - key: user_info.yearly_salary
+    t: Salário anual
+  - key: user_info.yearly_salary.description
+    t: Seu salário anual em dólares americanos.
+
+  # job title
+  - key: user_info.job_title
+    t: Cargo
+  - key: user_info.job_title.description
+    t: Como você se apresenta aos outros?
+
+  # javascript proficiency
+  - key: user_info.javascript_proficiency
+    t: Proficiência em JavaScript
+  - key: user_info.javascript_proficiency.description
+    t: Quão proficiente você é em JavaScript?
+
+  # css proficiency
+  - key: user_info.css_proficiency
+    t: Proficiência em CSS
+  - key: user_info.css_proficiency.description
+    t: Quão proficiente você é em CSS?
+
+  # backend proficiency
+  - key: user_info.backend_proficiency
+    t: Proficiência em back-end
+  - key: user_info.backend_proficiency.description
+    t: Quão proficiente você é no desenvolvimento de back-end?
+
+  # gender
+  - key: user_info.gender
+    t: Gênero
+  - key: user_info.gender.description
+    t: >
+      Qual das opções a seguir descreve você? Por favor, escolha uma.
+  - key: user_info.gender.note
+    t: >
+      Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
+      achamos importante obter esses dados para ajudar a medir e melhorar
+      os esforços da pesquisa em termos de inclusão e representatividade.
+
+  # race & ethnicity
+  - key: user_info.race_ethnicity
+    t: Raça e etnia
+  - key: user_info.race_ethnicity.description
+    t: >
+      Qual das opções a seguir descreve você? Por favor, selecione todas as que se aplicam.
+  - key: user_info.race_ethnicity.note
+    t: >
+      Embora saibamos que coletar e publicar dados de diversidade pode ser uma questão delicada,
+      achamos importante obter esses dados para ajudar a medir e melhorar
+      os esforços da pesquisa em termos de inclusão e representatividade.
+  - key: user_info.race_ethnicity.not_allowed
+    t: >
+      Para cumprir as políticas locais, a coleta de dados de raça ou etnia foi
+        foi desativada para o seu país ou região.
+
+  # disability status
+  - key: user_info.disability_status
+    t: Deficiências
+  - key: user_info.disability_status.description
+    t: >
+      Qual das seguintes deficiências você apresenta? Por favor, selecione todas as que se aplicam.
+      Observe que isso pode incluir incapacidades temporárias ou lesões.
+
+  # disability status (other)
+  - key: user_info.disability_status.others
+    t: Outras deficiências
+
+  # other info
+  - key: user_info.how_did_user_find_out_about_the_survey
+    t: Como você ficou sabendo dessa pesquisa?
+  - key: user_info.email
+    t: Seu e-mail
+  - key: user_info.email.description
+    t: >
+      Você preencheu a pesquisa anonimamente. Se desejar, você pode opcionalmente inserir seu e-mail para poder acessar seus dados posteriormente e ser notificado quando os resultados da pesquisa forem publicados.
+  - key: user_info.email.note
+    t: >
+      Não armazenamos nenhum dado pessoal, portanto, após você preencher seu endereço de e-mail, iremos usá-lo para gerar um identificador anônimo exclusivo e, em seguida, excluir o próprio endereço de nossos registros.
+  - key: user_info.country
+    t: Seu país ou região
+  - key: user_info.country.description
+    t: Onde você reside atualmente?
+
+  - key: user_info.github_username
+    t: Seu usuário do GitHub
+  - key: user_info.github_username.description
+    t: >
+      Podemos usar nomes de usuários do GitHub no futuro para analisar
+      repositórios e fazer referência cruzada de informações disponíveis publicamente.
+
+  - key: user_info.twitter_username
+    t: Seu usuário do Twitter
+  - key: user_info.twitter_username.description
+    t: >
+      Podemos usar nomes de usuário do Twitter no futuro para
+      analisar a atividade do Twitter e fazer referência cruzada de informações disponíveis publicamente
+      (como a lista de pessoas que você está seguindo).
+
+  - key: user_info.industry_sector
+    t: Setor industrial
+  - key: user_info.industry_sector.description
+    t: Em qual(is) setor(es) da indústria você trabalha?
+  - key: user_info.industry_sector.others
+    t: Outros setores da indústria
+  - key: user_info.industry_sector.others.description
+    t: Outro(s) setor(es) da indústria em que você trabalha não mencionado(s) acima.
+
+  - key: usage.industry_sector
+    aliasFor: user_info.industry_sector
+  - key: usage.industry_sector.description
+    aliasFor: user_info.industry_sector.description
+  - key: usage.industry_sector.others
+    aliasFor: user_info.industry_sector.others
+  - key: usage.industry_sector.others.description
+    aliasFor: user_info.industry_sector.description
+
+  # degree
+  - key: user_info.higher_education_degree
+    t: Graduação em Ensino Superior
+  - key: user_info.higher_education_degree.description
+    t: Você tem um diploma de ensino superior?
+
+  # employment status
+  - key: user_info.employment_status
+    t: Situação Empregatícia
+  - key: user_info.employment_status.description
+    t: Qual é a sua situação profissional?
+
+  # completion
+  - key: user_info.completion_stats
+    t: Conclusão da Pesquisa
+  - key: user_info.completion_stats.description
+    t: Que proporção da pesquisa os entrevistados preencheram?
+
+  # email_temporary (receive updates?)
+  - key: user_info.receive_notifications
+    t: Você quer ser notificado quando o resultado da pesquisa ser lançado?
+  - key: user_info.receive_notifications.note
+    t: >
+      Nós não armazenamos nenhuma informação privada, então após o email ser enviado para o nosso 
+      provedor de mailing list ele será deletado de nossos bancos.
+
+  # how can we improve the survey?
+  - key: user_info.how_can_we_improve
+    t: Como podemos melhorar essa pesquisa?
+
+  ###########################################################################
+  # Other Tools
+  ###########################################################################
+
+  - key: tools_others.libraries
+    t: Bibliotecas
+  - key: tools_others.libraries.description
+    t: Quais bibliotecas você usa regularmente?
+  - key: tools_others.libraries.others
+    t: Outras bibliotecas
+  - key: tools_others.libraries.others.description
+    t: Outras respostas (campo de texto livre).
+
+  - key: tools_others.text_editors
+    t: Editores de texto.
+  - key: tools_others.text_editors.description
+    t: Quais editor(es) de texto você usa regularmente?
+  - key: tools_others.text_editors.others
+    t: Outros editores de texto.
+  - key: tools_others.text_editors.others.description
+    t: Outras respostas (campo de texto livre).
+
+  - key: tools_others.utilities
+    t: Utilitários
+  - key: tools_others.utilities.description
+    t: Quais utilitários ou ferramentas você usa regularmente?
+  - key: tools_others.utilities.others
+    t: Outros utilitários
+  - key: tools_others.utilities.others.description
+    t: Outros utilitários (campo de texto livre).
+
+  - key: tools_others.browsers
+    t: Navegadores
+  - key: tools_others.browsers.description
+    t: Qual(is) navegador(es) você usa principalmente durante o desenvolvimento inicial?
+  - key: tools_others.browsers.others
+    t: Outros navegadores
+  - key: tools_others.browsers.others.description
+    t: Outras respostas (campo de texto livre).
+
+  - key: tools_others.build_tools
+    t: Ferramentas de build
+  - key: tools_others.build_tools.description
+    t: Quais ferramentas de build você usa?
+  - key: tools_others.build_tools.others
+    t: Outras ferramentas de build
+  - key: tools_others.build_tools.others.description
+    t: Outras respostas (campo de texto livre).
+
+  - key: tools_others.non_js_languages
+    t: Linguagens de programação diferentes de JavaScript
+  - key: tools_others.non_js_languages.description
+    t: Quais outras linguagens de programação você usa?
+  - key: tools_others.non_js_languages.others
+    t: Outras linguagens de programação
+  - key: tools_others.non_js_languages.others.description
+    t: Outras respostas (campo de texto livre).
+
+  - key: tools_others.javascript_flavors
+    t: Sabores de JavaScript
+  - key: tools_others.javascript_flavors.description
+    t: Linguagens que compilam para JavaScript
+  - key: tools_others.javascript_flavors.others
+    t: Outros sabores de JavaScript
+  - key: tools_others.javascript_flavors.others.description
+    t: Outras respostas (campo de texto livre).
+
+  ###########################################################################
+  # Usage
+  ###########################################################################
+
+  ###########################################################################
+  # Resources
+  ###########################################################################
+
+  # learning method
+  - key: resources.first_steps
+    t: Primeiros métodos de aprendizagem
+  - key: resources.first_steps.description
+    t: Como você começou a aprender programação?
+  - key: resources.first_steps.others
+    t: Outros métodos para começar a aprender
+  - key: resources.first_steps.others.description
+    t: Outras respostas (campo de texto livre).
+
+  # blogs & magazines
+  - key: resources.blogs_news_magazines
+    t: Blogs e revistas
+  - key: resources.blogs_news_magazines.description
+    t: Quais blogs/revistas/etc. você lê?
+  - key: resources.blogs_news_magazines.others
+    t: Other blogs e revistas
+  - key: resources.blogs_news_magazines.others.description
+    t: Outras respostas (campo de texto livre).
+
+  # sites & courses
+  - key: resources.sites_courses
+    t: Sites e cursos
+  - key: resources.sites_courses.description
+    t: Quais sites/cursos/etc. você consulta?
+  - key: resources.sites_courses.others
+    t: Outros sites e cursos
+  - key: resources.sites_courses.others.description
+    t: Outras respostas (campo de texto livre).
+
+  # podcasts
+  - key: resources.podcasts
+    t: Podcasts
+  - key: resources.podcasts.description
+    t: Qual podcast relacionado a programação você escuta?
+  - key: resources.podcasts.others
+    t: Outros podcasts
+  - key: resources.podcasts.others.description
+    t: Outras respostas (campo de texto livre).
+
+  # people
+  - key: resources.people
+    t: Pessoas
+  - key: resources.people.description
+    t: Pessoas que você lê, segue ou apenas quer destacar.
+  # - key: resources.people.others
+  #   t: Outras pessoas
+  # - key: resources.people.others.description
+  #   t: Outras respostas (campo de texto livre).
+  - key: resources.people.others
+    t: Pessoas
+  - key: resources.people.others.description
+    t: >
+      Pessoas que você lê, segue ou apenas quer destacar por seu trabalho
+      (campo de texto livre, nomes separados por virgula).
+
+  # other surveys
+  - key: resources.other_surveys
+    t: Outras pesquisas
+  - key: resources.other_surveys.description
+    t: Quais outras pesquisas sobre desenvolvimento você participou?
+  - key: resources.other_surveys.others
+    t: Outras pesquisas não mencionadas acima
+
+  # video creators
+  - key: resources.video_creators
+    t: Criadores de vídeos
+  - key: resources.video_creators.description
+    t: Criadores de conteúdo que você segue em plataformas de vídeos como YouTube, Twitch, TikTok, etc.
+  - key: resources.video_creators.others
+    t: Outros criadores de vídeos
