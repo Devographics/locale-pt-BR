@@ -450,10 +450,6 @@ translations:
     t: Escopo
   - key: features.scoping.description
     t: A capacidade de ser mais específico sobre onde seus estilos são aplicados.
-  - key: features.subgrid
-    t: Subgrid
-  - key: features.subgrid.description
-    t: Aninhando subgrids de nível mais profundo em uma grade pai.
 
   ###########################################################################
   # Units & Selectors
