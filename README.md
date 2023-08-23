@@ -1,36 +1,20 @@
 # locale-pt-BR
 
-Este repositório contém os arquivos em Português (Brasil) para o _State de JS/CSS/_ etc. São pesquisas que servem como base para traduzir todos os outros idiomas. Você pode visualizar uma lista de [todas as localidades aqui](https://github.com/stateofjs/?q=locale-&type=&language=&sort=).
-
-![State of JS pt-BR translation](https://state-of-js-translation-status.vercel.app/api?locale=pt-BR)
+Este repositório contém os arquivos traduzidos em Português (Brasil) relacionados aos projetos _**State of JavaScript**_ e _**State of CSS**_, que são pesquisas de levantamento sobre essas tecnologias. Essa tradução é baseada (e ligeiramente adaptada) no repositóorio [locale-en-US](https://github.com/Devographics/locale-en-US). Você pode visualizar a lista de [todas as traduções aqui](https://github.com/orgs/Devographics/repositories?q=locale&type=all&language=&sort=).
 
 ## Como ajudar
 
 #### 1. Tornando-se um tradutor
 
-Para começar a ajudar a traduzir a pesquisa, você deve [entrar no Discord](https://discord.com/invite/zrdb35jfrt) e me mandar uma mensagem privada (`SachaG`) com seu nome de usuário do github, junto com o código de localidade (`pt-BR`).
+Para começar a ajudar a traduzir a pesquisa, você deve [entrar no Discord](https://discord.gg/662RhNRGsA) e mandar uma mensagem privada para o (`SachaG`) com seu nome de usuário do github, junto com o código de localidade (`pt-BR`).
 
 Em seguida, vou lhe dar direitos de mantenedor em um repositório contendo todos os arquivos `yaml` de tradução, e a partir de agora você pode gerenciá-lo junto com outros membros da equipe de tradução.
 
 #### 2. Encontrando coisas para traduzir
 
-Para encontrar arquivos ainda não traduzidos você pode navegar pelos resultados de pesquisa do site ou usar o aplicativo de levantamento e encontrar _strings_ não traduzidas. Você também pode usar nossa _API_ para obter dados extras, como a porcentagem de conclusão para uma localidade ou uma lista de todas as _strings_ não traduzidas:
+Para encontrar arquivos ainda não traduzidos você pode navegar pelos resultados de pesquisa do site ou usar o aplicativo de levantamento e encontrar _strings_ não traduzidas.
 
-- https://graphiql.stateofjs.com/
-
-Aqui está um exemplo de consulta: 
-
-```graphql
-query GetLocaleData {
-  locale(localeId: "ru-RU") {
-    completion
-    totalCount
-    translatedCount
-    translators
-    untranslatedKeys
-  }
-}
-```
+Você também pode acessar nosso [Projeto de Tradução](https://github.com/Devographics/locale-pt-BR/projects/1) e escolher alguma _issue_ em aberto. Por favor, siga esse fluxo e não faça _commits_ diretos na _main_. Opte sempre por abrir uma requisição (PR) quando outros contribuintes estiverem ativos. Caso seu PR não seja analisado no prazo de 10 dias, pode revisar e aceitar seu próprio PR.
 
 #### 3. Recebendo os créditos
 
@@ -38,9 +22,9 @@ Todo tradutor será creditado em qualquer site que faça uso das traduções, co
 
 - https://github.com/StateOfJS/Monorepo/blob/main/api-internal/src/data/locales.yml
 
-#### 4. Empurrando suas mudanças ao vivo
+#### 4. Enviando suas mudanças para produção
 
-Atualmente, não há nenhum _hook_ automatizado para atualizar os aplicativos de produção quando uma tradução é atualizada, portanto, por enquanto a melhor maneira é me enviar mensagem no _Discord_ para me avisar quando terminar.
+Atualmente, não há nenhum _hook_ automatizado para atualizar os aplicativos de produção quando uma tradução é atualizada, portanto, por enquanto a melhor maneira é enviar mensagem no _Discord_ para o `SachaG` e avisá-lo quando terminar.
 
 ## Arquivos de tradução
 
@@ -72,14 +56,14 @@ Essas _strings_ aparecem em ambos.
 
 - `homepage.yml`
 
-## Juntando-se às equipes de tradução
+## Junte-se à equipe de tradução
 
-É recomendável que você participe da [equipe de tradução](https://github.com/orgs/stateofjs/teams/translators/teams) para o idioma que deseja traduzir.
+É recomendável que você participe da nossa [equipe de tradução](https://github.com/orgs/Devographics/teams/pt-br).
 
 ## Desenvolvimento Local
 
 Atualmente não há maneira fácil de ver suas _strings_ em andamento durante o desenvolvimento local. Estamos trabalhando nisso.
 
-## Conseguindo ajuda
+## Para receber ajuda
 
-Entre no [nosso _Discord_](https://discord.gg/2GYXsG5BxK).
+Entre no nosso [**_Discord_**](https://discord.gg/662RhNRGsA).
