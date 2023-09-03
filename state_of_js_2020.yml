@@ -6,7 +6,7 @@ translations:
   ###########################################################################
 
   - key: general.results.description
-    t: The annual survey about the latest trends in the JavaScript ecosystem.
+    t: A pesquisa anual sobre as últimas tendências no ecossistema JavaScript.
 
   ###########################################################################
   # Introduction
@@ -15,42 +15,41 @@ translations:
   - key: introduction.js2020
     t: |
 
-      <span class="first-letter">A</span>s crappy as 2020 was, JavaScript as a whole still managed to somehow move forward. As the language itself keeps improving
-      thanks to new features like Optional Chaining and Nullish Coalescing, TypeScript's widespread adoption is taking things to a whole other level by popularizing static typing.
+      <span class="first-letter">P</span>or mais ruim que tenha sido 2020, o JavaScript como um todo conseguiu de alguma forma avançar. À medida que a linguagem em si continua a melhorar com novos recursos como "Optional Chaining" e "Nullish Coalescing", a adoção generalizada do TypeScript está levando as coisas a um patamar completamente diferente ao popularizar a tipagem estática.
 
-      And on the framework side, just when we thought things were settling down, Svelte comes in and shakes everything up with a fresh take on the front-end. And even build tools are showing signs of new activity after years of webpack dominance.
+      E no lado dos frameworks, justamente quando pensávamos que as coisas estavam se estabilizando, o Svelte entra e sacode tudo com uma abordagem inovadora para o front-end. E até mesmo as ferramentas de construção estão mostrando sinais de nova atividade após anos de domínio do webpack.
 
-      But the difference this time is that the “old” guard –relatively speaking– is not going anywhere. Svelte and Snowpack are great, but so are React and webpack. And sure, they too will eventually fall prey to the Great JavaScript Churn, but not for many, many years.
+      Mas a diferença desta vez é que o "antigo" grupo - relativamente falando - não está indo a lugar algum. Svelte e Snowpack são ótimos, mas também o são React e webpack. E é certo que eles também eventualmente cairão vítimas da Grande Reviravolta do JavaScript, mas isso não acontecerá por muitos e muitos anos.
 
-      So let's enjoy what we have here: a great ecosystem that just keeps getting even better!
+      Então vamos aproveitar o que temos aqui: um ótimo ecossistema que continua melhorando cada vez mais!
 
-      ### Join Our Launch Livestream!
+      ### Participe da Nossa Transmissão Ao Vivo de Lançamento!
 
-      We'll be doing a [special launch livestream](https://stateofjs.com/2020stream/) in collaboration with the folks at the CodeItLive Twitch channel. Join us along with guests such as Sarah Drasner, Josh W. Comeau, and Kent C. Dodds to discuss this past year's JavaScript trends!
+      Estaremos realizando uma [transmissão especial de lançamento](https://stateofjs.com/2020stream/) em colaboração com as pessoas do canal Twitch CodeItLive. Junte-se a nós, juntamente com convidados como Sarah Drasner, Josh W. Comeau e Kent C. Dodds, para discutir as tendências do JavaScript deste ano!
 
-      ### Download Our Data
+      ### Baixe Nossos Dados
 
-      You can [download the raw JSON data for this survey](https://www.kaggle.com/sachag/state-of-js). Let us know if you end up making your own data visualizations!
+      Você pode [baixar os dados brutos em JSON deste levantamento](https://www.kaggle.com/sachag/state-of-js). Avise-nos se você criar suas próprias visualizações de dados!
 
-      ### State of CSS
+      ### Estado do CSS
 
-      If you haven't seen it already, we strongly recommend checking out the [State of CSS 2020 Trend Report](https://2020.stateofcss.com/en-US/report/) to get up to date on the past year's three main CSS trends.
+      Se você ainda não viu, recomendamos fortemente conferir o [Relatório de Tendências do Estado do CSS 2020](https://2020.stateofcss.com/en-US/report/) para ficar atualizado sobre as três principais tendências de CSS do ano passado.
 
-      ### Thanks
+      ### Agradecimentos
 
-      Many thanks to [Alexey Pyltsyn](https://github.com/lex111) for his help with translations.
+      Muitos agradecimentos a [Alexey Pyltsyn](https://github.com/lex111) por sua ajuda com as traduções.
 
-      Thanks as well to [Amelia Wattenberger](https://wattenberger.com/) for helping us update her original “Changes Over Time” chart from last year. If you want to learn how to build your own amazing data visualizations there's no better way than her [D3 video course](https://www.newline.co/fullstack-d3).
+      Também agradecemos a [Amelia Wattenberger](https://wattenberger.com/) por nos ajudar a atualizar seu gráfico original “Mudanças ao Longo do Tempo” do ano passado. Se você deseja aprender a criar suas próprias visualizações de dados incríveis, não há melhor maneira do que fazer seu [curso de vídeo D3](https://www.newline.co/fullstack-d3).
 
-      ### Credits & Stuff
+      ### Créditos e Outras Informações
 
-      The State of JavaScript Survey is created and maintained by [Sacha Greif](https://twitter.com/sachagreif) and [Raphaël Benitte](https://twitter.com/benitteraphael).
+      A Pesquisa Estado do JavaScript é criada e mantida por [Sacha Greif](https://twitter.com/sachagreif) e [Raphaël Benitte](https://twitter.com/benitteraphael).
 
-      Watch [this video overview](https://www.youtube.com/watch?v=o4w1qEnZxbM) to learn more about the technical aspects of the project, from data collection to data visualizations. Questions? Feedback? [Get in touch](mailto:hello@stateofjs.com) or [join our Discord](https://discord.gg/zRDb35jfrt).
+      Assista a [este vídeo de visão geral](https://www.youtube.com/watch?v=o4w1qEnZxbM) para saber mais sobre os aspectos técnicos do projeto, desde a coleta de dados até as visualizações de dados. Perguntas? Feedback? [Entre em contato](mailto:hello@stateofjs.com) ou [junte-se ao nosso Discord](https://discord.gg/zRDb35jfrt).
 
-      And now, let's see what JavaScript has been up to this year!
+      Agora, vamos ver o que o JavaScript tem feito neste ano!
 
-      <span class="conclusion__byline">– Sacha and Raphaël</span>
+      <span class="conclusion__byline">– Sacha e Raphaël</span>
 
   ###########################################################################
   # Tshirt
@@ -61,30 +60,26 @@ translations:
 
   - key: sections.tshirt.description
     t: |
-      ## Support the survey and look good in the process!
+      ## Apoie a pesquisa e pareça bem no processo!
 
-      We've updated last year's very popular 👕 State of JavaScript T-shirt 👕 for
-      the 2020 JavaScript landscape!
+      Atualizamos a muito popular 👕 Camiseta State of JavaScript 👕 para o cenário JavaScript de 2020!
 
-      The shirt features a ”periodic table of JavaScript” that lists the most popular
-      libraries grouped by category, along with their GitHub stars counts (in thousands).
+      A camisa apresenta uma “tabela periódica de JavaScript” que lista as bibliotecas mais populares agrupadas por categoria, junto com a contagem de estrelas do GitHub (em milhares).
 
-      This shirt is a great way to familiarize yourself with the JavaScript ecosystem,
-      and maybe even strike up a conversation with other like-minded
-      JavaScript developers!
+      Esta camiseta é uma ótima maneira de se familiarizar com o ecossistema JavaScript e talvez até mesmo iniciar uma conversa com outros desenvolvedores de JavaScript que pensam como você!
 
   - key: tshirt.about
-    t: About the T-shirt
+    t: Sobre a camiseta
 
   - key: tshirt.description
     t: |
-      Printing and shipping is handled by [Cotton Bureau](https://cottonbureau.com/people/state-of-js). The design is printed on a premium Next Level black super-soft, tri-blend shirt.
+      A impressão e o envio são feitos pelo [Cotton Bureau](https://cottonbureau.com/people/state-of-js). O design é impresso em uma camiseta preta premium Next Level, super macia, de mistura de três tecidos.
 
   - key: tshirt.getit
-    t: Get It
+    t: Compre
 
   - key: tshirt.price
-    t: USD ${price} + shipping
+    t: USD ${price} + frete
 
   ###########################################################################
   # Sections Introductions
@@ -92,73 +87,56 @@ translations:
 
   - key: sections.user_info.description
     t: |
-      This year's survey reached **23,765** people in **137** countries. For the first time this year,
-      we were able to translate the survey questions in multiple languages thanks to an awesome team of volunteers.
+      A pesquisa deste ano alcançou **23,765** pessoas em **137** cpaíses. Pela primeira vez neste ano,
+      conseguimos traduzir as perguntas da pesquisa em vários idiomas, graças a uma equipe incrível de voluntários.
 
   - key: sections.features.description
     t: |
-      While most respondents were aware of the majority of JavaScript features
-      mentioned in the survey, many still have yet to actually use most of them.
+      Embora a maioria dos entrevistados estivesse ciente da maioria das funcionalidades do JavaScript mencionadas na pesquisa, muitos ainda não as utilizaram na prática.
 
   - key: sections.technologies.description
     t: |
-      The typical new JavaScript library shows high satisfaction but low usage, which can sometimes make
-      selecting the right technology for your needs a bit tricky. This is where looking at
-      the data can really help point you in the right direction.
+      A típica nova biblioteca JavaScript apresenta alta satisfação, mas baixa utilização, o que às vezes pode tornar a seleção da tecnologia certa para suas necessidades um pouco complicada. É aqui que a análise dos dados pode realmente ajudar a apontar na direção certa.
 
   - key: sections.javascript_flavors.description
     t: |
-      The trend of “flavors” of JavaScript that compile down to standard code started all these
-      years ago with CoffeeScript, but it's now clear that TypeScript is the uncontested leader in
-      that category.
+      A tendência de “variedades” de JavaScript que compilam para código padrão começou há muitos anos com o CoffeeScript, mas agora está claro que o TypeScript é o líder incontestável nessa categoria.
 
   - key: sections.front_end_frameworks.description
     t: |
-      As usual React and Vue lead the pack, but Svelte is quickly establishing itself as a very
-      serious contender for the front-end crown.
+      Como de costume, React e Vue lideram o grupo, mas o Svelte está rapidamente se estabelecendo como um concorrente muito sério para o trono do front-end.
 
   - key: sections.datalayer.description
     t: |
-      While the datalayer space is still in constant movement, one thing seems clear: GraphQL and
-      its related technologies are here to stay.
+      Embora o espaço de datalayer ainda esteja em constante evolução, uma coisa parece clara: o GraphQL e suas tecnologias relacionadas estão aqui para ficar.
 
   - key: sections.back_end_frameworks.description
     t: |
-      The back-end space is still very fragmented, but Express stands out as the one dominant
-      tool, while Next.js maintains its high satisfaction ratio.
+      Enquanto o espaço de back-end ainda está muito fragmentado, o Express se destaca como a ferramenta dominante, enquanto o Next.js mantém uma alta taxa de satisfação.
 
   - key: sections.testing.description
     t: |
-      The testing ecosystem keeps getting richer, with new entrants Testing Library and Playwright both
-      scoring high marks on the satisfaction index.
+      O ecossistema de testes continua a enriquecer, com novos participantes, como Testing Library e Playwright, recebendo altas notas no índice de satisfação.
 
   - key: sections.build_tools.description
     t: |
-      Just when it seemed like webpack's dominance had settled the debate, the build tools scene
-      has again exploded with new entrants like Snowpack and esbuild, leading us to give it a full
-      section for the first time since 2017.
+      Apenas quando parecia que a dominância do webpack havia resolvido o debate, a cena de ferramentas de construção explodiu novamente com novos participantes, como Snowpack e esbuild, levando-nos a dedicar uma seção inteira a isso pela primeira vez desde 2017.
 
   - key: sections.mobile_desktop.description
     t: |
-      JavaScript is not just for the browser, and while Electron and React Native are the two
-      best-known names in this category, other solutions like Expo and Capacitor are also starting
-      to make waves.
+      O JavaScript não é apenas para o navegador, e embora Electron e React Native sejam os dois nomes mais conhecidos nesta categoria, outras soluções como Expo e Capacitor também estão começando a ganhar destaque.
 
   - key: sections.other_tools.description
     t: |
-      The diversity and quantity of libraries, utilities, and other tools highlights how vast the JavaScript
-      ecosystem has become, and for the first time this year we're also tracking JavaScript runtimes
-      such as Deno and Hermes.
+      A diversidade e quantidade de bibliotecas, utilitários e outras ferramentas destacam o quão vasto o ecossistema JavaScript se tornou, e pela primeira vez este ano estamos acompanhando runtimes JavaScript como Deno e Hermes.
 
   - key: sections.resources.description
     t: |
-      Many great resources are listed here, and we're sure that you'll find at least a few new
-      blogs or podcasts to follow!
+      Aqui estão listados muitos recursos excelentes, e temos certeza de que você encontrará pelo menos alguns novos blogs ou podcasts para seguir!
 
   - key: sections.opinions.description
     t: |
-      While things are generally looking good in JavaScript land, there does seem to be a bit of a
-      come-down from the positivity high-point of 2018. Will the trend persist? Tune in next year to find out!
+      Embora as coisas estejam geralmente bem no mundo do JavaScript, parece haver um pouco de queda em relação ao pico de positividade de 2018. Será que essa tendência vai continuar? Sintonize no próximo ano para descobrir!
 
   ###########################################################################
   # Notes
@@ -167,13 +145,13 @@ translations:
   - key: blocks.source.note
     t: >
 
-      This chart aggregates a mix of referrers, URL parameters, and freeform answers.
+      Este gráfico agrega uma mistura de referências, parâmetros de URL e respostas livres.
 
-      - State of JS: the [State of JS](https://stateofjs.com) mailing list; also matches `email`, `by email`, etc.
+      - Estado do JS: a lista de discussão [State of JS](https://stateofjs.com) também corresponde a `email`, `por email`, etc.
 
-      - State of CSS: the [State of CSS](https://stateofcss.com/) mailing list
+      - Estado do CSS: a lista de discussão [State of CSS](https://stateofcss.com/)
 
-      - Work: matches `work`, `colleagues`, `coworkers`, etc.
+      - Trabalho: corresponde a `trabalho`, `colegas`, `colegas de trabalho`, etc.
 
   ###########################################################################
   # Awards
@@ -183,16 +161,16 @@ translations:
   #   t: With a **{value}** progression in 2020, this was the year CSS Grid crossed over from new technology to established tool.
 
   - key: award.tool_usage_delta_award.comment
-    t: TypeScript was already popular, and with a **{value}** growth in usage it looks like it's only going to get more ubiquitous going forward.
+    t: O TypeScript já era popular, e com um crescimento de **{value}** no uso, parece que ele só vai se tornar mais onipresente no futuro.
 
   - key: award.tool_satisfaction_award.comment
-    t: With a sky-high satisfaction rating of **{value}**, Testing Library is 2020's overall most beloved tool.
+    t: With a sky-high satisfaction rating of **{value}**, assim que finalmente encontrarem tempo.
 
   - key: award.tool_interest_award.comment
-    t: GraphQL continues to be the one thing developers want to learn more about with an interest ratio of **{value}**, as soon as they can finally find the time.
+    t: O GraphQL continua sendo a única coisa que os desenvolvedores desejam aprender mais, com uma taxa de interesse de **{value}**, as soon as they can finally find the time.
 
   - key: award.most_write_ins_award.comment
-    t: People are always passionate about text editors, and with **{value}** mentions IntelliJ IDEA wins the award for the most write-in answers.
+    t: As pessoas sempre são apaixonadas por editores de texto, e com **{value}** menções, o IntelliJ IDEA ganha o prêmio de mais respostas por escrito.
 
   ###########################################################################
   # Conclusion
@@ -200,102 +178,96 @@ translations:
 
   - key: sections.conclusion.description
     t: |
-      Since ancient times, philosophers have pondered the Paradox of JavaScript: on one hand, you can't wait for exciting new language features and libraries that promise to make your developer experience so much better.
+      Desde os tempos antigos, filósofos têm refletido sobre o Paradoxo do JavaScript: por um lado, você anseia por novos recursos de linguagem empolgantes e bibliotecas que prometem melhorar muito sua experiência de desenvolvedor.
 
-      But at the same time, you crave stability and simplicity so you can finally get things done without having to spend half your time browsing through convoluted GitHub issues threads and outdated Stack Overflow questions.
+      Mas, ao mesmo tempo, você deseja estabilidade e simplicidade para poder finalmente realizar tarefas sem precisar passar metade do tempo navegando em tópicos complicados no GitHub e perguntas desatualizadas no Stack Overflow.
 
-      So which is it? Do we want the new shiny, or the old reliable? More than ever, 2020 shows that we won't settle for anything less than *both*. The good news is that the JavaScript community has risen up to the challenge, which promises an exciting 2021!
+      Então, qual é a resposta? Queremos o novo e reluzente ou o antigo e confiável? Mais do que nunca, 2020 mostrou que não estamos dispostos a abrir mão de nenhum dos dois. A boa notícia é que a comunidade JavaScript aceitou esse desafio, prometendo um emocionante 2021!
 
-      P.S. if you're still hungry for more JavaScript stats we recommend checking out the yearly [Rising Stars](https://risingstars.js.org/2020/en/) rankings from [Best Of JS](https://bestofjs.org/).
+      P.S. Se você ainda estiver ávido por mais estatísticas sobre JavaScript, recomendamos conferir as classificações anuais de [Rising Stars](https://risingstars.js.org/2020/en/) em [Best Of JS](https://bestofjs.org/).
 
   ###########################################################################
   # Picks
   ###########################################################################
 
   - key: picks.my_2020_pick
-    t: "My 2020 Pick: "
+    t: "Minha escolha para 2020: "
   - key: picks.intro
-    t: We asked members of the JavaScript community to share their “pick of the year”
+    t: Pedimos aos membros da comunidade JavaScript para compartilharem a “escolha do ano”
 
   - key: picks.joshwcomeau.bio
-    t: Software-engineer-turned-educator
+    t: Engenheiro de software que se tornou educador.
   - key: picks.joshwcomeau.description
     t: |
-      This is a fantastic intro resource for learning about web accessibility!
-      I picked it because it's our job as JS devs to make sure that the sites
-      we build are usable by everyone, not just sighted keyboard-and-mouse users.
+      Este é um recurso de introdução fantástico para aprender sobre acessibilidade na web!
+      escolhi porque é nossa responsabilidade, como desenvolvedores JavaScript, garantir que os sites que construímos sejam utilizáveis por todos, não apenas por usuários que enxergam e usam teclado e mouse.
 
   - key: picks.swyx.bio
     t: Infinite Builder
   - key: picks.swyx.description
     t: |
-      Svelte is the Space Elevator of frontend frameworks.
-      It helps you ship apps extremely fast.
+      Svelte é o Space Elevator dos frameworks front-end.
+      Isso ajuda você a enviar aplicativos extremamente rápido.
 
   - key: picks.kentcdodds.bio
-    t: Improving the world with quality software
+    t: Melhorando o mundo com software de qualidade
   - key: picks.kentcdodds.description
     t: |
-      Remix is a different approach to React frameworks with an emphasis on progressive
-      enhancement. It embraces the web platform in a way that no existing frameworks do
-      and I'm excited by its potential.
+      Remix é uma abordagem diferente para os frameworks React, com ênfase no aprimoramento progressivo.
+      Ele abraça a plataforma web de uma maneira que nenhum framework existente faz,
+      e estou empolgado com seu potencial.
 
   - key: picks.sarah_edo.bio
-    t: Core Team Vue.js
+    t: Equipe Principal Vue.js
   - key: picks.sarah_edo.description
     t: |
-      Insomnia is an app that allows you to design, test, and deploy API
-      Workflows with a clean, simplified UX- it has both REST and GraphQL support,
-      though clearly the puns are better if you're using REST.
+      Insomnia é um aplicativo que permite que você projete, teste e implante fluxos de trabalho
+      de API com uma UX limpa e simplificada - ele possui suporte tanto para REST quanto para GraphQL, 
+      embora claramente os trocadilhos sejam melhores se você estiver usando REST.
 
   - key: picks.ladyleet.bio
     t: This Dot Labs, GDE, MVP
   - key: picks.ladyleet.description
     t: |
-      RedwoodJS and frameworks like it are starting to change how we think about development.
-      It’s bringing the ease of Ruby on Rails to the front-end ecosystem.
+      RedwoodJS e frameworks semelhantes estão começando a mudar nossa maneira de pensar sobre desenvolvimento. 
+      Eles estão trazendo a facilidade do Ruby on Rails para o ecossistema de front-end.
 
   - key: picks.midudev.bio
-    t: Lead Frontend @ Adevinta & Content Creator
+    t: Líder Frontend @ e Criador de Conteúdo
   - key: picks.midudev.description
     t: |
-      Working with modules on the JavaScript ecosystem has been messy.
-      ES2020 came with ES Modules to end that. Even it's stable on Node.js. Yei!
+      Trabalhar com módulos no ecossistema JavaScript tem sido complicado.
+      O ES2020 trouxe os Módulos ES para acabar com isso. Eles já estão estáveis no Node.js. Uhu!
 
   - key: picks.cassidoo.bio
-    t: Principal Developer Experience Engineer at Netlify
+    t: Principal Engenheiro de Experiência de Desenvolvedor na Netlify
   - key: picks.cassidoo.description
     t: |
-      Ben is one of the most generous people in the JS community.
-      He's active in open source (on the Vue core team),
-      consistently makes useful content for developers to learn, and is very giving with his time.
+      Ele é ativo em código aberto (na equipe principal do Vue), 
+      cria consistentemente conteúdo útil para desenvolvedores aprenderem e é muito generoso com seu tempo.
 
   - key: picks.lauragift_.bio
-    t: Frontend Developer @ PassionatePeople
+    t: Desenvolvedor Frontend @ PassionatePeople
   - key: picks.lauragift_.description
     t: |
-      Josh Comeau has been an inspiration to me, and I can say the JS community in general.
-      He writes very thoughtful articles on his blog, and they are some of the best I read in
-      2020 because they either helped me stay on top of the latest in JavaScript
-      or helped me learn something new.
+      Josh Comeau tem sido uma inspiração para mim e, posso dizer, para a comunidade de JS em geral. Ele escreve artigos muito bem pensados em seu blog, e alguns dos melhores que li em 2020, porque me ajudaram a ficar por dentro das últimas novidades em JavaScript ou me ajudaram a aprender algo novo.
 
   - key: picks.tomdale.bio
     t: JavaScript Thinkfluencer
   - key: picks.tomdale.description
     t: |
-      Volta helps manage your entire JavaScript toolchain – think nvm, but it also helps
-      you and your team stay on the same versions of Node, npm, CLI tools, etc.
-      I love it because it's so darn nice to use, and is pioneering the use of
-      Rust to build speedy tools for JS.
+      Volta ajuda a gerenciar toda a sua cadeia de ferramentas JavaScript - pense no nvm, 
+      mas também ajuda você e sua equipe a ficarem nas mesmas versões do Node, npm, ferramentas da CLI, etc. 
+      Eu adoro porque é muito agradável de usar e está liderando o uso de Rust para construir ferramentas ágeis para JS.
 
   - key: picks.markdalgleish.bio
-    t: Co-creator of CSS Modules, creator of Playroom
+    t: Co-criador dos CSS Modules, criador do Playroom
   - key: picks.markdalgleish.description
     t: |
-      Automates npm publishing with the ability to tie Markdown release notes to every change. Changesets has really leveled up the quality of our release notes and version management this year.
+      Automatiza a publicação no npm com a capacidade de associar notas de lançamento em Markdown a cada alteração. O Changesets realmente melhorou a qualidade de nossas notas de lançamento e gerenciamento de versão este ano.
 
   - key: picks.sachagreif.bio
-    t: Creator of the State of JS survey
+    t: Criador da pesquisa State of JS
   - key: picks.sachagreif.description
     t: |
-      Best Of JS tracks GitHub stats about virtually every major JavaScript project, and it has been an invaluable resource for helping us decide what to include in the survey!
+      Best Of JS acompanha estatísticas do GitHub sobre praticamente todos os principais projetos JavaScript, e tem sido um recurso inestimável para nos ajudar a decidir o que incluir na pesquisa!
