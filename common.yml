@@ -18,7 +18,7 @@ translations:
       - Salvar sua sessão a medida que avança
 
       - Notificar quando os resultados sairem
-  - key: general.survey_closed
+  - key: general.survey_closed_detailed
     t: >
       Desculpe, a pesquisa está encerrada! Você ainda pode revisar seus dados, mas não poderá modificá-los.
   - key: general.survey_read_only
@@ -658,19 +658,19 @@ translations:
       Não listado
 
   # Disability Status (short)
-  - key: options.disability_status.visual_impairments
+  - key: options.disability_status.visual_impairments.short
     t: >
       Deficiências visuais
-  - key: options.disability_status.hearing_impairments
+  - key: options.disability_status.hearing_impairments.short
     t: >
       Deficiências auditivas
-  - key: options.disability_status.mobility_impairments
+  - key: options.disability_status.mobility_impairments.short
     t: >
       Deficiências de mobilidade
-  - key: options.disability_status.cognitive_impairments
+  - key: options.disability_status.cognitive_impairments.short
     t: >
       Deficiências cognitivas
-  - key: options.disability_status.not_listed
+  - key: options.disability_status.not_listed.short
     t: >
       Não listado
 
