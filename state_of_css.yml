@@ -655,7 +655,7 @@ translations:
     t: Quais recursos de acessibilidade você costuma implementar?
   - key: environments.accessibility_features.others
     t: Outros recursos de acessibilidade
-  - key: environments.accessibility_features.others
+  - key: environments.accessibility_features.others.description
     t: Outros recursos de acessibilidade que você costuma implementar
 
   - key: environments.css_for_print
