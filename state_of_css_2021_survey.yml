@@ -7,11 +7,11 @@ translations:
 
     - key: general.survey_intro_css2021
       t: >
-          Hey CSS, what have you been up to lately? Oh really, `@container`? Oh and 
-          intrinsic sizing? And `@property` too?! Wow, you've been busy!
+          Hey CSS, o que você tem feito ultimamente? Ah, sério, @container? E também 
+          dimensionamento intrínseco? E @property também?! Uau, você esteve ocupado!
 
 
-          Even though the pandemic kept on making everybody's lives harder throughout 2021, somehow
-          dedicated contributors around the world managed to keep CSS moving forward. 
-          And so once more it's time to survey the CSS ecosystem and figure out
-          where this is all going. And maybe learn about a few new things while you're at it!
+          Mesmo que a pandemia continue tornando a vida de todos mais difícil ao longo de 2021, de alguma forma, 
+          colaboradores dedicados ao redor do mundo conseguiram fazer o CSS avançar. 
+          E mais uma vez é hora de avaliar o ecossistema do CSS e entender para onde tudo está caminhando. 
+          E talvez aprender sobre algumas coisas novas enquanto você está nisso!
