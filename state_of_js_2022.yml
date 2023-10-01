@@ -125,16 +125,16 @@ translations:
 
   - key: blocks.tools_quadrant.description
     t: |
-      This chart shows each technology's **retention ratio** over its total **user count**.
-      It can be divided into four quadrants:
+      Este gráfico mostra a **taxa de retenção** de cada tecnologia sobre seu total de **contagem de usuários**.
+      Pode ser dividido em quatro quadrantes:
 
-        - **1**: Low usage, high retention. Technologies worth keeping an eye on.
+        - **1**: Baixo uso, alta retenção. Tecnologias que valem a pena ficar de olho.
 
-        - **2**: High usage, high retention. Safe technologies to adopt.
+        - **2**: Alto uso, alta retenção. Tecnologias seguras para adotar.
 
-        - **3**: Low usage, low retention. Technologies that are harder to recommend currently.
+        - **3**: Baixo uso, baixa retenção. Tecnologias que são mais difíceis de recomendar no momento.
 
-        - **4**: High usage, low retention. Reassess these technologies if you're currently using them.
+        - **4**: Alto uso, baixa retenção. Reavalie essas tecnologias se você estiver usando-as atualmente.
 
   ###########################################################################
   # Notes
@@ -142,22 +142,22 @@ translations:
 
   - key: blocks.gender.note
     t: |
-      If you're interested in learning more, we [wrote a blog post](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) that addresses the survey's gender dynamics.
+      Se você estiver interessado em saber mais, [escrevemos um post no blog](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) que aborda a dinâmica de gênero na pesquisa.
 
   - key: blocks.css_missing_features.note
     t: |
-      You can explore the full dataset of answers to this question in [this side project](https://whatsmissingfromcss.com/).
+      Você pode explorar o conjunto completo de respostas para esta pergunta neste [projeto paralelo](https://whatsmissingfromcss.com/).
 
   - key: blocks.source.note
     t: >
 
-      This chart aggregates a mix of referrers, URL parameters, and freeform answers.
+      Este gráfico agrega uma mistura de referenciadores, parâmetros de URL e respostas livres.
 
-      - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+      - State of JS: a lista de discussão do [State of JS](https://stateofjs.com).
 
-      - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+      - State of CSS: a lista de discussão do State of CSS; também corresponde a email, by email, etc.
 
-      - Work: matches `work`, `colleagues`, `coworkers`, etc.
+      - Work: corresponde a `work`, `colleagues`, `coworkers`, etc.
 
   ###########################################################################
   # Awards
