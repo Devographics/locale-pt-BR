@@ -1,24 +1,24 @@
-locale: en-US
+locale: pt-BR
 translations:
     ###########################################################################
     # General
     ###########################################################################
 
     - key: general.results.description
-      t: The 2022 edition of the annual survey about the latest trends in the CSS ecosystem.
+      t: A edição de 2022 da pesquisa anual sobre as últimas tendências no ecossistema CSS.
 
     - key: general.css2022.js2022_banner
-      t: The State of JS 2022 survey is currently open, you can [go take it right now](https://survey.devographics.com/survey/state-of-js/2022?source=css2022)!
+      t: A pesquisa State of JS 2022 está atualmente aberta. Você pode [participar agora mesmo](https://survey.devographics.com/survey/state-of-js/2022?source=css2022)!
 
     - key: general.css2022.results_intro
       t: |
-          CSS keeps progressing at an unprecedented rate. Not only are we seeing new features and properties, but even the language's foundations are being retooled and improved thanks to innovations like nesting and cascade layers. 
+          O CSS continua progredindo a uma taxa sem precedentes. Não apenas estamos vendo novos recursos e propriedades, mas até mesmo os fundamentos da linguagem estão sendo reestruturados e aprimorados graças a inovações como aninhamento (nesting) e camadas de cascata. 
           
-          Luckily this year we got help from someone at the forefront of all these changes: W3C working group member [Lea Verou](https://lea.verou.me/) has selected this year's survey questions, with a special focus on highlighting new and upcoming CSS features. 
+          Felizmente, este ano recebemos ajuda de alguém na vanguarda de todas essas mudanças: a membra do grupo de trabalho da W3C, [Lea Verou](https://lea.verou.me/), selecionou as perguntas da pesquisa deste ano, com um foco especial em destacar os novos e futuros recursos do CSS. 
 
-          What's more, the survey results will also help browser vendors prioritize their roadmaps and work towards better compatibility between browsers. 
+          Além disso, os resultados da pesquisa também ajudarão os fornecedores de navegadores a priorizar seus roteiros e trabalhar em direção a uma melhor compatibilidade entre navegadores. 
 
-          With all this out of the way, let's see how CSS evolved in 2022!
+          Com tudo isso resolvido, vamos ver como o CSS evoluiu em 2022!
     
     ###########################################################################
     # Introduction
@@ -26,53 +26,53 @@ translations:
 
     - key: introduction.css2022
       t: |
-          <span class="first-letter">W</span>e thought CSS had already evolved into a pretty formidable language thanks to advancements like Flexbox, Grid, and CSS Variables. But it turns out this wasn't even its final form. 
+          <span class="first-letter">A</span>chávamos que o CSS já havia se transformado em uma linguagem bastante formidável, graças a avanços como Flexbox, Grid e Variáveis CSS. Mas parece que isso nem era sua forma final. 
           
-          Parent selector, native nesting, container queries, cascade layers… The list of absolutely game-changing features coming imminently is pretty shocking when you think about it. 
+          Seletor pai, aninhamento nativo, consultas de contêiner, camadas de cascata... A lista de recursos absolutamente revolucionários que estão chegando em breve é bastante impressionante quando você para pra pensar. 
           
-          Thankfully, we have the best guide you could ask for to help us navigate these waters: [Lea Verou](http://lea.verou.me/) has taken the lead on this year's survey design, and the result is a survey that will hopefully encompass all the key innovations you should be aware of. 
+          Felizmente, temos o melhor guia que poderíamos pedir para nos ajudar a navegar por essas águas: [Lea Verou](http://lea.verou.me/) assumiu a liderança no design da pesquisa deste ano, e o resultado é uma pesquisa que esperamos abranger todas as inovações-chave das quais você deve estar ciente. 
 
           <span class="conclusion__byline">– Sacha Greif</span>
 
-          P.S. Also new this year: we gave respondents the ability to **leave comments** on any feature or library mentioned in the survey! Make sure to look up these comments in each chart's sidebar. 
+          P.S. Também novo neste ano: concedemos aos respondentes a capacidade de **deixar comentários** sobre qualquer recurso ou biblioteca mencionada na pesquisa! Não deixe de verificar esses comentários na barra lateral de cada gráfico. 
           
     ###########################################################################
     # Tshirt
     ###########################################################################
 
     - key: sections.tshirt.title
-      t: T-shirt
+      t: Camiseta
 
     - key: sections.tshirt.description
       t: |
-          ## Support the Survey With the State of CSS T-Shirt
+          ## Apoie a pesquisa com a camiseta State of CSS
 
-          Between the bad video quality, the bulky cassettes, and having to rewind, there's not much to miss about the VHS era. But one thing we *do* miss are the amazing 90s visuals that used to adorn blank VHS tapes. 
+          Entre a má qualidade de vídeo, as volumosas fitas cassete e ter que rebobinar, não há muito a sentir falta da era do VHS. Mas uma coisa que *sentimos* falta são as incríveis visuais dos anos 90 que costumavam adornar as fitas VHS em branco. 
 
-          But now, thanks to the talented Christopher Kirk-Nielsen you can enjoy all this retro radness while also celebrating your love for CSS at the same time!
+          Mas agora, graças ao talentoso Christopher Kirk-Nielsen, você pode aproveitar toda essa nostalgia retrô enquanto celebra seu amor pelo CSS ao mesmo tempo!
 
     - key: tshirt.about
-      t: About the T-shirt
+      t: Sobre a camiseta
 
     - key: tshirt.description
       t: |
-          We use a high-quality, super-soft tri-blend shirt with a slim fit printed by our partners at Cotton Bureau. 
+          Nós usamos uma camiseta de alta qualidade, super macia, feita de uma mistura tríplice, com um ajuste slim, impressa pelos nossos parceiros na Cotton Bureau. 
 
     - key: tshirt.getit
-      t: Get It
+      t: Compre
 
     - key: tshirt.price
-      t: USD $29 + shipping
+      t: USD $29 + frete
 
     - key: tshirt.designer.heading
-      t: About the Designer
+      t: Sobre o Designer
 
     - key: tshirt.designer.name
       t: Christopher Kirk-Nielsen
 
     - key: tshirt.designer.bio
       t: |
-          Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+          Originalmente da França, mas agora baseado nos Estados Unidos, Chris não é apenas um incrível desenvolvedor front-end, mas também um talentoso ilustrador especializado em visuais retrô. incentivamos você a também conferir os [outros designs de camisetas dele](https://chriskirknielsen.com/designs)!
             
     ###########################################################################
     # Charts
@@ -102,26 +102,26 @@ translations:
 
     - key: award.feature_adoption_delta_award.comment
       t: |
-        The `gap` property for Flexbox is such a useful addition that it's not surprising
-        it would see a **{value}** progression in 2022
+        A propriedade `gap` para Flexbox é uma adição tão útil que não é surpreendente ver uma 
+        progressão de **{value}** em 2022
 
     # - key: award.tool_usage_delta_award.comment
     #   t: No other tool comes even close to Tailwind CSS's dramatic **{value}** progression over the last year.
 
     - key: award.most_commented_feature_award.comment
-      t: With **{value}** comments, no other feature even came close to generating as much feedback as Subgrid.
+      t: Com **{value}** comentários, nenhuma outra funcionalidade chegou perto de gerar tanto feedback quanto o Subgrid.
 
     - key: award.tool_satisfaction_award.comment
       t: |
-        Out of all the CSS-in-JS solutions, CSS Modules is the only one that maintained a
-        sky-high **{value}** retention ratio.
+        De todas as soluções CSS-in-JS, os Módulos CSS são os únicos que mantiveram uma 
+        taxa de retenção incrivelmente alta de **{value}**.
 
     # - key: award.tool_interest_award.comment
     #   t: With a **{value}** ratio, CSS Modules again generated the most interest among CSS developers this year.
 
     - key: award.most_write_ins_award.comment
       t: |
-        With **{value}** mentions, the Arc browser was the tool most mentioned in freeform questions by far. 
+        Com **{value}** menções, o navegador Arc foi a ferramenta mais mencionada de longe em perguntas livres. 
 
 
     ###########################################################################
@@ -130,79 +130,74 @@ translations:
 
     - key: conclusion.css2022
       t: |
-          <span class="first-line">[Last year](https://2021.stateofcss.com/en-US/conclusion/), Kilian predicted that the way we write CSS was about to change forever, and this year's results validate his prediction.</span>
+          <span class="first-line">[Ano passado](https://2021.stateofcss.com/en-US/conclusion/), Kilian previu que a forma como escrevemos CSS estava prestes a mudar para sempre, e os resultados deste ano validam sua previsão.</span>
 
-          [Interop 2022](https://wpt.fyi/interop-2022) has brought browsers together working towards the same goals, and several features went from "this will never happen" to "this is now happening". Parent selectors (`:has()`) and container queries (`@container`) are two big ones in that category. For years it was hammered into developers that these could not  happen due to performance implications, yet it turned out that both were possible. 
+          O [Interop 2022](https://wpt.fyi/interop-2022) uniu os navegadores trabalhando em direção aos mesmos objetivos, e várias funcionalidades foram de "isso nunca vai acontecer" para "isso está acontecendo agora". Seletores pai (:has()) e consultas de container (@container) são dois grandes exemplos nessa categoria. Por anos, foi enfatizado aos desenvolvedores que essas coisas não poderiam acontecer devido a implicações de desempenho, no entanto, acabou que ambas eram possíveis. 
 
-          Subgrid on the other hand was always on the roadmap, it was just a very big chunk of work. It is now supported by both Firefox and Safari, and being actively implemented in Chrome, so we will probably see much higher usage next year.
+          Subgrid, por outro lado, sempre esteve no roteiro; era apenas um trabalho muito extenso. Agora é suportado tanto pelo Firefox quanto pelo Safari e está sendo ativamente implementado no Chrome, então provavelmente veremos um uso muito maior no próximo ano.
 
-          I predict that the stars of 2023 will be native Nesting, and color manipulation.
-          Nesting is currently [the primary reason](https://twitter.com/leaverou/status/806936438797307904) people still use preprocessors, so being able to rely on it natively will be incredibly freeing. 
+          Eu prevejo que as estrelas de 2023 serão o Aninhamento nativo e a manipulação de cores. O Aninhamento é atualmente [a razão principal](https://twitter.com/leaverou/status/806936438797307904) pela qual as pessoas ainda usam pré-processadores, então poder contar com isso nativamente será incrivelmente libertador. 
 
-          Working with color in CSS is also about to get a lot more exciting. There is a swath of features being implemented across the board as we speak. By the end of 2023, we will probably be able to rely on wide gamut colors and device independent colors (`color()`, `lab()`, `lch()`, `oklab()`, `oklch()`), and we'd be able to manipulate them in a basic way through `color-mix()`. 
+          Trabalhar com cores em CSS também está prestes a ficar muito mais empolgante. Uma série de recursos está sendo implementada em todas as frentes enquanto falamos. Até o final de 2023, provavelmente poderemos contar com cores de amplo espectro e cores independentes de dispositivo (`color()`, `lab()`, `lch()`, `oklab()`, `oklch()`), e poderemos manipulá-las de maneira básica por meio de `color-mix()`. 
 
-          All of this together means that 2023 is likely to be a very exciting year for CSS. I look forward to all the amazing implementations to come, whether my predictions turn out to be correct or not. What a fantastic time to be writing CSS!
+          Tudo isso junto significa que 2023 provavelmente será um ano muito emocionante para o CSS. Estou ansioso por todas as implementações incríveis que estão por vir, independentemente de minhas previsões se confirmarem ou não. Que momento fantástico para estar escrevendo CSS!
 
     - key: conclusion.css2022.bio
-      t: W3C Technical Architecture Group Member, MIT CSAIL
+      t: Membro do Grupo de Arquitetura Técnica da W3C, MIT CSAIL
       
     ###########################################################################
     # Picks
     ###########################################################################
 
     - key: picks.my_pick
-      t: 'My 2022 Pick: '
+      t: 'Minhas escolhas de 2022: '
     - key: picks.intro
-      t: We asked members of the CSS community to share their “pick of the year”
+      t: Pedimos aos membros da comunidade CSS que compartilhassem sua "escolha do ano"
 
     - key: picks.david_east.name
       t: CSS Subgrid
     - key: picks.david_east.bio
-      t: Advocate for building on the web
+      t: Defensor do desenvolvimento na web
     - key: picks.david_east.description
       t: |
-            CSS Subgrid allows child elements to inherit their parents grid properties. 
-            Soon, it will be much easier to lay elements out to the same grid 
-            lines across the entire page.
+            O CSS Subgrid permite que os elementos filhos herdem as propriedades de grade de seus pais. 
+            Em breve, será muito mais fácil posicionar elementos nas mesmas linhas de grade em toda a página.
 
     - key: picks.bramus_van_damme.name
-      t: The `:has()` Selector
+      t: O Seletor `:has()`
     - key: picks.bramus_van_damme.bio
-      t: Chrome Developer Relations Engineer at Google
+      t: Engenheiro de Relações com Desenvolvedores do Chrome no Google
     - key: picks.bramus_van_damme.description
       t: |
-            You might know this one as the so-called “parent selector” but that name does it 
-            no justice as it only covers a small part of what it can do. 
-            This selector has essentially changed the way I write my CSS.
+            Você pode conhecê-lo como o chamado "seletor pai", mas esse nome não diz o bastante, 
+            pois cobre apenas uma pequena parte do que ele pode fazer. 
+            Esse seletor basicamente mudou a maneira como escrevo meu CSS.
 
     - key: picks.kevin_j_powell.name
       t: Jhey Tompkins
     - key: picks.kevin_j_powell.bio
-      t: CSS Evangelist
+      t: Evangelista CSS
     - key: picks.kevin_j_powell.description
       t: |
-            Jhey is always pushing the limits of what we can do with CSS with 
-            fun and impressive demos and Codepens. With all the new features landing in CSS recently, 
-            Jhey is at the forefront of explaining how they work.
+            Jhey está sempre desafiando os limites do que podemos fazer com CSS com demonstrações e Codepens divertidos e impressionantes. Com todos os novos recursos sendo incorporados recentemente ao CSS, Jhey está na vanguarda, explicando como eles funcionam.
 
     - key: picks.samuel_kraft.name
-      t: The `:has()` Selector
+      t: O Seletor `:has()`
     - key: picks.samuel_kraft.bio
-      t: Design Engineer
+      t: Engenheiro de Design
     - key: picks.samuel_kraft.description
       t: |
-            The new :has() selector is super powerful and unlocks new styling possibilities. 
-            This great article from Jen Simmons breaks it down with explanations and practical examples.
+            O novo seletor :has() é super poderoso e desbloqueia novas possibilidades de estilização. Este excelente artigo de Jen Simmons o analisa com explicações e exemplos práticos.
             
     - key: picks.josh_comeau.name
       t: Modern CSS
     - key: picks.josh_comeau.bio
-      t: Software developer and educator
+      t: Desenvolvedor de software e educador
     - key: picks.josh_comeau.description
       t: |
-            CSS has changed so much over the past few years. 
-            Stephanie shows us how to leverage modern CSS features 
-            to solve old problems in new ways.
+            O CSS mudou muito nos últimos anos. 
+            Stephanie nos mostra como aproveitar os recursos modernos 
+            do CSS para resolver problemas antigos de maneiras novas.
 
     - key: picks.adam_argyle.name
       t: The `:has()` Selector
@@ -210,46 +205,46 @@ translations:
       t: UI/CSS DevRel at Google
     - key: picks.adam_argyle.description
       t: |
-            CSS just because even stronger at orchestrating UI interaction across components. 
-            We've barely scratched the surface of the impact of `:has()` on our styles.
+            O CSS torna-se ainda mais forte ao orquestrar a interação de IU entre componentes. 
+            Mal arranhamos a superfície do impacto de :has() em nossos estilos.
 
     - key: picks.eric_w_bailey.name
-      t: “Style with Stateful, Semantic Selectors” by Ben Myers
+      t: “Style with Stateful, Semantic Selectors” de Ben Myers
     - key: picks.eric_w_bailey.bio
-      t: Accessibility advocate and CSS nerd
+      t: Defensor da acessibilidade e entusiasta do CSS
     - key: picks.eric_w_bailey.description
       t: |
-            Ben demonstrates how utilizing ARIA 
-            attribute selectors can simply and powerfully tie appearance to state.
+            Ben demonstra como utilizar seletores de atributos ~
+            ARIA pode vincular de maneira simples e poderosa a aparência ao estado.
 
     - key: picks.michelle_barker.name
       t: Interop 2022
     - key: picks.michelle_barker.bio
-      t: Writer and creator of front-end blog CSS { In Real Life }
+      t: Escritor e criador do blog de front-end CSS { In Real Life }
     - key: picks.michelle_barker.description
       t: |
-            Interop is a collaboration between all of the major browser vendors, 
-            agreeing 15 key areas of focus for implementation — 
-            including game-changing new CSS features like container queries, 
-            cascade layers and color functions. 
+            Interop é uma colaboração entre todos os principais fornecedores de navegadores, 
+            concordando em 15 áreas-chave de foco para implementação, incluindo novos recursos 
+            revolucionários de CSS como consultas de contêiner, camadas de 
+            cascata e funções de cor. 
 
     - key: picks.gift_egwuenu.name
       t: Learn CSS
     - key: picks.gift_egwuenu.bio
-      t: Developer Advocate at Cloudflare
+      t: Developer Advocate em Cloudflare
     - key: picks.gift_egwuenu.description
       t: |
-            My recommended resource for anyone looking to learn CSS from the ground up, 
-            I also use it as a reference everytime I need to look up any CSS property. 
+            Minha recomendação de recurso para qualquer pessoa que queira aprender CSS desde o início. 
+            Eu também o uso como referência sempre que preciso consultar qualquer propriedade CSS. 
 
     - key: picks.ahmad_shadeed.name
       t: Container Queries
     - key: picks.ahmad_shadeed.bio
-      t: Author of [Debugging CSS](https://debuggingcss.com/), Writing at [ishadeed.com](http://ishadeed.com)
+      t: Autor de [Debugging CSS](https://debuggingcss.com/), Escrevendo em [ishadeed.com](http://ishadeed.com)
     - key: picks.ahmad_shadeed.description
       t: |
-            If I would pick one highlight for 2022, it's container queries! 
-            They are finally here in stable browser near you
+            Se eu tivesse que escolher um destaque para 2022, seriam as container queries! 
+            Elas finalmente chegaram a um navegador estável perto de você
 
     # - key: picks.georgedoescode.name
     #   t: 
@@ -259,34 +254,32 @@ translations:
     #   t: |
 
     - key: picks.jen_simmons.name
-      t: The `:has()` Selector
+      t: O Seletor :has()
     - key: picks.jen_simmons.bio
-      t: Web technologies evangelist at Apple
+      t: Evangelista de tecnologias web na Apple
     - key: picks.jen_simmons.description
       t: |
-            For two decades, “parent selector” was a top requested feature for CSS. 
-            Then in 2022, in a total surprise, the :has() pseudo-class arrived to solve this and far more.
+            Por duas décadas, o "seletor pai" foi um recurso muito solicitado para o CSS. 
+            Então, em 2022, para total surpresa, a pseudo-classe :has() chegou para resolver isso e muito mais.
 
     - key: picks.sara_soueidan.name
-      t: The `:has()` Selector
+      t: O Seletor :has()
     - key: picks.sara_soueidan.bio
-      t: Independent inclusive design engineer
+      t: Engenheiro de design independente e inclusivo
     - key: picks.sara_soueidan.description
       t: |
-            We've been wishing and waiting for CSS container queries for so long. 
-            But then `:has()` arrived shortly after, 
-            and it felt like it was "everything we never knew we always wanted". 
+            Estivemos desejando e esperando pelas consultas de contêiner CSS por muito tempo. 
+            Mas então `:has()` chegou pouco depois, e pareceu ser "tudo o que nunca soubemos que sempre quisemos". 
 
     - key: picks.adam_wathan.name
-      t: Empty CSS Variables
+      t: CSS Variables vazias
     - key: picks.adam_wathan.bio
-      t: Creator of Tailwind CSS
+      t: Criador do Tailwind CSS
     - key: picks.adam_wathan.description
       t: |
-            Not many people know this but `--my-var: ;` is totally valid CSS, 
-            and it's way more useful than you think. 
-            We use it in Tailwind CSS all the time to make it 
-            possible to decompose a single CSS property into multiple classes.
+            Muitas pessoas não sabem disso, mas `--my-var: ;`  é CSS totalmente válido, 
+            e é muito mais útil do que você pensa. Nós o usamos o tempo todo no 
+            Tailwind CSS para decompor uma única propriedade CSS em várias classes.
 
     # - key: picks.christianoliff.bio
     #   t: Front-end developer for Trimble MAPS
@@ -297,14 +290,13 @@ translations:
     - key: picks.kilian_valkhof.name
       t: Interop 2022
     - key: picks.kilian_valkhof.bio
-      t: Web developer and creator of Polypane
+      t: Desenvolvedor web e criador do Polypane
     - key: picks.kilian_valkhof.description
       t: |
-          Started in 2021 as Compat 2021, browser engine makers 
-          have started coordinating which features they prioritize. 
-          Not only is this closing the various feature gaps that exist 
-          between between browsers, it's also increasing the speed with which new 
-          features like @layer lands across browsers.
+          Iniciado em 2021 como Compat 2021, os fabricantes de motores de navegador começaram 
+          a coordenar quais recursos priorizam. Isso não apenas está fechando as várias lacunas 
+          de recursos que existem entre os navegadores, mas também está aumentando a velocidade 
+          com que novos recursos como @layer são implementados em diversos navegadores.
 
     # - key: picks.piccalilli_.bio
     #   t: Freelance designer & dev who runs piccalil.li
@@ -360,13 +352,13 @@ translations:
     ###########################################################################
 
     - key: sponsors.frontendmasters.description
-      t: Advance your skills with in-depth, modern front-end engineering courses.
+      t: Aprimore suas habilidades com cursos de engenharia de front-end modernos e aprofundados.
     - key: sponsors.nijibox.description
-      t: The browser for ambitious devs. Build responsive, accessible and fast websites with ease.
+      t: O navegador para desenvolvedores ambiciosos. Construa websites responsivos, acessíveis e rápidos com facilidade.
     - key: sponsors.renderatl.description
-      t: The largest tech conference with a dedicated Design & CSS track.
+      t: A maior conferência de tecnologia com uma trilha dedicada a Design e CSS.
     - key: sponsors.google_chrome.description
-      t: Thanks to the Google Chrome team for supporting our work.
+      t: Agradecimentos à equipe do Google Chrome por apoiar nosso trabalho.
 
     ###########################################################################
     # FAQ/About
@@ -374,62 +366,62 @@ translations:
         
     - key: about.content
       t: >
-          The 2022 State of CSS survey ran from October 1 to November 1 2022, and collected 14,310 responses. The survey is run by me, [Sacha Greif](https://sachagreif.com/), with help from a team of open-source contributors and consultants. 
+          A pesquisa State of CSS de 2022 ocorreu de 1º de outubro a 1º de novembro de 2022, e coletou 14.310 respostas. A pesquisa é conduzida por mim, [Sacha Greif](https://sachagreif.com/), com a ajuda de uma equipe de colaboradores e consultores de código aberto. 
 
-          This year's logo and t-shirt were reused from last year, when they were designed and animated by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+          O logotipo e a camiseta deste ano foram reutilizados do ano passado, quando foram projetados e animados por [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
 
-          ### Survey Goals
+          ### Objetivos da Pesquisa
 
-          This survey, along with the [State of JavaScript](https://stateofjs.com/) survey, was created to identify upcoming trends in the web development ecosystem in order to help developers make technological choices. 
+          Esta pesquisa, juntamente com a pesquisa [State of JavaScript](https://stateofjs.com/), foi criada para identificar tendências futuras no ecossistema de desenvolvimento web, a fim de ajudar os desenvolvedores a fazerem escolhas tecnológicas. 
 
-          As such, these surveys are focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why the features or technologies that are currently most widespread are not always included. 
+          Como tal, essas pesquisas têm o foco de antecipar o que está por vir nos próximos anos, em vez de analisar o que é popular agora. Por isso, as características ou tecnologias que estão atualmente mais difundidas nem sempre estão incluídas. 
 
-          Additionally, survey data is also used by browser vendors to prioritize features and inform initiatives such as [Interop 2022](https://wpt.fyi/interop-2022).
+          Além disso, os dados da pesquisa também são utilizados pelos fornecedores de navegadores para priorizar recursos e informar iniciativas como o [Interop 2022](https://wpt.fyi/interop-2022).
 
-          ### Survey Design
+          ### Design da Pesquisa
 
-          This year, survey design was lead by [Lea Verou](https://lea.verou.me/) thanks to a funding grant from the Google Chrome team, and managed publicly [on GitHub](https://github.com/orgs/Devographics/projects/1). All survey questions were optional. 
+          Este ano, o design da pesquisa foi liderada por [Lea Verou](https://lea.verou.me/) graças a uma bolsa de financiamento da equipe do Google Chrome, e gerenciado publicamente [no GitHub](https://github.com/orgs/Devographics/projects/1). Todas as perguntas da pesquisa eram opcionais. 
 
-          Additionally, going forward we will also coordinate survey design, review, and feedback through a [Working Group mailing list](https://www.devographics.com/working-group/).
+          Além disso, daqui para frente também coordenaremos o design da pesquisa, revisão e feedback por meio de uma [lista de discussão do Grupo de Trabalho](https://www.devographics.com/working-group/).
 
-          ### Survey Audience
+          ### Público da Pesquisa
 
-          The survey was openly accessible online and respondents were not filtered or selected in any way. Respondents were primarily a mix of respondents from past surveys (alerted through a dedicated mailing list) and social media traffic. 
+          A pesquisa estava acessível online de forma aberta, e os respondentes não foram filtrados ou selecionados de nenhuma maneira. Os respondentes eram principalmente uma mistura de participantes de pesquisas anteriores (notificados por meio de uma lista de discussão dedicada) e tráfego de mídia social. 
 
-          ### Project Funding
+          ### Financiamento do Projeto
 
-          Funding from this project comes from a variety of sources:
+          O financiamento para este projeto provém de diversas fontes:
 
-          - **T-shirt sales**. 
+          - **Venda de camisetas**. 
           
-          - **Sponsored Links**: the links to recommended resources at the bottom of each page are provided by our partner [Frontend Masters](https://frontendmasters.com/).
+          - **Links Patrocinados**: os links para recursos recomendados na parte inferior de cada página são fornecidos pelo nosso parceiro [Frontend Masters](https://frontendmasters.com/).
           
-          - **Sponsored Charts**: starting last year, anybody can now also choose to directly sponsor a chart for $10 or more, and get their Twitter avatar displayed next to it.
+          - **Gráficos Patrocinados**: desde o ano passado, qualquer pessoa também pode optar por patrocinar diretamente um gráfico por $10 ou mais e ter seu avatar do Twitter exibido ao lado dele.
           
-          - **Google**: this year, the [Google Chrome](https://www.google.com/chrome/) team set aside a budget to hire Lea to help design the survey, as well as funded me directly to help support my work. 
+          - **Google**: este ano, a equipe do [Google Chrome](https://www.google.com/chrome/) reservou um orçamento para contratar Lea para ajudar no design da pesquisa, além de me financiar diretamente para apoiar meu trabalho. 
 
-          - **Nijibox**: Japan-based [Nijibox](https://nijibox.jp/) has also graciously accepted to sponsor my efforts to help make these yearly surveys more sustainable. 
+          - **Nijibox**: A [Nijibox](https://nijibox.jp/) com base no Japão, também generosamente concordou em patrocinar meus esforços para tornar essas pesquisas anuais mais sustentáveis. 
 
-          ### Technical Overview
+          ### Visão Técnica
 
-          You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb). Our code is [open-source](https://github.com/Devographics/Monorepo/). 
+          Você pode encontrar uma visão técnica mais detalhada de como as pesquisas são realizadas [aqui](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb). Nosso código é [open-source](https://github.com/Devographics/Monorepo/). 
 
-          - **Data collection**: [Next.js](https://nextjs.org/) app running on [Vercel](https://vercel.com/).
+          - **Coleta de Dados**: [Next.js](https://nextjs.org/) rodando no [Vercel](https://vercel.com/).
 
-          - **Data storage/processing**: MongoDB & MongoDB Aggregations running on [MongoDB Atlas](https://cloud.mongodb.com/).
+          - **Armazenamento/Processamento de Dados**: MongoDB & Agregações do MongoDB rodando no [MongoDB Atlas](https://cloud.mongodb.com/).
           
-          - **Data API**: Node.js GraphQL API running on [Render](https://render.com/). 
+          - **API de Dados**: API GraphQL Node.js rodando no [Render](https://render.com/). 
           
-          - **Results Site**: [Gatsby](https://www.gatsbyjs.com/) React app running on [Netlify](https://netlify.com/).
+          - **Site de Resultados**: [Gatsby](https://www.gatsbyjs.com/) React app rodando no [Netlify](https://netlify.com/).
           
-          - **Data Visualizations**: [Nivo](https://nivo.rocks/) React dataviz library. 
+          - **Visualizações de Dados**: Biblioteca de visualização de dados React [Nivo](https://nivo.rocks/). 
           
-          - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) and [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).
+          - **Fontes**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) e [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).
 
           ### Feedback
 
-          - [Report a technical issue](https://github.com/Devographics/Monorepo/issues)
-          - [Make a suggestion for next year](https://github.com/Devographics/surveys/issues/66)
-          - [Other non-technical issues](https://github.com/Devographics/surveys/issues)
-          - [Join our Discord](https://discord.gg/tuWRUWVyJs)
-          - [Join the Devographics Working Group](https://www.devographics.com/working-group/) to participate in the design and review of future surveys.
+          - [Reportar um problema técnico](https://github.com/Devographics/Monorepo/issues)
+          - [Fazer uma sugestão para o próximo ano](https://github.com/Devographics/surveys/issues/66)
+          - [Outros problemas não técnicos](https://github.com/Devographics/surveys/issues)
+          - [Participar do Discord](https://discord.gg/tuWRUWVyJs)
+          - [Participar do Grupo de Trabalho da Devographics](https://www.devographics.com/working-group/) para participar do design e revisão de pesquisas futuras.
