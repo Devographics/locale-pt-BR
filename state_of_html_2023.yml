@@ -1,0 +1,8 @@
+locale: pt-BR
+translations:
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  - key: general.results.description
+    t: A edição de 2023 da pesquisa anual sobre as últimas tendências no ecossistema HTML.
