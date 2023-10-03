@@ -11,7 +11,7 @@ translations:
       Embora os desenvolvedores web tendam a se concentrar em JavaScript e CSS, nada do que fazemos seria possível sem o HTML atuando como base.
 
       Durante muito tempo parecia que o HTML não estava evoluindo, mas as coisas podem estar mudando.
-      Novos elementos como `<selectlist>` estão no horizonte, novos recursos interessantes como popovers, e uma série de APIs do navegador relacionadas (Web Components, PWAs, etc.).
+      Novos elementos como `<selectlist>` estão no horizonte, novas funcionalidades interessantes como popovers, e uma série de APIs do navegador relacionadas (Web Components, PWAs, etc.).
 
       Este ano, [Lea Verou](https://lea.verou.me/) assumiu a formidável tarefa de liderar o design desta nova pesquisa, desde o conteúdo à UX e muito mais.
 
@@ -20,8 +20,8 @@ translations:
 
       Benefícios para você:
       - Os resultados da pesquisa são **usados por navegadores** e grupos de padrões **para priorização de roteiros**.
-      Suas respostas podem ajudar a implementar recursos de seu interesse, priorizar incompatibilidades de navegador e resolver lacunas na plataforma.
-      - Aprenda sobre recursos novos e futuros; adicione recursos à sua lista de leitura e obtenha uma lista de recursos no final!
+      Suas respostas podem ajudar a implementar funcionalidades de seu interesse, priorizar incompatibilidades de navegador e resolver lacunas na plataforma.
+      - Aprenda sobre funcionalidades novas e futuras; adicione funcionalidades à sua lista de leitura e obtenha uma lista de recursos no final!
       - Obtenha uma pontuação de conhecimento personalizada e veja como você se compara a outros entrevistados.
 
       A pesquisa ficará aberta por 3 semanas, mas as respostas inseridas **dentro dos primeiros 9 dias (até 1º de outubro)** terão um impacto muito maior na Web,
