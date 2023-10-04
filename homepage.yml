@@ -30,25 +30,25 @@ translations:
     t: Ajude a espalhar a palavra!
 
   - key: homepage.survey_open_now
-    t: Currently Open
+    t: Atualmente aberto
 
   - key: homepage.survey_preview
-    t: Preview Survey
+    t: Pré-visualizar pesquisa
 
   - key: homepage.most_recent_survey
-    t: Most Recent
+    t: Mais Recente
 
   - key: homepage.current_survey
-    t: Current Survey
+    t: Pesquisa Atual
 
   - key: homepage.past_surveys
-    t: Past Surveys
+    t: Pesquisa Anterior
 
   - key: homepage.view_questions
-    t: View Questions
+    t: Ver Perguntas
 
   - key: homepage.preview_questions
-    t: Preview Questions
+    t: Pré-visualizar Perguntas
 
   # newsletter
   - key: newsletter.stay_tuned
