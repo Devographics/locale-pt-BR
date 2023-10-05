@@ -44,9 +44,11 @@ translations:
   - key: faq.survey_deadline.description
     t: Esta pesquisa está programada para ser realizada até {date}
   - key: faq.team
-    t: Quem realiza essas pesquisas?
+    t: Quem organiza esta pesquisa?
   - key: faq.team.description
-    t: Pesquisas são realizadas principalmente por [mim](http://sachagreif.com) em colaboração com contribuintes, tradutores e voluntários.
+    t: >
+      A pesquisa é organizada pela [Devographics](http://devographics.com/) juntamente com um coletivo de colaboradores,
+       tradutores e voluntários.
 
   ###########################################################################
   # Form Controls
@@ -71,3 +73,58 @@ translations:
   ###########################################################################
   # Demographics (About You/User Info)
   ###########################################################################
+
+  ###########################################################################
+  # Survey-Specific FAQs
+  ###########################################################################
+
+  # HTML 2023
+
+  - key: faq.data_used_html2023
+    t: Como esses dados serão usados?
+  - key: faq.data_used_html2023.description
+    t: >
+      Todos os dados coletados serão divulgados abertamente para qualquer desenvolvedor ou empresa consultar. Os
+       fabricantes de navegadores também usam [esses dados](https://web.dev/interop-2023/?utm_source=devtools) para
+       priorizar áreas de foco e comunicar seus planos de desenvolvimento.
+
+  - key: faq.survey_goals_html2023
+    t: Quais são os objetivos da pesquisa?
+  - key: faq.survey_goals_html2023.description
+    t: >
+      Os objetivos da pesquisa são medir o conhecimento de novas funcionalidades do HTML e APIs de navegador e ajudar
+       desenvolvedores a acompanhar a evolução de seu uso.
+
+  - key: faq.who_should_take_survey_html2023
+    t: Quem deve responder a esta pesquisa?
+  - key: faq.who_should_take_survey_html2023.description
+    t: >
+      Esta é uma pesquisa aberta a qualquer pessoa que desenvolva sites ou aplicações web, seja regularmente ou
+       ocasionalmente, como parte de seu trabalho, como estudante ou apenas por diversão!
+
+  - key: faq.how_long_will_survey_take_html2023
+    t: Quanto tempo levará para responder à pesquisa?
+  - key: faq.how_long_will_survey_take_html2023.description
+    t: >
+      Dependendo de quantas perguntas você responder (todas as perguntas são opcionais), o preenchimento da pesquisa
+       deve levar entre 15 a 20 minutos.
+
+  - key: faq.learn_more_html2023
+    t: Onde posso saber mais?
+  - key: faq.learn_more_html2023.description
+    t: >
+      Você pode saber mais sobre esta pesquisa em
+       [nosso post de anúncio](https://lea.verou.me/blog/2023/design-state-of-html/).
+
+  - key: faq.survey_design_html2023
+    t: Como esta pesquisa foi elaborada?
+  - key: faq.survey_design_html2023.description
+    t: >
+      A pesquisa foi elaborada por [Lea Verou](https://lea.verou.me/), com contribuições de fabricantes de navegadores,
+       bem como de grupos como o [WebDX Community Group](https://www.w3.org/community/webdx/).
+
+  - key: faq.results_released_html2023
+    t: Quando os resultados serão divulgados?
+  - key: faq.results_released_html2023.description
+    t: >
+      A pesquisa ficará aberta entre 19 de setembro e 10 de outubro, e os resultados serão divulgados logo em seguida.
