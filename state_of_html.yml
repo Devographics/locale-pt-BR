@@ -28,61 +28,61 @@ translations:
       já que dados preliminares serão usados para determinados esforços de priorização que tenham prazos anteriores.
 
   - key: general.state_of_html.description
-    t: The annual developer survey about the web platform
+    t: Pesquisa anual para desenvolvedores sobre a plataforma web
 
   ###########################################################################
   # Sections
   ###########################################################################
 
   - key: sections.forms.title
-    t: Forms
+    t: Formulários
   - key: sections.forms.description
-    t: Form-related elements and attributes
+    t: Elementos e atributos relacionados ao formulário.
 
   - key: sections.interactivity.title
-    t: Interactivity
+    t: Interatividade
   - key: sections.interactivity.description
-    t: APIs that enable richer user interactions.
+    t: APIs que permitem interações mais ricas com o usuário.
 
   - key: sections.web_components.title
-    t: Web Components
+    t: Componentes Web
   - key: sections.web_components.description
-    t: Making & using web components.
+    t: Criação e uso de componentes web.
 
   - key: sections.content.title
-    t: Content
+    t: Conteúdo
   - key: sections.content.description
-    t: Embedding, multimedia, data, and other content-related features.
+    t: Funcionalidades de incorporação, multimídia, dados e outras relacionadas ao conteúdo.
 
   - key: sections.external_content.title
-    t: External Content
+    t: Conteúdo Externo
   - key: sections.external_content.description
-    t: Embedding external resources, and other multimedia APIs.
+    t: Incorporação de recursos externos e outras APIs multimídia.
 
   - key: sections.accessibility.title
-    t: Accessibility
+    t: Acessibilidade
   - key: sections.accessibility.description
-    t: Making sites and apps accessible by all.
+    t: Sites e aplicativos acessíveis para todos.
 
   - key: sections.mobile_web_apps.title
-    t: Native-like Web Apps
+    t: Aplicações Web Nativas
   - key: sections.mobile_web_apps.description
-    t: Authoring mobile and desktop-optimized web apps.
+    t: Criação de aplicativos da web otimizados para dispositivos móveis e desktop.
 
   - key: sections.other_features.title
-    t: Other Features
+    t: Outros Recursos
   - key: sections.other_features.description
-    t: Other HTML elements & browser APIs.
+    t: Outros elementos HTML e APIs de navegador.
 
   - key: sections.other_tools.title
-    t: Other Tools & Features
+    t: Outras Ferramentas & Recursos
   - key: sections.other_tools.description
-    t: Other tools or features you use as part of your work.
+    t: Outras ferramentas ou recursos que você usa como parte do seu trabalho.
 
   - key: sections.usage.title
-    t: Usage
+    t: Utilização
   - key: sections.usage.description
-    t: How you use HTML.
+    t: Como você usa HTML.
 
   ###########################################################################
   # Features
