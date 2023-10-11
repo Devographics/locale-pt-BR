@@ -898,6 +898,6 @@ translations:
 
   - key: features.features_intro_html
     t: |
-      Bem-vindo à pesquisa! Estas primeiras secções são para descobrir quais **recursos** do HTML (e APIs relacionadas) você conhece.
+      Bem-vindo à pesquisa! Estas primeiras seções são para descobrir quais **recursos** do HTML (e APIs relacionadas) você conhece.
 
       A propósito, se você quiser saber mais sobre qualquer item da pesquisa, você pode adicioná-lo à sua lista de leitura clicando no pequeno ícone "+"!
