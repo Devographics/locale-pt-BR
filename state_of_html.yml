@@ -898,7 +898,6 @@ translations:
 
   - key: features.features_intro_html
     t: |
-      Welcome to the survey! These first couple sections are all about figuring out
-      which **features** of HTML (and related APIs) you know about.
+      Bem-vindo à pesquisa! Estas primeiras secções são para descobrir quais **recursos** do HTML (e APIs relacionadas) você conhece.
 
-      By the way, if you want to learn more about any item in the survey, you can add it to your reading list by clicking its little "+" icon!
+      A propósito, se você quiser saber mais sobre qualquer item da pesquisa, você pode adicioná-lo à sua lista de leitura clicando no pequeno ícone "+"!
