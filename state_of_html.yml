@@ -110,9 +110,9 @@ translations:
     t: <span aria-hidden="true">🚫</span> Nenhuma das opções acima
 
   - key: features.forms_pain_points
-    t: Pontos fracos do formulário
+    t: Dificuldades do formulário
   - key: features.forms_pain_points.question
-    t: Quais são os seus pontos fracos com os formulários HTML?
+    t: Quais são suas dificuldades usando formulários em HTML?
   - key: features.forms_pain_points.description
     t: |
       Pense nos diversos controles de formulário (por exemplo `<input>`, `<textarea>`, `<select>`, `<button>` etc.),
@@ -120,7 +120,7 @@ translations:
       Qualquer coisa que o incomode é válido - suporte do navegador, recursos ausentes, estilização, etc.
   - key: features.forms_pain_points.placeholder
     t: |
-      Ponto fraco #{index}…
+      Dificuldade #{index}…
 
   # interactivity
 
