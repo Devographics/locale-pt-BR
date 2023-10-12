@@ -115,8 +115,8 @@ translations:
     t: Quais são suas dificuldades usando formulários em HTML?
   - key: features.forms_pain_points.description
     t: |
-      Pense nos diversos controles de formulário (por exemplo `<input>`, `<textarea>`, `<select>`, `<button>` etc.),
-      comportamentos (por exemplo validação, autocomplete), tratamento de formulário com JS, edição de APIs (por exemplo `contentEditable`) etc.
+      Pense nos diversos controles de formulário (p. ex. `<input>`, `<textarea>`, `<select>`, `<button>` etc.),
+      comportamentos (p. ex. validação, autocomplete), tratamento de formulário com JS, edição de APIs (p. ex. `contentEditable`) etc.
       Qualquer coisa que o incomode é válido - suporte do navegador, recursos ausentes, estilização, etc.
   - key: features.forms_pain_points.placeholder
     t: |
