@@ -125,22 +125,22 @@ translations:
   # interactivity
 
   - key: features.dom_attribute_features
-    t: DOM Attribute-related methods
+    t: Métodos relacionados a atributos DOM
   - key: features.dom_attribute_features.question
-    t: Which of the following DOM attribute-related methods have you used?
+    t: Qual dos seguintes métodos relacionados a atributos DOM você já usou?
 
   - key: features.dom_html_features
-    t: HTML String-handling Features
+    t: Recursos de manipulação de strings HTML
   - key: features.dom_html_features.question
-    t: Which of the following DOM HTML string-handling features have you used?
+    t: Qual dos seguintes recursos de manipulação de strings HTML do DOM você já usou?
 
   - key: features.dom_methods
-    t: Element reparenting DOM Methods
+    t: Métodos DOM de reparação de elementos
 
   - key: features.dom_moving_element_features
-    t: Element-moving DOM Methods
+    t: Métodos DOM de movimentação de elementos
   - key: features.dom_moving_element_features.question
-    t: Which of the following element-moving DOM methods have you used?
+    t: Qual dos seguintes métodos DOM de movimentação de elementos você já usou?
   # - key: options.dom_methods.element_innerhtml.description
   #   t: |
   #     `element.innerHTML = rawHTML`
@@ -178,37 +178,36 @@ translations:
   #   t: |
   #     `let fragment = document.createDocumentFragment()`
   - key: options.dom_methods.na
-    t: <span aria-hidden="true">🚫</span> None of the above
+    t: <span aria-hidden="true">🚫</span> Nenhuma das opções acima
 
   - key: features.interactivity_pain_points
-    t: Interactivity Pain Points
+    t: Dificuldades de Interatividade
   - key: features.interactivity_pain_points.question
-    t: What are your pain points around dynamic HTML changes?
+    t: Quais suas dificuldades em relação às alterações dinâmicas do HTML?
   - key: features.interactivity_pain_points.description
     t: |
-      Browser incompatibilities or lack of support, missing features, and other problems you face
-      around interactive elements and behaviors (except forms), DOM manipulation, events, and related APIs.
-
+      Incompatibilidades ou falta de suporte do navegador, recursos ausentes e outros problemas que você enfrenta
+      em relação a elementos e comportamentos interativos (exceto formulários), manipulação de DOM, eventos e APIs relacionadas.
   - key: features.interactivity_pain_points.placeholder
     t: |
-      Pain point #{index}…
+      Dificuldade #{index}…
 
   - key: features.interactivity_techniques
-    t: Interactivity Methods
+    t: Métodos de Interatividade
   - key: features.interactivity_techniques.question
-    t: Which of these methods have you used to add interactivity or dynamically modify HTML?
+    t: Qual destes métodos você já usou para adicionar interatividade ou modificar HTML dinamicamente?
   - key: options.interactivity_techniques.css_for_interactivity
-    t: CSS for interactivity (toggles, tabs, etc.)
+    t: CSS para interatividade (toggles, tabs, etc.)
   - key: options.interactivity_techniques.js_dom_libraries
-    t: JavaScript DOM libraries (jQuery, etc.)
+    t: Bibliotecas JavaScript DOM (jQuery, etc.)
   - key: options.interactivity_techniques.js_framework
-    t: JavaScript frameworks (React, Vue, etc.)
+    t: Frameworks JavaScript (React, Vue, etc.)
   - key: options.interactivity_techniques.vanilla_js
-    t: Plain JavaScript (no frameworks or libraries)
+    t: JavaScript Puro (sem frameworks ou bibliotecas)
   - key: options.interactivity_techniques.web_components
-    t: Web Components
+    t: Componentes Web
   - key: options.interactivity_techniques.na
-    t: <span aria-hidden="true">🚫</span> None of the above
+    t: <span aria-hidden="true">🚫</span> Nenhuma das opções acima
 
   # content
 
