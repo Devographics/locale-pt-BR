@@ -91,36 +91,36 @@ translations:
   # forms
 
   - key: features.form_controls
-    t: Form Controls
+    t: Controles de Formulário
   - key: features.form_controls.question
-    t: Which form controls have you used?
+    t: Quais controles de formulário você já utilizou?
 
   - key: features.form_input_types
-    t: Input Types
+    t: Tipos de Input
   - key: features.form_input_types.question
-    t: Which input types have you used?
+    t: Quais tipos de input você já utilizou?
   - key: options.form_input_types.na
-    t: <span aria-hidden="true">🚫</span> None of the above
+    t: <span aria-hidden="true">🚫</span> Nenhuma das opções acima
 
   - key: features.form_validation_features
-    t: Form Validation
+    t: Validação de formulário
   - key: features.form_validation_features.question
-    t: Which of the following form validation features have you used?
+    t: Quais dos seguintes recursos de validação de formulário você já utilizou?
   - key: options.form_validation_features.na
-    t: <span aria-hidden="true">🚫</span> None of the above
+    t: <span aria-hidden="true">🚫</span> Nenhuma das opções acima
 
   - key: features.forms_pain_points
-    t: Form Pain Points
+    t: Dificuldades do formulário
   - key: features.forms_pain_points.question
-    t: What are your pain points around HTML forms?
+    t: Quais são suas dificuldades usando formulários em HTML?
   - key: features.forms_pain_points.description
     t: |
-      Think of the various form controls (e.g. `<input>`, `<textarea>`, `<select>`, `<button>` etc.),
-      behaviors (e.g. validation, autocomplete), handling forms via JS, editing APIs (e.g. `contentEditable`) etc.
-      Anything that bothers you is fair game — browser support, missing features, styling, etc.
+      Pense nos diversos controles de formulário (p. ex. `<input>`, `<textarea>`, `<select>`, `<button>` etc.),
+      comportamentos (p. ex. validação, autocomplete), tratamento de formulário com JS, edição de APIs (p. ex. `contentEditable`) etc.
+      Qualquer coisa que o incomode é válido - suporte do navegador, recursos ausentes, estilização, etc.
   - key: features.forms_pain_points.placeholder
     t: |
-      Pain point #{index}…
+      Dificuldade #{index}…
 
   # interactivity
 
@@ -898,7 +898,6 @@ translations:
 
   - key: features.features_intro_html
     t: |
-      Welcome to the survey! These first couple sections are all about figuring out
-      which **features** of HTML (and related APIs) you know about.
+      Bem-vindo à pesquisa! Estas primeiras seções são para descobrir quais **recursos** do HTML (e APIs relacionadas) você conhece.
 
-      By the way, if you want to learn more about any item in the survey, you can add it to your reading list by clicking its little "+" icon!
+      A propósito, se você quiser saber mais sobre qualquer item da pesquisa, você pode adicioná-lo à sua lista de leitura clicando no pequeno ícone "+"!
