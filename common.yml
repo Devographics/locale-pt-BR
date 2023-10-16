@@ -1078,7 +1078,7 @@ translations:
   - key: user_info.receive_notifications.note
     t: >
       Nós não armazenamos nenhuma informação privada, então após o email ser enviado para o nosso
-      provedor de mailing list ele será deletado de nossos bancos.
+       provedor de mailing list ele será deletado de nossos bancos.
 
   # how can we improve the survey?
   - key: user_info.how_can_we_improve
