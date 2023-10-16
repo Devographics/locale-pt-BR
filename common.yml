@@ -165,7 +165,7 @@ translations:
       Bom trabalho!
    - key: thanks.points
     t: >
-      pontos.
+      pontos
   - key: thanks.score_explanation
     t: >
       Você já ouviu ou usou <span class="score-number score-number-known">{known}</span> dos
