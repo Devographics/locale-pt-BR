@@ -227,7 +227,7 @@ translations:
       `itemprop`, `itemscope`, etc.
 
   - key: features.multiple_languages_support
-    t: Suporte a vários Idiomas
+    t: Suporte a Vários Idiomas
   - key: features.multiple_languages_support.question
     t: Com que frequência você trabalha em projetos que exigem suporte a mais de um idioma?
   - key: options.multiple_languages_support.never
