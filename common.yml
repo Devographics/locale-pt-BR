@@ -163,7 +163,7 @@ translations:
       você usou {usage_count} e ouviu falar de mais {awareness_count},
       o que o coloca entre os {knowledgeRankingFromTop} melhores de todos os entrevistados.
       Bom trabalho!
-   - key: thanks.points
+  - key: thanks.points
     t: >
       pontos
   - key: thanks.score_explanation
