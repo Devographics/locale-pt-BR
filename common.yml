@@ -1146,7 +1146,7 @@ translations:
   # learning method
   - key: resources.first_steps
     t: Primeiros métodos de aprendizagem
-  - key: resources.first_steps.description
+  - key: resources.first_steps.question
     t: Como você começou a aprender programação?
   - key: resources.first_steps.others
     t: Outros métodos para começar a aprender
@@ -1156,7 +1156,7 @@ translations:
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: Blogs e revistas
-  - key: resources.blogs_news_magazines.description
+  - key: resources.blogs_news_magazines.question
     t: Quais blogs/revistas/etc. você lê?
   - key: resources.blogs_news_magazines.others
     t: Other blogs e revistas
@@ -1166,7 +1166,7 @@ translations:
   # sites & courses
   - key: resources.sites_courses
     t: Sites e cursos
-  - key: resources.sites_courses.description
+  - key: resources.sites_courses.question
     t: Quais sites/cursos/etc. você consulta?
   - key: resources.sites_courses.others
     t: Outros sites e cursos
@@ -1176,7 +1176,7 @@ translations:
   # podcasts
   - key: resources.podcasts
     t: Podcasts
-  - key: resources.podcasts.description
+  - key: resources.podcasts.question
     t: Qual podcast relacionado a programação você escuta?
   - key: resources.podcasts.others
     t: Outros podcasts
@@ -1202,7 +1202,7 @@ translations:
   # other surveys
   - key: resources.other_surveys
     t: Outras pesquisas
-  - key: resources.other_surveys.description
+  - key: resources.other_surveys.question
     t: Quais outras pesquisas sobre desenvolvimento você participou?
   - key: resources.other_surveys.others
     t: Outras pesquisas não mencionadas acima
