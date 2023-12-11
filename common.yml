@@ -138,6 +138,8 @@ translations:
   # thanks
   - key: general.back
     t: Voltar
+  - key: general.back_to_survey
+    t: Voltar à pesquisa
   - key: general.thanks
     t: >
       Obrigado por preencher a pesquisa!
@@ -146,10 +148,24 @@ translations:
 
       Além disso, você pode nos ajudar a divulgar compartilhando esta pesquisa. Cada bit conta, e isso ajudará a tornar nossos dados ainda mais
       representativo:
+  - key: general.thanks1
+    t: >
+      Obrigado por preencher a pesquisa! Seus dados estão salvos.
   - key: thanks.learn_more_about
     t: "Alguns dos recursos sobre os quais você pode querer saber mais:"
   - key: thanks.knowledge_score
     t: Placar do conhecimento
+  - key: thanks.features_score
+    t: Pontuação de recursos
+  - key: thanks.score_statistics
+    t: >
+      Dos {total} recursos mencionados na pesquisa,
+      você usou {usage_count} e ouviu falar de mais {awareness_count},
+      o que o coloca entre os {knowledgeRankingFromTop} melhores de todos os entrevistados.
+      Bom trabalho!
+  - key: thanks.points
+    t: >
+      pontos
   - key: thanks.score_explanation
     t: >
       Você já ouviu ou usou <span class="score-number score-number-known">{known}</span> dos
@@ -1061,8 +1077,8 @@ translations:
     t: Você quer ser notificado quando o resultado da pesquisa ser lançado?
   - key: user_info.receive_notifications.note
     t: >
-      Nós não armazenamos nenhuma informação privada, então após o email ser enviado para o nosso 
-      provedor de mailing list ele será deletado de nossos bancos.
+      Nós não armazenamos nenhuma informação privada, então após o email ser enviado para o nosso
+       provedor de mailing list ele será deletado de nossos bancos.
 
   # how can we improve the survey?
   - key: user_info.how_can_we_improve
