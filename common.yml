@@ -920,55 +920,55 @@ translations:
   # age
   - key: user_info.age
     t: Idade
-  - key: user_info.age.description
+  - key: user_info.age.question
     t: Quantos anos você tem?
 
   # years of experience
   - key: user_info.years_of_experience
     t: Anos de experiência
-  - key: user_info.years_of_experience.description
+  - key: user_info.years_of_experience.question
     t: Há quantos anos você trabalha ou estuda essa área?
 
   # company size
   - key: user_info.company_size
     t: Tamanho da empresa
-  - key: user_info.company_size.description
+  - key: user_info.company_size.question
     t: Qual o tamanho da sua empresa, em número de funcionários?
 
   # salary ranges
   - key: user_info.yearly_salary
     t: Salário anual
-  - key: user_info.yearly_salary.description
+  - key: user_info.yearly_salary.question
     t: Seu salário anual em dólares americanos.
 
   # job title
   - key: user_info.job_title
     t: Cargo
-  - key: user_info.job_title.description
+  - key: user_info.job_title.question
     t: Como você se apresenta aos outros?
 
   # javascript proficiency
   - key: user_info.javascript_proficiency
     t: Proficiência em JavaScript
-  - key: user_info.javascript_proficiency.description
+  - key: user_info.javascript_proficiency.question
     t: Quão proficiente você é em JavaScript?
 
   # css proficiency
   - key: user_info.css_proficiency
     t: Proficiência em CSS
-  - key: user_info.css_proficiency.description
+  - key: user_info.css_proficiency.question
     t: Quão proficiente você é em CSS?
 
   # backend proficiency
   - key: user_info.backend_proficiency
     t: Proficiência em back-end
-  - key: user_info.backend_proficiency.description
+  - key: user_info.backend_proficiency.question
     t: Quão proficiente você é no desenvolvimento de back-end?
 
   # gender
   - key: user_info.gender
     t: Gênero
-  - key: user_info.gender.description
+  - key: user_info.gender.question
     t: >
       Qual das opções a seguir descreve você? Por favor, escolha uma.
   - key: user_info.gender.note
@@ -980,7 +980,7 @@ translations:
   # race & ethnicity
   - key: user_info.race_ethnicity
     t: Raça e etnia
-  - key: user_info.race_ethnicity.description
+  - key: user_info.race_ethnicity.question
     t: >
       Qual das opções a seguir descreve você? Por favor, selecione todas as que se aplicam.
   - key: user_info.race_ethnicity.note
@@ -996,7 +996,7 @@ translations:
   # disability status
   - key: user_info.disability_status
     t: Deficiências
-  - key: user_info.disability_status.description
+  - key: user_info.disability_status.question
     t: >
       Qual das seguintes deficiências você apresenta? Por favor, selecione todas as que se aplicam.
       Observe que isso pode incluir incapacidades temporárias ou lesões.
@@ -1038,7 +1038,7 @@ translations:
 
   - key: user_info.industry_sector
     t: Setor industrial
-  - key: user_info.industry_sector.description
+  - key: user_info.industry_sector.question
     t: Em qual(is) setor(es) da indústria você trabalha?
   - key: user_info.industry_sector.others
     t: Outros setores da indústria
@@ -1048,16 +1048,16 @@ translations:
   - key: usage.industry_sector
     aliasFor: user_info.industry_sector
   - key: usage.industry_sector.description
-    aliasFor: user_info.industry_sector.description
+    aliasFor: user_info.industry_sector.question
   - key: usage.industry_sector.others
     aliasFor: user_info.industry_sector.others
   - key: usage.industry_sector.others.description
-    aliasFor: user_info.industry_sector.description
+    aliasFor: user_info.industry_sector.question
 
   # degree
   - key: user_info.higher_education_degree
     t: Graduação em Ensino Superior
-  - key: user_info.higher_education_degree.description
+  - key: user_info.higher_education_degree.question
     t: Você tem um diploma de ensino superior?
 
   # employment status
