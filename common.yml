@@ -1090,7 +1090,7 @@ translations:
 
   - key: tools_others.libraries
     t: Bibliotecas
-  - key: tools_others.libraries.description
+  - key: tools_others.libraries.question
     t: Quais bibliotecas você usa regularmente?
   - key: tools_others.libraries.others
     t: Outras bibliotecas
@@ -1099,7 +1099,7 @@ translations:
 
   - key: tools_others.text_editors
     t: Editores de texto.
-  - key: tools_others.text_editors.description
+  - key: tools_others.text_editors.question
     t: Quais editor(es) de texto você usa regularmente?
   - key: tools_others.text_editors.others
     t: Outros editores de texto.
@@ -1108,7 +1108,7 @@ translations:
 
   - key: tools_others.utilities
     t: Utilitários
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: Quais utilitários ou ferramentas você usa regularmente?
   - key: tools_others.utilities.others
     t: Outros utilitários
@@ -1117,7 +1117,7 @@ translations:
 
   - key: tools_others.browsers
     t: Navegadores
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: Qual(is) navegador(es) você usa principalmente durante o desenvolvimento inicial?
   - key: tools_others.browsers.others
     t: Outros navegadores
@@ -1126,7 +1126,7 @@ translations:
 
   - key: tools_others.build_tools
     t: Ferramentas de build
-  - key: tools_others.build_tools.description
+  - key: tools_others.build_tools.question
     t: Quais ferramentas de build você usa?
   - key: tools_others.build_tools.others
     t: Outras ferramentas de build
@@ -1135,7 +1135,7 @@ translations:
 
   - key: tools_others.non_js_languages
     t: Linguagens de programação diferentes de JavaScript
-  - key: tools_others.non_js_languages.description
+  - key: tools_others.non_js_languages.question
     t: Quais outras linguagens de programação você usa?
   - key: tools_others.non_js_languages.others
     t: Outras linguagens de programação
@@ -1144,7 +1144,7 @@ translations:
 
   - key: tools_others.javascript_flavors
     t: Sabores de JavaScript
-  - key: tools_others.javascript_flavors.description
+  - key: tools_others.javascript_flavors.question
     t: Linguagens que compilam para JavaScript
   - key: tools_others.javascript_flavors.others
     t: Outros sabores de JavaScript

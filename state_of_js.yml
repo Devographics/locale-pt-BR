@@ -462,7 +462,7 @@ translations:
 
   - key: tools_others.runtimes
     t: Ambientes de execução JavaScript
-  - key: tools_others.runtimes.description
+  - key: tools_others.runtimes.question
     t: Quais mecanismos/tempos/ambientes de execução você usa regularmente?
   - key: tools_others.runtimes.others
     t: Outros Tempos de Execução
@@ -471,7 +471,7 @@ translations:
 
   - key: tools_others.package_registries
     t: Registros de Pacotes
-  - key: tools_others.package_registries.description
+  - key: tools_others.package_registries.question
     t: Em quais registros de pacotes você busca pacotes regularmente?
   - key: tools_others.package_registries.others
     t: Outros Registros de Pacotes
@@ -485,35 +485,35 @@ translations:
 
   - key: tools_others.backend_as_a_service
     t: Provedores de back-end como serviço
-  - key: tools_others.backend_as_a_service.description
+  - key: tools_others.backend_as_a_service.question
     t: Serviços que hospedam seus dados e oferecem uma API cliente para acessá-los.
   - key: tools_others.backend_as_a_service.others
     t: Outros provedores de BaaS
 
   - key: tools_others.date_management
     t: Gerenciamento de Data
-  - key: tools_others.date_management.description
+  - key: tools_others.date_management.question
     t: Bibliotecas que ajudam no gerenciamento de data e fuso horário.
   - key: tools_others.date_management.others
     t: Outras bibliotecas de gerenciamento de datas
 
   - key: tools_others.data_visualization
     t: Visualização de dados
-  - key: tools_others.data_visualization.description
+  - key: tools_others.data_visualization.question
     t: Bibliotecas que ajudam com gráficos e outras visualizações de dados.
   - key: tools_others.data_visualization.others
     t: Outras bibliotecas de visualização de dados
 
   - key: tools_others.graphics_animation
     t: Gráficos e animações
-  - key: tools_others.graphics_animation.description
+  - key: tools_others.graphics_animation.question
     t: Bibliotecas dedicadas a gráficos e animação.
   - key: tools_others.graphics_animation.others
     t: Outras bibliotecas de gráficos e animações
 
   - key: tools_others.data_fetching
     t: Busca de dados
-  - key: tools_others.data_fetching.description
+  - key: tools_others.data_fetching.question
     t: Bibliotecas que gerenciam a busca e armazenamento de dados em cache.
   - key: tools_others.data_fetching.others
     t: Outras bibliotecas de busca de dados
