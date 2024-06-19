@@ -392,9 +392,9 @@ translations:
     t: Cardinalidade de uso de tecnologia
   - key: blocks.all_sections_tools_cardinality_by_user.description
     t: >
-        Para cada seção, qual porcentagem de entrevistados **usa**
-        (definido como tendo respondido “usaria novamente”) uma, duas, três, etc. tecnologias.
-        A barra inferior representa a soma de todas as outras barras.
+      Para cada seção, qual porcentagem de entrevistados **usa**
+      (definido como tendo respondido “usaria novamente”) uma, duas, três, etc. tecnologias.
+      A barra inferior representa a soma de todas as outras barras.
 
   - key: blocks.cardinality.max
     t: Resposta mais comum
@@ -455,7 +455,7 @@ translations:
   # tool tier list
   - key: blocks.tools_tier_list
     t: Lista de níveis de biblioteca
-  - key: blocks.tools_tier_list.description
+  - key: blocks.tools_tier_list.note
     t: |
       Este gráfico classifica as bibliotecas com base em seu índice de satisfação (porcentagem de usuários
       que usaria uma biblioteca novamente). Observe que as bibliotecas usadas por menos de 10% dos entrevistados
@@ -563,13 +563,13 @@ translations:
   - key: custom_data.details
     t: >
 
-        1. Copie o conteúdo do campo de texto "Consulta do GraphQL" e cole-o no painel do meio do [GraphQL API explorer](https://graphiql.stateofjs.com/).
+      1. Copie o conteúdo do campo de texto "Consulta do GraphQL" e cole-o no painel do meio do [GraphQL API explorer](https://graphiql.stateofjs.com/).
 
-        2. Modifique a consulta adicionando um ou mais **filtros** usando a barra lateral esquerda do explorador. Certifique-se de manter a estrutura geral dos dados a mesma.
+      2. Modifique a consulta adicionando um ou mais **filtros** usando a barra lateral esquerda do explorador. Certifique-se de manter a estrutura geral dos dados a mesma.
 
-        3. Na janela do explorer, clique no botão Play ("Executar consulta").
+      3. Na janela do explorer, clique no botão Play ("Executar consulta").
 
-        4. Copie os resultados da consulta modificada (`{ data: … }` ) no campo de texto "Dados personalizados" acima e envie.
+      4. Copie os resultados da consulta modificada (`{ data: … }` ) no campo de texto "Dados personalizados" acima e envie.
 
   # Tools usage variations
   - key: blocks.tools_usage_variations
@@ -629,7 +629,7 @@ translations:
   - key: charts.all_respondents
     t: Todos os entrevistados
   - key: charts.facet_responses
-    t: '{count} respostas'
+    t: "{count} respostas"
 
   - key: charts.axis_legends.years_of_experience
     t: Anos de experiência
@@ -797,7 +797,6 @@ translations:
   - key: table.awareness_percentage
     aliasFor: charts.axis_legends.awareness_percentage
 
-
   - key: table.percentages_table
     t: Porcentagens
   - key: table.rankings_table
@@ -944,10 +943,9 @@ translations:
       Obrigado por apoiar a pesquisa. Seu avatar deve aparecer ao lado do gráfico que você escolheu
       na próxima hora mais ou menos. Se isso não acontecer, por favor [entre em contato](mailto:chartsponsor@stateofjs.com).
 
-
   - key: sponsor.sponsored_by
     t: >
-        **{name}** doou **${amount}** para patrocinar esse gráfico
+      **{name}** doou **${amount}** para patrocinar esse gráfico
 
   - key: sponsor.sponsor_button
     t: Patrocine este gráfico
@@ -957,11 +955,11 @@ translations:
 
   - key: sponsor.sponsor_chart.description
     t: >
-        Apoie esta pesquisa financeiramente doando US$ 10 ou mais e tenha seu
-        avatar do Twitter em destaque ao lado de um gráfico!
+      Apoie esta pesquisa financeiramente doando US$ 10 ou mais e tenha seu
+      avatar do Twitter em destaque ao lado de um gráfico!
 
   - key: sponsor.chart_id
-    t: 'ID do gráfico: '
+    t: "ID do gráfico: "
 
   - key: sponsor.sponsor_this_chart
     t: Patrocine este gráfico (${baseAmount}+)
@@ -984,7 +982,6 @@ translations:
 
 
       5. O site será reconstruído em segundo plano e seu nome de usuário e doação **aparecerão ao lado do gráfico na próxima hora**.
-
 
   - key: sponsor.faq.title
     t: Perguntas frequentes
@@ -1024,4 +1021,3 @@ translations:
 
   - key: sponsor.faq.feedback.description
     t: Você pode fazer isso [no GitHub](https://github.com/StateOfJS/Monorepo/issues/69) ou [no nosso Discord](https://discord.gg/tuWRUWVyJs).
-
