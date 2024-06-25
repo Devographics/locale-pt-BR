@@ -1,0 +1,411 @@
+locale: pt-BR
+translations:
+  ###########################################################################
+  # General
+  ###########################################################################
+
+  - key: general.results.description
+    t: A edição de 2023 da pesquisa anual sobre as últimas tendências no ecossistema JavaScript.
+
+  ###########################################################################
+  # Introduction
+  ###########################################################################
+
+  - key: introduction.js2023
+    t: |
+
+      <span class="first-letter">J</span>á deve estar claro que, por bem ou por mal, o JavaScript não está desacelerando.
+
+      Entre server components, server actions, signals, compiladores e mais, estamos vendo inovações surgirem mais rápido do que a maioria de nós consegue acompanhar.
+
+      O truque para evitar o temida cansaço do JavaScript é lembrar que você pode escolher seu caminho: claro, você pode viver na vanguarda com os primeiros usuários; mas também pode manter um ritmo mais lento e focar em tecnologias estáveis e maduras – e eventualmente chegar às novidades recentes depois que elas tiverem alguns anos para se estabilizar.
+
+      Falando em ir com calma, você deve estar se perguntando por que os resultados da pesquisa de 2023 estão sendo divulgados seis meses depois, em *2024* iniciar. A verdade é que, entre lançar a nova pesquisa [State of HTML](https://2023.stateofhtml.com/), inovar nos formatos de perguntas, coletar mais dados em formato livre do que nunca e reescrever grande parte da nossa base de código de visualização de dados, acabamos com uma carga de trabalho que foi, no mínimo, um pouco ambiciosa demais.
+
+      Esperamos que o resultado de todo esse esforço extra valha a pena. E planejamos ter tempos de divulgação muito mais rápidos daqui para frente. 
+
+      Com tudo isso esclarecido, vamos descobrir o que o JavaScript tem feito ultimamente!
+
+      <span class="conclusion__byline">– Sacha Greif</span>
+
+  ###########################################################################
+  # Tshirt
+  ###########################################################################
+
+  - key: sections.tshirt.title
+    t: Camiseta
+
+  - key: sections.tshirt.description
+    t: |
+      ## Apoie a pesquisa com a camiseta State of Javascript
+
+      Entre a má qualidade de vídeo, os cassetes volumosos e a necessidade de rebobinar, não há muito o que sentir falta da era do VHS. Mas uma coisa que realmente sentimos falta são os visuais incríveis dos anos 90 que costumavam adornar as fitas VHS virgens.
+
+      Mas agora, graças ao talentoso Christopher Kirk-Nielsen, você pode aproveitar toda essa nostalgia retrô enquanto celebra seu amor pelo JavaScript ao mesmo tempo!
+
+  - key: tshirt.about
+    t: Sobre a camiseta
+
+  - key: tshirt.description
+    t: |
+      Nós usamos uma camiseta de alta qualidade, super macia, feita de uma mistura de três tecidos (tri-blend), com um ajuste slim e impressa pelos nossos parceiros Cotton Bureau.
+
+  - key: tshirt.getit
+    t: Compre agora!
+
+  - key: tshirt.price
+    t: USD $29 + frete
+
+  - key: tshirt.designer.heading
+    t: Sobre o Designer
+
+  - key: tshirt.designer.name
+    t: Christopher Kirk-Nielsen
+
+  - key: tshirt.designer.bio
+    t: |
+      Originalmente da França, mas agora morando nos Estados Unidos, Chris não é apenas um incrível desenvolvedor front-end, mas também um talentoso ilustrador especializado em visuais retrô. Na verdade, recomendamos que você também confira os seus [outros designs de camisetas](https://chriskirknielsen.com/designs)!
+
+  ###########################################################################
+  # Sections
+  ###########################################################################
+
+  - key: sections.user_info.description
+    t: |
+      Este ano, **23.540** participantes responderam à pesquisa. E para ajudar
+      a destacar diferentes vozes e revelar insights mais profundos, fizemos
+      um esforço especial para fornecer novas maneiras de analisar nossos dados.
+
+  - key: sections.features.description
+    t: |
+      Este ano, colocamos ênfase especial na identificação dos pontos problemáticos dos desenvolvedores com JavaScript. Como era de se esperar, a **falta de tipagem nativa** e as **inconsistências entre navegadores** lideraram seus respectivos gráficos, afetando quase um terço dos desenvolvedores.
+
+  - key: sections.libraries.description
+    t: |
+      Reformulamos nossos gráficos para destacar não apenas a experiência do desenvolvedor, mas também o sentimento. Não deixe de explorar essas novas opções de agrupamento e classificação para descobrir quais bibliotecas recebem mais amor... ou menos!
+
+  - key: sections.other_tools.description
+    t: |
+      Embora a conversa sobre JavaScript muitas vezes pareça se resumir a qual framework escolher, vale a pena lembrar que há todo um universo de outras ferramentas, serviços e plataformas para explorar além disso!
+
+  - key: sections.usage.description
+    t: |
+      Mais uma vez, parece que o TypeScript se estabeleceu como o padrão, pelo menos entre os participantes da pesquisa. Mas, além disso, o uso do JavaScript continua tão variado quanto sempre!
+
+  - key: sections.resources.description
+    t: |
+      Em vez de fornecer listas predefinidas de opções para os participantes da pesquisa escolherem, decidimos simplesmente oferecer campos de texto bruto. Isso levou a vários novos resultados na seção de recursos deste ano!
+
+  - key: sections.awards.description
+    t: |
+      Os prêmios deste ano foram dominados por um projeto muito específico... em quanto tempo você adivinha qual é?
+
+  ###########################################################################
+  # Charts
+  ###########################################################################
+
+  - key: options.features_categories.language
+    aliasFor: sections.language.title
+  - key: options.features_categories.browser_apis
+    aliasFor: sections.browser_apis.title
+  - key: options.features_categories.other_features
+    aliasFor: sections.other_features.title
+
+  ###########################################################################
+  # Notes
+  ###########################################################################
+
+  - key: blocks.gender.note
+    t: |
+      Se você estiver interessado em saber mais, nós [escrevemos um post no blog](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) que aborda a dinâmica de gênero da pesquisa.
+
+  - key: blocks.source.note
+    t: >
+
+      Este gráfico agrega uma combinação de referenciadores, parâmetros de URL e respostas em formato livre.
+
+      - State of JS: a lista de e-mails do [State of JS](https://stateofjs.com).
+
+      - State of CSS: a lista de e-mails do State of CSS; também inclui "e-mail", "por e-mail", etc.
+
+      - Trabalho: corresponde a `work`, `colleagues`, `coworkers`, etc.
+
+  ###########################################################################
+  # Awards
+  ###########################################################################
+
+  - key: award.feature_adoption_delta_award.comment
+    t: Com uma progressão de **{value}** em 2022, o **top-level await** rapidamente se tornou uma parte integral do JavaScript.
+
+  - key: award.tool_usage_delta_award.comment
+    t: |
+      **Vite** continua sendo a biblioteca de crescimento mais rápido, com um aumento anual de **{value}** em uso!
+
+  - key: award.tool_satisfaction_award.comment
+    t: Vite mais uma vez conquista o primeiro lugar, com **{value}** dos desenvolvedores dispostos a usá-lo novamente!
+
+  - key: award.tool_interest_award.comment
+    t: Você apostou no Vite? Quase lá, mas este ano o **Vitest** é a tecnologia em que os desenvolvedores estão mais interessados, com uma taxa de interesse de **{value}**.
+
+  - key: award.most_write_ins_award.comment
+    t: Com **{value}** menções, o **Bun** foi a tecnologia mais mencionada em geral em questões de formato livre.
+
+  - key: award.most_commented_tool_award.comment
+    t: Com **{value}** comentários, o React mostrou que, mais uma vez, é a biblioteca mais discutida.
+
+  - key: award.most_loved_tool_award.comment
+    t: Com **{value}** de todos os desenvolvedores tendo uma opinião positiva sobre ele, o Vite conclui sua conquista desses prêmios sendo a tecnologia mais amada por todos!
+
+  ###########################################################################
+  # Conclusion
+  ###########################################################################
+
+  - key: conclusion.js2023.cassidy_williams
+    t: |
+      <span class="first-line">Pessoal, que ano legal para estar na internet.</span>
+
+      Há tantas mudanças interessantes e empolgantes acontecendo, e estou com meu balde de pipoca ao lado do teclado, construindo e observando-as!
+
+      O fato de tantas bibliotecas "menores" como Preact, Solid e htmx estarem crescendo em sentimentos positivos em relação a algo enorme como Next.js é fascinante. Estamos começando a ver o Angular fazer um pequeno retorno, e veremos se essa tendência continua no próximo ano. Estamos vendo pessoas deixarem de amar alguns dos queridinhos da indústria. Estamos vendo sistemas muito enferrujados crescerem. Astro parece estar a todo vapor com o suporte aos desenvolvedores.
+
+      Em termos de recursos reais do navegador, parece quase que estamos indo rápido demais para o mundo acompanhar. O que nem sempre é necessariamente uma coisa ruim! Mas eu totalmente concordo com os sentimentos de que o suporte do navegador é minha preocupação primária sobre todas as coisas legais que estão surgindo.
+
+      Dito isso, pessoalmente estou adorando usar alguns dos novos recursos de array e o fato de que mais e mais pessoas estão apoiando PWAs.
+
+      No próximo ano, vamos melhorar a diversidade de respostas, envolver mais pessoas no desenvolvimento e espero que todas as mudanças novas e empolgantes tendam mais para o lado divertido do que intimidador! Obrigado Sacha e equipe por me incluírem aqui, e por conduzir outra pesquisa incrível e valiosa.
+
+      Nos vemos online!
+
+  - key: conclusion.js2023.cassidy_williams.bio
+    t: Dev advocate, engenheira, colaboradora de código aberto e criadora de memes.
+
+  - key: conclusion.js2023.theo_browne
+    t: |
+      <span class="first-line">O JavaScript está se movendo para o lado do servidor, e estamos um pouco inseguros sobre isso.</span>
+
+      Na pesquisa do ano passado, vimos uma rápida adoção de frameworks renderizados no servidor como Next, Nuxt, Remix e SvelteKit. Este ano, mudamos para padrões de server-first (servidor em primeiro lugar), como Hidratação Parcial e Islands, que dobraram em sua adoção.
+
+      Frame-, ops, bibliotecas como htmx mostram que os desenvolvedores web não são os únicos a se beneficiarem ao utilizar o servidor. As SPAs não estão indo a lugar algum (dê uma olhada no [Inertia](https://inertiajs.com/) para provar), mas à medida que esses novos padrões continuam a melhorar, o mercado parece estar acompanhando.
+
+      Essa mudança não foi unanimemente amada. O React continuou a crescer, mas os desenvolvedores do React estão cada vez mais preocupados com sua direção. Chegar até aqui tem sido... difícil, mas o progresso está sendo feito todos os dias.
+
+      Também estamos vendo mais opções surgirem fora do ecossistema do React. Desde o [Nuxt](https://roe.dev/blog/nuxt-server-components) até o [SolidStart](https://docs.solidjs.com/solid-start/reference/server/use-server) ao [Astro](https://astro.build/blog/astro-480/#experimental-astro-actions), todos os melhores recursos de Server Components do React estão sendo disponibilizados para todos os desenvolvedores.
+
+      E é claro, o Vite continuou dominando sendo a escolha tanto para desenvolvedores de aplicativos quanto para autores de frameworks. É difícil imaginar onde estaríamos hoje sem ele!
+
+  - key: conclusion.js2023.theo_browne.bio
+    t: Criador do Ping, uploadthing, create-t3-app, e criador de conteúdo
+
+  ###########################################################################
+  # Picks
+  ###########################################################################
+
+  - key: picks.my_pick
+    t: "Minha escolha de 2023: "
+  - key: picks.intro
+    t: Pedimos aos membros da comunidade JavaScript que compartilhassem sua “escolha do ano”
+
+  # https://leaddev.com/personal-development/how-build-trust-new-engineering-manager
+  - key: picks.emma_bostian.name
+    t: Como construir confiança como um novo gerente de engenharia
+  - key: picks.emma_bostian.bio
+    t: Gerente de Engenharia, instrutora e coapresentadora do Ladybug Podcast.
+  - key: picks.emma_bostian.description
+    t: |
+      Eu achei as publicações no blog da LeadDev, na seção "Habilidades para novos gerentes", conselhos inestimáveis para um novo gerente de engenharia. Eles fornecem ótimos recursos para qualquer pessoa que queira expandir suas habilidades de liderança e gerenciamento de engenharia!
+
+  # https://pocketbase.io
+  - key: picks.fireship.name
+    t: Pocketbase
+  - key: picks.fireship.bio
+    t: Google developer expert, entusiasta de dados e YouTuber
+  - key: picks.fireship.description
+    t: |
+      Minha escolha do ano é o projeto Pocketbase - um backend alimentado por SQLite de código aberto. Seu SDK em JavaScript oferece aos desenvolvedores web tudo o que é necessário para construir um aplicativo sério e, surpreendentemente, pode ser implantado como um único binário em qualquer servidor de $5.
+
+  # https://www.localfirst.fm/
+  - key: picks.rich_harris.name
+    t: localfirst.fm
+  - key: picks.rich_harris.bio
+    t: Troublemaker de código aberto na Vercel. Criador do Rollup e do Svelte.
+  - key: picks.rich_harris.description
+    t: |
+      Se você está interessado para onde o software está indo, este podcast é obrigatório. Ele vai renovar seu otimismo sobre o futuro do desenvolvimento web.
+
+  # https://tldraw.com
+  - key: picks.david_khourshid.name
+    t: tldraw
+  - key: picks.david_khourshid.bio
+    t: Criador do XState e fundador do [http://stately.ai](Stately)
+  - key: picks.david_khourshid.description
+    t: |
+      Muito mais do que um quadro infinito, o tldraw reimagina o que é possível com interfaces de usuário, desde seus impressionantes experimentos de IA até sua atenção aos detalhes do desenho. Seu código-fonte também está prontamente disponível, e aprecio as máquinas de estado e a API extensível para experimentos infinitos.
+
+  # https://replicache.dev/
+  - key: picks.dax_raad.name
+    t: Replicache
+  - key: picks.dax_raad.bio
+    t: Construindo o [SST](https://sst.dev/) e [terminal](https://www.terminal.shop/)
+  - key: picks.dax_raad.description
+    t: |
+      Nenhuma tecnologia teve um impacto maior na qualidade do que eu lancei nos últimos anos. Eu acredito que eles estão carregando a tocha ao impulsionar o que pode ser feito na web.
+
+  # https://lexical.dev/
+  - key: picks.german_jablonski.name
+    t: Lexical
+  - key: picks.german_jablonski.bio
+    t: CEO e criador do [Fluski](https://fluski.com/), um gerenciador de anotações e planilhas
+  - key: picks.german_jablonski.description
+    t: |
+      Foi um ano excepcional para o editor de texto Meta. Seu engenhoso modelo de dados e ciclo de vida influenciaram muito a maneira como eu programo.
+
+  # https://marvinh.dev/blog/speeding-up-javascript-ecosystem/
+  - key: picks.alina_listunova.name
+    t: Acelerando o ecossistema JavaScript
+  - key: picks.alina_listunova.bio
+    t: Desenvolvedor Front-end, Tradutor Técnico 🇺🇦
+  - key: picks.alina_listunova.description
+    t: |
+      Iniciada no final de 2022, esta série contínua de artigos feitos pelo desenvolvedor do Preact, Marvin Hagemeister, revela elementos ineficientes em termos de tempo em projetos e abordagens modernas de JavaScript. É realmente algo fascinante para profissionais preocupados com desempenho.
+
+  # https://www.rspack.dev/
+  - key: picks.shadowingszy.name
+    t: Rspack
+  - key: picks.shadowingszy.bio
+    t: Arquiteto do Datawhale e Engenheiro front-end senior de P&D na ByteDance
+  - key: picks.shadowingszy.description
+    t: |
+      O Rspack é um empacotador web baseado em Rust com desempenho extremamente excelente. Ao utilizar Rust, ele resolveu uma grande quantidade de gargalos de desempenho dos empacotadores JavaScript. E pode ser compatível com o ecossistema do webpack.
+
+  # https://unjs.io/
+  - key: picks.quarkstuff.name
+    t: UnJS
+  - key: picks.quarkstuff.bio
+    t: Nerd de desenvolvimento web e jogos
+  - key: picks.quarkstuff.description
+    t: |
+      O ecossistema UnJS é como uma caixa de ferramentas para desenvolvedores. Desde ofetch e consola até citty e nitro, provavelmente há algo lá para o seu próximo grande projeto.
+  
+  # https://www.npmjs.com/package/tess2
+  - key: picks.martin_heidegger.name
+    t: tess2.js
+  - key: picks.martin_heidegger.bio
+    t: Desenvolvedor web e organizador de eventos
+  - key: picks.martin_heidegger.description
+    t: |
+      Eu não utilizei muito JavaScript no ano passado, mas fiquei impressionado pelo algoritmo do tess2, uma biblioteca npm de 10 anos que ainda mantém um bom desempenho!
+
+  # https://auto-animate.formkit.com/
+  - key: picks.sacha_greif.name
+    t: AutoAnimate
+  - key: picks.sacha_greif.bio
+    t: Criador do State of JS
+  - key: picks.sacha_greif.description
+    t: |
+      A biblioteca AutoAnimate da Formkit, que você pode ver em ação bem aqui neste site, faz exatamente o que o nome sugere e de alguma forma descobre como adicionar animações aos seus aplicativos com uma única linha de código!
+
+  # https://nuxt.com/
+  - key: picks.rexhent.name
+    t: Nuxt
+  - key: picks.rexhent.bio
+    t: Aspirante de Linux e desenvolvedor web
+  - key: picks.rexhent.description
+    t: |
+      O Nuxt está focado na experiência do desenvolvedor (DX) e na experiência do usuário (UX). É estável e está sempre melhorando. Possui as melhores ferramentas de desenvolvimento de qualquer framework e criou o UnJS, além de outras ferramentas que impulsionam novos frameworks, como o Nitro. Eles são um pilar da comunidade de código aberto.
+
+  # https://medium.com/@devgustavovasquez/the-future-of-web-development-embracing-interoperable-runtimes-bd2006e9b9d7
+  - key: picks.gustavo_vasquez.name
+    t: Web Interoperable Runtimes
+  - key: picks.gustavo_vasquez.bio
+    t: Engenheiro de Software 🇧🇷
+  - key: picks.gustavo_vasquez.description
+    t: |
+      Os Web Interoperable Runtimes são ambientes de execução que permitem que o código seja executado de forma consistente em várias plataformas e ambientes. Acredito que trabalhar com um padrão desse tipo nos expõe ao futuro do desenvolvimento web.
+
+  # https://x.com/wunderacle
+  - key: picks.augustin_mauroy.name
+    t: Claudio Wunder
+  - key: picks.augustin_mauroy.bio
+    t: Desenvolvedor web e entusiasta de software de código aberto
+  - key: picks.augustin_mauroy.description
+    t: |
+      Claudio é uma pessoa excelente. Ele me ajudou a crescer como desenvolvedor, mas também tornou possível redesenhar o site do Node, graças às suas habilidades de liderança. E ele continua a impulsionar o projeto Node para frente.
+
+  # https://www.electronjs.org/
+  - key: picks.kilian_valkhof.name
+    t: Electron
+  - key: picks.kilian_valkhof.bio
+    t: Criador do Navegador Polypane para Desenvolvedores
+  - key: picks.kilian_valkhof.description
+    t: |
+      Com aplicativos do dia a dia como VS Code, Figma, Discord, Slack e 1Password todos sendo executados no Electron, ele continua sendo uma parte fundamental do ecossistema JS e de desenvolvedores. Muitas ferramentas que todos nós usamos não existiriam sem ele, e quando usado corretamente, é de fato uma plataforma poderosa.
+
+  # https://x.com/dawntraoz
+  - key: picks.arisa_fukuzaki.name
+    t: Alba Silvente Fuentes
+  - key: picks.arisa_fukuzaki.bio
+    t: Engenheira DevRel Senior e Documentadora na Storyblok
+  - key: picks.arisa_fukuzaki.description
+    t: |
+      Alba escreve sobre desenvolvimento front-end, arquitetura web e desempenho web, já palestrou em muitas conferências e tem um podcast chamado "No me da la vida". Ela tem inspirado muitos desenvolvedores, e eu sou um deles!
+
+  # - key: picks.xxxx.name
+  #   t:
+  # - key: picks.xxxx.bio
+  #   t:
+  # - key: picks.xxxx.description
+  #   t: |
+  ###########################################################################
+  # Sponsors
+  ###########################################################################
+
+  - key: sponsors.frontendmasters.description
+    t: Aprimore suas habilidades com cursos modernos e detalhados sobre engenharia front-end.
+  - key: sponsors.google_chrome.description
+    t: Agradecimentos à equipe do Google Chrome por apoiar nosso trabalho.
+
+  ###########################################################################
+  # FAQ/About
+  ###########################################################################
+
+  - key: about.content
+    t: |
+      A pesquisa State of JavaScript de 2023 ocorreu entre 22 de novembro a 12 de dezembro de 2023, e coletou 23.540 respostas. Os resultados foram publicados em 20 de junho de 2024. A pesquisa é realizada pela [Devographics](https://devographics.com/), uma união composta por mim ([Sacha Greif](https://sachagreif.com/)) e [Eric Burel](https://www.lbke.fr/), bem como por especialistas convidados e contribuidores de código aberto.
+
+      O logotipo e a camiseta do State of JavaScript foram criados por [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+      ### Objetivos da Pesquisa
+
+      Esta pesquisa foi criada para identificar tendências futuras no ecossistema de desenvolvimento web, a fim de ajudar os desenvolvedores a fazer as melhores escolhas de tecnologias.
+
+      Como tal, a pesquisa está focada em antecipar o que está por vir nos próximos anos, em vez de analisar o que é popular agora, razão pela qual recursos ou tecnologias às vezes podem ser omitidos mesmo que atualmente sejam amplamente difundidos.
+
+      Também deve ser considerada que corresponde a uma **parcela de um subconjunto específico de desenvolvedores** e não pretende falar por todo o ecossistema.
+
+      ### Design da Pesquisa
+
+      A pesquisa foi projetada em parte com base na pesquisa do ano anterior, com um período de feedback aberto onde o esboço da pesquisa foi discutido [no GitHub](https://github.com/Devographics/surveys/issues?q=is%3Aissue+is%3Aopen+label%3A%22State+of+JS+2022%22).
+
+      Todas as perguntas da pesquisa eram opcionais.
+
+      ### Audiência da Pesquisa
+
+      A pesquisa estava aberta para todos online e seus entrevistados não foram filtrados ou selecionados de forma alguma. Os entrevistados eram principalmente de uma mistura de participantes de pesquisas anteriores (alertados dedicamente por meio do e-mail) e tráfego das mídias sociais.
+
+      Observe que frameworks, bibliotecas, etc. foram livres para incentivar todo o público a participar da pesquisa e alguns deles encontraram ela por meio de banners, tweets, etc. Uma análise detalhada das fontes de tráfego está incluída no gráfico "Fontes" na seção demográfica.
+
+      ### Financiamento do Projeto
+
+      O financiamento deste projeto vem de uma variedade de fontes:
+
+      - **Vendas de camisetas**. 
+
+      - **Links patrocinados**: os links para recursos recomendados no final de cada página são fornecidos por nossos parceiros [Frontend Masters](https://frontendmasters.com/) e [RenderATL](https://www.renderatl.com/).
+
+      - **Financiamento direto**: este ano, [Google](https://www.google.com/) financiou o trabalho na pesquisa.
+
+      Qualquer contribuição ou patrocínio é muito apreciado. Gostaríamos especialmente de trabalhar mais de perto com mais fornecedores de navegadores, pois desempenham um papel fundamental no ecossistema web.
+
+      ### Visão Técnica Geral
+
+      Você pode encontrar uma visão técnica mais detalhada de como as pesquisas são realizadas [aqui](https://dev.to/sachagreif/how-the-devographics-surveys-are-run-2023-edition-1p6a).

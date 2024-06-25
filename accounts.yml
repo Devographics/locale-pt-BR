@@ -71,9 +71,17 @@ translations:
   - key: accounts.please_log_in
     t: Por favor, faça o login ou inscreva-se para começar.
   - key: accounts.logged_in_as
-    t: Logado como {email}
+    t: Logado usando seu endereço de e-mail
+  - key: accounts.logged_in_as_guest
+    t: Logado como convidado
   - key: accounts.questions
     t: >
       Se você tiver alguma dúvida sobre como usamos seus dados,
       ou gostaria de remover seus dados de nossos registros,
       por favor <a href="mailto:hello@stateofjs.com"> entre em contato</a>.
+
+  - key: accounts.token_verified
+    t: Verificação de token realizada com sucesso, redirecionando…
+
+  - key: accounts.your_surveys
+    t: Suas pesquisas
