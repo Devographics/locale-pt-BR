@@ -914,7 +914,7 @@ translations:
   - key: charts.tools_arrows.have_used
     t: Já usei
   - key: charts.tools_arrows.x_axis
-      t: Intervalo do eixo X
+    t: Intervalo do eixo X
   - key: charts.tools_arrows.y_axis
     t: Intervalo do eixo Y
   - key: charts.tools_arrows.legend
