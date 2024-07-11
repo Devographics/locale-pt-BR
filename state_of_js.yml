@@ -17,12 +17,20 @@ translations:
       Responda a pesquisa e nos ajude a descobrir quais bibliotecas desenvolvedores
       querem aprender em seguida, quais têm os melhores índices de satisfação e muito mais.
 
+  - key: general.state_of_js.title
+    t: O Estado da Pesquisa de Desenvolvedores JavaScript
+
   - key: general.state_of_js.description
     t: A pesquisa anual de desenvolvedores do ecossistema JavaScript
 
   ###########################################################################
   # Sections
   ###########################################################################
+
+  - key: sections.features.title
+    t: Recursos
+  - key: sections.features.description
+    t: Sintaxe, APIs dos navegadores e outros recursos.
 
   - key: sections.syntax.title
     t: Sintaxe
@@ -55,12 +63,12 @@ translations:
     t: Como você prefere escrever código
 
   - key: sections.javascript_flavors.title
-    t: Sabores JavaScript
+    t: Variações de JavaScript
   - key: sections.javascript_flavors.description
     t: Linguagens que compilam para JavaScript
 
   - key: sections.front_end_frameworks.title
-    t: Frameworks de Front-end
+    t: Frameworks Front-end
   - key: sections.front_end_frameworks.description
     t: Frameworks e bibliotecas de front-end
 
@@ -70,17 +78,22 @@ translations:
     t: Carregando e gerenciando dados em seu aplicativo
 
   - key: sections.rendering_frameworks.title
-    t: Estruturas de renderização
+    t: Frameworks de renderização
   - key: sections.rendering_frameworks.description
     t: Frameworks focados em renderizar e servir seu aplicativo
 
+  - key: sections.meta_frameworks.title
+    t: Meta-Frameworks
+  - key: sections.meta_frameworks.description
+    t: Frameworks focados em renderizar e servir seu aplicativo
+
   - key: sections.back_end_frameworks.title
-    t: Frameworks de Back-end
+    t: Frameworks Back-end
   - key: sections.back_end_frameworks.description
     t: JavaScript em servidores
 
   - key: sections.testing.title
-    t: Teste
+    t: Testes
   - key: sections.testing.description
     t: Ferramentas para testar seu código
 
@@ -233,11 +246,57 @@ translations:
   - key: options.top_js_pain_points.date_management.description
     aliasFor: options.js_pain_points.date_management.description
 
+  - key: options.top_js_pain_points.performance
+    t: Performance
+  - key: options.top_js_pain_points.performance.description
+    t: Escrevendo código JavaScript performático e eficiente
+
+  - key: options.top_js_pain_points.build_tools
+    t: Ferramentas de build
+  - key: options.top_js_pain_points.build_tools.description
+    t: Gerenciando ferramentas para empacotar seu código
+
+  - key: options.top_js_pain_points.typing
+    t: Tipagem
+  - key: options.top_js_pain_points.typing.description
+    t: Gerenciando e mantendo tipos
+
+  - key: options.top_js_pain_points.build_tools
+    t: Ferramentas de build
+  - key: options.top_js_pain_points.typing
+    t: Tipagem
+  - key: options.top_js_pain_points.typescript
+    t: TypeScript
+  - key: options.top_js_pain_points.esm_cjs
+    t: ESM vs CJS
+  - key: options.top_js_pain_points.testing
+    t: Testes
+  - key: options.top_js_pain_points.performance
+    t: Performance
+  - key: options.top_js_pain_points.too_many_choices
+    t: Muitas opções
+  - key: options.top_js_pain_points.react
+    t: React
+  - key: options.top_js_pain_points.bundlers
+    t: Bundlers
+  - key: options.top_js_pain_points.complexity
+    t: Complexidade
+  - key: options.top_js_pain_points.standard_library
+    t: Biblioteca padrão
+  - key: options.top_js_pain_points.tooling
+    t: Ferramentas
+  - key: options.top_js_pain_points.dependencies
+    t: Dependências
+  - key: options.top_js_pain_points.security
+    t: Segurança
+  - key: options.top_js_pain_points.slow
+    t: Lentidão
+
   # JS missing features
   - key: options.currently_missing_from_js.static_typing
-    t: Digitação Estática
+    t: Tipagem Estática
   - key: options.currently_missing_from_js.static_typing.description
-    t: Tipos nativos (semelhantes ao que o TypeScript oferece).
+    t: Tipagem em tempo de execução nativa; ou tipo-como-comentários no estilo TypeScript
   - key: options.currently_missing_from_js.standard_library
     t: Biblioteca padrão
   - key: options.currently_missing_from_js.standard_library.description
@@ -251,9 +310,9 @@ translations:
   - key: options.currently_missing_from_js.pipe_operator.description
     t: Um novo operador `|>` para passar o resultado de uma função para outra.
   - key: options.currently_missing_from_js.decorators
-    t: Decoradores
+    t: Decorators
   - key: options.currently_missing_from_js.decorators.description
-    t: Decoradores usados para metaprogramar e adicionar funcionalidade a um valor.
+    t: Decorators usados para metaprogramar e adicionar funcionalidade a um valor.
   - key: options.currently_missing_from_js.immutable_data_structures
     t: Estruturas de dados imutáveis
   - key: options.currently_missing_from_js.immutable_data_structures.description
@@ -263,9 +322,9 @@ translations:
   - key: options.currently_missing_from_js.better_date_management.description
     t: Um novo objeto `Temporal` para trabalhar com datas e horas.
   - key: options.currently_missing_from_js.observable
-    t: Observável
+    t: Observables
   - key: options.currently_missing_from_js.observable.description
-    t: A new `Observable`` type used to model push-based data sources.
+    t: Um novo tipo `Observable` usado para modelar fontes de dados baseadas em push.
   # - key: options.currently_missing_from_js.xxx
   #   t:
   # - key: options.currently_missing_from_js.xxx.description
@@ -304,6 +363,27 @@ translations:
   - key: options.top_currently_missing_from_js.observable.description
     aliasFor: options.currently_missing_from_js.observable.description
 
+  - key: options.top_currently_missing_from_js.static_typing
+    t: Tipagem Estática
+  - key: options.top_currently_missing_from_js.standard_library
+    t: Biblioteca padrão
+  - key: options.top_currently_missing_from_js.operator_overloading
+    t: Sobrecarga de Operadores
+  - key: options.top_currently_missing_from_js.immutable
+    t: Estruturas de Dados Imutáveis
+  - key: options.top_currently_missing_from_js.deep_clone
+    t: Deep Clone
+  - key: options.top_currently_missing_from_js.enums
+    t: Enums
+  - key: options.top_currently_missing_from_js.decorators
+    t: Decorators
+  - key: options.top_currently_missing_from_js.multithreading
+    t: Multithread
+  - key: options.top_currently_missing_from_js.pipe_operator
+    t: Operador Pipe
+  - key: options.top_currently_missing_from_js.native_observables
+    t: Observables Nativos
+
   # What do you use JS for?
   - key: options.what_do_you_use_js_for.frontend_development
     t: Desenvolvimento Frontend
@@ -314,44 +394,65 @@ translations:
   - key: options.what_do_you_use_js_for.machine_learning
     t: Aprendizado de Máquina
   - key: options.what_do_you_use_js_for.desktop_apps
-    t: Apps de Desktop
+    t: Aplicativos Desktop
   - key: options.what_do_you_use_js_for.mobile_apps
-    t: Apps Mobile
+    t: Aplicativos Mobile
   - key: options.what_do_you_use_js_for.embedded_apps
-    t: Aplicativos Incorporados
+    t: Aplicativos Embarcados
   - key: options.what_do_you_use_js_for.game_development
-    t: Desenvolvimento de Games
+    t: Desenvolvimento de Jogos
   - key: options.what_do_you_use_js_for.data_visualization
     t: Visualização de Dados
   - key: options.what_do_you_use_js_for.graphics_animation
     t: Gráficos e Animação
 
+  - key: options.what_do_you_use_js_for.scripting
+    t: Scripting
+  - key: options.what_do_you_use_js_for.command_line_tools
+    t: Ferramentas de Linha de Comando (CLIs)
+  - key: options.what_do_you_use_js_for.developer_tooling
+    t: Ferramentas para Desenvolvedores
+  - key: options.what_do_you_use_js_for.automation
+    t: Automação
+  - key: options.what_do_you_use_js_for.bots
+    t: Bots
+  - key: options.what_do_you_use_js_for.testing
+    t: Testes
+  - key: options.what_do_you_use_js_for.browser_extensions
+    t: Browser Extensions
+  - key: options.what_do_you_use_js_for.api
+    t: APIs
+  - key: options.what_do_you_use_js_for.infrastructure_as_code
+    t: Infraestrutura como Código
+  - key: options.what_do_you_use_js_for.prototyping
+    t: Prototipagem
+
   # JS App Patterns
 
   - key: options.js_app_patterns.single_page_app
-    t: Aplicativo de página única (SPA)
+    t: Aplicações de página única (SPA)
   - key: options.js_app_patterns.single_page_app.description
-    t: Apps que rodam inteiramente no navegador
+    t: Aplicações que rodam inteiramente no navegador
   - key: options.js_app_patterns.multiple_page_app
-    t: Aplicativo de várias páginas (MPA)
+    t: Aplicação de múltiplas páginas (MPA)
   - key: options.js_app_patterns.multiple_page_app.description
-    t: Aplicativos executados inteiramente no servidor, com comportamento dinâmico mínimo do lado do cliente
+    t: Aplicações executados inteiramente no servidor, com comportamento dinâmico mínimo no lado do cliente
   - key: options.js_app_patterns.static_site_generation
     t: Geração de Site Estático (SSG)
   - key: options.js_app_patterns.static_site_generation.description
-    t: Conteúdo estático pré-renderizado, com ou sem um elemento dinâmico do lado do cliente
+    t: Conteúdo estático pré-renderizado, com ou sem um elemento dinâmico no lado do cliente
   - key: options.js_app_patterns.server_side_rendering
     t: Renderização no lado do servidor (SSR)
   - key: options.js_app_patterns.server_side_rendering.description
-    t: Renderizando dinamicamente o conteúdo HTML no servidor antes de reidratá-lo no cliente
+    t: Renderizando dinamicamente o conteúdo HTML no servidor sob demanda, antes de reidratá-lo no cliente
   - key: options.js_app_patterns.partial_hydration
     t: Hidratação Parcial
   - key: options.js_app_patterns.partial_hydration.description
-    t: Apenas hidratando alguns de seus componentes no cliente (por exemplo, React Server Components)
+    t: Hidratando apenas alguns dos seus componentes no cliente (por exemplo, React Server Components)
   - key: options.js_app_patterns.progressive_rehydration
     t: Hidratação Progressiva
   - key: options.js_app_patterns.progressive_rehydration.description
-    t: Controlar a ordem de hidratação dos componentes no cliente
+    t: Controlando a ordem de hidratação dos componentes no cliente
   - key: options.js_app_patterns.islands_architecture
     t: Arquitetura de Ilhas
   - key: options.js_app_patterns.islands_architecture.description
@@ -359,23 +460,56 @@ translations:
   - key: options.js_app_patterns.progressive_enhancement
     t: Aprimoramento Progressivo
   - key: options.js_app_patterns.progressive_enhancement.description
-    t: Garantir que um aplicativo seja funcional mesmo sem JavaScript
+    t: Garantindo que uma aplicação funcione mesmo sem JavaScript
   - key: options.js_app_patterns.incremental_static_generation
     t: Geração Estática Incremental
   - key: options.js_app_patterns.incremental_static_generation.description
-    t: Ser capaz de aumentar ou modificar dinamicamente um site estático mesmo após a construção inicial (Next.js ISR, Gatsby DSG)
+    t: Capacidade de aumentar ou modificar dinamicamente um site estático mesmo após a construção inicial (Next.js ISR e revalidação sob demanda, Gatsby DSG)
   - key: options.js_app_patterns.streaming_ssr
-    t: Streaming SSR
+    t: SSR com Streaming
   - key: options.js_app_patterns.streaming_ssr.description
-    t: Dividir o conteúdo renderizado pelo servidor em partes menores transmitidas
+    t: Dividindo conteúdo renderizado pelo servidor em partes menores e transmitidas em fluxo contínuo
   - key: options.js_app_patterns.resumability
     t: Resumibilidade
   - key: options.js_app_patterns.resumability.description
-    t: Serializando o estado da estrutura no servidor para que o cliente possa retomar a execução sem execução de código duplicado.
+    t: Serializando o estado do framework no servidor para que o cliente possa retomar a execução sem duplicação de execução de código.
   - key: options.js_app_patterns.edge_rendering
-    t: Renderização de borda
+    t: Renderização na Edge
   - key: options.js_app_patterns.edge_rendering.description
-    t: Alteração do HTML renderizado na borda antes de enviá-lo ao cliente
+    t: Alterando HTML renderizado na edge antes de enviá-lo ao cliente
+  - key: options.js_app_patterns.partial_prerendering
+    t: Pré-renderização Parcial
+  - key: options.js_app_patterns.partial_prerendering.description
+    t: Renderizar uma rota com um shell de carregamento estático, mantendo algumas partes dinâmicas
+
+  - key: options.js_app_patterns.micro_frontend
+    t: Micro Frontend
+  - key: options.js_app_patterns.domain_driven_design
+    t: Domain-Driven Design (DDD)
+  - key: options.js_app_patterns.serverless
+    t: Serverless
+  - key: options.js_app_patterns.pespa
+    t: PESPA
+
+  # slider
+  - key: options.js_ts_balance.0
+    t: 100% JS
+  - key: options.js_ts_balance.1
+    t: "|"
+  - key: options.js_ts_balance.2
+    t: "|"
+  - key: options.js_ts_balance.3
+    t: "|"
+  - key: options.js_ts_balance.4
+    t: "50/50"
+  - key: options.js_ts_balance.5
+    t: "|"
+  - key: options.js_ts_balance.6
+    t: "|"
+  - key: options.js_ts_balance.7
+    t: "|"
+  - key: options.js_ts_balance.8
+    t: 100% TS
 
   ###########################################################################
   # Features
@@ -383,7 +517,7 @@ translations:
 
   # syntax
   - key: features.destructuring
-    t: Desestruturando
+    t: Desestruturação
   - key: features.spread_operator
     t: Spread operator
   - key: features.arrow_functions
@@ -403,13 +537,48 @@ translations:
   - key: features.promises
     t: Promises
   - key: features.decorators
-    t: Decoradores
+    t: Decorators
   - key: features.decorators.description
     t: >
       Em sua forma mais simples, um decorador é simplesmente uma maneira de 
-      nvolver um pedaço de código com outro – literalmente “decorando-o”.
+      envolver um pedaço de código com outro — literalmente “decorando-o”.
   - key: features.dynamic_import
     t: Importação dinâmica
+
+  - key: features.syntax_features
+    t: Recursos de Sintaxe
+  - key: features.syntax_features.question
+    t: Quais desses recursos de sintaxe você já usou?
+
+  - key: features.string_features
+    t: Recursos de String
+  - key: features.string_features.question
+    t: Quais desses recursos de String você já usou?
+
+  - key: features.array_features
+    t: Recursos de Array
+  - key: features.array_features.question
+    t: Quais desses recursos de Array você já usou?
+
+  - key: features.async_features
+    t: Recursos Assíncronos (Async)
+  - key: features.async_features.question
+    t: Quais desses recursos assíncronos você já usou?
+
+  - key: features.browser_api_features
+    t: APIs do Navegador
+  - key: features.browser_api_features.question
+    t: Quais dessas APIs do navegador você já usou?
+
+  - key: features.language_pain_points
+    t: Pontos Problemáticos da Linguagem
+  - key: features.language_pain_points.question
+    t: Quais são os principais pontos problemáticos que você encontra na linguagem JavaScript?
+
+  - key: features.browser_apis_pain_points
+    t: Pontos Problemáticos das APIs do Navegador
+  - key: features.browser_apis_pain_points.question
+    t: Quais são os principais pontos problemáticos que você encontra nas APIs do navegador?
 
   # patterns
   - key: patterns.object_oriented_programming
@@ -435,13 +604,6 @@ translations:
   # - key: features.immutable_data_structures
   #   t: Estruturas de Dados Imutáveis
 
-  # slider
-  - key: options.js_ts_balance.0
-    t: 100% JS
-  - key: options.js_ts_balance.4
-    t: 50%–50%
-  - key: options.js_ts_balance.8
-    t: 100% TS
 
   ###########################################################################
   # Tools
@@ -449,25 +611,284 @@ translations:
 
   - key: tools.angular.description
     t: >
-      Observe que esta pergunta visa apenas a experiência [Angular](https://angular.io/),
+      Note que esta pergunta se refere apenas à experiência com [Angular](https://angular.io/),
       e especificamente *não* se aplica ao [AngularJS](https://angularjs.org/) obsoleto.
+
   - key: tools.best_of_js_projects.note
     t: >
-      As bibliotecas são carregadas de [Best of JS](https://bestofjs.org/). 
-      Se faltar um projeto, você pode [enviar aqui](https://github.com/michaelrambeau/bestofjs/issues/new?template=add-a-project-to-best-of-javascript.md).
+      As bibliotecas são carregadas a partir do [Best of JS](https://bestofjs.org/). 
+      Se um projeto estiver faltando, vocêo pode [submetê-lo aqui](https://github.com/michaelrambeau/bestofjs/issues/new?template=add-a-project-to-best-of-javascript.md).
+
+  - key: tools.pain_points
+    t: Pontos problemáticos
+  - key: tools.ratios
+    t: Proporções ao longo do tempo
+  - key: tools.experience
+    t: Experiência e sentimento
+  - key: tools.others
+    t: Outras ferramentas
+
+  # front-end frameworks
+
+  - key: tools.front_end_frameworks_ratios
+    t: Proporções de frameworks front-end ao longo do tempo
+  - key: tools.front_end_frameworks_ratios.short
+    aliasFor: tools.ratios
+
+  - key: tools.front_end_frameworks_experience
+    t: Experiência e sentimento com frameworks front-end
+  - key: tools.front_end_frameworks_experience.short
+    aliasFor: tools.experience
+
+  - key: tools.front_end_frameworks.others
+    t: Outros frameworks front-end
+  - key: tools.front_end_frameworks.others.short
+    aliasFor: tools.others
+
+  - key: tools.front_end_frameworks_happiness
+    t: Satisfação com frameworks front-end
+  - key: tools.front_end_frameworks_happiness.short
+    aliasFor: charts.axis_legends.happiness
+  - key: tools.front_end_frameworks_happiness.question
+    t: Em uma escala de 0 (muito insatisfeito) a 4 (muito satisfeito), qual é o seu nível de satisfação com o estado atual dos frameworks front-end?
+
+  - key: tools.front_end_frameworks_pain_points
+    t: Pontos Problemáticos dos frameworks front-end
+  - key: tools.front_end_frameworks_pain_points.short
+    aliasFor: tools.pain_points
+  - key: tools.front_end_frameworks_pain_points.question
+    t: Quais pontos problemáticos você encontrou ao usar frameworks front-end?
+
+  # meta-frameworks
+
+  - key: tools.meta_frameworks_ratios
+    t: Proporções de Meta-Frameworks ao longo do tempo
+  - key: tools.meta_frameworks_ratios.short
+    aliasFor: tools.ratios
+
+  - key: tools.meta_frameworks_experience
+    t: Experiência e sentimento com Meta-Frameworks
+  - key: tools.meta_frameworks_experience.short
+    aliasFor: tools.experience
+
+  - key: tools.meta_frameworks.others
+    t: Outros Meta-Frameworks
+  - key: tools.meta_frameworks.others.short
+    aliasFor: tools.others
+
+  - key: tools.meta_frameworks_happiness
+    t: Satisfação com Meta-Frameworks
+  - key: tools.meta_frameworks_happiness.short
+    aliasFor: charts.axis_legends.happiness
+  - key: tools.meta_frameworks_happiness.question
+    t: Em uma escala de 0 (muito insatisfeito) a 4 (muito satisfeito), qual é o seu nível de satisfação com o estado atual dos meta-frameworks?
+
+  - key: tools.meta_frameworks_pain_points
+    t: Pontos problemáticos de Meta-Frameworks
+  - key: tools.meta_frameworks_pain_points.short
+    aliasFor: tools.pain_points
+  - key: tools.meta_frameworks_pain_points.question
+    t: Quais pontos problemáticos você encontrou ao usar meta-frameworks?
+
+  # testing
+
+  - key: tools.testing_ratios
+    t: Proporções de ferramentas de teste ao longo do tempo
+  - key: tools.testing_ratios.short
+    aliasFor: tools.ratios
+
+  - key: tools.testing_experience
+    t: Experiência e sentimento com ferramentas de teste
+  - key: tools.testing_experience.short
+    aliasFor: tools.experience
+
+  - key: tools.testing.others
+    t: Outras ferramentas de teste
+  - key: tools.testing.others.short
+    aliasFor: tools.others
+
+  - key: tools.testing_happiness
+    t: Satisfação com ferramentas de teste
+  - key: tools.testing_happiness.short
+    aliasFor: charts.axis_legends.happiness
+  - key: tools.testing_happiness.question
+    t: Em uma escala de 0 (muito insatisfeito) a 4 (muito satisfeito), qual é o seu nível de satisfação com o estado atual das ferramentas de teste?
+
+  - key: tools.testing_pain_points
+    t: Pontos problemáticos das ferramentas de teste
+  - key: tools.testing_pain_points.short
+    aliasFor: tools.pain_points
+  - key: tools.testing_pain_points.question
+    t: Quais pontos problemáticos você encontrou ao usar ferramentas de teste?
+
+  # mobile & desktop
+
+  - key: tools.mobile_desktop_ratios
+    t: Proporções de ferramentas para dispositivos móveis e desktop ao longo do tempo
+  - key: tools.mobile_desktop_ratios.short
+    aliasFor: tools.ratios
+
+  - key: tools.mobile_desktop_experience
+    t: Experiência e sentimento com ferramentas para dispositivos móveis e desktop
+  - key: tools.mobile_desktop_experience.short
+    aliasFor: tools.experience
+
+  - key: tools.mobile_desktop.others
+    t: Outras ferramentas para dispositivos móveis e desktop
+  - key: tools.mobile_desktop.others.short
+    aliasFor: tools.others
+
+  - key: tools.mobile_desktop_happiness
+    t: Satisfação com ferramentas para dispositivos móveis e desktop
+  - key: tools.mobile_desktop_happiness.short
+    aliasFor: charts.axis_legends.happiness
+  - key: tools.mobile_desktop_happiness.question
+    t: Em uma escala de 0 (muito insatisfeito) a 4 (muito satisfeito), qual é o seu nível de satisfação com o estado atual das ferramentas para dispositivos móveis e desktop?
+
+  - key: tools.mobile_desktop_pain_points
+    t: Pontos problemáticos das ferramentas para dispositivos móveis e desktop
+  - key: tools.mobile_desktop_pain_points.short
+    aliasFor: tools.pain_points
+  - key: tools.mobile_desktop_pain_points.question
+    t: Quais pontos problemáticos você encontrou ao usar JavaScript para construir aplicações para dispositivos móveis e desktop?
+
+  # build tools
+
+  - key: tools.build_tools_ratios
+    t: Proporções das ferramentas de build ao longo do tempo
+  - key: tools.build_tools_ratios.short
+    aliasFor: tools.ratios
+
+  - key: tools.build_tools_experience
+    t: Experiência e sentimento com ferramentas de build
+  - key: tools.build_tools_experience.short
+    aliasFor: tools.experience
+
+  - key: tools.build_tools.others
+    t: Outras ferramentas de build
+  - key: tools.build_tools.others.short
+    aliasFor: tools.others
+
+  - key: tools.build_tools_happiness
+    t: Satisfação com ferramentas de build
+  - key: tools.build_tools_happiness.short
+    aliasFor: charts.axis_legends.happiness
+  - key: tools.build_tools_happiness.question
+    t: Em uma escala de 0 (muito insatisfeito) a 4 (muito satisfeito), qual é o seu nível de satisfação com o estado atual das ferramentas de build?
+
+  - key: tools.build_tools_pain_points
+    t: Pontos Problemáticos das ferramentas de build
+  - key: tools.build_tools_pain_points.short
+    aliasFor: tools.pain_points
+  - key: tools.build_tools_pain_points.question
+    t: Quais pontos problemáticos você encontrou ao usar ferramentas de build?
+
+  # monorepo tools
+
+  - key: tools.monorepo_tools_ratios
+    t: Proporções de ferramentas de monorepo ao longo do tempo
+  - key: tools.monorepo_tools_ratios.short
+    aliasFor: tools.ratios
+
+  - key: tools.monorepo_tools_experience
+    t: Experiência e sentimento com ferramentas de monorepo
+  - key: tools.monorepo_tools_experience.short
+    aliasFor: tools.experience
+
+  - key: tools.monorepo_tools.others
+    t: Outras ferramentas de monorepo
+  - key: tools.monorepo_tools.others.short
+    aliasFor: tools.others
+
+  - key: tools.monorepo_tools_happiness
+    t: Satisfação com ferramentas de monorepo
+  - key: tools.monorepo_tools_happiness.short
+    aliasFor: charts.axis_legends.happiness
+  - key: tools.monorepo_tools_happiness.question
+    t: Em uma escala de 0 (muito insatisfeito) a 4 (muito satisfeito), qual é o seu nível de satisfação com o estado atual das ferramentas de monorepo?
+
+  - key: tools.monorepo_tools_pain_points
+    t: Pontos Problemáticos das ferramentas de monorepo
+  - key: tools.monorepo_tools_pain_points.short
+    aliasFor: tools.pain_points
+  - key: tools.monorepo_tools_pain_points.question
+    t: Quais pontos problemáticos você encontrou ao usar ferramentas de monorepo?
 
   ###########################################################################
   # Other Tools
   ###########################################################################
 
+  - key: tools_others.libraries
+    t: Bibliotecas
+  - key: tools_others.libraries.question
+    t: Quais bibliotecas você utiliza regularmente?
+  - key: tools_others.libraries.others
+    t: Outras Bibliotecas
+  - key: tools_others.libraries.others.description
+    t: Outras respostas (campo de forma livre).
+
+  - key: tools_others.text_editors
+    t: Editores de texto
+  - key: tools_others.text_editors.question
+    t: Qual(is) editor(es) de texto você utiliza regularmente?
+  - key: tools_others.text_editors.others
+    t: Outors editores de texto
+  - key: tools_others.text_editors.others.description
+    t: Outras respostas (campo de forma livre).
+
+  - key: tools_others.utilities
+    t: Utilitários
+  - key: tools_others.utilities.question
+    t: Quais utilitários ou ferramentas você utiliza regularmente?
+  - key: tools_others.utilities.others
+    t: Outros utilitários
+  - key: tools_others.utilities.others.description
+    t: Outros utilitários (campo de forma livre).
+
+  - key: tools_others.browsers
+    t: Navegadores
+  - key: tools_others.browsers.question
+    t: Em qual(is) navegador(es) você trabalha durante o desenvolvimento inicial?
+  - key: tools_others.browsers.others
+    t: Outros navegadores
+  - key: tools_others.browsers.others.description
+    t: Outras respostas (campo de forma livre).
+
+  - key: tools_others.build_tools
+    t: Ferramentas de build
+  - key: tools_others.build_tools.question
+    t: Quais ferramentas de build você utiliza?
+  - key: tools_others.build_tools.others
+    t: Outras ferramentas de build
+  - key: tools_others.build_tools.others.description
+    t: Outras respostas (campo de forma livre).
+
+  - key: tools_others.non_js_languages
+    t: Linguagens que não são JavaScript
+  - key: tools_others.non_js_languages.question
+    t: Quais outras linguagens de programação você utiliza?
+  - key: tools_others.non_js_languages.others
+    t: Outras linguagens
+  - key: tools_others.non_js_languages.others.description
+    t: Outras respostas (campo de forma livre).
+
+  - key: tools_others.javascript_flavors
+    t: Variações de JavaScript
+  - key: tools_others.javascript_flavors.question
+    t: Linguagens que compilam para JavaScript
+  - key: tools_others.javascript_flavors.others
+    t: Outras variações de JavaScript
+  - key: tools_others.javascript_flavors.others.description
+    t: Outras respostas (campo de forma livre).
+
   - key: tools_others.runtimes
     t: Ambientes de execução JavaScript
   - key: tools_others.runtimes.question
-    t: Quais mecanismos/tempos/ambientes de execução você usa regularmente?
+    t: Quais motores/ambientes de execução você utiliza regularmente?
   - key: tools_others.runtimes.others
-    t: Outros Tempos de Execução
+    t: Outros Ambientes de Execução
   - key: tools_others.runtimes.others.description
-    t: Outras Respostas (campo de forma livre).
+    t: Outras respostas (campo de forma livre).
 
   - key: tools_others.package_registries
     t: Registros de Pacotes
@@ -476,7 +897,7 @@ translations:
   - key: tools_others.package_registries.others
     t: Outros Registros de Pacotes
   - key: tools_others.package_registries.others.description
-    t: Outras Respostas (campo de forma livre).
+    t: Outras respostas (campo de forma livre).
 
   - key: tools_others.form_factors
     aliasFor: environments.form_factors
@@ -484,16 +905,16 @@ translations:
     aliasFor: environments.form_factors.description
 
   - key: tools_others.backend_as_a_service
-    t: Provedores de back-end como serviço
+    t: Provedores de Backend como Serviço (BaaS)
   - key: tools_others.backend_as_a_service.question
-    t: Serviços que hospedam seus dados e oferecem uma API cliente para acessá-los.
+    t: Serviços que hospedam seus dados e oferecem uma API de cliente para acessá-los.
   - key: tools_others.backend_as_a_service.others
-    t: Outros provedores de BaaS
+    t: Outros Provedores de BaaS
 
   - key: tools_others.date_management
-    t: Gerenciamento de Data
+    t: Gerenciamento de datas
   - key: tools_others.date_management.question
-    t: Bibliotecas que ajudam no gerenciamento de data e fuso horário.
+    t: Bibliotecas que ajudam com o gerenciamento de datas e fusos horários.
   - key: tools_others.date_management.others
     t: Outras bibliotecas de gerenciamento de datas
 
@@ -518,12 +939,150 @@ translations:
   - key: tools_others.data_fetching.others
     t: Outras bibliotecas de busca de dados
 
+  - key: other_tools.libraries
+    aliasFor: tools_others.libraries
+  - key: other_tools.libraries.description
+    aliasFor: tools_others.libraries.question
+  - key: other_tools.libraries.others
+    aliasFor: tools_others.libraries.others
+  - key: other_tools.libraries.others.description
+    aliasFor: tools_others.libraries.others.description
+
+  - key: other_tools.text_editors
+    aliasFor: tools_others.text_editors
+  - key: other_tools.text_editors.description
+    aliasFor: tools_others.text_editors.question
+  - key: other_tools.text_editors.others
+    aliasFor: tools_others.text_editors.others
+  - key: other_tools.text_editors.others.description
+    aliasFor: tools_others.text_editors.others.description
+
+  - key: other_tools.utilities
+    aliasFor: tools_others.utilities
+  - key: other_tools.utilities.description
+    aliasFor: tools_others.utilities.question
+  - key: other_tools.utilities.others
+    aliasFor: tools_others.utilities.others
+  - key: other_tools.utilities.others.description
+    aliasFor: tools_others.utilities.others.description
+
+  - key: other_tools.browsers
+    aliasFor: tools_others.browsers
+  - key: other_tools.browsers.description
+    aliasFor: tools_others.browsers.question
+  - key: other_tools.browsers.others
+    aliasFor: tools_others.browsers.others
+  - key: other_tools.browsers.others.description
+    aliasFor: tools_others.browsers.others.description
+
+  - key: other_tools.build_tools
+    aliasFor: tools_others.build_tools
+  - key: other_tools.build_tools.description
+    aliasFor: tools_others.build_tools.question
+  - key: other_tools.build_tools.others
+    aliasFor: tools_others.build_tools.others
+  - key: other_tools.build_tools.others.description
+    aliasFor: tools_others.build_tools.others.description
+
+  - key: other_tools.non_js_languages
+    aliasFor: tools_others.non_js_languages
+  - key: other_tools.non_js_languages.description
+    aliasFor: tools_others.non_js_languages.question
+  - key: other_tools.non_js_languages.others
+    aliasFor: tools_others.non_js_languages.others
+  - key: other_tools.non_js_languages.others.description
+    aliasFor: tools_others.non_js_languages.others.description
+
+  - key: other_tools.javascript_flavors
+    aliasFor: tools_others.javascript_flavors
+  - key: other_tools.javascript_flavors.description
+    aliasFor: tools_others.javascript_flavors.question
+  - key: other_tools.javascript_flavors.others
+    aliasFor: tools_others.javascript_flavors.others
+  - key: other_tools.javascript_flavors.others.description
+    aliasFor: tools_others.javascript_flavors.others.description
+
   - key: tools_others.backend_frameworks
     aliasFor: sections.back_end_frameworks.title
   - key: tools_others.backend_frameworks.description
     t: Frameworks para geração de APIs e gerenciamento de back-ends
   - key: tools_others.backend_frameworks.others
-    t: Outros frameworks de back-end
+    t: Outros frameworks back-end
+
+  - key: other_tools.runtimes
+    aliasFor: tools_others.runtimes
+  - key: other_tools.runtimes.description
+    aliasFor: tools_others.runtimes.question
+  - key: other_tools.runtimes.others
+    aliasFor: tools_others.runtimes.others
+  - key: other_tools.runtimes.others.description
+    aliasFor: tools_others.runtimes.others.description
+
+  - key: other_tools.package_registries
+    aliasFor: tools_others.package_registries
+  - key: other_tools.package_registries.description
+    aliasFor: tools_others.package_registries.question
+  - key: other_tools.package_registries.others
+    aliasFor: tools_others.package_registries.others
+  - key: other_tools.package_registries.others.description
+    aliasFor: tools_others.package_registries.others.description
+
+  - key: other_tools.form_factors
+    aliasFor: tools_others.form_factors
+  - key: other_tools.form_factors.description
+    aliasFor: tools_others.form_factors.description
+
+  - key: other_tools.backend_as_a_service
+    aliasFor: tools_others.backend_as_a_service
+  - key: other_tools.backend_as_a_service.description
+    aliasFor: tools_others.backend_as_a_service.question
+  - key: other_tools.backend_as_a_service.others
+    aliasFor: tools_others.backend_as_a_service.others
+
+  - key: other_tools.date_management
+    aliasFor: tools_others.date_management
+  - key: other_tools.date_management.description
+    aliasFor: tools_others.date_management.question
+  - key: other_tools.date_management.others
+    aliasFor: tools_others.date_management.others
+
+  - key: other_tools.data_visualization
+    aliasFor: tools_others.data_visualization
+  - key: other_tools.data_visualization.description
+    aliasFor: tools_others.data_visualization.question
+  - key: other_tools.data_visualization.others
+    aliasFor: tools_others.data_visualization.others
+
+  - key: other_tools.graphics_animation
+    aliasFor: tools_others.graphics_animation
+  - key: other_tools.graphics_animation.description
+    aliasFor: tools_others.graphics_animation.question
+  - key: other_tools.graphics_animation.others
+    aliasFor: tools_others.graphics_animation.others
+
+  - key: other_tools.data_fetching
+    aliasFor: tools_others.data_fetching
+  - key: other_tools.data_fetching.description
+    aliasFor: tools_others.data_fetching.question
+  - key: other_tools.data_fetching.others
+    aliasFor: tools_others.data_fetching.others
+
+  - key: other_tools.backend_frameworks
+    aliasFor: tools_others.backend_frameworks
+  - key: other_tools.backend_frameworks.description
+    aliasFor: tools_others.backend_frameworks.description
+  - key: other_tools.backend_frameworks.others
+    aliasFor: tools_others.backend_frameworks.others
+
+  - key: other_tools.ai_tools
+    t: Ferramentas de Inteligência Artificial
+  - key: other_tools.ai_tools.question
+    t: Quais destas ferramentas de IA você utiliza regularmente para ajudá-lo a escrever código?
+
+  - key: other_tools.hosting
+    t: Serviços de hospedagem
+  - key: other_tools.hosting.question
+    t: Quais desses serviços você já usou para hospedar aplicativos JavaScript?
 
   ###########################################################################
   # Usage
@@ -537,9 +1096,11 @@ translations:
     t: Outros padrões de aplicativos
 
   - key: usage.what_do_you_use_js_for
-    t: Para que você usa JavaScript?
+    t: Uso do JavaScript
+  - key: usage.what_do_you_use_js_for.question
+    t: Para que você utiliza JavaScript?
   - key: usage.what_do_you_use_js_for.others
-    t: Outros casos de uso de JavaScript
+    t: Outros casos de uso do JavaScript
 
   - key: usage.js_ts_balance
     t: Equilíbrio JavaScript/TypeScript
@@ -547,11 +1108,15 @@ translations:
     t: Como você divide seu tempo entre escrever código JavaScript e TypeScript?
 
   - key: tools_others.edge_runtimes
-    t: JavaScript Edge/tempos de execução sem servidor
+    t: Ambientes de Execução JavaScript Edge/Serverless
   - key: tools_others.edge_runtimes.question
-    t: Quais tempos de execução serverless ou Edge você usa regularmente?
+    t: Quais ambientes de execução edge ou serverless você utiliza regularmente?
   - key: tools_others.edge_runtimes.others
-    t: Outras execuções Edge
+    t: Outros Ambientes de Execução Edge
+  - key: other_tools.edge_runtimes
+    aliasFor: tools_others.edge_runtimes
+  - key: other_tools.edge_runtimes.description
+    aliasFor: tools_others.edge_runtimes.question
 
   - key: usage.usage_type
     t: Uso do JavaScript
@@ -606,23 +1171,35 @@ translations:
   - key: happiness.testing
     t: Quão satisfeito você está com o estado das ferramentas de teste?
   - key: happiness.mobile_desktop
-    t: Quão satisfeito você está com o estado das estruturas móveis e de desktop?
+    t: Quão satisfeito você está com o estado das das ferramentas para dispositivos móveis e desktop?
   - key: happiness.build_tools
-    t: Quão satisfeito você está com o estado das ferramentas de construção?
+    t: Quão satisfeito você está com o estado das ferramentas de build?
   - key: happiness.monorepo_tools
     t: Quão satisfeito você está com o estado das ferramentas monorepo?
+  - key: happiness.rendering_frameworks
+    t: Quão satisfeito você está com o estado dos frameworks de renderização?
 
   - key: happiness.state_of_the_web
-    t: Quão satisfeito você está com o estado geral das tecnologias da web?
+    t: Satisfação com tecnologias web
+  - key: happiness.state_of_the_web.question
+    t: Quão satisfeito você está com o estado geral das tecnologias web?
 
   - key: happiness.state_of_js
+    t: Satisfação com JavaScript
+  - key: happiness.state_of_js.question
     t: Quão satisfeito você está com o estado geral do JavaScript?
 
   # Pain Points
+
+  - key: usage.top_js_pain_points
+    aliasFor: opinions.js_pain_points
+  - key: usage.top_js_pain_points.question
+    t: Quais aspectos do JavaScript você tem mais dificuldade?
+
   - key: opinions.js_pain_points
     t: Pontos problemáticos do JavaScript
   - key: opinions.js_pain_points.description
-    t: Para cada confronto, escolha o aspecto do JavaScript que você mais gosta.
+    t: Para cada confronto, escolha o aspecto do JavaScript com o qual você tem mais dificuldade.
 
   - key: opinions_others.js_pain_points.others
     t: Outros Pontos problemáticos do JavaScript
@@ -630,45 +1207,55 @@ translations:
   - key: opinions.top_js_pain_points
     aliasFor: opinions.js_pain_points
   - key: opinions.top_js_pain_points.description
-    t: Escolha os 3 principais aspectos do JavaScript com os quais você mais luta.
+    t: Escolha os 3 principais aspectos do JavaScript com os quais você tem mais dificuldade.
   - key: opinions_others.top_js_pain_points.others
+    aliasFor: opinions_others.js_pain_points.others
+  - key: opinions.top_js_pain_points.others
     aliasFor: opinions_others.js_pain_points.others
 
   # Missing Features
+
+  - key: usage.top_currently_missing_from_js
+    t: Recursos Ausentes
+  - key: usage.top_currently_missing_from_js.question
+    aliasFor: opinions.currently_missing_from_js
+
   - key: opinions.currently_missing_from_js
     t: O que você sente que está faltando no JavaScript?
   - key: opinions.currently_missing_from_js.description
-    t: Para cada confronto, escolha o recurso que você mais gostaria de usar no JavaScript hoje.
+    t: Para cada confronto, escolha o recurso que você mais gostaria de poder usar no JavaScript hoje.
   - key: opinions_others.currently_missing_from_js.others
     t: Outros recursos ausentes
 
   - key: opinions.top_currently_missing_from_js
     aliasFor: opinions.currently_missing_from_js
   - key: opinions.top_currently_missing_from_js.description
-    t: Escolha os 3 principais recursos que você mais gostaria de usar em JavaScript hoje.
+    t: Escolha os 3 principais recursos que você mais gostaria de poder usar no JavaScript hoje.
   - key: opinions_others.top_currently_missing_from_js.others
+    aliasFor: opinions_others.currently_missing_from_js.others
+  - key: opinions.top_currently_missing_from_js.others
     aliasFor: opinions_others.currently_missing_from_js.others
 
   # pain points/currently missing (results)
   - key: js_pain_points.js_pain_points_wins
     t: Pontos problemáticos do JavaScript
   - key: js_pain_points.js_pain_points_wins.description
-    t: Com qual aspecto do JavaScript você tem mais dificuldade? Os resultados são classificados pelo número de rodadas do torneio vencidas.
+    t: Qual aspecto do JavaScript você tem mais dificuldade? Os resultados são classificados pelo número de confrontos vencidos.
 
   - key: js_pain_points.js_pain_points_matchups
     t: Pontos problemáticos do JavaScript (Confrontos)
   - key: js_pain_points.js_pain_points_matchups.description
-    t: Com qual aspecto do JavaScript você tem mais dificuldade? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item do topo.
+    t: Qual aspecto do JavaScript você tem mais dificuldade? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item superior.
 
   - key: currently_missing_from_js.currently_missing_from_js_wins
     t: Recursos ausentes do JavaScript
   - key: currently_missing_from_js.currently_missing_from_js_wins.description
-    t: Qual recurso você mais gostaria de poder usar no JavaScript hoje? Os resultados são classificados pelo número de rodadas do torneio vencidas.
+    t: Qual recurso você mais gostaria de poder usar no JavaScript hoje? Os resultados estão classificados pelo número de confrontos vencidos.
 
   - key: currently_missing_from_js.currently_missing_from_js_matchups
     t: Recursos ausentes do JavaScript (Confrontos)
   - key: currently_missing_from_js.currently_missing_from_js_matchups.description
-    t: Qual recurso você mais gostaria de poder usar no JavaScript hoje? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item do topo.
+    t: Qual recurso você mais gostaria de poder usar no JavaScript hoje? Porcentagem de rodadas vencidas pelo item da esquerda em relação ao item superior.
 
   ###########################################################################
   # Resources
@@ -677,4 +1264,4 @@ translations:
   - key: resources.first_steps_js
     t: Primeiros passos com JavaScript
   - key: resources.first_steps_js.description
-    t: Ao começar, como você aprendeu JavaScript inicialmente?
+    t: Quando você começou, como aprendeu JavaScript inicialmente?
