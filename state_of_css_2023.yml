@@ -27,11 +27,11 @@ translations:
 
   - key: introduction.css2023
     t: |
-      <span class="first-letter">O</span> CSS vem passando por um período de evolução sem precedentes. Com `:has()`, container queries, subgrid, e vários outros conceitos, novas funcionalidadades parecem chegar aos navegadores mensalmente.
+      <span class="first-letter">O</span> CSS vem passando por um período de evolução sem precedentes. Com a introdução de `:has()`, container queries, subgrids e vários outros conceitos, novas funcionalidadades parecem chegar aos navegadores mensalmente.
 
       A consequência de todo esse crescimento é que as coisas podem ficar um pouco confusas. Por sorte, este ano tivemos [Chen Hui Jing](https://chenhuijing.com/) ajudando a desenhar a pesquisa e a nos guiar pela selva do CSS. 
 
-      Falando da pesquisa, você sabia que os navegadores usam estes dados como parte da iniciativa [Interop](https://web.dev/interop-2023/) para priorizar quais funcionalidades podem ser trabalhadas no futuro?
+      E falando da pesquisa, você sabia que os navegadores usam estes dados como parte da iniciativa [Interop](https://web.dev/interop-2023/) para priorizar quais funcionalidades podem ser trabalhadas no futuro?
 
       Por fim, esse ano introduzimos uma nova funcionalidade: agora você pode **customizar gráficos** com os seus próprios filtros. Estamos animados para ver que *insights* você vai ter!
 
@@ -46,34 +46,34 @@ translations:
 
   - key: sections.tshirt.description
     t: |
-      ## Support the Survey With the State of CSS T-Shirt
+      ## Apoie a pesquisa com a camiseta do *State of CSS*
 
-      Between the bad video quality, the bulky cassettes, and having to rewind, there's not much to miss about the VHS era. But one thing we *do* miss are the amazing 90s visuals that used to adorn blank VHS tapes. 
+      Entre baixa qualidade de vídeo, fitas enormes e muitas rebobinações, não há muito que sentir falta em relação à era do vídeo cassete. Mas uma coisa de que a gente **sente** falta é dos designs maravilhosos dos anos 90 que costumavam vir nas embalagens de fitas VHS virgens. 
 
-      But now, thanks to the talented Christopher Kirk-Nielsen you can enjoy all this retro radness while also celebrating your love for CSS at the same time!
+      Agora, graças ao talentoso Christopher Kirk-Nielsen você pode aproveitar esse visual retrô em toda sua beleza e, ao mesmo tempo, celebrar seu amor por CSS!
 
   - key: tshirt.about
-    t: About the T-shirt
+    t: Sobre a camiseta
 
   - key: tshirt.description
     t: |
-      We use a high-quality, super-soft tri-blend shirt with a slim fit printed by our partners at Cotton Bureau.
+      Usamos uma camiseta de modelagem slim, com tecido *tri-blend*, super macio e de alta qualidade e estampada por nossos parceiros da Cotton Bureau.
 
   - key: tshirt.getit
-    t: Get It
+    t: Peça agora
 
   - key: tshirt.price
-    t: USD $29 + shipping
+    t: US$ 29 + envio
 
   - key: tshirt.designer.heading
-    t: About the Designer
+    t: Sobre o Designer
 
   - key: tshirt.designer.name
     t: Christopher Kirk-Nielsen
 
   - key: tshirt.designer.bio
     t: |
-      Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+      Criado na França e agora vivendo nos Estados Unidos, Chris não é apenas um grande desenvolvedor front-end, mas também um talentoso ilustrador focado em visuais retrô. Na verdade, te encorajamos a dar uma olhada nos seus outros [designs de camisetas](https://chriskirknielsen.com/designs)!
 
   ###########################################################################
   # Sections Introductions
@@ -81,33 +81,31 @@ translations:
 
   - key: sections.user_info.description.css2023
     t: |
-      This year's survey reached **9,190** developers throughout the world.
+      A pesquisa desse ano chegou a **9.190** desenvolvedores ao redor do mundo.
 
   - key: sections.features.description.css2023
     t: |
-      CSS has been on a roll lately, and many of the new features introduced are
-      slowly but surely being adopted by the developer community.
+      O CSS tem passado por uma ótima fase ultimamente, com várias de suas novas funcionalidades sendo pouco a pouco cada vez mais adotadas pelos desenvolvedores.
 
   - key: sections.css_frameworks.description.css2023
     t: |
-      Once again, Tailwind CSS stands apart as the one major UI framework that developers are happy to keep using; while Open Props is generating a small but passionate following.
+      Tailwind CSS se destacou de novo como o grande *framework* UI que os desenvolvedores ficam felizes de seguir usando; enquanto isso, Open Props viu o surgimento de uma pequena legião de seguidores apaixonados.
 
   - key: sections.css_in_js.description.css2023
     t: |
-      After some initial growth, it seems like the CSS-in-JS sector has plateaued, and
-      the fact that native CSS itself is adopting many of its main advantages is probably a big contributing factor.
+      Depois de um crescimento inicial, parece que o setor de CSS-in-JS chegou a um platô, e, possivelmente, o fato de que o CSS nativo tem adotado muitas de suas vantagens é um grande contribuinte.
 
   - key: sections.other_tools.description.css2023
     t: |
-      30 years after the invention of the browser, we're still seeing innovation in that space with new entrants like Brave and Arc; or specialized tools like Polypane gaining marketshare.
+      30 anos depois da invenção do navegador ainda estamos presenciando inovações no setor, com novos concorrentes como Brave e Arc e ferramentas especializadas como Polypane ganhando espaço no mercado.
 
   - key: sections.usage.description.css2023
     t: |
-      No matter how you use CSS, the data shows that making sure your code works across all browsers is still a concern, especially for newer features such as `:has()`.
+      Não importa como você usa CSS, os dados mostram que garantir que o seu código funciona em todos os browsers ainda é uma preocupação, especialmente para novas funcionalidades como o `:has()`.
 
   - key: sections.resources.description.css2023
     t: |
-      Between blogs, YouTube channels, and podcasts, the CSS community is more vibrant than ever.
+      Com uma variedade de blogs, canais do YouTube e podcasts dedicados ao assunto, a comunidade de CSS nunca esteve tão vibrante.
 
   ###########################################################################
   # Charts
@@ -132,36 +130,27 @@ translations:
 
   - key: user_info.country_low_vs_high_income.description.css2023
     t: >
-      Splitting respondents between low-income and high-income brackets gives
-      us two very different lists of countries.
+      Dividir as respostas em faixas de baixa e alta renda nos dá listas de países bem diferentes.
 
   - key: user_info.higher_education_degree_by_gender.description.css2023
     t: >
-      Women representation was higher than expected among respondents 
-      with a higher-education diploma in areas unrelated to CSS, potentially 
-      indicating a lot of career changes.
+      A representatividade feminina foi mais alta do que o esperado entre as pessoas com ensino superior em áreas não relacionadas a CSS, possivelmente indicando muitas transições de carreira.
 
   - key: user_info.source_by_gender.description.css2023
     t: >
-      Although the low total counts make it hard to draw any conclusions,
-      the proportion of women was highest among respondents 
-      who came across the survey from their workplace or through word-of-mouth, 
-      especially compared to social networks such as Twitter or YouTube.
+      Por mais que a contagem total baixa torne difícil desenhar conclusões concretas, a proporção de mulheres foi mais alta entre pessoas que chegaram até a pesquisa através de recomendação direta ou de dentro do ambiente de trabalho, especialmente se compararmos à proporção que chegou através de redes sociais como Twitter ou YouTube.
 
   - key: user_info.source_by_race_ethnicity.description.css2023
     t: >
-      Again keeping in mind the low sample size, when considering race and ethnicity,
-      YouTube stands out as one of the most diverse source of traffic to the survey.
+      Novamente levando em consideração o tamanho amostral reduzido, quando olhamos para raça o YouTube se destaca como uma das fontes com mais diversidade de tráfego para a pesquisa.
 
   - key: user_info.average_income_by_company_size.description.css2023
     t: >
-      We find the highest-paid respondents working for large companies, although
-      it's notable that solo workers show a slight income advantage over small companies.
+      Encontramos os respondentes mais bem pagos trabalhando para grandes empresas, apesar de também podermos notar uma leve vantagem de trabalhadores autônomos em relação a funcionários de empresas pequenas.
 
   - key: user_info.yearly_salary_usa_vs_the_world.description.css2023
     t: >
-      When comparing U.S. incomes against the rest of the world, it becomes clear that U.S.
-      developers are over-represented in the higher income brackets.
+      Quando comparamos as rendas do EUA em relação ao resto do mundo fica claro que desenvolvedores dos Estados Unidos estão sobre-representados nas faixas de renda mais altas.
 
   ###########################################################################
   # Awards
