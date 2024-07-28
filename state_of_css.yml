@@ -646,12 +646,12 @@ translations:
 
   - key: environments.form_factors
     t: Ambientes de teste
-  - key: environments.form_factors.description
+  - key: environments.form_factors.question
     t: Em quais fatores de forma ou ambientes você testa?
 
   - key: environments.accessibility_features
     t: Recursos de acessibilidade
-  - key: environments.accessibility_features.description
+  - key: environments.accessibility_features.question
     t: Quais recursos de acessibilidade você costuma implementar?
   - key: environments.accessibility_features.others
     t: Outros recursos de acessibilidade
@@ -660,17 +660,17 @@ translations:
 
   - key: environments.css_for_print
     t: CSS para impressão
-  - key: environments.css_for_print.description
+  - key: environments.css_for_print.question
     t: Você escreve estilos de impressão?
 
   - key: environments.css_for_email
     t: CSS para clientes de e-mail
-  - key: environments.css_for_email.description
+  - key: environments.css_for_email.question
     t: Você escreve CSS para clientes de e-mail?
 
   - key: environments.what_do_you_use_css_for
     t: Para que você usa CSS principalmente?
-  - key: environments.what_do_you_use_css_for.description
+  - key: environments.what_do_you_use_css_for.question
     t: Para que tipo de projeto você costuma usar CSS?
   - key: environments.what_do_you_use_css_for.others
     t: Outros tipos de projetos
