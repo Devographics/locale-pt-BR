@@ -1073,14 +1073,14 @@ translations:
   - key: other_tools.backend_frameworks.others
     aliasFor: tools.backend_frameworks.others
 
-  - key: other_tools.ai_tools
+  - key: tools.ai_tools
     t: Ferramentas de Inteligência Artificial
-  - key: other_tools.ai_tools.question
+  - key: tools.ai_tools.question
     t: Quais destas ferramentas de IA você utiliza regularmente para ajudá-lo a escrever código?
 
-  - key: other_tools.hosting
+  - key: tools.hosting
     t: Serviços de hospedagem
-  - key: other_tools.hosting.question
+  - key: tools.hosting.question
     t: Quais desses serviços você já usou para hospedar aplicativos JavaScript?
 
   ###########################################################################
