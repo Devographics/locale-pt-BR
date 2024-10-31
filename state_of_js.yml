@@ -112,9 +112,9 @@ translations:
   - key: sections.monorepo_tools.description
     t: Ferramentas usadas para gerenciar monorepos JavaScript.
 
-  - key: sections.tools_others.title
+  - key: sections.tools.title
     t: Outras Ferramentas
-  - key: sections.tools_others.description
+  - key: sections.tools.description
     t: Outras ferramentas JavaScript
 
   - key: sections.other_tools.title
@@ -817,261 +817,261 @@ translations:
   # Other Tools
   ###########################################################################
 
-  - key: tools_others.libraries
+  - key: tools.libraries
     t: Bibliotecas
-  - key: tools_others.libraries.question
+  - key: tools.libraries.question
     t: Quais bibliotecas você utiliza regularmente?
-  - key: tools_others.libraries.others
+  - key: tools.libraries.others
     t: Outras Bibliotecas
-  - key: tools_others.libraries.others.description
+  - key: tools.libraries.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.text_editors
+  - key: tools.text_editors
     t: Editores de texto
-  - key: tools_others.text_editors.question
+  - key: tools.text_editors.question
     t: Qual(is) editor(es) de texto você utiliza regularmente?
-  - key: tools_others.text_editors.others
+  - key: tools.text_editors.others
     t: Outors editores de texto
-  - key: tools_others.text_editors.others.description
+  - key: tools.text_editors.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.utilities
+  - key: tools.utilities
     t: Utilitários
-  - key: tools_others.utilities.question
+  - key: tools.utilities.question
     t: Quais utilitários ou ferramentas você utiliza regularmente?
-  - key: tools_others.utilities.others
+  - key: tools.utilities.others
     t: Outros utilitários
-  - key: tools_others.utilities.others.description
+  - key: tools.utilities.others.description
     t: Outros utilitários (campo de forma livre).
 
-  - key: tools_others.browsers
+  - key: tools.browsers
     t: Navegadores
-  - key: tools_others.browsers.question
+  - key: tools.browsers.question
     t: Em qual(is) navegador(es) você trabalha durante o desenvolvimento inicial?
-  - key: tools_others.browsers.others
+  - key: tools.browsers.others
     t: Outros navegadores
-  - key: tools_others.browsers.others.description
+  - key: tools.browsers.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.build_tools
+  - key: tools.build_tools
     t: Ferramentas de build
-  - key: tools_others.build_tools.question
+  - key: tools.build_tools.question
     t: Quais ferramentas de build você utiliza?
-  - key: tools_others.build_tools.others
+  - key: tools.build_tools.others
     t: Outras ferramentas de build
-  - key: tools_others.build_tools.others.description
+  - key: tools.build_tools.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.non_js_languages
+  - key: tools.non_js_languages
     t: Linguagens que não são JavaScript
-  - key: tools_others.non_js_languages.question
+  - key: tools.non_js_languages.question
     t: Quais outras linguagens de programação você utiliza?
-  - key: tools_others.non_js_languages.others
+  - key: tools.non_js_languages.others
     t: Outras linguagens
-  - key: tools_others.non_js_languages.others.description
+  - key: tools.non_js_languages.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.javascript_flavors
+  - key: tools.javascript_flavors
     t: Variações de JavaScript
-  - key: tools_others.javascript_flavors.question
+  - key: tools.javascript_flavors.question
     t: Linguagens que compilam para JavaScript
-  - key: tools_others.javascript_flavors.others
+  - key: tools.javascript_flavors.others
     t: Outras variações de JavaScript
-  - key: tools_others.javascript_flavors.others.description
+  - key: tools.javascript_flavors.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.runtimes
+  - key: tools.runtimes
     t: Ambientes de execução JavaScript
-  - key: tools_others.runtimes.question
+  - key: tools.runtimes.question
     t: Quais motores/ambientes de execução você utiliza regularmente?
-  - key: tools_others.runtimes.others
+  - key: tools.runtimes.others
     t: Outros Ambientes de Execução
-  - key: tools_others.runtimes.others.description
+  - key: tools.runtimes.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.package_registries
+  - key: tools.package_registries
     t: Registros de Pacotes
-  - key: tools_others.package_registries.question
+  - key: tools.package_registries.question
     t: Em quais registros de pacotes você busca pacotes regularmente?
-  - key: tools_others.package_registries.others
+  - key: tools.package_registries.others
     t: Outros Registros de Pacotes
-  - key: tools_others.package_registries.others.description
+  - key: tools.package_registries.others.description
     t: Outras respostas (campo de forma livre).
 
-  - key: tools_others.form_factors
+  - key: tools.form_factors
     aliasFor: environments.form_factors
-  - key: tools_others.form_factors.description
+  - key: tools.form_factors.description
     aliasFor: environments.form_factors.question
 
-  - key: tools_others.backend_as_a_service
+  - key: tools.backend_as_a_service
     t: Provedores de Backend como Serviço (BaaS)
-  - key: tools_others.backend_as_a_service.question
+  - key: tools.backend_as_a_service.question
     t: Serviços que hospedam seus dados e oferecem uma API de cliente para acessá-los.
-  - key: tools_others.backend_as_a_service.others
+  - key: tools.backend_as_a_service.others
     t: Outros Provedores de BaaS
 
-  - key: tools_others.date_management
+  - key: tools.date_management
     t: Gerenciamento de datas
-  - key: tools_others.date_management.question
+  - key: tools.date_management.question
     t: Bibliotecas que ajudam com o gerenciamento de datas e fusos horários.
-  - key: tools_others.date_management.others
+  - key: tools.date_management.others
     t: Outras bibliotecas de gerenciamento de datas
 
-  - key: tools_others.data_visualization
+  - key: tools.data_visualization
     t: Visualização de dados
-  - key: tools_others.data_visualization.question
+  - key: tools.data_visualization.question
     t: Bibliotecas que ajudam com gráficos e outras visualizações de dados.
-  - key: tools_others.data_visualization.others
+  - key: tools.data_visualization.others
     t: Outras bibliotecas de visualização de dados
 
-  - key: tools_others.graphics_animation
+  - key: tools.graphics_animation
     t: Gráficos e animações
-  - key: tools_others.graphics_animation.question
+  - key: tools.graphics_animation.question
     t: Bibliotecas dedicadas a gráficos e animação.
-  - key: tools_others.graphics_animation.others
+  - key: tools.graphics_animation.others
     t: Outras bibliotecas de gráficos e animações
 
-  - key: tools_others.data_fetching
+  - key: tools.data_fetching
     t: Busca de dados
-  - key: tools_others.data_fetching.question
+  - key: tools.data_fetching.question
     t: Bibliotecas que gerenciam a busca e armazenamento de dados em cache.
-  - key: tools_others.data_fetching.others
+  - key: tools.data_fetching.others
     t: Outras bibliotecas de busca de dados
 
   - key: other_tools.libraries
-    aliasFor: tools_others.libraries
+    aliasFor: tools.libraries
   - key: other_tools.libraries.description
-    aliasFor: tools_others.libraries.question
+    aliasFor: tools.libraries.question
   - key: other_tools.libraries.others
-    aliasFor: tools_others.libraries.others
+    aliasFor: tools.libraries.others
   - key: other_tools.libraries.others.description
-    aliasFor: tools_others.libraries.others.description
+    aliasFor: tools.libraries.others.description
 
   - key: other_tools.text_editors
-    aliasFor: tools_others.text_editors
+    aliasFor: tools.text_editors
   - key: other_tools.text_editors.description
-    aliasFor: tools_others.text_editors.question
+    aliasFor: tools.text_editors.question
   - key: other_tools.text_editors.others
-    aliasFor: tools_others.text_editors.others
+    aliasFor: tools.text_editors.others
   - key: other_tools.text_editors.others.description
-    aliasFor: tools_others.text_editors.others.description
+    aliasFor: tools.text_editors.others.description
 
   - key: other_tools.utilities
-    aliasFor: tools_others.utilities
+    aliasFor: tools.utilities
   - key: other_tools.utilities.description
-    aliasFor: tools_others.utilities.question
+    aliasFor: tools.utilities.question
   - key: other_tools.utilities.others
-    aliasFor: tools_others.utilities.others
+    aliasFor: tools.utilities.others
   - key: other_tools.utilities.others.description
-    aliasFor: tools_others.utilities.others.description
+    aliasFor: tools.utilities.others.description
 
   - key: other_tools.browsers
-    aliasFor: tools_others.browsers
+    aliasFor: tools.browsers
   - key: other_tools.browsers.description
-    aliasFor: tools_others.browsers.question
+    aliasFor: tools.browsers.question
   - key: other_tools.browsers.others
-    aliasFor: tools_others.browsers.others
+    aliasFor: tools.browsers.others
   - key: other_tools.browsers.others.description
-    aliasFor: tools_others.browsers.others.description
+    aliasFor: tools.browsers.others.description
 
   - key: other_tools.build_tools
-    aliasFor: tools_others.build_tools
+    aliasFor: tools.build_tools
   - key: other_tools.build_tools.description
-    aliasFor: tools_others.build_tools.question
+    aliasFor: tools.build_tools.question
   - key: other_tools.build_tools.others
-    aliasFor: tools_others.build_tools.others
+    aliasFor: tools.build_tools.others
   - key: other_tools.build_tools.others.description
-    aliasFor: tools_others.build_tools.others.description
+    aliasFor: tools.build_tools.others.description
 
   - key: other_tools.non_js_languages
-    aliasFor: tools_others.non_js_languages
+    aliasFor: tools.non_js_languages
   - key: other_tools.non_js_languages.description
-    aliasFor: tools_others.non_js_languages.question
+    aliasFor: tools.non_js_languages.question
   - key: other_tools.non_js_languages.others
-    aliasFor: tools_others.non_js_languages.others
+    aliasFor: tools.non_js_languages.others
   - key: other_tools.non_js_languages.others.description
-    aliasFor: tools_others.non_js_languages.others.description
+    aliasFor: tools.non_js_languages.others.description
 
   - key: other_tools.javascript_flavors
-    aliasFor: tools_others.javascript_flavors
+    aliasFor: tools.javascript_flavors
   - key: other_tools.javascript_flavors.description
-    aliasFor: tools_others.javascript_flavors.question
+    aliasFor: tools.javascript_flavors.question
   - key: other_tools.javascript_flavors.others
-    aliasFor: tools_others.javascript_flavors.others
+    aliasFor: tools.javascript_flavors.others
   - key: other_tools.javascript_flavors.others.description
-    aliasFor: tools_others.javascript_flavors.others.description
+    aliasFor: tools.javascript_flavors.others.description
 
-  - key: tools_others.backend_frameworks
+  - key: tools.backend_frameworks
     aliasFor: sections.back_end_frameworks.title
-  - key: tools_others.backend_frameworks.description
+  - key: tools.backend_frameworks.description
     t: Frameworks para geração de APIs e gerenciamento de back-ends
-  - key: tools_others.backend_frameworks.others
+  - key: tools.backend_frameworks.others
     t: Outros frameworks back-end
 
   - key: other_tools.runtimes
-    aliasFor: tools_others.runtimes
+    aliasFor: tools.runtimes
   - key: other_tools.runtimes.description
-    aliasFor: tools_others.runtimes.question
+    aliasFor: tools.runtimes.question
   - key: other_tools.runtimes.others
-    aliasFor: tools_others.runtimes.others
+    aliasFor: tools.runtimes.others
   - key: other_tools.runtimes.others.description
-    aliasFor: tools_others.runtimes.others.description
+    aliasFor: tools.runtimes.others.description
 
   - key: other_tools.package_registries
-    aliasFor: tools_others.package_registries
+    aliasFor: tools.package_registries
   - key: other_tools.package_registries.description
-    aliasFor: tools_others.package_registries.question
+    aliasFor: tools.package_registries.question
   - key: other_tools.package_registries.others
-    aliasFor: tools_others.package_registries.others
+    aliasFor: tools.package_registries.others
   - key: other_tools.package_registries.others.description
-    aliasFor: tools_others.package_registries.others.description
+    aliasFor: tools.package_registries.others.description
 
   - key: other_tools.form_factors
-    aliasFor: tools_others.form_factors
+    aliasFor: tools.form_factors
   - key: other_tools.form_factors.description
-    aliasFor: tools_others.form_factors.description
+    aliasFor: tools.form_factors.description
 
   - key: other_tools.backend_as_a_service
-    aliasFor: tools_others.backend_as_a_service
+    aliasFor: tools.backend_as_a_service
   - key: other_tools.backend_as_a_service.description
-    aliasFor: tools_others.backend_as_a_service.question
+    aliasFor: tools.backend_as_a_service.question
   - key: other_tools.backend_as_a_service.others
-    aliasFor: tools_others.backend_as_a_service.others
+    aliasFor: tools.backend_as_a_service.others
 
   - key: other_tools.date_management
-    aliasFor: tools_others.date_management
+    aliasFor: tools.date_management
   - key: other_tools.date_management.description
-    aliasFor: tools_others.date_management.question
+    aliasFor: tools.date_management.question
   - key: other_tools.date_management.others
-    aliasFor: tools_others.date_management.others
+    aliasFor: tools.date_management.others
 
   - key: other_tools.data_visualization
-    aliasFor: tools_others.data_visualization
+    aliasFor: tools.data_visualization
   - key: other_tools.data_visualization.description
-    aliasFor: tools_others.data_visualization.question
+    aliasFor: tools.data_visualization.question
   - key: other_tools.data_visualization.others
-    aliasFor: tools_others.data_visualization.others
+    aliasFor: tools.data_visualization.others
 
   - key: other_tools.graphics_animation
-    aliasFor: tools_others.graphics_animation
+    aliasFor: tools.graphics_animation
   - key: other_tools.graphics_animation.description
-    aliasFor: tools_others.graphics_animation.question
+    aliasFor: tools.graphics_animation.question
   - key: other_tools.graphics_animation.others
-    aliasFor: tools_others.graphics_animation.others
+    aliasFor: tools.graphics_animation.others
 
   - key: other_tools.data_fetching
-    aliasFor: tools_others.data_fetching
+    aliasFor: tools.data_fetching
   - key: other_tools.data_fetching.description
-    aliasFor: tools_others.data_fetching.question
+    aliasFor: tools.data_fetching.question
   - key: other_tools.data_fetching.others
-    aliasFor: tools_others.data_fetching.others
+    aliasFor: tools.data_fetching.others
 
   - key: other_tools.backend_frameworks
-    aliasFor: tools_others.backend_frameworks
+    aliasFor: tools.backend_frameworks
   - key: other_tools.backend_frameworks.description
-    aliasFor: tools_others.backend_frameworks.description
+    aliasFor: tools.backend_frameworks.description
   - key: other_tools.backend_frameworks.others
-    aliasFor: tools_others.backend_frameworks.others
+    aliasFor: tools.backend_frameworks.others
 
   - key: other_tools.ai_tools
     t: Ferramentas de Inteligência Artificial
@@ -1106,16 +1106,16 @@ translations:
   - key: usage.js_ts_balance.question
     t: Como você divide seu tempo entre escrever código JavaScript e TypeScript?
 
-  - key: tools_others.edge_runtimes
+  - key: tools.edge_runtimes
     t: Ambientes de Execução JavaScript Edge/Serverless
-  - key: tools_others.edge_runtimes.question
+  - key: tools.edge_runtimes.question
     t: Quais ambientes de execução edge ou serverless você utiliza regularmente?
-  - key: tools_others.edge_runtimes.others
+  - key: tools.edge_runtimes.others
     t: Outros Ambientes de Execução Edge
   - key: other_tools.edge_runtimes
-    aliasFor: tools_others.edge_runtimes
+    aliasFor: tools.edge_runtimes
   - key: other_tools.edge_runtimes.description
-    aliasFor: tools_others.edge_runtimes.question
+    aliasFor: tools.edge_runtimes.question
 
   - key: usage.usage_type
     t: Uso do JavaScript
