@@ -1040,7 +1040,7 @@ translations:
   - key: share.site.title
     t: Descubra os resultados de {siteTitle}
   - key: share.site.twitter_text
-    t: "Descubra os resultados de {siteTitle} {link} {hashtag}"
+    t: "Descubra os resultados de {siteTitle} {link}"
   - key: share.site.subject
     t: "Resultados da pesquisa {siteTitle}"
   - key: share.site.body
